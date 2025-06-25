@@ -24,12 +24,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Comic Relief",
-        code: "Comic Relief",
-        body: {
-        	name: "Pinyon Script",
-        	weights: [400, 700],
-        	includeItalic: true,
-        	},
+        body: "Comic Relief",
+        code: "Comic Relief"
       },
       colors: {
         lightMode: {
