@@ -1,3 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: GS Notes
 ---
+[[DAILY PRELIMS CA AGGREGATED]]
