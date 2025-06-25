@@ -23,9 +23,13 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Comic Relief",
         body: "Comic Relief",
         code: "Comic Relief",
+        header: {
+        	name: "Schibsted Grotesk",
+        	weights: [400, 700],
+        	includeItalic: true,
+        	},
       },
       colors: {
         lightMode: {
