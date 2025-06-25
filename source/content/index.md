@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: GS Notes
 ---
 
-Hello world!
-
-Write some words here!
+[[DAILY PRELIMS CA AGGREGATED]]
