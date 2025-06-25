@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "iA Writer Mono",
-        body: "iA Writer Mono",
-        code: "iA Writer Mono",
+        header: " ",
+        body: " ",
+        code: " ",
       },
       colors: {
         lightMode: {
