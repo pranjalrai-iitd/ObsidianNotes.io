@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Comic Relief",
-        body: "JetBrains Mono",
-        code: "Comic Relief"
+        header: "Cutive",
+        body: "Cutive",
+        code: "Cutive"
       },
       colors: {
         lightMode: {
