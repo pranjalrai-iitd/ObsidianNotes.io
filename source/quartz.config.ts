@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        body: "Comic Relief",
+        header: "Comic Relief",
         code: "Comic Relief",
-        header: {
+        body: {
         	name: "Pinyon Script",
         	weights: [400, 700],
         	includeItalic: true,
