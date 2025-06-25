@@ -26,7 +26,7 @@ const config: QuartzConfig = {
         body: "Comic Relief",
         code: "Comic Relief",
         header: {
-        	name: "Schibsted Grotesk",
+        	name: "Pinyon Script",
         	weights: [400, 700],
         	includeItalic: true,
         	},
