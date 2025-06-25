@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Cutive",
-        body: "Cutive",
-        code: "Cutive"
+        header: "Inconsolata",
+        body: "Inconsolata",
+        code: "Inconsolata"
       },
       colors: {
         lightMode: {
