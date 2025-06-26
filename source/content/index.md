@@ -8,6 +8,6 @@ title: GS Notes
 
 [DAILY PRELIMS CURRENT AFFAIRS](https://pranjalrai-iitd.github.io/ObsidianNotes.io/DAILY-PRELIMS-CURRENT-AFFAIRS/)
 
-[ESSAYS](https://defectumveritas.blogspot.com/)
+[ESSAYS](https://pranjalrai-iitd.github.io/essays.io/)
 
 FOR REST USE THE EXPLORER!
