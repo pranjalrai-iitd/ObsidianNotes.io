@@ -6,7 +6,7 @@ title: GS Notes
 
 [CURRENT AFFAIRS - EDITORIALS](https://pranjalrai-iitd.github.io/ObsidianNotes.io/CURRENT-AFFAIRS---EDITORIALS/)
 
-[DAILY PRELIMS CURRENT AFFAIRS](https://pranjalrai-iitd.github.io/ObsidianNotes.io/DAILY-PRELIMS-CURRENT-AFFAIRS/)
+[DAILY PRELIMS CURRENT AFFAIRS](https://pranjalrai-iitd.github.io/ObsidianNotes.io/DAILY-PRELIMS-CURRENT-AFFAIRS/) CHECK
 
 [ESSAYS](https://pranjalrai-iitd.github.io/essays.io/)
 
