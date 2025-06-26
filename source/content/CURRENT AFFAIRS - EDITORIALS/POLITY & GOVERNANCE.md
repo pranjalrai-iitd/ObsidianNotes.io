@@ -54,7 +54,7 @@
 - ***"Justice must be done and seen to be done"*** - transparency but also accountability.
 - **Harry T Edwards** from Columbia - peer review enhanced, not diminishes, judicial independence.
 ---
-### Guidelines for direct release of Central Sector Scheme (CSS) Funds
+### GUIDELINE FOR DIRECT RELEASE OF CENTRAL SECTOR (CSS) FUNDS
 #GS3 #Economy #Scheme #Funding #Finances #Ethics
 - Issued by **Finance Ministry**
 - **Guidelines:**
