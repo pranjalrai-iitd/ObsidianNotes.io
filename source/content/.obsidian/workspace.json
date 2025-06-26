@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "2b4637c0d71cb804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GS1/SYLLABUS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SYLLABUS"
+            }
+          },
+          {
+            "id": "8f22b87c224f5c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GS2/SYLLABUS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SYLLABUS"
+            }
+          },
+          {
+            "id": "616e60e12a979b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,8 +211,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "804fb9e9ef2c58b9",
+  "active": "616e60e12a979b8d",
   "lastOpenFiles": [
+    "GS3/SYLLABUS.md",
+    "GS2/SYLLABUS.md",
+    "GS1/SYLLABUS.md",
+    "index.md",
+    "SYLLABUS",
+    "GS3",
+    "GS2",
+    "GS1",
     "GS4/SYLLABUS.md",
     "CURRENT AFFAIRS/DAILY PRELIMS CA AGGREGATED.md",
     "CURRENT AFFAIRS",
@@ -189,22 +240,14 @@
     "CURRENT AFFAIRS/LEVELUP/GS3/ENERGY TRANSITION.md",
     "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/POLICIES & SCHEMES.md",
     "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/MINERALS.md",
-    "index.md",
     "GS Notes.md",
     "CURRENT AFFAIRS - EDITORIALS.md",
     "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/INTERNAL SECURITY.md",
     "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/PLACES IN NEWS & MAPPING.md",
     "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/GOVERNANCE.md",
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/INTERNATIONAL RELATIONS.md",
-    "CURRENT AFFAIRS/LEVELUP/PRELIMS/ENVIRONMENT - BIODIVERSITY.md",
-    "CURRENT AFFAIRS/LEVELUP/PRELIMS/IR & MAPPING.md",
     "LEVELUP/GS3/Untitled",
     "CURRENT AFFAIRS/LEVELUP/GS3",
     "CURRENT AFFAIRS/LEVELUP/GS2",
-    "CURRENT AFFAIRS/LEVELUP/PRELIMS",
-    "CURRENT AFFAIRS/LEVELUP",
-    "LevelUp/Maind",
-    "LevelUp",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS"
+    "CURRENT AFFAIRS/LEVELUP/PRELIMS"
   ]
 }
