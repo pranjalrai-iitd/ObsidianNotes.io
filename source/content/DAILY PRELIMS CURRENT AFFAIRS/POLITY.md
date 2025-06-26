@@ -76,4 +76,7 @@
 	- Expenditure review of the policies
 	- Suggest the form in which the estimates shall be presented to Parliament
 - **Recommendation submission:** submitted to Lok Sabha and the concerned ministry must **take action within 6 months** or when required by the committee.
+- <b><u>General conclusion on Parliamentary committees:</u></b> #Quote #MainsValueAddition 
+	- ***“Parliamentary committees are devices to overcome the limitations of organisational and technical complexity of large legislatures. Independent India inherited the modern committee system from the British parliamentary system and innovated new techniques to effectively manage the voluminous tasks in the large Parliament.”***
 ---
+

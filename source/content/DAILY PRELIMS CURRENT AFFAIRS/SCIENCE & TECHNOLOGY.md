@@ -148,3 +148,9 @@
 - **Black Mass Recovery Technology** is a **process** that ***extracts materials like Lithium, Cobalt, and Nickel from used Lithium-ion batteries***
 	- It ensures **high separation efficiency** and **recovery rates** up to ***97-99%***
 ---
+### Weight Loss Drugs
+#GS3 #SciTech #Health 
+- ***Semaglutide*** marketed under the brand name **Wegovy**
+	- It works as an *apetite suppressant* by imitating a **hormone** called ***gluvagon-like peptide-1 (GLP-1)***, which is an intestinal hormone released after eating and make people feel fuller
+- ***Tirzepatide*** marketed under **Mounjaro**
+---

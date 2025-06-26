@@ -6,10 +6,11 @@
 - FADA data for FY25:
 	- **EVs** -> **7.8% of total vehicle sales in India**
 		- 3 wheelers - 57%
-		- 2 wheelers - 6,1%
+		- 2 wheelers - 6.1%
 		- Passenger vehicles - 2.6%
 		- Commercial vehicles - 0.9%
 - **IEA** identified India as the **largest global market for electric three-wheelers** in 2024 
+- As per **Rhodium group**, India will be **4th largest electric car market by 2030** and it must cut cost to compete with China
 <b><u>PROVISIONS</u></b>:
 - Sharp **reduction** in **customs duty** on **completely built units (CBU)** of electric cars, from the current 70-100% to **15%**.
 	- Duty cut applies to vehicles above $35,000 ~ Rs.30 lakhs

@@ -294,3 +294,21 @@
 	- **Glacial Loss:** drive by *extreme heat* and *reduced snowfall*, particularly in ***Central Himalayas**** and ***Tian Shan (Central Asia & NW China)***
 	- **Record sea temperature:** Highest sea-surface temperatures recorded in Asia, with **decadal warming rate** being **double** of the global average.
 ---
+### Article 9.1 of Paris Agreement
+#GS3 #Environment #ClimateChange 
+- Developing countries led by **India** forced reopening of discussions on developed nation's obligation to provide **climate finance** under the **Article 9.1 of Paris Agreement**
+- **Article 9.1:**
+	- state that **developed countries** ***shall*** provide financial resources to assist **developing countries** with respect to both **climate mitigation** and **adaptation** in continuation
+	- During **UNFCCC COP29** at **Baku** - developed nations had agreed to mobilise a sum of **at least USD 300 Billion per year from 2035**
+		- This target includes **loans** and is **not entirely in the form of grants**
+		- Well short of the **USD 1.3 Trillion a year** that is the assessed minimum requirement of the developing countries.
+---
+### Enhanced Rock Weathering (ERW)
+#GS3 #Environment #ClimateChange #SciTech 
+- **Enhanced Rock Weathering (ERW)** is technique in which **crushed rock in now being spread over farmland** to flight climate change by **removing carbon** from the air
+- It is speed up by a **natural process** where ***rocks absorb carbon***
+	- **Crushing & grinding rocks** into fine dust increased their surface area, helping them react faster with CO2 in the air or water
+- **Common rocks used:**
+	- **Olivine** - weathers quickly spreading its dust on beaches and oceans - may also reduce ocean acidification
+	- **Basalt** - captures CO2 and also **enriches soil** and **boost crop yields** when applied to farmland 
+---

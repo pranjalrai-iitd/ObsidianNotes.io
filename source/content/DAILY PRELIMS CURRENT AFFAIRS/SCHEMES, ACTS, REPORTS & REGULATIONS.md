@@ -217,3 +217,84 @@
 	- **India lags significantly** behind the top three - ***USA, China, and Europe*** - across most technology sectors
 	- **India trails** in **critical tech**, particularly ***semiconductor technology***
 ---
+### Global Peace Index
+#GS2 #IR #Report #Data 
+- **10th edition** of the **Global Peace Index** is released by the **Institute for Economics and Peace (IEP)** covering 163 countries and 99.7% of world's population - there are ***59 active state-based conflicts,*** most since the WWI
+- The report is published **annually** since *2007* and provides data-driven analysis of:
+	- Trends in peace
+	- Economic value of peace
+	- Ways to develop peaceful societies
+- The index is based on **23 qualitative and quantitative indicators** across **3 domains:**
+	1. ***Level of Societal Safety***
+	2. ***The extent of ongoing domestic and international conflict***
+	3. ***Degree of militarisation***
+- **Findings:**
+	- **Deterioration of global peacefulness** by *0.36%* - ***94/163 countries recorded deterioration, while 66 recorded improvements***
+	- **Internationalization of conflicts** is becoming more common, leading to difficulty in reaching solutions. The reasons are:
+		- **Geopolitical fragmentation**
+		- Increasing **power competition**
+		- Rise of **influential middle-level powers**
+	- **Shift towards *"Forever Wars"* and failure of traditional resolution strategies** #Data #MainsValueAddition - ***only 9% of conflicts today result in a decisive military victory*** and just ***4% end with negotiated settlements***
+		- The report suggests the following to **de-escalate** the conflicts:
+			- Need for sustained investments in **positive peace** which is **correlated** with *higher GDP growth, lower interest rates, societal well-being* and *more resilience to shocks*
+	- **17/23 indicators** recorded **deterioration**
+	- **Nuclear-armed states expanding their arsenal since 2022** - especially in Asia (as per SIPRI)
+	- **Arms race in advanced technologies** - *AI-enabled drones and counter-space systems*
+	- The global **economic impact of violence** reached ***USD 20 Trillion*** #Data in 2024, equivalent to ***11.6% of global GDP*** with military expenditure alone accounting for USD 2.7 Trillion.
+- **World's most peaceful countries:**
+	1. Iceland
+	2. Ireland
+	3. New Zealand
+	4. Austria
+- **India:** ranked ***115th/163*** with a *GPI score of 2.229* (higher score means lower peace) - **0.58% improvement** from 116th in 2024
+- **South Asia** recorded largest **deterioration** of all the regions, with significant falls in peacefulness in **Bangladesh** and **Pakistan**
+---
+### Global Terrorism Index
+#GS3 #InternalSecurity #Terrorism #Report #Data 
+- Established in 2007, and released by **IEP (Institute for Economics Peace)**
+- It is part of the **3 indices/reports released by IEP**:
+	- **Global Peace Index**
+	- **Global Terrorism Index**
+	- **Ecological Threat Report**
+- **GTI 2025:**
+	- The number of countries experiencing at least one terrorist incident **increased** from 58 to **66** - the most countries affected since 2018/
+	- **India:** ranked **14th** in terms of most terror incidents
+	- **Pakistan:** ranked **2nd** in terms of most terror incidents - after **Burkina Faso** which is the most terror affected country
+---
+### eMARG and PMGSY
+#GS3 #Economy #Infrastructure #Scheme 
+- **About PMGSY:**
+	- Started as a **totally Centrally Sponsored Scheme**, but later in *2015-16* the funding pattern was modified to **Centrally Sector Scheme - 60:40 between centre and  states (expect for NE and Himalayan states)**
+	- **PMGSY Phase I:**
+		- Launched in Dec 25, 2000 to improve **rural infrastructure** through **road construction**
+	- **PMGSY Phase II:**
+		- Launched in 2013, with another component, called the **Road Connectivity Project for Left Wing Extremism Affected Areas (RCPLWEA)** launched in 2016
+	- **PMGSY Phase III:**
+		- Started in 2019
+	- **PMGSY Phase IV:**
+		- Started in Sep 2024, to provide **all-weather road connectivity** to **25,000 unconnected habitations of population size 500+ in pains, 250+ in NE and hill states/UTs, special category areas and 100+ in LWE areas**
+- Technical support for implementation by **National Rural Infrastructure Development Agency (NRIDA)**, which comes under the **MoRD (Rural Development)**
+- **NRIDA** has written to all states about **QR codes** -  to get **public feedback about the quality and maintenance of roads**
+- **eMARG: electronic Maintenance of Rural Roads**
+	- e-governance solution for managing and monitoring rural road maintenance
+	- It is a **mobile-cum-web-based** dashboard/portal
+	- A **QR code** can be generated for each road, to be displayed on the maintenance information display board on the road.
+	- The submitted feedback photographs will be analysed using AI to advise on Performance Evaluation(PE) marks.
+---
+### Global Liveability Index 2025
+#GS2 #Governance #Urbanisation #Report 
+- Released by the **Economist Intelligence Unit (EIU)** based on **30 indicators** for **173 cities** across several factors like:
+	- Stability
+	- Healthcare
+	- Culture
+	- Environment
+	- Education
+	- Infrastructure
+- **Most liveable cities:** 
+	1. Copenhagen, Denmark
+	2. Vienna, Austria
+- **Least liveable city:**
+	1. Damascus, Syria
+	2. Tripoli, Libya and Dhaka, Bangladesh (both bottom Rank 2)
+	3. Karachi, Pakistan (Rank 3 from bottom)
+---

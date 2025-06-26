@@ -6,3 +6,13 @@
 	- Facilitate **investigations** and **administrative work** of Assessors appointed by the Central government under **Air (Investigation of Accidents and Incidents) Rules, 2017***
 	- All accidents and serious incidents involving All-up Weight (AUW) aircraft more than 2250 Kg or Turbojet aircraft.
 ---
+### International Potato Centre (CIP) - Regional Centre in South Asia
+#GS3 #Agriculture #InternationalOrganizations 
+- Founded in **1971** and focuses on :
+	- **Potato**
+	- **Sweetpotato**
+	- **Andean roots and tubers crops(ARTC)**
+		- Andean roots are grown in the Andes mountains of South America
+- **HQ:** at **Lima, Peru**
+- Cabinet approved establishment of **South Asia Regional Centre** of the **CIP** at **AGRA**
+---

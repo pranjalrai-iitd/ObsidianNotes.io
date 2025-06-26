@@ -89,3 +89,25 @@
 	- Explosions
 	- Air pollution
 ---
+### Cloudbursts
+#GS3 #DisasterManagement 
+- Cloudbursts triggers **flash floods** in the **Kullu district** of **Himachal Pradesh**
+- **CLOUDBURSTS:**
+	- It refers to heavy precipitation in a short period of time over a limited geographic area
+	- **IMD** defines **cloudburst** as a **precipitation exceeding 100 mm per hour** over a geographic region of approximately **20 to 30 square Km**
+- **CAUSES OF CLOUDBURSTS:**
+	- **Orographic lift** - where moist is forced to rise over a physical barrier like a mountain
+	- Occasionally when a **warm air parcel mixed with cooler air** resulting in **sudden condensation**
+- **Cloudburst Disaster Risk Reduction(DRR)** under the **National Disaster Management Plan, 2019:**
+	- **Understanding risk:** compile and maintain data on cloudburst events, Landslide hazard zonation, etc.
+	- **Invest in DRR:** repair and maintain natural drainage systems, rivulets, etc., to ensure unhindered flow of storm water, etc.
+	- **Capacity building:** enhance capabilities of local bodies to prepare and cope with cloudburst events, promote use of insurance, risk transfer, etc.
+- **Best practice:** ***Cloudburst Management Plan*** of ***Copenhagen***
+	- Focus on **nature-based solutions** - ***Blue-Green masterplan***
+	- **Targeted (peri-)urban areas:
+		- Parks and (semi)natural urban green areas
+		- Blue areas
+		- Green areas for water management
+		- Urban green space connected to grey infrastructure
+	- Collaboration of all stakeholders - **private and public**
+---

@@ -58,7 +58,8 @@
 	- **30% capital-gains tax** on VDA
 	- **1% TDS** on transfer of VDAs to residents
 
----### India's Wind Energy Capacity: 
+---
+### India's Wind Energy Capacity: 
 #GS3 #Energy #Wind
 - **NEWS:** ***Global Wind Day*** on ***15th June***
 	- India's total renewable energy capacity grew **17.13%** y-o-y to **226.74GW (48% of total)** out of the total **472GW**
@@ -199,4 +200,10 @@
 	- **Multi factor authentication:** to be implemented by all banks for all payments through electronic modes
 	- **Zero liability for customers:** for losses due to **negligence by bank** or a **third-party breach**
 	- ***bank.in*** and ***fin.in***: to help customers to **easily distinguish legitimate banking websites** from fraudulent ones.
+---
+### Business Responsibility & Sustainability Reporting
+#GS3 #Economy #GS4 #Ethics #CorporateGovernance
+- Introduced by **SEBI** in **2012** as **Business Responsibility Reporting (BRR)**
+- It is **mandatory** for **top 1,000 listed entities** in India
+- It's aim is to encourage listed companies to **adopt sustainable business practices** and **disclose information** related to **ESG (Environmental-Social-Governance) performance**.
 ---

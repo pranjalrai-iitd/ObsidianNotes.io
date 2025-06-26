@@ -275,6 +275,7 @@ A(Social security)-->D(Labor market  programs);
 		1. **Comprehensive safeguards agreements** with **non-nuclear-weapon state parties** to the Nuclear Non-Proliferation Treaty **(NPT)**.
 		2. **Voluntary offer safeguards** with **nuclear-weapon state parties** to the **NPT**.
 		3. **Item-specific safeguards agreements** with **non-NPT states**.
+			- In 2014, **India** ratified the **Additional Protocol**, which granted the IAEA greater access to India's civil nuclear programme. The same **item-specific safeguard agreement** has been signed by **Pakistan and Israel** along with **India**
 ---
 ### Hybrid UAV, "RUDRASTRA":
 #GS3 #InternalSecurity #Drones
@@ -1838,6 +1839,8 @@ A(Social security)-->D(Labor market  programs);
 	- Expenditure review of the policies
 	- Suggest the form in which the estimates shall be presented to Parliament
 - **Recommendation submission:** submitted to Lok Sabha and the concerned ministry must **take action within 6 months** or when required by the committee.
+- <b><u>General conclusion on Parliamentary committees:</u></b> #Quote #MainsValueAddition 
+	- ***“Parliamentary committees are devices to overcome the limitations of organisational and technical complexity of large legislatures. Independent India inherited the modern committee system from the British parliamentary system and innovated new techniques to effectively manage the voluminous tasks in the large Parliament.”***
 ---
 ### NAVYA Initiative
 #GS3 #Economy #Skilling #Scheme 
@@ -1915,4 +1918,183 @@ A(Social security)-->D(Labor market  programs);
 	- This can be **recovered, refined, and reused** to power the next generation of clean energy.
 - **Black Mass Recovery Technology** is a **process** that ***extracts materials like Lithium, Cobalt, and Nickel from used Lithium-ion batteries***
 	- It ensures **high separation efficiency** and **recovery rates** up to ***97-99%***
+---
+### Global Peace Index
+#GS2 #IR #Report #Data 
+- **10th edition** of the **Global Peace Index** is released by the **Institute for Economics and Peace (IEP)** covering 163 countries and 99.7% of world's population - there are ***59 active state-based conflicts,*** most since the WWI
+- The report is published **annually** since *2007* and provides data-driven analysis of:
+	- Trends in peace
+	- Economic value of peace
+	- Ways to develop peaceful societies
+- The index is based on **23 qualitative and quantitative indicators** across **3 domains:**
+	1. ***Level of Societal Safety***
+	2. ***The extent of ongoing domestic and international conflict***
+	3. ***Degree of militarisation***
+- **Findings:**
+	- **Deterioration of global peacefulness** by *0.36%* - ***94/163 countries recorded deterioration, while 66 recorded improvements***
+	- **Internationalization of conflicts** is becoming more common, leading to difficulty in reaching solutions. The reasons are:
+		- **Geopolitical fragmentation**
+		- Increasing **power competition**
+		- Rise of **influential middle-level powers**
+	- **Shift towards *"Forever Wars"* and failure of traditional resolution strategies** #Data #MainsValueAddition - ***only 9% of conflicts today result in a decisive military victory*** and just ***4% end with negotiated settlements***
+		- The report suggests the following to **de-escalate** the conflicts:
+			- Need for sustained investments in **positive peace** which is **correlated** with *higher GDP growth, lower interest rates, societal well-being* and *more resilience to shocks*
+	- **17/23 indicators** recorded **deterioration**
+	- **Nuclear-armed states expanding their arsenal since 2022** - especially in Asia (as per SIPRI)
+	- **Arms race in advanced technologies** - *AI-enabled drones and counter-space systems*
+	- The global **economic impact of violence** reached ***USD 20 Trillion*** #Data in 2024, equivalent to ***11.6% of global GDP*** with military expenditure alone accounting for USD 2.7 Trillion.
+- **World's most peaceful countries:**
+	1. Iceland
+	2. Ireland
+	3. New Zealand
+	4. Austria
+- **India:** ranked ***115th/163*** with a *GPI score of 2.229* (higher score means lower peace) - **0.58% improvement** from 116th in 2024
+- **South Asia** recorded largest **deterioration** of all the regions, with significant falls in peacefulness in **Bangladesh** and **Pakistan**
+---
+### Global Terrorism Index
+#GS3 #InternalSecurity #Terrorism #Report #Data 
+- Established in 2007, and released by **IEP (Institute for Economics Peace)**
+- It is part of the **3 indices/reports released by IEP**:
+	- **Global Peace Index**
+	- **Global Terrorism Index**
+	- **Ecological Threat Report**
+- **GTI 2025:**
+	- The number of countries experiencing at least one terrorist incident **increased** from 58 to **66** - the most countries affected since 2018/
+	- **India:** ranked **14th** in terms of most terror incidents
+	- **Pakistan:** ranked **2nd** in terms of most terror incidents - after **Burkina Faso** which is the most terror affected country
+---
+### eMARG and PMGSY
+#GS3 #Economy #Infrastructure #Scheme 
+- **About PMGSY:**
+	- Started as a **totally Centrally Sponsored Scheme**, but later in *2015-16* the funding pattern was modified to **Centrally Sector Scheme - 60:40 between centre and  states (expect for NE and Himalayan states)**
+	- **PMGSY Phase I:**
+		- Launched in Dec 25, 2000 to improve **rural infrastructure** through **road construction**
+	- **PMGSY Phase II:**
+		- Launched in 2013, with another component, called the **Road Connectivity Project for Left Wing Extremism Affected Areas (RCPLWEA)** launched in 2016
+	- **PMGSY Phase III:**
+		- Started in 2019
+	- **PMGSY Phase IV:**
+		- Started in Sep 2024, to provide **all-weather road connectivity** to **25,000 unconnected habitations of population size 500+ in pains, 250+ in NE and hill states/UTs, special category areas and 100+ in LWE areas**
+- Technical support for implementation by **National Rural Infrastructure Development Agency (NRIDA)**, which comes under the **MoRD (Rural Development)**
+- **NRIDA** has written to all states about **QR codes** -  to get **public feedback about the quality and maintenance of roads**
+- **eMARG: electronic Maintenance of Rural Roads**
+	- e-governance solution for managing and monitoring rural road maintenance
+	- It is a **mobile-cum-web-based** dashboard/portal
+	- A **QR code** can be generated for each road, to be displayed on the maintenance information display board on the road.
+	- The submitted feedback photographs will be analysed using AI to advise on Performance Evaluation(PE) marks.
+---
+### Global Liveability Index 2025
+#GS2 #Governance #Urbanisation #Report 
+- Released by the **Economist Intelligence Unit (EIU)** based on **30 indicators** for **173 cities** across several factors like:
+	- Stability
+	- Healthcare
+	- Culture
+	- Environment
+	- Education
+	- Infrastructure
+- **Most liveable cities:** 
+	1. Copenhagen, Denmark
+	2. Vienna, Austria
+- **Least liveable city:**
+	1. Damascus, Syria
+	2. Tripoli, Libya and Dhaka, Bangladesh (both bottom Rank 2)
+	3. Karachi, Pakistan (Rank 3 from bottom)
+---
+### Salkhan Fossil Park
+#GS1 #ArtCulture #PlacesInNews 
+- The **Salkhan Fossil Park** or **Sonbhadra Fossil Park** located in **Uttar Pradesh** has been ***added to the UNSECO Tentative List for WHS***
+	- It qualifies as a **geo-heritage site** under the ***IUCN's 2020 guideline for "Evolution of Life"*** and matches ***UNESCO's 2021 framework on Earth's history and life evolution***
+- It is located in the ***Kaimur Range (part of Vindhyan range)** adjacent to **Kaimur Wildlife Sanctuary**
+<p align="center">
+<img src="https://images.hindustantimes.com/img/2024/07/13/550x309/Recently--the-department-of-tourism-has-initiated-_1720878255369.jpg" alt="Salkhan Fossil Park" width="300"/>
+</p>
+
+- The site's fossils assemblage features ***STROMATOLITES*** 
+	- Stromatolites are created by communities of **Cyanobacteria** or **Blue-green algae**
+	- Stromatolites - fossilized microbial structures recorded the ***Great Oxidation Event***, when Oxygen first accumulated in the atmosphere.
+	- The park features **varied Stromatolite forms** - indicating changes in ancient water depth, sedimentation and wave activity.
+		- **Domal** stromatolites
+		- **Columnar** stromatolites
+		- **Stratiform** stromatolies
+---
+### Cloudbursts
+#GS3 #DisasterManagement 
+- Cloudbursts triggers **flash floods** in the **Kullu district** of **Himachal Pradesh**
+- **CLOUDBURSTS:**
+	- It refers to heavy precipitation in a short period of time over a limited geographic area
+	- **IMD** defines **cloudburst** as a **precipitation exceeding 100 mm per hour** over a geographic region of approximately **20 to 30 square Km**
+- **CAUSES OF CLOUDBURSTS:**
+	- **Orographic lift** - where moist is forced to rise over a physical barrier like a mountain
+	- Occasionally when a **warm air parcel mixed with cooler air** resulting in **sudden condensation**
+- **Cloudburst Disaster Risk Reduction(DRR)** under the **National Disaster Management Plan, 2019:**
+	- **Understanding risk:** compile and maintain data on cloudburst events, Landslide hazard zonation, etc.
+	- **Invest in DRR:** repair and maintain natural drainage systems, rivulets, etc., to ensure unhindered flow of storm water, etc.
+	- **Capacity building:** enhance capabilities of local bodies to prepare and cope with cloudburst events, promote use of insurance, risk transfer, etc.
+- **Best practice:** ***Cloudburst Management Plan*** of ***Copenhagen***
+	- Focus on **nature-based solutions** - ***Blue-Green masterplan***
+	- **Targeted (peri-)urban areas:
+		- Parks and (semi)natural urban green areas
+		- Blue areas
+		- Green areas for water management
+		- Urban green space connected to grey infrastructure
+	- Collaboration of all stakeholders - **private and public**
+---
+### NATO
+#GS2 #IR #InternationalGroupings 
+- NATO members agreed to increase defence spending from 2% to **5%** of the **GDP** by **2035**
+- It was formed in **1949** through the **North Atlantic Treaty (Washington Treaty)**
+- **HQ:** *Brussels, Belgium*
+- It is a **political and military alliance** of **32 countries** from Europe and North America
+- **Article 4:** allows any member state to request consultations with other members when they feel their "territorial integrity, political independence or security" is threatened.
+- **Article 5:** ***collective defence*** - meaning an attack on one member is considered an attack on all
+- **MEMBERS:**
+	- Latest Members:
+		- **Sweden (2024)**
+		- **Finland (2023)**
+		- **North Macedonia (2020)**
+	- Following are **NOT** members:
+		- *Switzerland*
+		- *Austria*
+		- *Serbia*
+		- *Bosnia-Herzgovina, Georgia, and Ukraine* - are *aspiring members* recognized by NATO as a part of their ***Open Doors enlargement policy (Article 10)***
+---
+### Article 9.1 of Paris Agreement
+#GS3 #Environment #ClimateChange 
+- Developing countries led by **India** forced reopening of discussions on developed nation's obligation to provide **climate finance** under the **Article 9.1 of Paris Agreement**
+- **Article 9.1:**
+	- state that **developed countries** ***shall*** provide financial resources to assist **developing countries** with respect to both **climate mitigation** and **adaptation** in continuation
+	- During **UNFCCC COP29** at **Baku** - developed nations had agreed to mobilise a sum of **at least USD 300 Billion per year from 2035**
+		- This target includes **loans** and is **not entirely in the form of grants**
+		- Well short of the **USD 1.3 Trillion a year** that is the assessed minimum requirement of the developing countries.
+---
+### International Potato Centre (CIP)
+#GS3 #Agriculture #InternationalOrganizations 
+- Founded in **1971** and focuses on :
+	- **Potato**
+	- **Sweetpotato**
+	- **Andean roots and tubers crops(ARTC)**
+		- Andean roots are grown in the Andes mountains of South America
+- **HQ:** at **Lima, Peru**
+- Cabinet approved establishment of **South Asia Regional Centre** of the **CIP** at **AGRA**
+---
+### Business Responsibility & Sustainability Reporting
+#GS3 #Economy #GS4 #Ethics #CorporateGovernance
+- Introduced by **SEBI** in **2012** as **Business Responsibility Reporting (BRR)**
+- It is **mandatory** for **top 1,000 listed entities** in India
+- It's aim is to encourage listed companies to **adopt sustainable business practices** and **disclose information** related to **ESG (Environmental-Social-Governance) performance**.
+---
+### Enhanced Rock Weathering (ERW)
+#GS3 #Environment #ClimateChange #SciTech 
+- **Enhanced Rock Weathering (ERW)** is technique in which **crushed rock in now being spread over farmland** to flight climate change by **removing carbon** from the air
+- It is speed up by a **natural process** where ***rocks absorb carbon***
+	- **Crushing & grinding rocks** into fine dust increased their surface area, helping them react faster with CO2 in the air or water
+- **Common rocks used:**
+	- **Olivine** - weathers quickly spreading its dust on beaches and oceans - may also reduce ocean acidification
+	- **Basalt** - captures CO2 and also **enriches soil** and **boost crop yields** when applied to farmland 
+---
+### Weight Loss Drugs
+#GS3 #SciTech #Health 
+- ***Semaglutide*** marketed under the brand name **Wegovy**
+	- It works as an *apetite suppressant* by imitating a **hormone** called ***gluvagon-like peptide-1 (GLP-1)***, which is an intestinal hormone released after eating and make people feel fuller
+- ***Tirzepatide*** marketed under **Mounjaro**
 ---

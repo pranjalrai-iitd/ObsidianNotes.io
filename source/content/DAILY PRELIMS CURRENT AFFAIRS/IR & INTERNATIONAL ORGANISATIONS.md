@@ -31,6 +31,7 @@
 		1. **Comprehensive safeguards agreements** with **non-nuclear-weapon state parties** to the Nuclear Non-Proliferation Treaty **(NPT)**.
 		2. **Voluntary offer safeguards** with **nuclear-weapon state parties** to the **NPT**.
 		3. **Item-specific safeguards agreements** with **non-NPT states**.
+			- In 2014, **India** ratified the **Additional Protocol**, which granted the IAEA greater access to India's civil nuclear programme. The same **item-specific safeguard agreement** has been signed by **Pakistan and Israel** along with **India**
 ---
 ### UNOC3
 #GS2 #IR #InternationalGroupings 
@@ -120,4 +121,23 @@
 	- **Russia** is an **observer status**
 	- **India** also applied for a membership, but was opposed by **Pakistan**, a founding member of OIC 
 - It represents the **collective voice of the Muslim world**
+---
+### NATO
+#GS2 #IR #InternationalGroupings 
+- NATO members agreed to increase defence spending from 2% to **5%** of the **GDP** by **2035**
+- It was formed in **1949** through the **North Atlantic Treaty (Washington Treaty)**
+- **HQ:** *Brussels, Belgium*
+- It is a **political and military alliance** of **32 countries** from Europe and North America
+- **Article 4:** allows any member state to request consultations with other members when they feel their "territorial integrity, political independence or security" is threatened.
+- **Article 5:** ***collective defence*** - meaning an attack on one member is considered an attack on all
+- **MEMBERS:**
+	- Latest Members:
+		- **Sweden (2024)**
+		- **Finland (2023)**
+		- **North Macedonia (2020)**
+	- Following are **NOT** members:
+		- *Switzerland*
+		- *Austria*
+		- *Serbia*
+		- *Bosnia-Herzgovina, Georgia, and Ukraine* - are *aspiring members* recognized by NATO as a part of their ***Open Doors enlargement policy (Article 10)***
 ---

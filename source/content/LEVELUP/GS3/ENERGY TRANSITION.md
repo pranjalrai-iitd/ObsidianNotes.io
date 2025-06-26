@@ -8,6 +8,9 @@
 - According to **ESI 2021-22**, the **automotive industry** is expected to play a critical role in **transition towards green energy**
 	- The **domestic electric vehicle (EV) market** is expected to **grow at CAGR of 49% between 2022 and 2030** and it expected to hit **1 crore unit sale by 2030**. Further, it will create **5 crore direct & indirect jobs by 2030**.
 - India has ***EV30@30*** target - ***30% EV by 2030*** (from current **1%**) and ***80% commercial EVs by 2030**
+- As per **Rhodium group**, India will be **4th largest electric car market by 2030** and it must cut cost to compete with China
+- Presently **7.8%** of all vehicle sales are EVs - **57%** of which are **e3W**
+- **IEA** identified India as the **largest global market for electric three-wheelers** in 2024 
 
 <b><u>NEED TO PROMOTE ELECTRIC VEHICLES IN INDIA:</u></b> ***Development of electric vehicle sector will*** <b><u><i>benefit all citizens, will promote "Ease of Living" and enhance the quality of life</i></u></b>
 1. **Energy security:** India imports around 80% of its crude oil requirements, thus EVs can help in **reducing import dependency, reducing CAD, saving forex,** etc.

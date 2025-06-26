@@ -92,3 +92,20 @@
 	- **Religious harmony:**
 		- Emphasis on **universal brotherhood** and respect for all faiths and **foster interfaith dialogue and counter radicalization for peaceful coexistence**.
 ---
+### Salkhan Fossil Park
+#GS1 #ArtCulture #PlacesInNews 
+- The **Salkhan Fossil Park** or **Sonbhadra Fossil Park** located in **Uttar Pradesh** has been ***added to the UNSECO Tentative List for WHS***
+	- It qualifies as a **geo-heritage site** under the ***IUCN's 2020 guideline for "Evolution of Life"*** and matches ***UNESCO's 2021 framework on Earth's history and life evolution***
+- It is located in the ***Kaimur Range (part of Vindhyan range)** adjacent to **Kaimur Wildlife Sanctuary**
+<p align="center">
+<img src="https://images.hindustantimes.com/img/2024/07/13/550x309/Recently--the-department-of-tourism-has-initiated-_1720878255369.jpg" alt="Salkhan Fossil Park" width="300"/>
+</p>
+
+- The site's fossils assemblage features ***STROMATOLITES*** 
+	- Stromatolites are created by communities of **Cyanobacteria** or **Blue-green algae**
+	- Stromatolites - fossilized microbial structures recorded the ***Great Oxidation Event***, when Oxygen first accumulated in the atmosphere.
+	- The park features **varied Stromatolite forms** - indicating changes in ancient water depth, sedimentation and wave activity.
+		- **Domal** stromatolites
+		- **Columnar** stromatolites
+		- **Stratiform** stromatolies
+---
