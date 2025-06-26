@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e6206ec23ce1e319",
+        "id": "b1203bd0240f0a65",
         "type": "tabs",
         "children": [
           {
-            "id": "804fb9e9ef2c58b9",
+            "id": "4e73278aa6e71cc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "GS4/GS4 SYLLABUS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "2b4637c0d71cb804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GS1/SYLLABUS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SYLLABUS"
-            }
-          },
-          {
-            "id": "8f22b87c224f5c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GS2/SYLLABUS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SYLLABUS"
-            }
-          },
-          {
-            "id": "616e60e12a979b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "GS4 SYLLABUS"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,18 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "616e60e12a979b8d",
+  "active": "4e73278aa6e71cc5",
   "lastOpenFiles": [
-    "GS3/SYLLABUS.md",
-    "GS2/SYLLABUS.md",
-    "GS1/SYLLABUS.md",
-    "index.md",
-    "SYLLABUS",
+    "GS3/GS3 SYLLABUS.md",
+    "GS2/GS2 SYLLABUS.md",
+    "GS1/GS1 SYLLABUS.md",
+    "CURRENT AFFAIRS/DAILY PRELIMS CA AGGREGATED.md",
     "GS3",
     "GS2",
     "GS1",
-    "GS4/SYLLABUS.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CA AGGREGATED.md",
+    "GS4/GS4 SYLLABUS.md",
     "CURRENT AFFAIRS",
     "GS4",
     "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/SCIENCE & TECHNOLOGY.md",
@@ -240,6 +195,7 @@
     "CURRENT AFFAIRS/LEVELUP/GS3/ENERGY TRANSITION.md",
     "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/POLICIES & SCHEMES.md",
     "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/MINERALS.md",
+    "index.md",
     "GS Notes.md",
     "CURRENT AFFAIRS - EDITORIALS.md",
     "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/INTERNAL SECURITY.md",
@@ -248,6 +204,7 @@
     "LEVELUP/GS3/Untitled",
     "CURRENT AFFAIRS/LEVELUP/GS3",
     "CURRENT AFFAIRS/LEVELUP/GS2",
-    "CURRENT AFFAIRS/LEVELUP/PRELIMS"
+    "CURRENT AFFAIRS/LEVELUP/PRELIMS",
+    "CURRENT AFFAIRS/LEVELUP"
   ]
 }
