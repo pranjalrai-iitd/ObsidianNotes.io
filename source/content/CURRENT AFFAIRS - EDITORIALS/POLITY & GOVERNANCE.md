@@ -158,3 +158,21 @@
 5. **No private funding** and a **small cess(INR 1) on fuel** for **public funding of elections**
 
 ---
+### HUMAN RIGHTS AND COURTS
+#GS2 #Governance #Quote #GovernanceQuote #Judgement #MainsValueAddition 
+
+<b><u>NEWS:</u></b> Courts stayed deportation of various individuals labelled "foreigner" by the Foreigners Tribunal in Assam. In a case where a Pakistani citizen having lived 38 years in India was deported, Supreme court called on the Union Home Secretary to repatriate her back to India.
+
+<b><u>QUOTES:</u></b> 
+- ***"Human rights are the most sacrosanct component of a human life and that there are times when a court has to respond 'SOS like' without going into the merits and demerits of a case, which can be decided on in due course of time."***                                 - **HC judge Rahul Bharti**
+- ***"It is well stated that suspicion, however it may be, can under no circumstances, be held to a substitute for legal evidence... Due process is to be followed when an individual is declared a foreigner."***
+---
+### KERALA CONTROVERSY ON BHARAT MATA PORTRAIT AT RAJ BHAVAN
+#GS2 #Polity #Governor #MainsValueAddition #Quote 
+- **The national movement never adopted any picture of the Bharat Mata**. 
+- Neither the **constitution or any law** unlike the **national anthem or national flag or national symbols.***
+- **Meaning of Bharat Mata as per Jawahar Lal Nehru** in ***Discovery of India:***
+	- *"... sometimes as I reached a gathering a great roar of welcome would greet me: Bharat Mata ki Jai - Victory to Mother India. I would ask them unexpectedly what they meant by that cry, who was this Bharat Mata, whose victory they wanted... The mountains and the rivers of India and the forest and the broad fields which gave us food were all dear to us, but what counted ultimately were the people of India, people like them and me who were spread out all over this vast land. ***Bharat Mata, Mother India, was essentially these millions of people and victory to her meant victory to those people***."*
+---
+
+

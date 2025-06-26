@@ -1,4 +1,3 @@
-
 ### ILO Social Security Report
 #GS1 #GS2 #Society #SocialJustice #InternationalOrganizations #Data
 - Social security coverage of India increased from **19% (2015)** to **64.3% (2025)**.
