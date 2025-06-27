@@ -1,3 +1,12 @@
+### Rajkot's model for Dumpsite Remediation  
+#GS3 #Environment #WasteManagment #MainsValueAddition  
+- Rajkot turned **Nakarwadi**, a decade old dumpsite with **16lakh Tn** of **legacy waste** into a **20 acre green urban forest**, as a part of **Swachh Bharat Mission's "Lakshya Zero Dumpsite"** initiative to develop **"Garbage Free Cities"**  
+- **Rajkot's model:**  
+- **Miyawaki technique** and using **secondary treated water for irrigation**  
+- **Waste-to-energy** technique with **bioremediation**  
+- Developing a healthy **circular economy**  
+
+---
 ### ENVIRONMENTAL IMPACT OF WARS
 #GS3 #Environment #InternalSecurity #IR #convention #MainsValueAddition 
 

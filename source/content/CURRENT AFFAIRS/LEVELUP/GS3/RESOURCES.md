@@ -50,7 +50,7 @@ B-->D(Heavy Group - Yttrium Group);
 - In **2010-2011**, **China controlled 90% of the supply of REE** - and imposed *extreme export restrictions*
 	- Price rise of more than 700% in REE
 	- Downstream industries crippled and the world was left scurrying to fend for REE
-- After **aggressive production** by **USA, Australia, and Canada** - ***China's share came down to 60%***, but still China dominates
+- After **aggressive production** by **USA, Australia, and Canada** - ***China's share came down to 60%***, but still China dominates **90% processing**
 	- Western countries are cooperating to develop alternatives through **China plus one** strategy
 
 <b><u>INDIA AND RARE EARTH METALS:</u></b>

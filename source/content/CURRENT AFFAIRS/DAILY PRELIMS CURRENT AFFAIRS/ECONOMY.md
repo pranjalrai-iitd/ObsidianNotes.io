@@ -207,3 +207,59 @@
 - It is **mandatory** for **top 1,000 listed entities** in India
 - It's aim is to encourage listed companies to **adopt sustainable business practices** and **disclose information** related to **ESG (Environmental-Social-Governance) performance**.
 ---
+### SMFCL
+#GS3 #Economy #Infrastructure #MaritimeSector
+- **Sagarmala Finance Corporation Limited*** is India's *first **NBFC** in the **maritime** sector* and is registered with **RBI**
+	- Formerly, it was *Sagarmala Development Company Limited* and was accorded with *Mini Ratna* status
+	- It will offer **tailored financial products** to a diverse range of stakeholders - ***port authorities***, ***shipping companies***, etc.
+		- It will support **strategic sectors** like:
+			- **Shipbuilding**
+			- **Renewable energy**
+			- **Cruise tourism**
+			- **Maritime education**
+- **Key initiatives launched for the Maritime sector:**
+	1. **Digital Centre of Excellence (DCoE):** to foster innovation and modernization of port operations and shipping logistics through emerging technologies like AI, IoT, and Blockchain, etc.
+	2. **SAGAR SETU platform:** aligned with **PM Gati Shakti National Master Plan**. It **integrates multiple service providers** to offer **seamless EXIM** services.
+	3. **DRISHTI (Data driven decision support-Review-Institutional Information-System for-Hastening and- Tracking-Implementation):** aims to accelerate the implementation of **Maritime India Vision 2030** and **Amrit Kaal Vision 2047**
+	4. **Scale of Rates (SOR) of Major Ports:** providing a **uniform structure for port tariffs**
+	5. ***Gateway to Green:*** **India's Ports Transforming into Hydrigen Hubs:** outlines a road-map for transforming Indian ports into hubs for green hydrogen production, storage, and export.
+	6. **Maritime India Vision 2030:**
+		- Provides a **comprehensive framework for the holistic development of India's maritime sector**, encompassing ports, shipping and waterways.
+		- It aims to propel India to **global maritime leadership**
+	7. **Amrit Kaal Vision 2047:**
+		- Builds on the maritime India Vision 2030
+		- Aims to develop **world-class ports and promote inland water transport, coastal shipping**, and a **sustainable maritime sector**
+---
+### Operation Deep Manifest
+#GS3 #Economy #InternalSecurity #MoneyLaundering 
+- **Directorate of Revenue Intelligence (DRI)** has seized goods valued at *INR 9 crore* under it's ***Operation Deep Manifest***
+- It was launched to **target the illegal import of Pakistani-origin goods** routed through third party countries, primarily via *Dubai, UAE*
+	- Following the *Pahalgam terror attack*, India imposed a **comprehensive ban** on the **direct or indirect import or transit** of goods **originating in or exported from Pakistan**
+	- Previously, such goods were subjected to **200% customs duty**
+---
+### World Investment Report 2025:  
+#GS3 #Economy #Report  
+- By **UNCTAD (UN Conference on Trade and Development)**  
+- **Highlights of the report:**  
+	- **FDI declined:** FDI fell by *11%* in 2024, to *USD 1.5 Trillion*  
+		- Inflows declined in most developing economies  
+		- **US** remained largest recipient of FDI  
+		- **India** is **16th** largest recipient of FDI  
+	- **Uneven FDI growth:**  
+		- **Africa** saw **75% rise** in FDI driven by a **single large project in Egypt**  
+		- **Latin America and Caribbean** experienced **12% decline**  
+	- **Stagnant investment in job-creating industries:** capital is stagnating/bypassing the sectors that matter the most - infrastructure, energy, & industries that drive job-growth  
+	- **Decline in sectors critical for SDGs:**  
+		- **Renewable energy: 31% decline**  
+		- **Water & Sanitation: 30% decline**  
+		- **Reasons for decline:**  
+			- Geopolitical tensions  
+			- Trade fragmentation  
+			- Intensifying Industrial policy competition  
+			- Elevated financial risk & uncertaininty  
+			- Eroding long term investor confidence  
+- **Recommendations:**  
+	- Scale up the catalytic role of **Multilateral Development Banks**  
+	- Expanding the use of **guarantees**  
+	- **Hybrid capital** and de-risking instruments to **crowd in private investment**  
+---

@@ -51,7 +51,7 @@
 	3. **Urban-rural gap:** Rural areas generally have higher TFR. Still, 7 states still to achieve below 2.1 TFR in rural areas.
 6. **Infertility in India:** estimate of **27.5 million couples** face the issue and GoI need to consider inclusion of infertility under government's health insurance scheme.
 ---
-### Forced Displacement
+### FORCED DISPLACEMENT
 #GS1 #GS3 #VulnerableSections #Refugees #Migration
 <b><u>NEWS/DATA:</u></b>
 - **Global Trends Report** released by **UNHCR*** (United Nations High Commissioner for Refugees)

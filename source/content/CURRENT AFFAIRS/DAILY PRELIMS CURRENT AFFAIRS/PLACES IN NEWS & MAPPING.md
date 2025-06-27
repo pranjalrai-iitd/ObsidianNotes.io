@@ -148,3 +148,51 @@
 - **Natural resources:** Gold, Antimony, Iron ore, Coal, Manganese, Nickel, Gem Diamonds
 	- ***South Africa was world's largest <b><u><i>Chromite ore</i></u></b> producer in 2022***
 ---
+### Japan
+#GS1 #Geography #PlacesInNews #Mapping 
+<p align="center">
+<img src="https://www.worldatlas.com/upload/4a/5a/54/jp-01.jpg" alt="Japan" width="550"/>
+</p>
+
+- **Islands of Japan:**
+	- ***Honshu*** - largest
+	- ***Hokkaido***
+	- ***Kyushu***
+	- ***Shikoku***
+- **Maritime borders:**
+	- East - *Pacific Ocean*
+	- North - ***Sea of Okhotsk***
+	- West - *Sea of Japan* (*East Sea*)
+	- Southwest - *East China Sea*
+- **Geographic features:**
+	- Highest peak: **Mt. Fuji**, as volcano
+	- Major rivers: ***Shinano river*** (longest), ***Tone river***, and ***Kiso river***
+- **Disputed Islands of japan:**
+	- ***Senkaku Islands (Diaoyu/Tiaoyutai)***
+		- Uninhabited islands in the **East China Sea**
+		- Claimed by **Japan, China, and Taiwan**
+	- ***Kuril Islands***
+		- North of Hokkaido and are claimed by **Japan and Russia**
+	- ***Takeshima Islands (Dokdo)***
+		- Claimed by **Japan and South Korea**
+---
+### Manasarovar Lake
+#GS1 #Geography #PlacesInNews #Mapping 
+- After a 6 year gap, Indian pilgrims completed the **Kailash Mansarovar Yatra**
+	- It is first **India-China people-to-people exchange** to resume since the COVID-19
+	- It took place through the **Nathu La** pass to **Lhasa** to **Kailash** 
+	- Yatra takes place through two routes:
+		- ***Lipulek Pass* (Uttarakhand)**
+		- ***Nathu La Pass* (Sikkim)**
+		  <p align="center"><img src="https://pmfias.b-cdn.net/wp-content/uploads/2025/04/kailash-mansarovar-1-1536x922.png" alt="Kailash Mansarovar Yatra" width="550"/></p>
+
+- **Mount Kailash Parvat** is also known as **Lake Manas Sarovar** in Sanskrit
+- It is located at the foot of **Mount Kailash**, located in **Tibet**
+- It is **world's highest freshwater lake** and is called ***Mapang Yongcuo*** in China
+- There are two lakes side by side
+	- ***Rakshastal*** - saltwater lake
+	- ***Mansarovar*** - freshwater lake
+	  <p align="center"><img src="https://www.kailash-yatra.org/images/rakshas-taal-lake-near-mansarovar-lake-tibet.jpg" alt="Kailash Lakes" width="350"/></p>
+
+- There is **Chiu Hompa Monastery** located near the lake
+---

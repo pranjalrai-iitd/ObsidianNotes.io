@@ -154,3 +154,26 @@
 	- It works as an *apetite suppressant* by imitating a **hormone** called ***gluvagon-like peptide-1 (GLP-1)***, which is an intestinal hormone released after eating and make people feel fuller
 - ***Tirzepatide*** marketed under **Mounjaro**
 ---
+### AlphaGenome
+#GS3 #SciTech #AI 
+- New AI model launched by **Google DeepMind**
+- It will help in accurately predicting how individual mutations in human DNA affect their functions and impact our health. It will analyse large DNA sequences - 1Mn base pairs.
+- **DeepMind's protein-synthesis models:**
+	- ***Enformer*** - genomics model
+	- ***AlphaMissense*** - specialize in categorization the effects of variants within the protein-coding regions
+	- ***AlphaFold***
+---
+### Extreme Helium (EHe) Stars  
+#GS3 #SciTech #Space  
+- Researchers have detected **Germanium** for the first time in a **EHe star**  
+- **EHe Stars:**  
+	- **Low mass supergiant** star that is **almost devoid of Hydrogen**  
+	- Their atmospheres are dominated by **Helium**, with high amount of **Carbon, Nitrogen, and Oxygen**  
+	- Their exact origin and evolution are debatable  
+---
+### NAKSHATRA  
+#GS3 #SciTech #Health  
+- **ICMR** has launched its **first HPC facility, NAKSHATRA** at **National Institute of Virology, Pune**  
+- It is developed under **PM Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)**  
+- It aims to improve early detection of diseases, faster outbreak response, and support AI driven vaccine and drug research.  
+--- 

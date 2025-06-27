@@ -16,3 +16,10 @@
 - **HQ:** at **Lima, Peru**
 - Cabinet approved establishment of **South Asia Regional Centre** of the **CIP** at **AGRA**
 ---
+### NIXI (National Internet Exchange of India)  
+#GS3 #SciTech #Organizations  
+- **NPO** under **Section 8 of Companies Act, 2013**  
+- It was setup to enable **peering among ISPs within India**, allowing domestic internet traffic to remain within the country.  
+- It was delegated the responsibility to **manage India's .IN Country Code Top-Level Domain (ccTLD)** through the **INRegistry**  
+- It operated on a **neutral** and **non-discriminatory** basis  
+---

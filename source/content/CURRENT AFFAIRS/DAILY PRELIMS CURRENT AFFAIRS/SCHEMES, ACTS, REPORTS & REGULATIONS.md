@@ -298,3 +298,60 @@
 	2. Tripoli, Libya and Dhaka, Bangladesh (both bottom Rank 2)
 	3. Karachi, Pakistan (Rank 3 from bottom)
 ---
+### AMRUT
+#GS1 #Society #Urbanisation #Scheme #Data
+- India celebrated **10 years of AMRUT (Atal Mission for Rejuvenation and Urban Transformation)**, which was launched in 2015 and was India's **first water focused mission**
+	- AMRUT 2.0 was launched in 2021
+	- It is a **centrally SPONSORED scheme** under **UMoH&UA** covering **all ULBs**.
+	- Funds are shared among states and UTs based on **urban population** and **number of towns**
+- **Objectives:**
+	- Ensure every household has access to a **tap** and **sewage connection**
+	- Increase the **amenity value of cities** #Eg Parks
+	- Reduce **pollution** by promoting **public transport**, etc.
+- **Coverage:** ***500 selected cities and towns*** - now **485 cities, including 15 merged cities**
+- **Other key initiatives under AMRUT:**
+	- **Jal Hi AMRIT:** to treat and reuse water safely
+	- **AMRUT Mitra:** to foster skills among SHG women related to water management in their communities
+- **Achievements:**
+	- **99 lakh streetlights** replaced with **LEDs**
+	- **48 lakh tonnes** of **CO2 reduction per year**
+	- **INR 5,000 crore** raised through **Municipal Bonds**
+	- **3,599 cities** implemented ***online Building Permission system***
+	- **GIS-based Master Plans** for AMRUT cities
+---
+### Science and Technology (S&T) Clusters Initiatives
+#GS3 #SciTech #Scheme 
+- **S&T Clusters Annual Report 2024-2025** highlighted various initiatives launched under the program including ***kalaanubhav.in*** which is an AR/VR-enabled ***artisan marketplace**
+- **S&T Clusters Initiatives** was launched in 2020 based on the recommendations of **PM-STIAC** (Prime Minister's Science, Technology, and Innovation Advisory Council)
+	- It aims to bring together stakeholder, like academic institutions, R&D organisations, industry, local governments, to **deliver demand-driven solutions through innovative ideas**
+	- It operates through a ***consortium-based approach***
+- **Nodal Implementing Agency:** Office of the Principal Scientific Adviser (PSA), which works under the Cabinet Secretary
+---
+### Energy Transition Index (ETI), 2025  
+#GS3 #Environment #Report  
+- Released by **World Economic Forum (WEF)**  
+- **Findings:**  
+	- Top performers area:  
+		1. Sweden  
+		2. Finland  
+		3. Denmark  
+		4. Norway  
+	- **India** ranked **71 (2025)** which *dropped from 63 (2024)*  
+- It ranks countries on their *progress towards energy transition from fossil fuels to clean energy*  
+- It uses **43 indicators** under **two main categories:**  
+	- **System Performance (energy security, equity & sustainability)**  
+	- **Transition Readiness (regulation, infrastructure, investment)**  
+- It is based on **43 indicators** with data from multiple sources on a scale from **0 to 100**  
+---  
+### Annual report on Children in Armed Conflict  
+#GS2 #GS1 #Society #IR #Report #VulnerableSections  
+- Released by **UN Secretary-General**  
+- **Findings:**  
+	- **25% surge** in grave violations against children under the age of 18  
+	- **40K grave violations** against children in 2024  
+	- Highest number of children affected are in **Israel, Palestine, DRC, Somalia, Nigeria, and Haiti**  
+	- **Most prevalent violations in 2024:** Killing and maiming, denial of humanitarian access, recruitment and use  
+	- **Perpetrators:**  
+		- Non-State armed groups - 50%  
+		- Government forces - killing and attack on schools  
+---

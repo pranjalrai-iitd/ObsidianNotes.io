@@ -141,3 +141,85 @@
 		- *Serbia*
 		- *Bosnia-Herzgovina, Georgia, and Ukraine* - are *aspiring members* recognized by NATO as a part of their ***Open Doors enlargement policy (Article 10)***
 ---
+### Shanghai Cooperation Organisation (SCO)
+#GS3 #IR #InternationalGroupings 
+- Founded at the **Shanghai Summit in 2001** evolving from the ***Shanghai Five*** group
+- **MEMBERSHIP (10):*** ****Turkmenistan is NOT a member***
+	- ***40% world's population*** and ***30% GDP***
+	- **Original Shanghai Five (formed in 1996):**
+		1. China
+		2. Kazakhstan
+		3. Kyrgyzstan
+		4. Russia
+		5. Tajikistan
+	- **Later members:**
+		6. Uzbekistan (2001)
+		7. India (2017)
+		8. Pakistan (2017)
+		9. Iran (2023)
+		10. Belarus (2024)
+- **Organizational structure:**
+	- **Council of Head of States:** apex decision-making body
+	- **Council of Heads of Governments:** second highest
+	- Contains the **Regional Anti-Terrorist Structure (RATS)** to mitigate the ***"Three Evils"*** - *terrorism, separatism and religious extremism*
+- **2025 Defence Ministers Meeting in China:** India refused to sign the joint declaration and there was no concluded declaration as SCO rules require **full consensus for joint declaration**
+	- The joint declaration did not mentioned the **Pahalgam attack** while mentioned the **increasing terrorism in Baluchistan**
+	- Pakistan opposed the same
+- **Significance of SCO for India:**
+	1. **Fostering regional security:** through SCO's **RATS**
+	2. **Boost socioeconomic ties:** promotes cooperation through initiatives like ***SCO Young Scientists Conclave*** and ***Special Working Group on Innovation and Startups* (proposed by India)**
+	3. **Enhanced regional connectivity:** 
+		- ***INSTC*** involves SCO members
+		- Counter China's **BRI**
+	4. **Countering the hegemony of western-dominates institutions:** through SCO's proposal for trade in **national currency** instead of dollar
+- **Challenges:**
+	1. **China-Pakistan axis:** China's silence towards Pakistan sponsored cross-border terrorism
+	2. Perception of SCO being **anti-western grouping**
+---
+### GAVI
+#GS2 #IR #InternationalOrganizations 
+- **Gavi, The Vaccine Alliance:**
+	- It is a **Public party partnership**
+		- The core partners include **WHO, UNICEF, World Bank** and the **Gates Foundation**
+	- Its mission is to save lives and protect people's health by increasing **equitable** and **sustainable use of vaccines**
+		- It has vaccinated **over 1 billion children** across the poorest countries
+	- Gavi is a member of the **WHO led** ***Vaccnie Safety Net (VSN)*** 
+	- Its secretariat is at **Geneva**
+- USA **withdrew** from **Gavi**, along with **WHO** and accused it of silencing dissenting views and legitimate questions about **vaccine safety**
+	- USA has **withdrawn** from various **global alliances:**
+		- **WHO** and **Gavi**
+		- **UN-HRC**
+		- **UNRWA**
+- **Impact of US withdrawal from global alliances:**
+	- **Weakening of multilateralism/rule-based order:** #Eg Israel withdraws participation from UN-HRC
+	- **Undermine climate actions:** 2024 was recorded as one of the two hottest years and USA stands as the second largest emitter
+	- **Shortage of funds for health:** #Eg #Data ***In 2024, US funded about 15% of WHO's total funding***
+	- **Leadership vacuum:** can be filled by **China** - it may **reduce India's influence on decision making**
+---
+### UN80
+#GS2 #IR #InternationalOrganizations 
+- Initiative launched by **UN** to commemorate the **signing of the UN Charter 80 years ago in 1945**
+- It is aimed at **streamlining operations, sharpening impact, and reaffirming UN's relevance** for a rapidly changing world
+---
+### The Seville Commitment of FFD:  
+#GS2 #GS3 #IR #Economy #SustainableDevelopment  
+- ***Compromiso de Sevilla***, or ***The Seville Commitment*** is the final outcome document for the **UN's 4th International Conference on Financing for Development* (FFD4)** 
+- It is held **once in a decade**
+- **FINANCING FOR DEVELOPMENT:**  
+	- ***Monterrery Consensus (2002):***  
+		- Focused on **increased Official Development Assistance (ODA)**, aid effectiveness, IMF governance reforms, and innovative financing mechanisms  
+	- ***Doha Declaration (2008):***  
+		- Reaffirmed the Monterrey Consensus amif the **GFC 2008**  
+		- Added **genger-sensitive finance, climate finance (Green Climate Fund)**, etc.  
+	- ***Adis Ababa Action Agenda (2015):***  
+		- Aligned with the **SDGs**, introduced **Integrated National Financing Frameworks (INFFs)**  
+		- **INFFs** are country-owned and country-led planning and delivery tools that help governments mobilize and align financing with sustainable development priorities  
+- Approved at ***Sevilla, Spain*** #PlacesInNews  
+- **Participants:** Government leaders, institutions, businesses, and civil society  
+- **Outcome Document in FFD4:  
+	- **Global Financing Framework:** renews commitments for **Addis Ababa Action Agenda**, **Monterrey Consensus**, and **Doha Declaration**.  
+	- **International Financial Architecture Reforms:** call for inclusive governance like IMF quota reforms, World bank shareholding  
+	- **Debt sustainability:** UN to lead IMF/World Bank group proposing **voluntary principles for responsible sovereign debt practices**  
+	- **Tax reforms:** It recognized **Pillar II** implementation under **OCED/G20 Inclusive Framework on Base Erosion and Profit Shifting** - mandating minimum corporate tax  
+- **Aim** to close the **USD 4 Trillion** **financing gap** in developing countries  
+---

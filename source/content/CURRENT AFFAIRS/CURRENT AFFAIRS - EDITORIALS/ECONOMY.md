@@ -199,8 +199,23 @@
 	4. **National Trade Facilitation Action Plan (NTFAP) 3.0 for 2024-2027:** launched by **CBIC**, focusing on **reducing cargo release time** across ports.
 
 ---
+### INITIATIVES FOR MARITIME SECTOR
+#GS3 #Economy #Infrastructure 
 
+<b><u>NEWS:</u></b>
+- **Sagarmala Finance Corporation Limited*** is India's *first **NBFC** in the **maritime** sector* 
 
+<b><u>INTIATIVES LAUNCHED FOR THE MARITIME SECTOR:</b></u>	
+1. **Digital Centre of Excellence (DCoE):** to foster innovation and modernization of port operations and shipping logistics through emerging technologies like AI, IoT, and Blockchain, etc.
+2. **SAGAR SETU platform:** aligned with **PM Gati Shakti National Master Plan**. It **integrates multiple service providers** to offer **seamless EXIM** services.
+3. **DRISHTI (Data driven decision support-Review-Institutional Information-System for-Hastening and- Tracking-Implementation):** aims to accelerate the implementation of **Maritime India Vision 2030** and **Amrit Kaal Vision 2047**	
+4. **Scale of Rates (SOR) of Major Ports:** providing a **uniform structure for port tariffs**
+5. ***Gateway to Green:*** **India's Ports Transforming into Hydrigen Hubs:** outlines a road-map for transforming Indian ports into hubs for green hydrogen production, storage, and export.
+6. **Maritime India Vision 2030:**
+	- Provides a **comprehensive framework for the holistic development of India's maritime sector**, encompassing ports, shipping and waterways.
+	- It aims to propel India to **global maritime leadership**
+7. **Amrit Kaal Vision 2047:**
+	- Builds on the maritime India Vision 2030
+	- Aims to develop **world-class ports and promote inland water transport, coastal shipping**, and a **sustainable maritime sector**
 
-
-
+---

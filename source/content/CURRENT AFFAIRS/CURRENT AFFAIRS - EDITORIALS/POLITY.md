@@ -54,21 +54,6 @@
 - ***"Justice must be done and seen to be done"*** - transparency but also accountability.
 - **Harry T Edwards** from Columbia - peer review enhanced, not diminishes, judicial independence.
 ---
-### GUIDELINE FOR DIRECT RELEASE OF CENTRAL SECTOR (CSS) FUNDS
-#GS3 #Economy #Scheme #Funding #Finances #Ethics
-- Issued by **Finance Ministry**
-- **Guidelines:**
-	- **Central Nodal Agency (CNA):** concerned ministry will appoint an agency for each CSS. The CNA can be autonomous body, PSU or State agency, etc.
-	- **Budgeting and Savings:** Ministers should estimate scheme budgets realistically and flag any saving earl, especially by the 3rd quarter.
-	- **Unused funds** will **lapse** at the end of financial year and cannot be carried forward.
-	- ***"Just-In-Time"* Fund Release:** 
-		- **Not more than 25%** disbursement at a time that too when needed.
-		- **75% prior utilization of funds** and meeting all previous conditions.
-- **Other measures to ensure effectiveness of Central scheme:**
-	- **Mandatory** use of **PFMS** (Public Finance Management System): for Fund tracking, real-time monitoring and control unspent balances.
-	- **Sunset clauses:** mandated by the Finance Ministry in 2017 to align schemes with financial resources cycle.
-	- A private member bill, **The Government Legislative Proposal and Schemes Bill, 2022** was introduced to bring accountability and Parliamentary oversight.
----
 ### AI IN CRIMINAL JUSTICE
 #GS2 #GS3 #AI #SciTech #Judiciary 
 

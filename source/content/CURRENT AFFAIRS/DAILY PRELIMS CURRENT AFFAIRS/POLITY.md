@@ -80,3 +80,13 @@
 	- ***“Parliamentary committees are devices to overcome the limitations of organisational and technical complexity of large legislatures. Independent India inherited the modern committee system from the British parliamentary system and innovated new techniques to effectively manage the voluminous tasks in the large Parliament.”***
 ---
 
+### Official Language
+#GS2 #Polity #Language
+- **Department of Official Language** celebrated **golden jubilee - 50 years**
+- **OFFICIAL LANGUAGE:**
+	- Provisions related to official language are in **Part XVII (17)** of the Constitution
+	- **Article 343** states that the official language of the Union shall be **Hindi** in *Devanagari script*
+		- The **Official Language Act, 1963** provides for the use of **English** in addition to Hindi, for all purpose of Union and business transactions in Parliament
+	- **Article 344** provides for the construction of the **Commission and Committee on Official Language**
+	- **Article 345** provides that State legislatures may adopt any one or more languages used in the State or Hindi as the official language of that state
+---

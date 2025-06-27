@@ -96,5 +96,53 @@
 <b><u>CONCLUSION:</u></b> ***Croatia is at cross-roads of Europe and Asia with deep cultural roots and historic partnership**
 
 ---
+### WEST ASIA
+#GS2 #IR 
 
+<b><u>NEWS:</u></b>
+- The **12 day war** between Iran and Israel followed by **USA led, Qatar mediated ceasefire**
 
+<b><u>CONCLUSION/QUOTE:</u></b>
+- ***The situation in West Asia, to quote Churchill, 'is a riddle wrapped in a mystery inside an enigma'.***
+- ***The business as usual in West Asia has been, cyclicity of the conflicts punctuated by an interregnum of tense peace"***   - Ambassador Mahesh Sachdev
+---
+### SHANGHAI COOPERATION ORGANIZATION (SCO)
+#GS3 #IR #InternationalGroupings 
+
+<b><u>NEWS:</u></b>
+- Founded at the **Shanghai Summit in 2001** evolving from the ***Shanghai Five*** group and later extended to 10 members -  China, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, Uzbekistan (2001), India (2017), Pakistan (2017), Iran (2023), and Belarus (2024)
+- Represents ***40% world's population*** and ***30% GDP***
+- During the **2025 Defence Minister's Meeting at China**, India ***declined to sing the joint SCO statement*** as the **draft statement** did **not** mentioned the **Pahalgam attack** but mentioned the train hijacking in Baluchistan. This could undermine India's position on zero tolerance for terrorism.
+
+<b><u>Significance of SCO for India:</u></b>
+	1. **Fostering regional security:** through SCO's **RATS**
+	2. **Boost socioeconomic ties:** promotes cooperation through initiatives like ***SCO Young Scientists Conclave*** and ***Special Working Group on Innovation and Startups* (proposed by India)**
+	3. **Enhanced regional connectivity:** 
+		- ***INSTC*** involves SCO members
+		- Counter China's **BRI**
+	4. **Countering the hegemony of western-dominates institutions:** through SCO's proposal for trade in **national currency** instead of dollar
+
+<b><u>Challenges:</u></b>
+	1. **China-Pakistan axis:** China's silence towards Pakistan sponsored cross-border terrorism
+	2. Perception of SCO being **anti-western grouping**
+
+<b><u>CONCLUSION:</u></b> ***"SCO will be at the heart of realization of the Asian century"***
+
+---
+### US WITHDRAWAL FROM GLOBAL ALLIANCES
+#GS2 #IR #InternationalOrganizations 
+
+<b><u>NEWS:</u></b>
+- USA **withdrew** from **Gavi**, along with **WHO** and accused it of silencing dissenting views and legitimate questions about **vaccine safety**.
+- USA has **withdrawn** from various **global alliances:**
+		- **WHO** and **Gavi**
+		- **UN-HRC**
+		- **UNRWA**
+
+<b><u>IMPACT OF US WITHDRAWAL FROM GLOBAL ALLIANCES:</u></b>
+1. **Weakening of multilateralism/rule-based order:** #Eg Israel withdraws participation from UN-HRC
+2. **Undermine climate actions:** 2024 was recorded as one of the two hottest years and USA stands as the second largest emitter
+3. **Shortage of funds for health:** #Eg #Data ***In 2024, US funded about 15% of WHO's total funding***
+4. **Leadership vacuum:** can be filled by **China** - it may **reduce India's influence on decision making**
+
+---

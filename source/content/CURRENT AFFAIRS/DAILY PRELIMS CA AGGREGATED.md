@@ -1269,6 +1269,145 @@ A(Social security)-->D(Labor market  programs);
 			- India has **prevented inclusion** of Malaccenesis in the **Review of Significant Trade (RST) of CITES**, ***easing trade restrictions***
 - **Uses:** perfume making, traditional medicine
 ---
+### The Seville Commitment of FFD:  
+#GS2 #GS3 #IR #Economy #SustainableDevelopment  
+- ***Compromiso de Sevilla***, or ***The Seville Commitment*** is the final outcome document for the **UN's 4th International Conference on Financing for Development* (FFD4)** 
+- It is held **once in a decade**
+- **FINANCING FOR DEVELOPMENT:**  
+	- ***Monterrery Consensus (2002):***  
+		- Focused on **increased Official Development Assistance (ODA)**, aid effectiveness, IMF governance reforms, and innovative financing mechanisms  
+	- ***Doha Declaration (2008):***  
+		- Reaffirmed the Monterrey Consensus amif the **GFC 2008**  
+		- Added **genger-sensitive finance, climate finance (Green Climate Fund)**, etc.  
+	- ***Adis Ababa Action Agenda (2015):***  
+		- Aligned with the **SDGs**, introduced **Integrated National Financing Frameworks (INFFs)**  
+		- **INFFs** are country-owned and country-led planning and delivery tools that help governments mobilize and align financing with sustainable development priorities  
+- Approved at ***Sevilla, Spain*** #PlacesInNews  
+- **Participants:** Government leaders, institutions, businesses, and civil society  
+- **Outcome Document in FFD4:  
+	- **Global Financing Framework:** renews commitments for **Addis Ababa Action Agenda**, **Monterrey Consensus**, and **Doha Declaration**.  
+	- **International Financial Architecture Reforms:** call for inclusive governance like IMF quota reforms, World bank shareholding  
+	- **Debt sustainability:** UN to lead IMF/World Bank group proposing **voluntary principles for responsible sovereign debt practices**  
+	- **Tax reforms:** It recognized **Pillar II** implementation under **OCED/G20 Inclusive Framework on Base Erosion and Profit Shifting** - mandating minimum corporate tax  
+- **Aim** to close the **USD 4 Trillion** **financing gap** in developing countries  
+---
+### Women in STEM  
+#GS2 #Governance #Education #Women #Data  
+- As per **MoEducation**, for the first time in over a decade, ***more girls passed Class 12 with Science (~28 lakh) than with Arts (~27 lakh) in 2024***  
+- It marks **shift from traditional gender trend**  
+- **Data:**  
+	- **Gender-gap in science (Class 12th)** is narrowing and stands at **46%**  
+	- **AISHE 2021-22:** Women comprises **52%** of students in sciense disciplines  
+	- In **medicine**, female representation is on par with men and their presence is steadily increasing  
+- **Initiatives:**  
+	- ***Vigyan Jyoti:*** aims to encourage girls to pursue higher education and career in STEM  
+	- ***CURIE initiative:*** supports R&D infrastructure in women universities to attract, train and retain promising girl students in S&T domain  
+	- ***WISE-KIRAN scheme:*** encourages women scientists to engage in groundbreaking research in Science & Engineering  
+---  
+### World Investment Report 2025:  
+#GS3 #Economy #Report  
+- By **UNCTAD (UN Conference on Trade and Development)**  
+- **Highlights of the report:**  
+	- **FDI declined:** FDI fell by *11%* in 2024, to *USD 1.5 Trillion*  
+		- Inflows declined in most developing economies  
+		- **US** remained largest recipient of FDI  
+		- **India** is **16th** largest recipient of FDI  
+	- **Uneven FDI growth:**  
+		- **Africa** saw **75% rise** in FDI driven by a **single large project in Egypt**  
+		- **Latin America and Caribbean** experienced **12% decline**  
+	- **Stagnant investment in job-creating industries:** capital is stagnating/bypassing the sectors that matter the most - infrastructure, energy, & industries that drive job-growth  
+	- **Decline in sectors critical for SDGs:**  
+		- **Renewable energy: 31% decline**  
+		- **Water & Sanitation: 30% decline**  
+		- **Reasons for decline:**  
+			- Geopolitical tensions  
+			- Trade fragmentation  
+			- Intensifying Industrial policy competition  
+			- Elevated financial risk & uncertaininty  
+			- Eroding long term investor confidence  
+- **Recommendations:**  
+	- Scale up the catalytic role of **Multilateral Development Banks**  
+	- Expanding the use of **guarantees**  
+	- **Hybrid capital** and de-risking instruments to **crowd in private investment**  
+---
+### QS World University Rankings 2026  
+#GS2 #Governance #Education  
+- India has **54 universities in the Rankings**, making it **4th** after **US, UK, and China** in terms of **most represented country**  
+- **IIT Delhi - 123rd**, is India's top ranked institution  
+  
+<b><u>India's Research and Development Ecosystem:</u></b>  
+- India ranked **39th/133** in the **Global Innovation Index 2024**  
+- **CONCERNS:**  
+	1. **Low GERD (Gross Expenditure on Research & Development): 0.64% of GDP**  
+		- China - 2.43%  
+		- USA - 3.5  
+		- **Economic Survey 2020-2021:** India needs to increase its GERD to **2%**  
+	2. **Inadequate private sector participation:**  
+		- Central government - 43.7%  
+		- **Private sector - 36.4%**  
+			- Compared to **70%** in countries like **USA, and China**
+		- State governments - 6.7%  
+		- Higher Education Institutions - 8.8%  
+		- Public Sector Industries - 4.4%  
+	3. **Poor utilization of funds:** in FY23  
+		- **DoBT - 72%** utilization of allocated budget  
+		- **DoST - 61%** utilization of allocated budget  
+	4. **Sub-optimal Industry-Academia convergence:** poor transformation of technologies developed in Indian labs for larger good of society  
+	5. **Brain drain:** to developed countries  
+- **INITIATIVES:**  
+	- **Draft National Science, Technology, and Innovation (STIP) (2020):** to **double** the number of Full-Time Equivalent (FTE) researchers, GERD and private sector contribution to GERD **every 5 years**.  
+	- **Anusandhan National Research Foundation (ANRF):** Established under the **ANRF Act, 2023** to seed, grow and promote R&D and foster a culture of research and innovation throughout the country  
+	- **IMPacting Research INnovation and Technology (IMPRINT):** aimed at bridging gap between **scientific knowledge base** created through **fundamental research** and **applied research** and fruitful translation to engineering innovation  
+---  
+### Energy Transition Index (ETI), 2025  
+#GS3 #Environment #Report  
+- Released by **World Economic Forum (WEF)**  
+- **Findings:**  
+	- Top performers area:  
+		1. Sweden  
+		2. Finland  
+		3. Denmark  
+		4. Norway  
+	- **India** ranked **71 (2025)** which *dropped from 63 (2024)*  
+- It ranks countries on their *progress towards energy transition from fossil fuels to clean energy*  
+- It uses **43 indicators** under **two main categories:**  
+	- **System Performance (energy security, equity & sustainability)**  
+	- **Transition Readiness (regulation, infrastructure, investment)**  
+- It is based on **43 indicators** with data from multiple sources on a scale from **0 to 100**  
+---  
+### Annual report on Children in Armed Conflict  
+#GS2 #GS1 #Society #IR #Report #VulnerableSections  
+- Released by **UN Secretary-General**  
+- **Findings:**  
+	- **25% surge** in grave violations against children under the age of 18  
+	- **40K grave violations** against children in 2024  
+	- Highest number of children affected are in **Israel, Palestine, DRC, Somalia, Nigeria, and Haiti**  
+	- **Most prevalent violations in 2024:** Killing and maiming, denial of humanitarian access, recruitment and use  
+	- **Perpetrators:**  
+		- Non-State armed groups - 50%  
+		- Government forces - killing and attack on schools  
+---
+### Extreme Helium (EHe) Stars  
+#GS3 #SciTech #Space  
+- Researchers have detected **Germanium** for the first time in a **EHe star**  
+- **EHe Stars:**  
+	- **Low mass supergiant** star that is **almost devoid of Hydrogen**  
+	- Their atmospheres are dominated by **Helium**, with high amount of **Carbon, Nitrogen, and Oxygen**  
+	- Their exact origin and evolution are debatable  
+---
+### NAKSHATRA  
+#GS3 #SciTech #Health  
+- **ICMR** has launched its **first HPC facility, NAKSHATRA** at **National Institute of Virology, Pune**  
+- It is developed under **PM Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)**  
+- It aims to improve early detection of diseases, faster outbreak response, and support AI driven vaccine and drug research.  
+--- 
+### NIXI (National Internet Exchange of India)  
+#GS3 #SciTech #Organizations  
+- **NPO** under **Section 8 of Companies Act, 2013**  
+- It was setup to enable **peering among ISPs within India**, allowing domestic internet traffic to remain within the country.  
+- It was delegated the responsibility to **manage India's .IN Country Code Top-Level Domain (ccTLD)** through the **INRegistry**  
+- It operated on a **neutral** and **non-discriminatory** basis  
+---
 ### Nuclear Security
 #GS2 #IR #convention 
 - Nuclear Security is the **prevention and detection of, and response to** ***unauthorised access or removal, sabotage, and illegal transfer or other malicious acts*** involving **nuclear or radiological material** or their associated facilities
@@ -2097,4 +2236,191 @@ A(Social security)-->D(Labor market  programs);
 - ***Semaglutide*** marketed under the brand name **Wegovy**
 	- It works as an *apetite suppressant* by imitating a **hormone** called ***gluvagon-like peptide-1 (GLP-1)***, which is an intestinal hormone released after eating and make people feel fuller
 - ***Tirzepatide*** marketed under **Mounjaro**
+---
+### Shanghai Cooperation Organisation (SCO)
+#GS3 #IR #InternationalGroupings 
+- Founded at the **Shanghai Summit in 2001** evolving from the ***Shanghai Five*** group
+- **MEMBERSHIP (10):*** ****Turkmenistan is NOT a member***
+	- ***40% world's population*** and ***30% GDP***
+	- **Original Shanghai Five:**
+		1. China
+		2. Kazakhstan
+		3. Kyrgyzstan
+		4. Russia
+		5. Tajikistan
+	- **Later members:**
+		6. Uzbekistan (2001)
+		7. India (2017)
+		8. Pakistan (2017)
+		9. Iran (2023)
+		10. Belarus (2024)
+- **Organizational structure:**
+	- **Council of Head of States:** apex decision-making body
+	- **Council of Heads of Governments:** second highest
+	- Contains the **Regional Anti-Terrorist Structure (RATS)** to mitigate the ***"Three Evils"*** - *terrorism, separatism and religious extremism*
+- **2025 Defence Ministers Meeting in China:** India refused to sign the joint declaration and there was no concluded declaration as SCO rules require **full consensus for joint declaration**
+	- The joint declaration did not mentioned the **Pahalgam attack** while mentioned the **increasing terrorism in Baluchistan**
+	- Pakistan opposed the same
+- **Significance of SCO for India:**
+	1. **Fostering regional security:** through SCO's **RATS**
+	2. **Boost socioeconomic ties:** promotes cooperation through initiatives like ***SCO Young Scientists Conclave*** and ***Special Working Group on Innovation and Startups* (proposed by India)**
+	3. **Enhanced regional connectivity:** 
+		- ***INSTC*** involves SCO members
+		- Counter China's **BRI**
+	4. **Countering the hegemony of western-dominates institutions:** through SCO's proposal for trade in **national currency** instead of dollar
+- **Challenges:**
+	1. **China-Pakistan axis:** China's silence towards Pakistan sponsored cross-border terrorism
+	2. Perception of SCO being **anti-western grouping**
+---
+### GAVI
+#GS2 #IR #InternationalOrganizations 
+- **Gavi, The Vaccine Alliance:**
+	- It is a **Public party partnership**
+		- The core partners include **WHO, UNICEF, World Bank** and the **Gates Foundation**
+	- Its mission is to save lives and protect people's health by increasing **equitable** and **sustainable use of vaccines**
+		- It has vaccinated **over 1 billion children** across the poorest countries
+	- Gavi is a member of the **WHO led** ***Vaccnie Safety Net (VSN)*** 
+	- Its secretariat is at **Geneva**
+- USA **withdrew** from **Gavi**, along with **WHO** and accused it of silencing dissenting views and legitimate questions about **vaccine safety**
+	- USA has **withdrawn** from various **global alliances:**
+		- **WHO** and **Gavi**
+		- **UN-HRC**
+		- **UNRWA**
+- **Impact of US withdrawal from global alliances:**
+	- **Weakening of multilateralism/rule-based order:** #Eg Israel withdraws participation from UN-HRC
+	- **Undermine climate actions:** 2024 was recorded as one of the two hottest years and USA stands as the second largest emitter
+	- **Shortage of funds for health:** #Eg #Data ***In 2024, US funded about 15% of WHO's total funding***
+	- **Leadership vacuum:** can be filled by **China** - it may **reduce India's influence on decision making**
+---
+### AMRUT
+#GS1 #Society #Urbanisation #Scheme #Data
+- India celebrated **10 years of AMRUT (Atal Mission for Rejuvenation and Urban Transformation)**, which was launched in 2015 and was India's **first water focused mission**
+	- AMRUT 2.0 was launched in 2021
+	- It is a **centrally SPONSORED scheme** under **UMoH&UA** covering **all ULBs**.
+	- Funds are shared among states and UTs based on **urban population** and **number of towns**
+- **Objectives:**
+	- Ensure every household has access to a **tap** and **sewage connection**
+	- Increase the **amenity value of cities** #Eg Parks
+	- Reduce **pollution** by promoting **public transport**, etc.
+- **Coverage:** ***500 selected cities and towns*** - now **485 cities, including 15 merged cities**
+- **Other key initiatives under AMRUT:**
+	- **Jal Hi AMRIT:** to treat and reuse water safely
+	- **AMRUT Mitra:** to foster skills among SHG women related to water management in their communities
+- **Achievements:**
+	- **99 lakh streetlights** replaced with **LEDs**
+	- **48 lakh tonnes** of **CO2 reduction per year**
+	- **INR 5,000 crore** raised through **Municipal Bonds**
+	- **3,599 cities** implemented ***online Building Permission system***
+	- **GIS-based Master Plans** for AMRUT cities
+---
+### SMFCL
+#GS3 #Economy #Infrastructure #MaritimeSector
+- **Sagarmala Finance Corporation Limited*** is India's *first **NBFC** in the **maritime** sector* and is registered with **RBI**
+	- Formerly, it was *Sagarmala Development Company Limited* and was accorded with *Mini Ratna* status
+	- It will offer **tailored financial products** to a diverse range of stakeholders - ***port authorities***, ***shipping companies***, etc.
+		- It will support **strategic sectors** like:
+			- **Shipbuilding**
+			- **Renewable energy**
+			- **Cruise tourism**
+			- **Maritime education**
+- **Key initiatives launched for the Maritime sector:**
+	1. **Digital Centre of Excellence (DCoE):** to foster innovation and modernization of port operations and shipping logistics through emerging technologies like AI, IoT, and Blockchain, etc.
+	2. **SAGAR SETU platform:** aligned with **PM Gati Shakti National Master Plan**. It **integrates multiple service providers** to offer **seamless EXIM** services.
+	3. **DRISHTI (Data driven decision support-Review-Institutional Information-System for-Hastening and- Tracking-Implementation):** aims to accelerate the implementation of **Maritime India Vision 2030** and **Amrit Kaal Vision 2047**
+	4. **Scale of Rates (SOR) of Major Ports:** providing a **uniform structure for port tariffs**
+	5. ***Gateway to Green:*** **India's Ports Transforming into Hydrigen Hubs:** outlines a road-map for transforming Indian ports into hubs for green hydrogen production, storage, and export.
+	6. **Maritime India Vision 2030:**
+		- Provides a **comprehensive framework for the holistic development of India's maritime sector**, encompassing ports, shipping and waterways.
+		- It aims to propel India to **global maritime leadership**
+	7. **Amrit Kaal Vision 2047:**
+		- Builds on the maritime India Vision 2030
+		- Aims to develop **world-class ports and promote inland water transport, coastal shipping**, and a **sustainable maritime sector**
+---
+### Japan
+#GS1 #Geography #PlacesInNews #Mapping 
+<p align="center">
+<img src="https://www.worldatlas.com/upload/4a/5a/54/jp-01.jpg" alt="Japan" width="550"/>
+</p>
+
+- **Islands of Japan:**
+	- ***Honshu*** - largest
+	- ***Hokkaido***
+	- ***Kyushu***
+	- ***Shikoku***
+- **Maritime borders:**
+	- East - *Pacific Ocean*
+	- North - ***Sea of Okhotsk***
+	- West - *Sea of Japan* (*East Sea*)
+	- Southwest - *East China Sea*
+- **Geographic features:**
+	- Highest peak: **Mt. Fuji**, as volcano
+	- Major rivers: ***Shinano river*** (longest), ***Tone river***, and ***Kiso river***
+- **Disputed Islands of japan:**
+	- ***Senkaku Islands (Diaoyu/Tiaoyutai)***
+		- Uninhabited islands in the **East China Sea**
+		- Claimed by **Japan, China, and Taiwan**
+	- ***Kuril Islands***
+		- North of Hokkaido and are claimed by **Japan and Russia**
+	- ***Takeshima Islands (Dokdo)***
+		- Claimed by **Japan and South Korea**
+---
+### UN80
+#GS2 #IR #InternationalOrganizations 
+- Initiative launched by **UN** to commemorate the **signing of the UN Charter 80 years ago in 1945**
+- It is aimed at **streamlining operations, sharpening impact, and reaffirming UN's relevance** for a rapidly changing world
+---
+### Official Language
+#GS2 #Polity #Language
+- **Department of Official Language** celebrated **golden jubilee - 50 years**
+- **OFFICIAL LANGUAGE:**
+	- Provisions related to official language are in **Part XVII (17)** of the Constitution
+	- **Article 343** states that the official language of the Union shall be **Hindi** in *Devanagari script*
+		- The **Official Language Act, 1963** provides for the use of **English** in addition to Hindi, for all purpose of Union and business transactions in Parliament
+	- **Article 344** provides for the construction of the **Commission and Committee on Official Language**
+	- **Article 345** provides that State legislatures may adopt any one or more languages used in the State or Hindi as the official language of that state
+---
+### Operation Deep Manifest
+#GS3 #Economy #InternalSecurity #MoneyLaundering 
+- **Directorate of Revenue Intelligence (DRI)** has seized goods valued at *INR 9 crore* under it's ***Operation Deep Manifest***
+- It was launched to **target the illegal import of Pakistani-origin goods** routed through third party countries, primarily via *Dubai, UAE*
+	- Following the *Pahalgam terror attack*, India imposed a **comprehensive ban** on the **direct or indirect import or transit** of goods **originating in or exported from Pakistan**
+	- Previously, such goods were subjected to **200% customs duty**
+---
+### Science and Technology (S&T) Clusters Initiatives
+#GS3 #SciTech #Scheme 
+- **S&T Clusters Annual Report 2024-2025** highlighted various initiatives launched under the program including ***kalaanubhav.in*** which is an AR/VR-enabled ***artisan marketplace**
+- **S&T Clusters Initiatives** was launched in 2020 based on the recommendations of **PM-STIAC** (Prime Minister's Science, Technology, and Innovation Advisory Council)
+	- It aims to bring together stakeholder, like academic institutions, R&D organisations, industry, local governments, to **deliver demand-driven solutions through innovative ideas**
+	- It operates through a ***consortium-based approach***
+- **Nodal Implementing Agency:** Office of the Principal Scientific Adviser (PSA), which works under the Cabinet Secretary
+---
+### AlphaGenome
+#GS3 #SciTech #AI 
+- New AI model launched by **Google DeepMind**
+- It will help in accurately predicting how individual mutations in human DNA affect their functions and impact our health. It will analyse large DNA sequences - 1Mn base pairs.
+- **DeepMind's protein-synthesis models:**
+	- ***Enformer*** - genomics model
+	- ***AlphaMissense*** - specialize in categorization the effects of variants within the protein-coding regions
+	- ***AlphaFold***
+---
+### Manasarovar Lake
+#GS1 #Geography #PlacesInNews #Mapping 
+- After a 6 year gap, Indian pilgrims completed the **Kailash Mansarovar Yatra**
+	- It is first **India-China people-to-people exchange** to resume since the COVID-19
+	- It took place through the **Nathu La** pass to **Lhasa** to **Kailash** 
+	- Yatra takes place through two routes:
+		- ***Lipulek Pass* (Uttarakhand)**
+		- ***Nathu La Pass* (Sikkim)**
+		  <p align="center"><img src="https://pmfias.b-cdn.net/wp-content/uploads/2025/04/kailash-mansarovar-1-1536x922.png" alt="Kailash Mansarovar Yatra" width="550"/></p>
+
+- **Mount Kailash Parvat** is also known as **Lake Manas Sarovar** in Sanskrit
+- It is located at the foot of **Mount Kailash**, located in **Tibet**
+- It is **world's highest freshwater lake** and is called ***Mapang Yongcuo*** in China
+- There are two lakes side by side
+	- ***Rakshastal*** - saltwater lake
+	- ***Mansarovar*** - freshwater lake
+	  <p align="center"><img src="https://www.kailash-yatra.org/images/rakshas-taal-lake-near-mansarovar-lake-tibet.jpg" alt="Kailash Lakes" width="350"/></p>
+
+
+- There is **Chiu Hompa Monastery** located near the lake
 ---

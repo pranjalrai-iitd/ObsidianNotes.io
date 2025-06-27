@@ -149,3 +149,45 @@ A(Social security)-->D(Labor market  programs);
 		- ***IT Rules, 2021:*** requires social media to remove objectionable content within 24 hours of complaint
 		- ***Digital Shakti*** #MainsValueAddition : **Digitally empowering women & girls in cyberspace**, creating safer online environments for them
 ---
+### Women in STEM  
+#GS2 #Governance #Education #Women #Data  
+- As per **MoEducation**, for the first time in over a decade, ***more girls passed Class 12 with Science (~28 lakh) than with Arts (~27 lakh) in 2024***  
+- It marks **shift from traditional gender trend**  
+- **Data:**  
+	- **Gender-gap in science (Class 12th)** is narrowing and stands at **46%**  
+	- **AISHE 2021-22:** Women comprises **52%** of students in sciense disciplines  
+	- In **medicine**, female representation is on par with men and their presence is steadily increasing  
+- **Initiatives:**  
+	- ***Vigyan Jyoti:*** aims to encourage girls to pursue higher education and career in STEM  
+	- ***CURIE initiative:*** supports R&D infrastructure in women universities to attract, train and retain promising girl students in S&T domain  
+	- ***WISE-KIRAN scheme:*** encourages women scientists to engage in groundbreaking research in Science & Engineering  
+---  
+### QS World University Rankings 2026  
+#GS2 #Governance #Education  
+- India has **54 universities in the Rankings**, making it **4th** after **US, UK, and China** in terms of **most represented country**  
+- **IIT Delhi - 123rd**, is India's top ranked institution  
+  
+<b><u>India's Research and Development Ecosystem:</u></b>  
+- India ranked **39th/133** in the **Global Innovation Index 2024**  
+- **CONCERNS:**  
+	1. **Low GERD (Gross Expenditure on Research & Development): 0.64% of GDP**  
+		- China - 2.43%  
+		- USA - 3.5  
+		- **Economic Survey 2020-2021:** India needs to increase its GERD to **2%**  
+	2. **Inadequate private sector participation:**  
+		- Central government - 43.7%  
+		- **Private sector - 36.4%**  
+			- Compared to **70%** in countries like **USA, and China**
+		- State governments - 6.7%  
+		- Higher Education Institutions - 8.8%  
+		- Public Sector Industries - 4.4%  
+	3. **Poor utilization of funds:** in FY23  
+		- **DoBT - 72%** utilization of allocated budget  
+		- **DoST - 61%** utilization of allocated budget  
+	4. **Sub-optimal Industry-Academia convergence:** poor transformation of technologies developed in Indian labs for larger good of society  
+	5. **Brain drain:** to developed countries  
+- **INITIATIVES:**  
+	- **Draft National Science, Technology, and Innovation (STIP) (2020):** to **double** the number of Full-Time Equivalent (FTE) researchers, GERD and private sector contribution to GERD **every 5 years**.  
+	- **Anusandhan National Research Foundation (ANRF):** Established under the **ANRF Act, 2023** to seed, grow and promote R&D and foster a culture of research and innovation throughout the country  
+	- **IMPacting Research INnovation and Technology (IMPRINT):** aimed at bridging gap between **scientific knowledge base** created through **fundamental research** and **applied research** and fruitful translation to engineering innovation  
+---  
