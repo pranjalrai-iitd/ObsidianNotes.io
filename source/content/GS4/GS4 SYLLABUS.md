@@ -2,13 +2,14 @@
 - [[1. ETHICS AND HUMAN INTERFACE]] #GS4_1
 	- #GS4_1A **1.A)** Essence of Ethics
 	- #GS4_1B **1.B)** Determinants of Ethics
-	- #GS4_1C **1.C)** Dimensions of Ethics
-	- #GS4_1D **1.D)** Ethics in private and public relations
-	- #GS4_1E **1.E)** Human values
-	- #GS4_1F **1.F)** Value, lessons learned from the teaching of great leaders, reformers and administrators
-	- #GS4_1G **1.G)** Role of family in inculcating values
-	- #GS4_1H **1.H)** Role of society in inculcating values
-	- #GS4_1I **1.I)** Role of educational institutions in inculcating values
+	- #GS4_1C **1.C)** Consequences of Ethics
+	- #GS4_1D **1.D)** Dimensions of Ethics
+	- #GS4_1E **1.E)** Ethics in private and public relations
+	- #GS4_1F **1.F)** Human values
+	- #GS4_1G **1.G)** Value, lessons learned from the teaching of great leaders, reformers and administrators
+	- #GS4_1H **1.H)** Role of family in inculcating values
+	- #GS4_1I **1.I)** Role of society in inculcating values
+	- #GS4_1J **1.J)** Role of educational institutions in inculcating values
 - [[2. ATTITUDE]] #GS4_2
 	- #GS4_2A **2.A)** Concept, structure and function of Attitude
 	- #GS4_2B **2.B)** Influence and relation of Attitude with thought and behaviour
