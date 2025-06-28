@@ -112,6 +112,33 @@
 <b><u>CONCLUSION:</u></b> ***"By bridging the skill gap, the formal staffing industry ca play a vital role in India's journey towards more formalised and productive employment, contributing to the country's overall economic development".***
 
 ---
+### SKILLS FOR THE FUTURE REPORT
+#GS3 #Economy #Skilling #Report 
+
+<b><u>NEWS:</u></b>
+- **Ministry of Skill Development and Entrepreneurship** released the ***"Skill For the Future: Transforming India'a Workforce landscape*** report, in the backdrop of the emerging **knowledge-drive global economy**
+
+<b><u>INDIA'S SKILLS LANDSCAPE:</u></b>
+- **Low-competency Occupations:** About **88%** of the workforce in engaged in low-competency occupations (2023-24)
+- **Skill Mismatch:** many workers occupy roles that do not correspond to their education levels, either due to *over qualification* or *under qualification*
+- **Structural Issues:**
+	- ***Over qualification*** in low-skill jobs reflect **lack of sufficient high-skill job opportunities**
+	- **Skill shortages in high-skill jobs:** ***Under qualification*** for high-skill roles reveal **gaps in access to education and training**, especially for low-income and rural groups
+
+<b><u>IMPACT OF SKILL MISMATCH:</u></b>
+1. **Reduces Economic Productivity:** As overqualified worker occupy low-skill roles while under qualified struggle in high-skill roles
+2. **Inefficient Human Resource Allocation:** hinders **innovation** and undercuts the ability to reap **demographic dividend**
+3. **Limits Social & Economy Mobility:** mismatch reinforces **inequality** limiting upward mobility and widening **socio-economic disparities**
+4. **Migration and Brain Drain:** gaps lead to large scale out-migration
+
+<b><u>RECOMMENDATIONS OF THE REPORT:</u></b>
+1. **Revamp Technical and Vocational Education and Training (TVET):** align courses offering and curricula with evolving industry needs
+2. Establish a standardized mechanism to **access current and future skill requirements**, supporting **evidence-based policy making** and targeted interventions
+3. **Industry Engagement and Accountability:** incentivize industries to hire from certified skill pools, and take accountability for creating market-aligned training
+4. **Promote Lifelong Learning:** develop incentives for continuous **skilling, upskilling,** and **reskilling** of the workforce to meet job demands
+5. Promote the **Formal Staffing industries**
+
+---
 ### FOOD ADULTERATION
 #GS3 #Economy #FoodProcessing
 
@@ -152,7 +179,8 @@
 - **Food safety** must be ***seen as a matter of both Health & awareness****
 - **Food hygiene** are also linked with **caste & class**, addressing the issue in s **differentiated approach** is again required
 ---
-### FINTECH SECTOR
+### FINTECH SECTOR AND RURAL INDIA
+#GS3 #Economy #Fintech #Rural
 
 <b><u>NEWS:</u></b>
 - Finance Minister stressed that fintech firms should view rural India as a fertile ground **not just as a social responsibility bust as an opportunity to create new markets**
@@ -228,3 +256,77 @@
 - **Outward FDI/ Overseas Direct Investment:** ***USD 29 Bn***
 - **Net FDI:** ***USD 0.4 Bn***
 ---
+### INDIA's EXTERNAL DEBT DATA
+#Gs3 #Economy #Data #Debt 
+
+<b><u>HIGHLIGHTS OF RBI REPORT:</u></b>
+- As per **RBI Report**, India's external debt rose to <b><u><i>USD 736.6 Billion</i></u></b> in March 2025 - an increase of **USD 67.5 Billion y-o-y**, *excluding the valuation effects*.
+	- **81.7%** - **Long term debt** - *increased marginally*
+	- **18.3% - Short term debt** - *fell down*
+- ***External Debt to GDP Ratio:*** increased to <b><u><i>19.1%</i></u></b> from *18.5%* in March 2024
+	- ***General Government Debt*** - **23%** of total external debt 
+- ***Debt service** (principal repayments + interest payments)* **declined** marginally by **0.1%**
+
+<b><u>ISSUES WITH EXTERNAL DEBT:</u></b>
+1. **Repayment burden** and **exchange rate risk**
+2. **Riding inflation** which further slows growth leading to the vicious cycle of **increasing Debt/GDP ratio**
+3. **Crowding out of productive investment** - due to higher debt servicing
+4. **BoP pressures** due to accumulation of persistent debt
+
+---
+### INDIA'S STARTUP ECOSYSTEM
+#GS3 #Economy #Startup
+
+<b><u>NEWS/DEFINITION:</u></b>
+- India ranks **3rd** on the **Hurun Global Unicorn Index 2025**. Further, a report by **Meta** found out that India's startup ecosystem experienced **exponential growth over the last decade** due to a surge in **early-stage funding, digital penetration, and consumer affluence** across both **metro** and **non-metro** regions.
+- **DPIIT** released **BHASKAR - Bharat Startup Knowledge Access Registry** as a one-stop digital platform where diverse startups can seamlessly connect and collaborate, catalyzing growth and success of startup ecosystem of India.
+	- It has more than **5 lakh** registrations
+- #Definition As per **DPIIT** **Startup** is a private limited company, partnership, or limited liability partnership (LLP) which satisfies the following:
+	- **Company age:** up to **10 years** from the year of incorporation
+	- **Annual turnover:** not exceeding **INR 100 crores** for any of the financial year since incorporation
+	- **Original entity**
+	- **Innovative and scalable**
+
+<b><u>DATA/INDIA'S STARTUP ECOSYSTEM:</u></b>
+- #Data **DPIIT** has recognized more than **1,80,000 startups** in India
+- #Data **51% (majority)** DPIIT recognized startups are from **non-metro cities**
+- #Data Over **USD 380 Billion** ***combined value*** of Indian **unicorns**
+- #Data India ranks **3rd** on the **Hurun Global Unicorn Index 2025**
+
+<b><u>GROWTH LEVELERS FOR INDIA'S STARTUP ECOSYSTEM:</u></b>
+1. **AI adoption:** around **70%** of startups were integrating AI into their business operations
+	- In marketing alone, **87%** of AI adopters reported improvement in cost per acquisition
+2. **Cross-border expansion:** more than **half** of the startups target global markets along with India
+3. **Omnichannel presence:** over **2/3rd** blend **online-offline models**
+	- #Eg **Digital discovery** via ads/reels drive consumers to physical stores for high-value purchases
+4. **Tier 2/3 market focus:** nearly all startups expanding out of tier 1 cities
+5. **Surge in early-stage funding** as per Meta report
+6. **Digital penetration:** increasing consumer base and demand driving growth of startups
+
+<b><u>ROLE OF STARTUPS:</u></b>
+1. **Employment creation**
+2. **New investments** - including FDI
+3. **Research & Development**
+4. Drives **economic growth**
+5. **Democratizing technology** - as expands to tier2/3 cities
+
+<b><u>GOVERNMENT STARTUP INITIATIVES:</u> <i>"Fostering Innovation & Entrepreneurship in India"</i></b>
+1. **Startup India** program by DPIIT - providing various benefits like *income tax exeption, east public procurement, patent application and IPR protection*.
+2. **Startup India Seed Fund Scheme (SISFS):** supports startups at various stages including *proof of concept, prototype development* and *market entry*
+3. **Funds of Funds (FFS):** boost access to domestic capital for startups and venture capital funds
+4. **Credit Guarantee Scheme (CGSS):** provides credit guarantees for loans to DPIIT recognized startups
+5. **Atal Innovation Mission (AIM):** promotes innovation and entrepreneurs across India through various programs
+6. **MeITY Startup Hub (MSH):** fostering vibrant innovation ecosystem by uniting technology stakeholders and promoting growth
+7. **DPIIT supported digital portal for startups:**
+	- ***MAARG mentorship:*** *"Mentorship, Advisory, Assistance, Resilience and Growth Portal"*
+	- ***BHASKAR:*** *"BHArat Startup Knowledge Access Registry "*
+
+<b><u>CONCLUSION:</u></b> ***"Startups are perfect models for improving the Total Factor Productivity of the Indian economy and will be at the forefront of Viksit Bharat in 2047"***
+
+---
+### CURRENT ACCOUNT BALANCE DATA
+#GS3 #Economy #Data 
+- India's Current Account Balance recorded a **surplus of *USD 13.5 Billion (1.3% of GDP)*** in **Q4 of FY25**
+- It led to narrowing of India's **Current Account Deficit (CAD)** to ***USD 23.3 Billion*** i.e, <b><u><i>0.6% of GDP</i></u></b> during FY25 down from *USD 26 Billion* i.e, *0.7% of GDP* in FY24. 
+---
+

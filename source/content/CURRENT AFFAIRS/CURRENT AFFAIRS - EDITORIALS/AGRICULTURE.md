@@ -16,12 +16,24 @@
 ---
 ### DATA ON SUB-SECTORS OF AGRICULTURE
 #GS3 #Agriculture #Data 
+
+<b><u>DATA ON AGRICULTURE:</u></b>
+- ***Economic contribution***: **16% GDP** for FY24 (Economic Survey 2024-25)
+-  ***Livelihood:*** Supports **46% population**
 <p align="center"><img src="AgricultureGVAData.jpg" alt="" width="450"/></p>
 
+<b><u>HIGHLIGHTS OF MoSPI 2025 REPORT:</u></b>
+- **Gross Value Added (GVA) and Gross Value of Output (GVO):** in agriculture and allied sector 
+	- **DECADAL GROWTH:**
+		- **GVA** rose by **225%** (current prices) from *FY12* to *FY24*
+		- **GVO** rose by **54.6%** (current prices) from *FY12** to *FY24*
+	- **GVO IN FY24:**
+		- *Crops* - **54%**
+		- ***Livestock*** - **31%** (increased from **25.6% in FY12)
+		- *Forestry & logging* - **7.7%**
+		- ***Fishing & aquaculture*** - **7%**
+			- The share of **inland fisheries** has **decreased** to ***50.2% (still majority)*** whereas the share of **marine fisheries increased**
+- **Rising share or allied sector:** ***~46%*** of total GVO from *37.6% in FY12*
 
-- **Crops: 54%**
-- **Livestock: 31%**
-- **Forestry, logging: 7.7%**
-- **Fishing, aquaculture: 7.0%**
 ---
 

@@ -355,3 +355,24 @@
 		- Non-State armed groups - 50%  
 		- Government forces - killing and attack on schools  
 ---
+### Skills For The Future Report
+#GS3 #Economy #Skilling #Report 
+- **Ministry of Skill Development and Entrepreneurship** released the ***"Skill For the Future: Transforming India'a Workforce landscape*** report, in the backdrop of the emerging **knowledge-drive global economy**
+---
+### SPREE Scheme
+#GS3 #Economy #Scheme 
+- **SPREE (Scheme to Promote Registration of Employers/Employees)** scheme was approved for launch by **Employees' State Insurance Corporation (ESIC)**
+- It was earlier launched in 2016 and facilitated the registration of over **88,000 employers** and **1.02 crore employees** under the **Employees' State Insurance Act**
+- **Renewed SPREE (2025):** a one-time enrollment window will be open for unregistered and left-out workers
+- **Other initiatives to improve Employee Insurance:**
+	- **Approves Amnesty Scheme (2025-2026):** to reduce *litigation* and to promote *EoDB*
+	- **Revised ESI AYUSH Policy:** approval for Yoga therapists and Panchakarma attendants in ESIC hospitals
+---
+### Adi Karmyogi Programme
+#GS1 #Society #Tribals #Scheme 
+- Launched by **Ministry of Tribal Affairs (MoTA)**
+- It aims to build a **cadre of highly motivated officers** and change makers dedicated to **grassroots transformation**
+	- It will take **capacity-building** to about **20 lakh field-level stakeholders** by creating a batch of *trainers* and *master trainers* at the State, district and block levels
+	- It will emphasize **citizen-centric ideation** and **delivery**
+- Target is to reach **1 lakh tribal villages and habitations**
+---

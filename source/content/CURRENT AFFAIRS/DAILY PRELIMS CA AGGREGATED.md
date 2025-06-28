@@ -2424,3 +2424,167 @@ A(Social security)-->D(Labor market  programs);
 
 - There is **Chiu Hompa Monastery** located near the lake
 ---
+### NSO Report on Agriculture and Allied sector
+#GS3 #Economy #Agriculture #Data #Report 
+- **NSO** under **MoSPI** released the report offering a comprehensive overview of agriculture and allied sector in the last decade.
+- **Agriculture sector:**
+	- ***Economic contribution***: **16% GDP** for FY24 (Economic Survey 2024-25)
+	- ***Livelihood:*** Supports **46% population**
+- **HIGHLIGHTS:**
+	- **Gross Value Added (GVA) and Gross Value of Output (GVO):** in agriculture and allied sector 
+		- **GVA** rose by **225%** (current prices) from *FY12* to *FY24*
+		- **GVO** rose by **54.6%** (current prices) from *FY12** to *FY24*
+	- **Rising share or allied sector:** ***~46%*** of total GVO
+	  <p align="center"><img src="AgricultureGVAData.jpg" alt="Agriculture GVO" width="450"/></p>
+	 
+	- **Crop sector:** Largest contributor - **54%** of total GVO
+		- ***Uttar Pradesh*** is **top cereal-producing** state
+		- **Paddy** and **wheat** constitute nearly ***85%*** of GVO of **all cereals** in FY24
+	- **Floriculture:** GVO **doubled** from FY12 to ***INR 28,000 crore*** in FY24
+		- #Data <b><u>NOTE:</u></b>
+			- **State wise floriculture cultivation:**
+				1. **Tamil Nadu - 21%**
+				2. **Karnataka - 16%**
+				3. **Madhya Pradesh - 14%**
+			- **State wise horticulture cultivation:**
+				1. **Uttar Pradesh - 13%**
+				2. **Madhya Pradesh - 10%**
+				3. **Gujarat**
+			- **Orchid production:** ***"orchid state of India"*** is **Arunachal Pradesh**
+				1. **Arunachal Pradesh**
+				2. **Sikkim**
+				3. **West Bengal**
+	- **Condiments and spices:** the top states are
+		1. **Madhya Pradesh - 19.2%**
+		2. **Karnataka - 16.6%**
+		3. **Gujarat - 15.5%**
+	- **Fishing and Aquaculture:** increased contribution from 4.2% (FY12) to **7% (FY24)**
+		- The share of **inland fisheries** has **decreased** to ***50.2% (still majority)*** whereas the share of **marine fisheries increased**
+- **Initiatives for Agriculture and allied sectors:**
+	- **Agriculture Investment Fund (INR 1 lakh crore):** to address the existing gaps in **post-harvest infrastructure** in the country
+	- **Digital Agriculture Mission:** to support various digital agriculture initiatives
+	- **Pradhan Mantri Matsya Sampada Yojana:** aims to **formalize the fisheries sector** and support fisheries micro and small enterprises
+	- **Mission for Integrated Development of Horticulture (MIDH):** a centrally sponsored scheme for the holistic growth of horticulture sector
+	- **Other initiatives:**
+		- **Fisheries & Aquaculture Infrastructure Development Fund*
+		- **PM Fasal Bima Yojana**
+		- **Rashtryia Krishi Vikas Yojana**
+---
+### India's External Debt
+#Gs3 #Economy #Data #Debt 
+- As per **RBI Report**, India's external debt rose to ***USD 736.6 Billion*** in March 2025 - an increase of **USD 67.5 Billion y-o-y**, *excluding the valuation effects*.
+	- ***Valuation effect:*** occurs due to **appreciation of USD** vis-a-vis **INR**
+- **HIGHLIGHTS OF RBI REPORT:**
+	- ***External Debt to GDP Ratio:*** increased to **19.1%** from *18.5%* in March 2024
+	- ***Long term and short term Debt:***
+		- ***Long term Debt*** - **USD 601.9 Billion** and *rose marginally* to **81.7%** (of total external debt)
+		- ***Short term Debt*** - **USD 134.7 Billion** and *fell to* **18.3%** (of total external debt)
+	- ***Composition:***
+		1. **USD** - **54.2%**
+		2. **INR** - **31.1%**
+		3. **Japanese Yen**
+		4. **SDR**
+	- ***Borrowers:***
+		1. **Non-financial corporations** *(except RBI)* - **35.5%**
+		2. **Deposit-taking corporations** - **27.5%**
+		3. **General government** - **22.9%**
+	- ****Debt instruments:***
+		1. **Loans** - **34%**
+		2. **Currency**
+		3. **Deposits**
+	- ***Debt service** (principal repayments + interest payments)* **declined** marginally by **0.1%**
+- **ISSUES WITH EXTERNAL DEBT:**
+	- **Repayment burden** and **exchange rate risk**
+	- **Riding inflation** which further slows growth leading to the vicious cycle of **increasing Debt/GDP ratio**
+	- **Crowding out of productive investment** - due to higher debt servicing
+	- **BoP pressures**
+---
+### Indus Waters Treaty 1960
+#GS2 #IR #HydroDiplomacy #IndiaPakistan
+- **Hague based Court of Arbitration** held that India holding the IWT ***in abeyance*** does not affect its authority to rule on disputes regarding India's **Kishenganga** and **Ratle** hydroelectric projects in Jammu and Kashmir
+- **3-step dispute resolution mechanism under IWT:**
+	- **Permanent Indus Commission:** required to meet at least once a year to resolve questions about implementation
+	- **Neutral expert** via **World Bank:** to deal with unresolved differences on water-sharing
+	- **Court of Arbitration** - ***7 member arbitral tribunal*** to resolve disputes
+- **IWT and current status:**
+	- **Water allocation:**
+		- **India** - unrestricted use of **Eastern rivers**
+			- ***Sutlej, Beas, Ravi***
+		- **Pakistan** - rights over **Western rivers** with India retaining right o develop *run-off-river* projects on the same
+			- ***Indus, Jhelum, Chenab***
+	- **Dispute:**
+		- ***Kishenganga*** project - a **Jhelum** tributary
+		- ***Ratle*** project - on **Chenab**
+		- On Pakistan's request, World Bank appointed both a neutral expert and the Court of Arbitration
+			- ***India accepted the neutral expert process*** but, not the CoA.
+	- Post the Pahalgam attack, India **held IWT** ***in abeyance***
+---
+### Skills For The Future Report
+#GS3 #Economy #Skilling #Report 
+- **Ministry of Skill Development and Entrepreneurship** released the ***"Skill For the Future: Transforming India'a Workforce landscape*** report, in the backdrop of the emerging **knowledge-drive global economy**
+
+---
+### SPREE Scheme
+#GS3 #Economy #Scheme 
+- **SPREE (Scheme to Promote Registration of Employers/Employees)** scheme was approved for launch by **Employees' State Insurance Corporation (ESIC)**
+- It was earlier launched in 2016 and facilitated the registration of over **88,000 employers** and **1.02 crore employees** under the **Employees' State Insurance Act**
+- **Renewed SPREE (2025):** a one-time enrollment window will be open for unregistered and left-out workers
+- **Other initiatives to improve Employee Insurance:**
+	- **Approves Amnesty Scheme (2025-2026):** to reduce *litigation* and to promote *EoDB*
+	- **Revised ESI AYUSH Policy:** approval for Yoga therapists and Panchakarma attendants in ESIC hospitals
+---
+### Adi Karmyogi Programme
+#GS1 #Society #Tribals #Scheme 
+- Launched by **Ministry of Tribal Affairs (MoTA)**
+- It aims to build a **cadre of highly motivated officers** and change makers dedicated to **grassroots transformation**
+	- It will take **capacity-building** to about **20 lakh field-level stakeholders** by creating a batch of *trainers* and *master trainers* at the State, district and block levels
+	- It will emphasize **citizen-centric ideation** and **delivery**
+- Target is to reach **1 lakh tribal villages and habitations**
+---
+### Current Account Balance
+#GS3 #Economy #Data 
+- India's Current Account Balance recorded a **surplus of *USD 13.5 Billion (1.3% of GDP)*** in **Q4 of FY25**
+- It led to narrowing of India's **Current Account Deficit (CAD)** to ***USD 23.3 Billion**** i.e, ***0.6% of GDP*** during FY25 down from *USD 26 Billion* i.e, *0.7% of GDP* in FY24. 
+---
+### Goldilocks Economy
+#GS3 #Economy 
+- According to the **Finance Ministry**, ***"Indian Economy's health is in a relative Goldilocks situation"***
+- **Goldilocks situation of Economy:**
+	- It describes an **ideal state for an economy** where it's **not expanding or contracting** by too much
+- The Goldilocks scenario is **good for investors as companies perform well and stocks rally***
+- **Features that show India economy is in Goldilocks situation:**
+	- The *unemployment rate* in the economy is low
+	- There is *steady growth* in *GDP* and companies report better earnings
+	- The *retail inflation* and the *interest rates* are relatively low
+---
+### Per-and polyfluoroalkyl substances (PFAS)
+#GS3 #SciTech #Health 
+- Researchers discovered nearly 20 species of **bacteria capable of breaking down PFAS**
+- **PFAS:**
+	- They are chemicals having **carbon-fluorine bonds**, which are very strong and **do not degrade** easily
+		- They can **resist grease, oil, water, and heat**
+	- They are used in **non-stick cookware, food packaging, food processing equipment, fabrics, paints, and foams**
+- They are called ***"Forever Chemicals"*** and persists in the environment, contamination air, water, and soil, and **bioaccumulates** in humans and animals
+- They are **widely found in water** and can be found even in **human blood!**
+---
+### Vera C. Rubin Observatory
+#GS3 #SciTech #Space 
+- The observatory is located in **Chile** and is designed to conduct the ***Legacy Survey of Space and Time (LSST)*** - a **10 year project** to map the **southern sky**
+- Named after Astronomer **Vera C. Rubin**, who provided pioneering evidence of **dark matter**
+- The observatory released its first images of the cosmos
+---
+### IBAT Alliance
+#GS3 #Environment #Biodiversity 
+- **IBAT Alliance** doubled its investment in biodiversity data from 2023 to 2024. This will support the **3 key datasets:**
+	1. **World Database on protected Areas**
+	2. **IUCN Red List**
+	3. **World Database of Key biodiversity Areas**
+- **IBAT:**
+	- It stands for **Integrated Biodiversity Assesment Tool Alliance** and was founded in *2008* with it's *HQ in United Kingdom*
+	- It is a **coalition of four(4)** of the world's most influential **conversation organisation:**
+		1. **Birdlife International**
+		2. **Conservation International**
+		3. **IUCN**
+		4. **UNEP-WCMC:** United Nations Environment Programme - *World Conservation Monitoring Centre*
+	- It provided **data, tools and guidance** that helps organizations act on biodiversity related risks
+---

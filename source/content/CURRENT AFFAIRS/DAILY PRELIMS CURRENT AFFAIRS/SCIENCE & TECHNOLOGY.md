@@ -177,3 +177,20 @@
 - It is developed under **PM Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)**  
 - It aims to improve early detection of diseases, faster outbreak response, and support AI driven vaccine and drug research.  
 --- 
+### Per-and polyfluoroalkyl substances (PFAS)
+#GS3 #SciTech #Health 
+- Researchers discovered nearly 20 species of **bacteria capable of breaking down PFAS**
+- **PFAS:**
+	- They are chemicals having **carbon-fluorine bonds**, which are very strong and **do not degrade** easily
+		- They can **resist grease, oil, water, and heat**
+	- They are used in **non-stick cookware, food packaging, food processing equipment, fabrics, paints, and foams**
+- They are called ***"Forever Chemicals"*** and persists in the environment, contamination air, water, and soil, and **bioaccumulates** in humans and animals
+- They are **widely found in water** and can be found even in **human blood!**
+---
+### Vera C. Rubin Observatory
+#GS3 #SciTech #Space 
+- The observatory is located in **Chile** and is designed to conduct the ***Legacy Survey of Space and Time (LSST)*** - a **10 year project** to map the **southern sky**
+- Named after Astronomer **Vera C. Rubin**, who provided pioneering evidence of **dark matter**
+- The observatory released its first images of the cosmos
+---
+

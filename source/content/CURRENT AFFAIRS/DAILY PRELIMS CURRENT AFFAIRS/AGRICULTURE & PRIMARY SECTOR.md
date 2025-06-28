@@ -111,3 +111,49 @@
 		- ***Pulneys*** - Tamil Nadu
 		- ***Shevroys*** - Tamil Nadu
 ---
+### NSO Report on Agriculture and Allied sector
+#GS3 #Economy #Agriculture #Data #Report 
+- **NSO** under **MoSPI** released the report offering a comprehensive overview of agriculture and allied sector in the last decade.
+- **Agriculture sector:**
+	- ***Economic contribution***: **16% GDP** for FY24 (Economic Survey 2024-25)
+	- ***Livelihood:*** Supports **46% population**
+- **HIGHLIGHTS:**
+	- **Gross Value Added (GVA) and Gross Value of Output (GVO):** in agriculture and allied sector 
+		- **GVA** rose by **225%** (current prices) from *FY12* to *FY24*
+		- **GVO** rose by **54.6%** (current prices) from *FY12** to *FY24*
+	- **Rising share or allied sector:** ***~46%*** of total GVO
+	  <p align="center"><img src="AgricultureGVAData.jpg" alt="Agriculture GVO" width="450"/></p>
+	 
+	- **Crop sector:** Largest contributor - **54%** of total GVO
+		- ***Uttar Pradesh*** is **top cereal-producing** state
+		- **Paddy** and **wheat** constitute nearly ***85%*** of GVO of **all cereals** in FY24
+	- **Floriculture:** GVO **doubled** from FY12 to ***INR 28,000 crore*** in FY24
+		- #Data <b><u>NOTE:</u></b>
+			- **State wise floriculture cultivation:**
+				1. **Tamil Nadu - 21%**
+				2. **Karnataka - 16%**
+				3. **Madhya Pradesh - 14%**
+			- **State wise horticulture cultivation:**
+				1. **Uttar Pradesh - 13%**
+				2. **Madhya Pradesh - 10%**
+				3. **Gujarat**
+			- **Orchid production:** ***"orchid state of India"*** is **Arunachal Pradesh**
+				1. **Arunachal Pradesh**
+				2. **Sikkim**
+				3. **West Bengal**
+	- **Condiments and spices:** the top states are
+		1. **Madhya Pradesh - 19.2%**
+		2. **Karnataka - 16.6%**
+		3. **Gujarat - 15.5%**
+	- **Fishing and Aquaculture:** increased contribution from 4.2% (FY12) to **7% (FY24)**
+		- The share of **inland fisheries** has **decreased** to ***50.2% (still majority)*** whereas the share of **marine fisheries increased**
+- **Initiatives for Agriculture and allied sectors:**
+	- **Agriculture Investment Fund (INR 1 lakh crore):** to address the existing gaps in **post-harvest infrastructure** in the country
+	- **Digital Agriculture Mission:** to support various digital agriculture initiatives
+	- **Pradhan Mantri Matsya Sampada Yojana:** aims to **formalize the fisheries sector** and support fisheries micro and small enterprises
+	- **Mission for Integrated Development of Horticulture (MIDH):** a centrally sponsored scheme for the holistic growth of horticulture sector
+	- **Other initiatives:**
+		- **Fisheries & Aquaculture Infrastructure Development Fund*
+		- **PM Fasal Bima Yojana**
+		- **Rashtryia Krishi Vikas Yojana**
+---

@@ -223,3 +223,23 @@
 	- **Tax reforms:** It recognized **Pillar II** implementation under **OCED/G20 Inclusive Framework on Base Erosion and Profit Shifting** - mandating minimum corporate tax  
 - **Aim** to close the **USD 4 Trillion** **financing gap** in developing countries  
 ---
+### Indus Waters Treaty 1960
+#GS2 #IR #HydroDiplomacy #IndiaPakistan
+- **Hague based Court of Arbitration** held that India holding the IWT ***in abeyance*** does not affect its authority to rule on disputes regarding India's **Kishenganga** and **Ratle** hydroelectric projects in Jammu and Kashmir
+- **3-step dispute resolution mechanism under IWT:**
+	- **Permanent Indus Commission:** required to meet at least once a year to resolve questions about implementation
+	- **Neutral expert** via **World Bank:** to deal with unresolved differences on water-sharing
+	- **Court of Arbitration** - ***7 member arbitral tribunal*** to resolve disputes
+- **IWT and current status:**
+	- **Water allocation:**
+		- **India** - unrestricted use of **Eastern rivers**
+			- ***Sutlej, Beas, Ravi***
+		- **Pakistan** - rights over **Western rivers** with India retaining right o develop *run-off-river* projects on the same
+			- ***Indus, Jhelum, Chenab***
+	- **Dispute:**
+		- ***Kishenganga*** project - a **Jhelum** tributary
+		- ***Ratle*** project - on **Chenab**
+		- On Pakistan's request, World Bank appointed both a neutral expert and the Court of Arbitration
+			- ***India accepted the neutral expert process*** but, not the CoA.
+	- Post the Pahalgam attack, India **held IWT** ***in abeyance***
+---

@@ -312,3 +312,18 @@
 	- **Olivine** - weathers quickly spreading its dust on beaches and oceans - may also reduce ocean acidification
 	- **Basalt** - captures CO2 and also **enriches soil** and **boost crop yields** when applied to farmland 
 ---
+### IBAT Alliance
+#GS3 #Environment #Biodiversity 
+- **IBAT Alliance** doubled its investment in biodiversity data from 2023 to 2024. This will support the **3 key datasets:**
+	1. **World Database on protected Areas**
+	2. **IUCN Red List**
+	3. **World Database of Key biodiversity Areas**
+- **IBAT:**
+	- It stands for **Integrated Biodiversity Assesment Tool Alliance** and was founded in *2008* with it's *HQ in United Kingdom*
+	- It is a **coalition of four(4)** of the world's most influential **conversation organisation:**
+		1. **Birdlife International**
+		2. **Conservation International**
+		3. **IUCN**
+		4. **UNEP-WCMC:** United Nations Environment Programme - *World Conservation Monitoring Centre*
+	- It provided **data, tools and guidance** that helps organizations act on biodiversity related risks
+---

@@ -263,3 +263,48 @@
 	- Expanding the use of **guarantees**  
 	- **Hybrid capital** and de-risking instruments to **crowd in private investment**  
 ---
+### India's External Debt
+#Gs3 #Economy #Data #Debt 
+- As per **RBI Report**, India's external debt rose to ***USD 736.6 Billion*** in March 2025 - an increase of **USD 67.5 Billion y-o-y**, *excluding the valuation effects*.
+	- ***Valuation effect:*** occurs due to **appreciation of USD** vis-a-vis **INR**
+- **HIGHLIGHTS OF RBI REPORT:**
+	- ***External Debt to GDP Ratio:*** increased to **19.1%** from *18.5%* in March 2024
+	- ***Long term and short term Debt:***
+		- ***Long term Debt*** - **USD 601.9 Billion** and *rose marginally* to **81.7%** (of total external debt)
+		- ***Short term Debt*** - **USD 134.7 Billion** and *fell to* **18.3%** (of total external debt)
+	- ***Composition:***
+		1. **USD** - **54.2%**
+		2. **INR** - **31.1%**
+		3. **Japanese Yen**
+		4. **SDR**
+	- ***Borrowers:***
+		1. **Non-financial corporations** *(except RBI)* - **35.5%**
+		2. **Deposit-taking corporations** - **27.5%**
+		3. **General government** - **22.9%**
+	- ****Debt instruments:***
+		1. **Loans** - **34%**
+		2. **Currency**
+		3. **Deposits**
+	- ***Debt service** (principal repayments + interest payments)* **declined** marginally by **0.1%**
+- **ISSUES WITH EXTERNAL DEBT:**
+	- **Repayment burden** and **exchange rate risk**
+	- **Riding inflation** which further slows growth leading to the vicious cycle of **increasing Debt/GDP ratio**
+	- **Crowding out of productive investment** - due to higher debt servicing
+	- **BoP pressures**
+---
+### Current Account Balance
+#GS3 #Economy #Data 
+- India's Current Account Balance recorded a **surplus of *USD 13.5 Billion (1.3% of GDP)*** in **Q4 of FY25**
+- It led to narrowing of India's **Current Account Deficit (CAD)** to ***USD 23.3 Billion**** i.e, ***0.6% of GDP*** during FY25 down from *USD 26 Billion* i.e, *0.7% of GDP* in FY24. 
+---
+### Goldilocks Economy
+#GS3 #Economy 
+- According to the **Finance Ministry**, ***"Indian Economy's health is in a relative Goldilocks situation"***
+- **Goldilocks situation of Economy:**
+	- It describes an **ideal state for an economy** where it's **not expanding or contracting** by too much
+- The Goldilocks scenario is **good for investors as companies perform well and stocks rally***
+- **Features that show India economy is in Goldilocks situation:**
+	- The *unemployment rate* in the economy is low
+	- There is *steady growth* in *GDP* and companies report better earnings
+	- The *retail inflation* and the *interest rates* are relatively low
+---
