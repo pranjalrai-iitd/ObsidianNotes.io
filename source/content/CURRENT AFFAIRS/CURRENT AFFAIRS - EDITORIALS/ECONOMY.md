@@ -219,3 +219,12 @@
 	- Aims to develop **world-class ports and promote inland water transport, coastal shipping**, and a **sustainable maritime sector**
 
 ---
+### FDI DATA
+#GS3 #Economy #FDI #Data 
+<p align="center"><img src="NetFDIData.jpeg" alt="" width="450"/></p>
+
+- **Gross FDI:** ***USD 81 Bn***
+- **Repatriation/ Disinvestment:** ***USD 51.5 Bn***
+- **Outward FDI/ Overseas Direct Investment:** ***USD 29 Bn***
+- **Net FDI:** ***USD 0.4 Bn***
+---
