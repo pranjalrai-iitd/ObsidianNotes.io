@@ -14,3 +14,22 @@
 5. **Unintended consequences of MSP:** MSP procurement is skewed in favor of Punjab and makes paddy attractive while alternatives are ignored by farmers.
 6. **Flawed policy making and freebies:** like **8-hours free electricity** have increased GW depletion. Similar is the case for **subsidies on fertilizers**.
 ---
+### DATA ON SUB-SECTORS OF AGRICULTURE
+#GS3 #Agriculture #Data 
+<p align="center"><img src="AgricultureGVAData.jpg" alt="" width="450"/></p>
+
+
+- **Crops: 54%**
+- **Livestock: 31%**
+- **Forestry, logging: 7.7%**
+- **Fishing, aquaculture: 7.0%**
+---
+### FDI DATA
+#GS3 #Economy #FDI #Data 
+<p align="center"><img src="NetFDIData.jpeg" alt="" width="450"/></p>
+
+- **Gross FDI:** ***USD 81 Bn***
+- **Repatriation/ Disinvestment:** ***USD 51.5 Bn***
+- **Outward FDI/ Overseas Direct Investment:** ***USD 29 Bn***
+- **Net FDI:** ***USD 0.4 Bn***
+---
