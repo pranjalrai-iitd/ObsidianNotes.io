@@ -16,11 +16,11 @@
 - **WMO, 2021:** Droughts are responsible for **34% of disaster-related deaths** and exacerbate **poverty, inequality and displacement**
 
 <b><u>Types of droughts:</u></b>
-	1. **Meteorological droughts:** is defined on the basis of **degree of dryness** and the **duration** of the dry period. Definitions can be **region-specific** and may relate **actual precipitation departures** to average amounts.
-	2. **Agricultural drought:** links various characteristics of drought to **agricultural impacts**, focusing on **precipitation shortages**, difference between actual and potential **evapotranspiration**, **soil water defects**, reduced **groundwater** or reservoir levels.
-	3. **Hydrological droughts:** is associated with the effects of **period of precipitation(including snowfall) shortfalls** on **surface or subsurface water supply**. The frequency and severity of hydrological drought is often defined on a watershed or river basin scale.
-	4. **Socioeconomic droughts:** is associated with the supply and demand of socioeconomic goods with elements of meteorological, hydrological, and agricultural drought. Its occurrence may not be concurrent with other forms of drought. 
-	5. **Ecological droughts:** a prolonged and widespread deficit in naturally available water supplies - including climate changes in natural and managed hydrology - that creates multiple stresses across ecosystems.
+1.  **Meteorological droughts:** is defined on the basis of **degree of dryness** and the **duration** of the dry period. Definitions can be **region-specific** and may relate **actual precipitation departures** to average amounts.
+2. **Agricultural drought:** links various characteristics of drought to **agricultural impacts**, focusing on **precipitation shortages**, difference between actual and potential **evapotranspiration**, **soil water defects**, reduced **groundwater** or reservoir levels.
+3. **Hydrological droughts:** is associated with the effects of **period of precipitation(including snowfall) shortfalls** on **surface or subsurface water supply**. The frequency and severity of hydrological drought is often defined on a watershed or river basin scale.
+4. **Socioeconomic droughts:** is associated with the supply and demand of socioeconomic goods with elements of meteorological, hydrological, and agricultural drought. Its occurrence may not be concurrent with other forms of drought. 
+5. **Ecological droughts:** a prolonged and widespread deficit in naturally available water supplies - including climate changes in natural and managed hydrology - that creates multiple stresses across ecosystems.
 	   <p align="center">
 		<img src="http://d2av8kbir6lh9m.cloudfront.net/uploads/FRMjYGo2bbU9kQZDElw4kKuh5pD10d6b2AQPW7O0.jpg" alt="Drought types and their drivers" width="600"/> 
 		</p>
@@ -55,8 +55,8 @@
 		- **Severe Heat Wave:** When actual temperature **>=47 degree C**
 
 <b><u>Heat  risk:</u></b> is ***probability* of experiencing heat-related illness or death due to exposure to extreme temperatures**. As per **CEEW**, it depends on 3 crucial factors:
-	1. **Intensity of heat:** and its compounding effects like *humidity*
-	2. **Degree of exposure**
-	3. **Underlying vulnerabilities of affected communities**
+1. **Intensity of heat:** and its compounding effects like *humidity*
+2. **Degree of exposure**
+3. **Underlying vulnerabilities of affected communities**
 
 ---
