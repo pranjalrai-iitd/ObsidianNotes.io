@@ -47,12 +47,12 @@
 	- Change in land use and land cover
 
 <b><u>Heat wave:</u></b> As per **IMD**, heatwave is considered if **maximum temperature** of a **station** reaches **at least 40 degree C** for **plains** and **at least 30 degree C** for **Hilly** regions. The two criteria are as follows, and they have to be **met for at least 2 stations** in a Meteorological sub-division:
-	- **Based on departure from normal:**
-		- **Heat Wave:** Departure from the normal is **4.5 - 6.4 degree C**
-		- **Severe Heat Wave:** Departure from the normal is **>6.4 degree C**
-	- **Based on actual maximum temperature:
-		- **Heat Wave:** When actual temperature **>=45 degree C**
-		- **Severe Heat Wave:** When actual temperature **>=47 degree C**
+- **Based on departure from normal:**
+	- **Heat Wave:** Departure from the normal is **4.5 - 6.4 degree C**
+	- **Severe Heat Wave:** Departure from the normal is **>6.4 degree C**
+- **Based on actual maximum temperature:**
+	- **Heat Wave:** When actual temperature **>=45 degree C**
+	- **Severe Heat Wave:** When actual temperature **>=47 degree C**
 
 <b><u>Heat  risk:</u></b> is ***probability* of experiencing heat-related illness or death due to exposure to extreme temperatures**. As per **CEEW**, it depends on 3 crucial factors:
 1. **Intensity of heat:** and its compounding effects like *humidity*
