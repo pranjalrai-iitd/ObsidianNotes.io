@@ -216,15 +216,15 @@
 - India is **38th/139** in the **World Bank's Logistics Performance Index 2023** improving from 44th in 2018
 
 <b><u>Importance of logistics:</u></b>
-	1. Logistics **supports trade, reduces business consts**, and **connects Indian industries** to **global markets**
-	2. **Employment:** over **22 million**
-	3. **Competitiveness:** lower logistics costs can help Indian products compete globally. Current logistics cost is around **14% of GDP** and India aims for the **global benchmark of 8%** i.e, **less than 10%**
+1. Logistics **supports trade, reduces business consts**, and **connects Indian industries** to **global markets**
+2. **Employment:** over **22 million**
+3. **Competitiveness:** lower logistics costs can help Indian products compete globally. Current logistics cost is around **14% of GDP** and India aims for the **global benchmark of 8%** i.e, **less than 10%**
 
 <b><u>Steps taken to improve India's logistics sectors:</u></b>
-	1. **Dedicated Freight Corridors (DFCs):** the Eastern and Western DFCs have **cut goods transit time** by **20-30%**
-	2. **E-way Bill system:** introduced under GST, **making goods tracking easier and reduced road transport delays**
-	3. **National Logistic Policy (2022):** aims to lower the cost of logistics from **13-14% to around 8-9%** of the GDP
-	4. **National Trade Facilitation Action Plan (NTFAP) 3.0 for 2024-2027:** launched by **CBIC**, focusing on **reducing cargo release time** across ports.
+1. **Dedicated Freight Corridors (DFCs):** the Eastern and Western DFCs have **cut goods transit time** by **20-30%**
+2. **E-way Bill system:** introduced under GST, **making goods tracking easier and reduced road transport delays**
+3. **National Logistic Policy (2022):** aims to lower the cost of logistics from **13-14% to around 8-9%** of the GDP
+4. **National Trade Facilitation Action Plan (NTFAP) 3.0 for 2024-2027:** launched by **CBIC**, focusing on **reducing cargo release time** across ports.
 
 ---
 ### INITIATIVES FOR MARITIME SECTOR
