@@ -10,7 +10,7 @@
 ---
 ### HOMO SOCIAL MORPHING
 #GS4 #Persuasion 
-Tendency of people to get impressed by persons in their own image in the **matter of designation**. Particularly in law courts, the emergence of **star lawyers** is an example of this phenomena. Judges get impressed by the **designated star lawyers** and tend to accept their petition easily. This phenomenon is also related to **expertise** and **social persuasion**.
+- Tendency of people to get impressed by persons in their own image in the **matter of designation**. Particularly in law courts, the emergence of **star lawyers** is an example of this phenomena. Judges get impressed by the **designated star lawyers** and tend to accept their petition easily. This phenomenon is also related to **expertise** and **social persuasion**.
 
 ---
 
