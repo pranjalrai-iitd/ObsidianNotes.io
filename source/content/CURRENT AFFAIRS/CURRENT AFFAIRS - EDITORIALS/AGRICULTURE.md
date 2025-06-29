@@ -37,3 +37,9 @@
 
 ---
 
+### MONSOON DEPENDENCE OF INDIAN AGRICULTURE
+#GS1 #Agriculture #Irrigation #Monsoon
+
+<b><u>QUOTE:</u></b> ***Agriculture is back-bone of Indian economy and Indian agriculture growth is monsoon dependent. This dependence is so significant that the popular magazine Down to Earth once quipped "<b><i><u>the monsoon is the chief finance minister of India</u></i></b>"***.
+
+---
