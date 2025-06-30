@@ -365,6 +365,7 @@
 2. ***Lack of one clear methodology:*** due to **gaps and changes** in data collection, India's poverty estimates exhibit wide variation as per different methodologies
 	- As per some economists, ***"Poverty in India could be as low as 2% or as high as 82% depending on the choice of poverty line and methodology"***
   <p align="center"><img src="https://indianexpress.com/wp-content/uploads/2025/06/T2.jpg" alt="Povert Line" width="450"/></p>
+
 3. Despite **5.7% abject poverty estimate**, there are **87% Indians living off INR 171/day** *(USD 8.3/day at PPP)*
 
 ---
@@ -372,7 +373,7 @@
 #GS3 #Economy #Manufacturing #MSMEs #Women
 
 <b><u>INTRO/DATA:</u></b>
-- ***MSME sector is the backbone of Indian economy, contributing <b><u><i>30% to GDP</i></u></b> and <b><u><i>employs 20 crore people</i></u></b>. It is one of the few spaces in the economy where women's participation is comparatively higher.
+- ***MSME sector is the backbone of Indian economy, contributing <b><u><i>30% to GDP</i></u></b> and <b><u><i>employs 20 crore people</i></u></b>. It is one of the few spaces in the economy where women's participation is comparatively higher.***
 - As per **Economic Survey 2024-25**, ***women own only <b><u><i>22%</i></u></b> of India's MSMEs***
 
 <b><u>CHALLENGES INHIBITING WOMEN LED MSMEs:</u></b>
