@@ -56,9 +56,9 @@
 - **Types of Agroforestry:**
 ```mermaid
 graph TD;
-A(Types of Agroforestry)-->B(<b>Agrisilviculture:</b><br> Crops + Trees);
-A(Types of Agroforestry)-->C(<b>Silvopasture:</b><br> Trees + Livestock);
-A(Types of Agroforestry)-->D(<b>Agrosilvopastoral:</b><br> Trees + Crops + Pasture/Animals);
+A(Types of Agroforestry)-->B(<b>Agrisilviculture:<br></b><br> Crops<br>+<br>Trees);
+A(Types of Agroforestry)-->C(<b>Silvopasture:</b><br><br>Trees<br>+<br>Livestock);
+A(Types of Agroforestry)-->D(<b>Agrosilvopastoral:</b><br><br>Trees<br>+<br>Crops<br>+<br>Pasture/Animals);
 ```
 
 <b><u>BENEFITS OF AGROFORESTRY:</b></u>
