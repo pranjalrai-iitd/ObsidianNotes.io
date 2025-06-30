@@ -1,0 +1,64 @@
+
+- [[1. INDIAN ECONOMY]]
+	- **1.A)** Planning
+	- **1.B)** Mobilization of Resources
+	- **1.C)** Growth and Development
+	- **1.D)** Employment - Labor 
+- [[2. INCLUSIVE GROWTH AND ISSUES]]
+- [[3. GOVERNMENT BUDGETING]]
+- [[4. MAJOR CROPS AND CROPPING PATTERN]]
+	- **4.A)** Cropping patterns
+	- **4.B)** Irrigation
+	- **4.C)** Storage of agricultural produce
+	- **4.D)** Transportation of agricultural produce
+	- **4.E)** Marketing of agricultural produce
+	- **4.F)** e-Technology in the aid of farmers
+- [[5. AGRICULTURE AND RELATED SECTORS]]
+	- **5.A)** Farm subsidies and Minimum Support Prices
+	- **5.B)** Public Distribution System
+		- **5.B.a)** Objectives
+		- **5.B.b)** Functioning
+		- **5.B.c)** Limitations
+		- **5.B.d)** Revamping
+	- **5.C)** Buffer stocks and Food security
+	- **5.D)** Technology missions
+	- **5.E)** Economics of animal-rearing
+- [[6. FOOD PROCESSING INDUSTRIES]]
+	- **6.A)** Scope and significance
+	- **6.B)** Location
+	- **6.C)** Upstream and Downstream requirements
+	- **6.D)** Supply chain management
+- [[7. LAND REFORMS IN INDIA]]
+- [[8. EFFECT OF LIBERALIZATION AND INDUSTRIES]]
+	- **8.A)** LPG Reforms
+	- **8.B)** Changes in Industrial policy and their analysis
+	- **8.C)** Industries
+- [[9. INFRASTRUCTURE]]
+	- **9.A)** Energy
+	- **9.B)** Ports
+	- **9.C)** Roads
+	- **9.D)** Airports
+	- **9.E)** Railways
+- [[10. INVESTMENT MODELS]]
+- [[11. SCIENCE AND TECHNOLOGY]]
+	- **11.A)** IT
+	- **11.B)** Space
+	- **11.C)** Robotics
+	- **11.D)** Nano-technology
+	- **11.E)** Bio-technology
+	- **11.F)** Advanced computing
+- [[12. ACHIEVEMENTS OF INDIANS IN SCIENCE AND TECHNOLOGY]]
+- [[13. INTELLECTUAL PROPERTY RIGHTS]]
+- [[14. ENVIRONMENT]]
+	- **14.A)** Conservation
+	- **14.B)** Environmental Pollution and Degradation
+	- **14.C)** Environmental Impact Assessment
+- [[15. DISASTER MANAGEMENT]]
+- [[16. LINKAGES BETWEEN DEVELOPMENT AND SPREAD OF EXTREMISM]] - Left Wing Extremism (LWE)
+- [[17. ROLE OF EXTERNAL STATE AND NON-STATE ACTORS IN CREATING CHALLENGES TO INTERNAL SECURITY]]
+- [[18. INTERNAL SECURITY - COMMUNICATION NETWORKS, SOCIAL MEDIA AND SOCIAL NETWORK]]
+- [[19. CYBER SECURITY]]
+- [[20. MONEY LAUNDERING AND ITS PREVENTION]]
+- [[21. SECURITY CHALLENGES IN BORDER AREAS]]
+- [[22. LINKAGES OF ORGANIZED CRIME AND TERRORISM]]
+- [[23. VARIOUS SECURITY FORCES AND THEIR MANDATE]]

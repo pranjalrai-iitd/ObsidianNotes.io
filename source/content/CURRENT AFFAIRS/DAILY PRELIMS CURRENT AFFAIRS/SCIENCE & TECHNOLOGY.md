@@ -1,0 +1,196 @@
+### Satins:
+#GS3 #SciTech #Health
+- Satins are group of **medicines for cardiovascular diseases**, that help lower the **bad cholesterol/Low-Density Lipoprotein**
+- They mitigate excessive inflammatory response, restore endothelial functions and potential antimicrobial activities.
+---
+### SPArc: Step-and-shoot spot-scanning proton arc therapy
+#GS3 #SciTech #Health
+- **SPArC** has been used to treat an **ACC (Adenoid Cystic Carcinoma)**, which develops in salivary glands and head and neck
+- It is an advanced **radiation therapy technique** - where cancer cells are killed or their growth is slowed by damaging their DNA
+- It works by targeting tumors with **protons** while **sparing surrounding tissue** - highly effective in reducing radiation exposure to the healthy cells compared to other radiation therapies like **SFO-IMPT** (Single Field Optimization Intensity Modulated Proton Therapy)
+- SPArc is based on a **computer programme** that scans all spots and energy layers to deliver proton beams
+---
+### DNA Fingerprinting
+#GS3 #SciTech #Biotech
+- The 4 methods are:
+	- **Short tandem repeat (STR) analysis:** typically found on the **nuclear DNA** and is used when the extracted DNA is not degraded.
+	- **Mitochondrial DNA (mtDNA) analysis:** used when nuclear DNA is degraded or unavailable. It is easier to recover from human remains that are not well preserved i.e, it is less susceptible to degradation.
+	- **Y chromosome analysis:** for males
+	- **Single nucleotide polymorphism (SNPs) analysis:** typically used when the DNA is highly degraded. A SNP is a variation in the DNA sequence where a **single base** - A,T,C,G - at a **specific location differs among people**.
+		- SNP is **unique to each person** and can be used for identification.
+---
+## Rinderpest
+#GS3 #SciTech #Health 
+- **Rinderpest** or **Cattle Plague** is a **contagious viral disease** affecting cloven-hoofed animals (mainly cattle and buffalo)
+- Caused by Paramyxoviridae family, genus **Morbiliivirus**
+- It does **NOT** affect **Humans**
+- It is the **second infectious disease** to have been **eradicated** from the world after **smallpox**
+---
+### Location of "Missing" Ordinary Matter in the Universe
+#GS3 #SciTech #Space
+- Researchers detected the universe's **missing ordinary matter** using powerful **cosmic signals** known as **Fast Radio Bursts (FRBs)**. Previously we have known that **at least half of the universe's ordinary/baryonic matter** was unaccounted.
+- **Distribution of Baryonic(Ordinary) Matter:**
+	- **76%** in the **intergalactic medium (IGM)** i.e, the *thin gas between galaxies*
+	- **15%** in the **galaxy halos** - *outer regions surrounding galaxies*
+	- **9%** within **galaxies** - consisting of *start, planets, and vast clouds of gas and dust* all bound together by gravity
+- **Fast Radio Bursts (FRBs):**
+	- Are blasts of **electromagnetic radiation** in the form of **radio waves** usually emanating from the **galaxies beyond our own**
+	- FRBs have duration ranging from **milliseconds** to just a **few seconds**
+- **Using FRBs to locate the missing baryonic matter:**
+	- FRBs act as ***"cosmic flashlights"*** and as they travel through the space:
+		- They **disperse into different wavelengths**, like a prism
+		- The **degree of dispersion** reveals the **amount of matter** in their **path**
+	- They provided the **first direct measurement** of **matter distribution** across the cosmic web and establish themselves as a reliable **cosmological probe**
+- <b><u>NOTE: Ordinary (Baryonic) Matter Vs. Dark Matter:</u></b>
+	- **Baryonic matter:** includes
+		- Gas, dust, starts, planets and ever day substances that **interacts with EM radiation**
+		- It constitutes **15% of all matter** in the universe
+		- It is composed of **Baryons** - including ***Protons & Neutrons***
+	- **Dark matter:** is a mysterious substance that accounts for around **85%** of the **material universe** but remains invisible because it **doesn't interact with light**
+	- Both are matter and they have **mass**, take up **space** and **exert gravitational force**
+	```mermaid
+	%%{init: {"pie": {"textPosition": 0.5}, "themeVariables":{"pieOuterStrokeWidth": "4px", "pieTitleTextSize":"20px", "pieSectionTextSize":"18px", "pieLegendTextSize":"20px"} } }%%
+	pie title Building blocks of the Universe
+	    "Dark Energy [68%]" : 68
+	    "Dark Matter [27%]" : 27
+	    "Ordinary/Bryonic/Visible Matter [5%]" : 5
+	```
+---
+### Lenacapavir and HIV
+#GS3 #SciTech #Health 
+- **Lenacapavir** is an **antiretroviral medicine** that is used for **HIV prevention** as a **Pre-Exposure Prophylaxis (PrEP)**
+	- **PrEP** is a medication that can **reduce the risk of HIV infection for individuals** who are **HIV negative** but are at a **risk of contracting the virus**
+	- **WHO recommended PrEP:**
+		- Oral PrEP
+		- Dapivirine vaginal ring
+		- Long-active injectable cabotegravir (CAB-LA)
+- **India's initiatives against HIV:**
+	- **National AIDS Control Programme Phase-V (2021-26):** aims at achieving **80% reduction** in **new infections**
+		- **95-95-95 Target:** 95% of HIV-positive individuals know their status, 95% those diagnosed are on treatment, and 95% of those patients achieve viral suppression
+	- **HIV and AIDS (Prevention and Control) Act, 2017:** prohibits discrimination against HIV-positive people
+	- Commitment to **End HIV/AIDS as a public health threat** by **2030**
+	- **Youth-targeted individuals** like ***Red Ribbon Clubs*** in educational institutions
+---
+### Transposons
+#GS3 #SciTech #Biotech 
+- Transposons are also called **Jumping Genes** which are DNA sequences that move from one location to another on the genome, affecting the expression of genes
+	- They can do so by either **physically cutting and pasting** themselves or by **copying** themselves to new locations
+	- They may **increase or decrease the amount of DNA** and **may cause mutations** int he cell genome
+- In human beings -> ***more than 50% of the genome** is composed of transposable elements
+---
+### E-Rakt Kosh
+#GS3 #SciTech #Health 
+- **UMoH&FW** is planning to integrate country's **Rare Donor Registry** with **e-Rakt Kosh**
+- **e-Rakt Kosh** is an **online blood bank management system** under the **National Health Mission**
+	- It provided information about blood banks, blood availability, blood donation camps, etc.
+	- It enforces the **Drug & Cosmetic Act** and **National blood policy standards** and guidelines
+- <b><u>National Rare Blood Donor Registry</u></b>:
+	- Created by **National Institute of Immunohaematology (NIIH under ICMR)**, Mumbai, has created a ***National Rare Blood Donor Registry*** to support patients with uncommon blood types requiring frequent transfusions
+	- <b><u>Rare blood donors:</u></b> 
+		- are generally defined as being **negative for a high prevalence antigen** with a **frequency** of **less than 1 in 1000**. ***(OR)***
+		- can be rare by **being negative for multiple common antigens** that are rarely found together.
+		- #Eg **Rhnull, Bombay (Oh), Jr(a-)**
+---
+### Gwada Negative
+#GS3 #SciTech #Health 
+- It is a **newly identified blood type** - found in a *French woman* from the *Caribbean island* of ***Guadeloupe*** - only known carrier of a new blood type
+- It is a **negative blood group system**, officially registered by *International Society of Blood Transfusion (ISBT)*
+	- It is defined by the **absence of the EMM antigen**, which is normally found on RBC and is considered a **high-incidence antigen**.
+		- High-incidence antigens are present in **nearly all humans**
+- It is **48th blood group system** in the world
+---
+### "India's Data Imperative: The Pivot Towards Quality" Report
+#GS2 #GS3 #Governance #SciTech #DataGovernance #Report 
+- **NITI Aayog** released the report titled, **"India's Data Imperative: The Pivot Towards Quality"*** highlighting that over past decade, India has emerged as a ***global leader in digital public infrastructure***.
+- India now enters the **next phase of its digital journey** - the focus must shift from **merely scaling** to **prioritizing quality data**
+	- **Quality data** consists of **6 core attributes:**
+		- ***Accuracy, Completeness, Timeliness, Consistency, Validity, and Uniqueness***
+- The report introduces a ***Data-Quality Scorecard*** to monitor and improve datasets, as well as a ***Data-Quality Maturity Framework*** having **7 dimensions** and **5 levels of maturities:**
+	1. *Data Governance & Ownership*
+	2. *Standards & Metadata*
+	3. *Data Capture & Validation Controls*
+	4. *Quality Monitoring & Reporting*
+	5. *Standards & Metadata*
+	6. *Data Capture & Validation Controls*
+	7. *Quality Monitoring & Reporting*
+- **Need of Quality Data for Governance:**
+	- **Fortify digital governance:** powering efficient digital platforms, such as UPI and Aadhar, and ensures the smoother delivery of government services
+	- **Prevent wastage:** errors or duplicate entries can inflate welfare budgets by 4-7% annually
+	- **Cultivate public trust:** poor data leads to incorrect targeting, delays, and citizen frustration. Quality data avoids such mismatches, and rejected claims
+- **Challenges in leveraging quality data for governance:**
+	- **Faulty data capture:** field programs prioritize **speed over correctness**, resulting in a culture where, *80% accuracy is considered "good enough*.
+	- **Fragmented Data storage:** some systems utilize *modern cloud tools*, but any rely on *outdated databases* that lack audit trails and a standardized structure
+	- **Inconsistent Data sharing:** different departments employ varying formats and update schedules, resulting in *slow and expensive data integration.*
+	- **Poor archival practices:** old, outdated records are rarely removes, cluttering systems and slowing performance 
+---
+### Epigenetic Programming
+#GS3 #SciTech #Biotech 
+- Researchers in **China** used **DNA editing** to produce **fertile mice** from **two male parents** for the first time. This advances **epigenetic programming** as a reproductive tool to breed motherless mice without compromising on their health and fertility
+- **Epigenetics** is the study of heritable changes in gene expression that occur without alterations to the underlying DNA sequence
+- **Epigenetic Programming:** refers to **genetic modifications** that **impact gene activity** without changing DNA sequence
+	- These modifications are **attached to DNA** and **do not change the sequence of DNA building blocks**
+- **Epigenome:** within the **genome** (complete set of DNA in a cell), all of the modifications that regulate the activity (expression) of the genes is the ***epigenome***
+---
+### Black Mass Recovery Technology
+#GS3 #SciTech #EVs #Recycling
+- The **Technology Development Board** has extended financial support for the commercialization of an **indigenous battery recycling technology** that utilizes **dual-mode (wet & dry) black mass recovery**
+- <b><u>Technology Development Board:</u></b>
+	- ***Statutory*** body under the ***Technology Development Board Act, 1995***, to:
+		- **promote development and commercialization of indigenous technology**, and 
+		- **adaptation of imported technology for wider applications**
+	- The board consists of **11 members**
+	- Provides **equity capital or loans** to industrial concerns - **5% simple interest rate**
+	- **Financial assistance** to **R&D institutions**
+	- The Funding is through **government grants**, **loans**, and **investments**.
+- **BLACK MASS:**
+	- When a Lithium-ion battery reaches the end of its life, it doesn't stop being valuable. Inside that used battery is a **dark, powdery substance** known as **black mass** -  ***a mixture of critical minerals***
+	- This can be **recovered, refined, and reused** to power the next generation of clean energy.
+- **Black Mass Recovery Technology** is a **process** that ***extracts materials like Lithium, Cobalt, and Nickel from used Lithium-ion batteries***
+	- It ensures **high separation efficiency** and **recovery rates** up to ***97-99%***
+---
+### Weight Loss Drugs
+#GS3 #SciTech #Health 
+- ***Semaglutide*** marketed under the brand name **Wegovy**
+	- It works as an *apetite suppressant* by imitating a **hormone** called ***gluvagon-like peptide-1 (GLP-1)***, which is an intestinal hormone released after eating and make people feel fuller
+- ***Tirzepatide*** marketed under **Mounjaro**
+---
+### AlphaGenome
+#GS3 #SciTech #AI 
+- New AI model launched by **Google DeepMind**
+- It will help in accurately predicting how individual mutations in human DNA affect their functions and impact our health. It will analyse large DNA sequences - 1Mn base pairs.
+- **DeepMind's protein-synthesis models:**
+	- ***Enformer*** - genomics model
+	- ***AlphaMissense*** - specialize in categorization the effects of variants within the protein-coding regions
+	- ***AlphaFold***
+---
+### Extreme Helium (EHe) Stars  
+#GS3 #SciTech #Space  
+- Researchers have detected **Germanium** for the first time in a **EHe star**  
+- **EHe Stars:**  
+	- **Low mass supergiant** star that is **almost devoid of Hydrogen**  
+	- Their atmospheres are dominated by **Helium**, with high amount of **Carbon, Nitrogen, and Oxygen**  
+	- Their exact origin and evolution are debatable  
+---
+### NAKSHATRA  
+#GS3 #SciTech #Health  
+- **ICMR** has launched its **first HPC facility, NAKSHATRA** at **National Institute of Virology, Pune**  
+- It is developed under **PM Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)**  
+- It aims to improve early detection of diseases, faster outbreak response, and support AI driven vaccine and drug research.  
+--- 
+### Per-and polyfluoroalkyl substances (PFAS)
+#GS3 #SciTech #Health 
+- Researchers discovered nearly 20 species of **bacteria capable of breaking down PFAS**
+- **PFAS:**
+	- They are chemicals having **carbon-fluorine bonds**, which are very strong and **do not degrade** easily
+		- They can **resist grease, oil, water, and heat**
+	- They are used in **non-stick cookware, food packaging, food processing equipment, fabrics, paints, and foams**
+- They are called ***"Forever Chemicals"*** and persists in the environment, contamination air, water, and soil, and **bioaccumulates** in humans and animals
+- They are **widely found in water** and can be found even in **human blood!**
+---
+### Vera C. Rubin Observatory
+#GS3 #SciTech #Space 
+- The observatory is located in **Chile** and is designed to conduct the ***Legacy Survey of Space and Time (LSST)*** - a **10 year project** to map the **southern sky**
+- Named after Astronomer **Vera C. Rubin**, who provided pioneering evidence of **dark matter**
+- The observatory released its first images of the cosmos
+---
+
