@@ -15,6 +15,14 @@
 		- Andean roots are grown in the Andes mountains of South America
 - **HQ:** at **Lima, Peru**
 - Cabinet approved establishment of **South Asia Regional Centre** of the **CIP** at **AGRA**
+- **India and Potato:**
+	- ***India is 2nd largest producer of Potato after China**
+	- **Indian Potato yield** - **25 tn per Ha**  - half of the **potential yield** of **50tn per Ha**
+	- **State wise production:**
+		1. Uttar Pradesh ~15MnTn
+		2. West Bengal ~15MnTn
+		3. Bihar ~9 MnTn
+		4. Gujarat, Maharashtra, & Punjab
 ---
 ### NIXI (National Internet Exchange of India)  
 #GS3 #SciTech #Organizations  

@@ -340,3 +340,62 @@
 3. **Stable source of finance:** Remittances surpass gross FDI, serving as a stable source of external financing
 
 ---
+### POVERTY ESTIMATES
+#GS1 #GS2 #GS3 #SocialIssues #Governance #Economy #Poverty
+
+<b><u>NEWS:</u></b> 
+- Government of India used **World Bank's "Poverty and Equity Brief"** of 2025 to state that ***"<b><u><i>171 million (~17 crore) lifted from extreme poverty in 10 years</i></u></b>"***, with current **poverty rate of** ***<b><u>5.75%</u></b>*** down from **27% in 2011-12** 
+
+<b><u>WORLD BANK DATA ON POVERTY IN INDIA:</u></b>
+1. **Historic conservative estimate:** according to new estimates, *India's poverty in the past were actually lower than previously estimated.*
+	- #Eg In **1977-78** the poverty rate was said to be **64%** but, actually was **47%**
+2. **New poverty line:** 
+	- At ***USD 3/day (at PPP)*** for **abject/extreme poverty**
+		- #Data As per this, Indian **abject/extreme poverty** declined from *27%(34 crore) (2011-12)* to just **6%(7.5 crore) (2022-23)**
+			- This is equivalent to ***INR 62/day*** (**NOTE:*** *PPP exchange rate of INR-USD is 20.6 INR = 1 USD* (2025))
+	- At ***USD 4.2/day (at PPP)*** for **poverty** in **LMIC (lower Middle Income Countries)**
+		- #Data As per this, Indian **poverty rate** declined from *61.8% (2011-12)* to **28.1% (2022-23)**
+			- This is equivalent to ***INR 87/day*** (**NOTE:*** *PPP exchange rate of INR-USD is 20.6 INR = 1 USD* (2025))
+	- **World Bank's Multidimensional Poverty Index (MPI):*** *non-monetary estimate*
+		- Indian poverty declined from *53.8% (2011-12)* to **15.5% (2022-23)** 
+
+<b><u>ISSUES:</u></b> ***Dichotomy of 6% poverty rate but, 80 crore Indians needing free ration under PM-GKAY***
+1. **Poverty line is too low:** the World Bank's poverty estimate is based on **purchasing power parity**, thus **USD 3** corresponds to ***INR 62/day**
+	- *Price of a litre of Amul milk in 2022* was *INR 63* - ***"One is not poor even if he earns 1 litre of Amul milk in a day"***
+2. ***Lack of one clear methodology:*** due to **gaps and changes** in data collection, India's poverty estimates exhibit wide variation as per different methodologies
+	- As per some economists, ***"Poverty in India could be as low as 2% or as high as 82% depending on the choice of poverty line and methodology"***
+  <p align="center"><img src="https://indianexpress.com/wp-content/uploads/2025/06/T2.jpg" alt="Povert Line" width="450"/></p>
+3. Despite **5.7% abject poverty estimate**, there are **87% Indians living off INR 171/day** *(USD 8.3/day at PPP)*
+
+---
+### WOMEN LED MSMEs
+#GS3 #Economy #Manufacturing #MSMEs #Women
+
+<b><u>INTRO/DATA:</u></b>
+- ***MSME sector is the backbone of Indian economy, contributing <b><u><i>30% to GDP</i></u></b> and <b><u><i>employs 20 crore people</i></u></b>. It is one of the few spaces in the economy where women's participation is comparatively higher.
+- As per **Economic Survey 2024-25**, ***women own only <b><u><i>22%</i></u></b> of India's MSMEs***
+
+<b><u>CHALLENGES INHIBITING WOMEN LED MSMEs:</u></b>
+1. Women-led enterprises **struggle to access formal credit, market linkages, or even basic recognition*** - #Data ***less than 10% women entrepreneurs use formal credit***
+2. **Low ownership:** only **22%** MSMEs are women-owned
+3. **Ruralisation:** many of women led MSMEs are based in **rural and under-served areas**
+4. **Deep-rooted social norms** and **safety concerns** inhibit mobility, decision-making power, and public visibility of women
+
+<b><u>BENEFITS OF WOMEN LED MSMEs:</u></b>
+1. **Stronger society and economy:** Studies show that #Data ***women tend to reinvest up to 90% of their income into their families, in contrast to 30-40% by men***
+	- Better **education & health of children** and **human development**
+2. **Reduction of gender disparities in labor market:** as ***women likely hire more women***
+3. **Bridging rural-urban divide:** as many of women led MSMEs are based in **rural and under-served areas**, thus pressing local needs
+4. **Small-scale women led cottage MSMEs** can lead to ***"collective action"*** through, ***Self Help Groups (SHG)***
+5. ***Women empowerment and mainstreaming:***
+	- **Huge economic opportunity gap**: currently on 22% MSMEs are led by women when they are half of population. This points towards **potential of women led MSMEs** to achieve **Viksit Bharat**
+	- *Without women participation*, India's **Demographic dividend** can't be reaped
+
+<b><u>INITIATIVES/CASE-STUDIES:</u></b>
+1. <b><u>Nari Adhikari Kendra (NAK)</u></b> initiative by **MP State Rural Livelihood Mission and Transform Rural India (TRI)** - it offers women a support ecosystem that includes mentorship, enterprise incubation, skilling, and market linkages
+2. **Digitial innovation** like **ONDC** are allowing women led MSMEs to reach customers without traditional retail constraints
+	- <b><u>Mann Deshi</u></b> and <b><u>Rang De</u></b> have pioneered ***women-friendly banking model***
+3. **Women led MSMEs** offer a **high social and economic returns** and thus, are attractive destination of **CSR funds**
+
+---
+

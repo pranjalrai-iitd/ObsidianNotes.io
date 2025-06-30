@@ -2747,7 +2747,7 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 			- *Lakadong Turmeric*
 ---
 ### India Energy Stack
-#GS3 #Economt #Energy #SciTech #DPI 
+#GS3 #Economy #Energy #SciTech #DPI 
 - **Ministry of Power** has announced the launch of a **task force** to conceive the **India Energy Stack**
 - It will be a **DPI**(Digital Public Infrastructure) that will provide a **standardized, secure and open platform** to **manage, monitor, and innovate** across the electricity value chain
 - **Key features:**

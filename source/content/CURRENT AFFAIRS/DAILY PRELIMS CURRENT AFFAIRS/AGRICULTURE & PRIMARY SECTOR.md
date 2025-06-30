@@ -190,3 +190,21 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 	- **GROW initiative:** launched by **NITI Aayog**, aiming to transform India's wastelands through agroforestry
 	- **Amendments to the Forest Act 1927 in 2017:** redefined **bamboo** as **grass** instead of a tree, simplifying its harvesting and transit
 ---
+### International Potato Centre (CIP) - Regional Centre in South Asia
+#GS3 #Agriculture #InternationalOrganizations 
+- Founded in **1971** and focuses on :
+	- **Potato**
+	- **Sweetpotato**
+	- **Andean roots and tubers crops(ARTC)**
+		- Andean roots are grown in the Andes mountains of South America
+- **HQ:** at **Lima, Peru**
+- Cabinet approved establishment of **South Asia Regional Centre** of the **CIP** at **AGRA**
+- **India and Potato:**
+	- ***India is 2nd largest producer of Potato after China**
+	- **Indian Potato yield** - **25 tn per Ha**  - half of the **potential yield** of **50tn per Ha**
+	- **State wise production:**
+		1. Uttar Pradesh ~15MnTn
+		2. West Bengal ~15MnTn
+		3. Bihar ~9 MnTn
+		4. Gujarat, Maharashtra, & Punjab
+---
