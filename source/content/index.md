@@ -21,5 +21,3 @@ GS AND ESSAY
 - [ESSAYS](https://pranjalrai-iitd.github.io/essays.io/)
 
 ---
-
-
