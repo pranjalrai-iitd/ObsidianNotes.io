@@ -330,3 +330,13 @@
 - It led to narrowing of India's **Current Account Deficit (CAD)** to ***USD 23.3 Billion*** i.e, <b><u><i>0.6% of GDP</i></u></b> during FY25 down from *USD 26 Billion* i.e, *0.7% of GDP* in FY24. 
 ---
 
+### REMITTANCES DATA
+#GS3 #Economy #Remittances #Data 
+- As per **RBI report**, ***remittances to India reached USD 235.46 Billion*** in **FY25(2024-25)**, increasing **14% yoy** - doubling from *USD 61 Billion* in FY17(2016-17)
+
+<b><u>SIGNIFICANCE OF REMITTANCES:</u></b>
+1. **Economic contribution** and increased **Forex:** Remittances accounted for over **10% of India's *USD 1 Trillion* <u><b><i>Gross Current Account inflows</i></b></u> in FY25**
+2. **Supports Trade Deficit:** Represented **47% of India's *USD 287 Billion* <b><u><i>merchandise trade deficit</i></u></b>
+3. **Stable source of finance:** Remittances surpass gross FDI, serving as a stable source of external financing
+
+---

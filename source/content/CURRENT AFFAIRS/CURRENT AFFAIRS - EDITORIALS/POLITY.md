@@ -236,3 +236,27 @@
 - ***“Parliamentary committees are devices to overcome the limitations of organisational and technical complexity of large legislatures. Independent India inherited the modern committee system from the British parliamentary system and innovated new techniques to effectively manage the voluminous tasks in the large Parliament.”***
 
 ---
+### REGISTERED UN-RECOGNIZED POLITICAL PARTIES
+#GS2 #Polity #Elections #RPA 
+
+<b><u>NEWS/DATA:</u></b>
+- The **Election Commission of India (ECI)** began the process of **delisting 345 Registered Unrecognized Political parties (RUPPs)**, which have failed to fulfil the essential condition of **contesting even a single election since 2019** and whole **offices could not be physically located**
+- #Data There are around **2,800 RUPPs**
+- #Data In General Election 2019, around **70% RUPPs** did **not** participated, despite being registered
+
+<b><u>LEGAL BASIS OF REGISTRATION OF POLITICAL PARTIES:</u></b>
+- <b><u><i>Section 29A of RPA, 1951:</i></u></b> lays down the requirements for registration of a political party with ECI
+- #Judgement <b><u><i>Indian National Congress vs. Institute of Social Welfare 2000:</i></u></b> **ECI has no power to de-register** political parties but can **de-list** them
+
+<b><u>CONCERNS POSED BY RUPPs:</u></b>
+1. **Compliance related concerns:** non-submission of ***mandatory Contribution Reports*** under ***section 29C of RPA, 1951***
+2. **Financial irregularities and Tax abuse:**
+	1. **Improper claims of Income Tax Exemptions:** In FY20, **219 RUPPs** claimed around **INR 600 crore**
+	2. **Alleged serious financial impropriety:** through *fake donation receipts, use of shell companies, bogus transactions and purchases,* etc.
+	3. **No electoral participation:** #Data in General Election 2019, around **70% RUPPs** did **not** participated, despite being registered
+
+<b><u>DEALING WITH ERRANT RUPPs:</u></b> #committee 
+- <b><u><i>225th Law Commission's Report (2015):</i></u></b> recommended **automatic de-registration** of parties failing to contest elections for **10 consecutive years**
+- <b><u><i>2016 ECI's memorandum:</i></u></b> suggested **amending RPA 1951** to **empower ECI to de-register** political parties
+
+---

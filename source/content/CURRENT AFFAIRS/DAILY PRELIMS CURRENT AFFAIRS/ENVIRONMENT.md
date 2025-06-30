@@ -327,3 +327,71 @@
 		4. **UNEP-WCMC:** United Nations Environment Programme - *World Conservation Monitoring Centre*
 	- It provided **data, tools and guidance** that helps organizations act on biodiversity related risks
 ---
+### National Bioenergy Programme
+#GS3 #Environment #Energy #ClimateChange 
+- **MNRE** has updated the guidelines on **"Waste to Energy"** and **"Biomass"** components of the ***National Bioenergy Programme***
+- **Bioenergy:** energy generated from *biomass fuel* which comes from *organic matter* such as harvest residues, crops and organic waste, etc.
+- **NATIONAL BIOENERGY PROGRAMME (NBP):**
+	- Launched in 2022 and to be implemented in **two phases** with total budget of *INR 1715 crore*
+	- **OBJECTIVE:** to utilize **surplus biomass** *(primarily from rural areas)* for **power generation**, while providing **additional income** to rural households
+	- **Central Finance Assistance (CFA):** to be provided to project developers based on various aspects of projects
+		- For **special categories** like NER, Hilly states, SC/ST beneficiaries, etc. will get **20% more CFA**
+	- **3 COMPONENTS OF NBP:**
+		1. <b><u>Waste to Energy Programme:</u></b> support projects for generating ***Biogas, BioCNG, Syngas*** from *urban, industrial, and agricultural waste/residues*.
+		2. <b><u>Biomass Programme:</u></b> support ***Biomass Briquette/Pellet manufacturing*** plants and ***Biomass (non-bagasse)*** based **cogeneration** plants
+		3. <b><u>Biogas Programme:</u></b> support ***biogas plants*** for *clean cooking fuel, small power needs, improved sanitation, women empowerment*, etc.
+			- **NOTE:** ***Biogas*** has:
+				- **95% CH4**
+				- **CO2**
+				- Traces of *N2, H2, H2S, O2,* etc.
+- **REVISED GUIDELINES:**
+	- **For Waste to Energy Programme:**
+		- **Simplified processes:** easier approvals for MSMEs and industry
+		- **Improved CFA disbursal:** with two-stage release:
+			- *50% CFA* after consent from the *SPCB*, with *bank guarantee*
+			- Remaining after *80% capacity achievement* or *maximum limit* (lower of the two)
+		- **Streamlined inspections** and flexible performance based funding
+	- **For Biomass Programme:**
+		- **Simplified processes:** *no clearance documents* needed for *briquette/pallet* plants
+		- **Tech integration:** enabling use of *IoT based monitoring* systems
+		- **Stubble burning support:** peller producers in NCR and nearby states can choose MNRE or CPCB scheme
+		- **Flexible market access** and performance based subsidy
+---
+### Artificial Rain
+#GS3 #Environment #AirPollution
+- Delhi government to conduct first-ever artificial rain through **cloud seeding** to combat air pollution, in collaboration with **IIT Kanpur**
+- Its a **weather modification technique** which can be used to **enhance precipitation** by dispersing chemicals into the sky
+	- These chemicals attract water vapour and act as **condensation nuclei** promoting precipitation
+	- ***Silver Iodide, Potassium Iodide,*** and ***Dry Ice***
+- **Types of cloud seeding:**
+	1. ***Hygroscopic Cloud Seeding:*** accelerates the merging of droplets in liquid clouds
+	2. ***Glaciogenic Cloud Seeding:*** induces ice formation in super cooled clouds
+
+| **BENEFITS**                                                                                                                                                                                                                                                                                                        | **CONCERNS**                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Enhances **rainfall in drought-prone** areas<br>2. Supports **agriculture** during dry spells<br>3. Helps **regulate weather conditions** artificially - reducing crop damage from hail storms<br>4. Reduces **air pollution**<br>5. **Wildfire mitigation**<br>6. Supplementary solution for **water scarcity** | 1. Can results into **floods and landslides:** <br>#Eg ***Dubai cloud seeding project*** resulted into unprecedented floods in 2024<br>2. Disturbs **natural weather patterns**<br>3. **Environmental damage** due to non-seasonal rains, which can negatively affect biodiversity<br>4. Once seeded, **difficult to regulate** and can have unintended consequences |
+- It must be guided by **scientific research** and **adequate environmental safeguards** and **clear regulations**
+- **Cloud-seeding in India and required permissions:** NOC from *13 agencies*
+	- *DGCA, AAI, BCAS(Bureau of Civil Aviation), MoDefence, MoHome, SPG, MoEnvrionment, IMD, CPCB* and others
+- **Efficacy:** 
+	- Up to **15% increase** recorded in some countries like **Australia**
+	- **Success rate** of up to **60%** as per IIT Kanpur
+---
+### Botrytis Fungi (Nobel Rot)
+#GS3 #Environment #Biodiversity #Fungi
+- Researchers have found that ***Botrytis fungi cannot be cloned*** as **no single nucleus contains a complete set of chromosomes**
+	- The chromosome set is ***distributed across two or more nuclei***
+- **Botrytis Fungi** or **Nobel Rot**
+	- It is also called, ***"Alchemist of wines"*** as it infect **grapes** and causes the **berries to loose water by evaporation and shrivel up, and thus concentrates the sugars and flavours in them**
+	- It is a <b><u>Ascomycetes Fungi</u></b>
+		- Type of fungi that produces **sexual spores** known as ***"ascospores"*** inside small **sacs** called, ***"asci"***
+---
+### Dhole (Asiatic Wild Dog)
+#GS3 #Environment #Biodiversity 
+- Dhole, once *extinct in the Assam region*, has made a confirmed comeback in **Assam's** ***Kaziranga-Karbi Anglong Landscape (KKAL)***
+- It is found almost all over **Asia** - India, Central Asia, Nepal, Bhutan, Thailand, Cambodia, etc.
+- In India it is found in:
+	- **Western Ghats**, **Eastern Ghats**, **Assam**, **Meghalaya**, **West Bengal**, and even **Ladakh**
+- IUCN: **"Endangered"**
+---
+

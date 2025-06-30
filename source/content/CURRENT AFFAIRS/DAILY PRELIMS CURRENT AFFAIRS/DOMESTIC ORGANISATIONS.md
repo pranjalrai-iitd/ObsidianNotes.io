@@ -23,3 +23,34 @@
 - It was delegated the responsibility to **manage India's .IN Country Code Top-Level Domain (ccTLD)** through the **INRegistry**  
 - It operated on a **neutral** and **non-discriminatory** basis  
 ---
+### National Turmeric Board
+#GS3 #Agriculture #Organizations 
+- It's **headquarters** inaugurated at **Nizamabad, Hyderabad** 
+- **Not a statutory body** under **Ministry of Commerce & Industry**
+- **Composition:**
+	- Chairperson - by Central government
+	- Members from - *MoAgriculture & Farmer's welfare, MoAYUSH, Departments of Pharmaceuticals,* etc.
+	- State government representatives - from 3 states (rotational basis)
+	- Secretary, appointed by DoCommerce
+- **Turmeric:**
+	- A ***rhizome*** **(underground stem)** called as ***"Golden Spice"***
+		- ***NOT Nitrogen-fixing***
+		- **Antioxidant** and **Anti-inflammatory**
+	- Thrives best in **well-drained sandy** and **clay loam** soil
+	- ***India is world's largest producer of turmeric*** - **75%** of global production
+	- More than 30 varieties grown in 20 states
+		1. **Maharashtra**
+		2. **Telangana**
+		3. **Karnataka**
+		4. **Tamil Nadu**
+	- India is **largest exporter - 62%** of global trade
+		- Leading export markets are *Bangladesh, UAE, USA & Malaysia*
+	- **Turmeric** with GI tags also exist:
+		- Maharashtra
+			- *Sangli Turmeric*
+			- *Waigaon Turmeric*
+		- Tamil Nadu
+			- *Erode Manjal*
+		- Meghalaya
+			- *Lakadong Turmeric*
+---

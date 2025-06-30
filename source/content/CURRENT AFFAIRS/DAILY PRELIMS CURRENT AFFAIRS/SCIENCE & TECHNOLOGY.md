@@ -193,4 +193,22 @@
 - Named after Astronomer **Vera C. Rubin**, who provided pioneering evidence of **dark matter**
 - The observatory released its first images of the cosmos
 ---
+### Botrytis Fungi (Nobel Rot)
+#GS3 #SciTech #Fungi
+- Researchers have found that ***Botrytis fungi cannot be cloned*** as **no single nucleus contains a complete set of chromosomes**
+	- The chromosome set is ***distributed across two or more nuclei***
+- **Botrytis Fungi** or **Nobel Rot**
+	- It is also called, ***"Alchemist of wines"*** as it infect **grapes** and causes the **berries to loose water by evaporation and shrivel up, and thus concentrates the sugars and flavours in them**
+	- It is a <b><u>Ascomycetes Fungi</u></b>
+		- Type of fungi that produces **sexual spores** known as ***"ascospores"*** inside small **sacs** called, ***"asci"***
+---
+### SynHG: Synthetic Human Genome Project
+#GS3 #SciTech #Biotech 
+- It is to construct human genetic material from scratch to learn more about how DNA works
+- It is a **five-year multi-center** research project with participants like *University of Cambridge, Oxford, etc.*
+- **Synthetic genome:**
+	- Is either **completely designed in lab** (OR)
+	- **Heavily modified form** of **natural DNA**
+- It can enable **target cell therapies, virus-resistant transplants, and climate engineered plants**
+---
 

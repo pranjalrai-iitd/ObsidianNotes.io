@@ -376,3 +376,30 @@
 	- It will emphasize **citizen-centric ideation** and **delivery**
 - Target is to reach **1 lakh tribal villages and habitations**
 ---
+### UN Report on Child and Maternal Health
+#GS1 #GS2 #Governance #Health #Data #Report #MainsValueAddition 
+- Reports by **UN Inter-agency groups:**
+	- ***Trends in maternal mortality 2000 to 2023***
+	- ***Levels & Trends in Child Mortality 2024***
+- **Key achievements of India:**
+	- **Decline in *"zero-dose children"*:** Reduced from *0.11% (2023)* to <b><u>0.06%</u> (2024)</b> of total population
+		- "<b><u><i>Zero-dose children</i></u></b>" are those who did not receive their first dose on **DPT** *(Diptheria-Tetanus-Pertussis)* vaccine
+	- **Polio-Free Status:** maintained since *2014* through **National Immunization Days**
+	- **Reduction in mortality indicators:**
+
+| **INDICATOR**                           | **DEFINITION**                                                                         | **INDIAN DECLINE SINCE 1990** | **GLOBAL DECLINE SINCE 1990** |
+| --------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------- |
+| 1. **Maternal Mortality Rate (MMR)**    | Number of maternal deaths during a given time period per 1,00,000 (1 lakh) live births | **86%**                       | 48%                           |
+| 2. **Under-Five Mortality Rate (U5MR)** | Number of deaths of children under 5 years of age per 1,000 live births                | **78%**                       | 61%                           |
+| 3. **Neonatal Mortality Rate (NMR)**    | Number of neonatal (birth to 29 days) deaths per 1,000 live births                     | **70%**                       | 54%                           |
+
+- **Achievements of Universal Immunization Programme (UIP):**
+	- **Reach:** provides free vaccination services annually to **~3 crore pregnant women** and **~2.6 crore infants*** (0-1 year)
+	- **Vaccines:** includes **12 vaccine-preventable diseases** (up from 6 in 2013)
+		- **New introduces vaccines:** *Inactivated Polio vaccine, Rotavirus vaccine, Pneumococcal Conjugate vaccine, Measles-Rubella vaccine, Adult Japanese Encephalitis vaccine, Tetanus-Diphtheria vaccine*
+- **Various initIatIves/achievements for vaccination:**
+	- ***Zero Dose Implementation Plan 2024:*** rolled across 143 districts in 11 states with high burden on unvaccinated children
+	- **Mission Indradhanush:** vaccinated **5.5 crore children** and **1.32 crore pregnant women** in 2017
+	- **Village Health and Nutrition Days (VHNDs):** community-level immunization and outreach
+	- **U-WIN** portal for tracking of immunization status
+---

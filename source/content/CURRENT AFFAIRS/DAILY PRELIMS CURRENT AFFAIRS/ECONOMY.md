@@ -308,3 +308,21 @@
 	- There is *steady growth* in *GDP* and companies report better earnings
 	- The *retail inflation* and the *interest rates* are relatively low
 ---
+### India Energy Stack
+#GS3 #Economt #Energy #SciTech #DPI 
+- **Ministry of Power** has announced the launch of a **task force** to conceive the **India Energy Stack**
+- It will be a **DPI**(Digital Public Infrastructure) that will provide a **standardized, secure and open platform** to **manage, monitor, and innovate** across the electricity value chain
+- **Key features:**
+	- *Unique IDs* for consumers, assets, and transactions
+	- *Real-time* consent-based data sharing
+	- *Open APIs* for seamless system integration
+	- *Tools* for consumer empowerment, market access, and innovation
+---
+### Remittances 
+#GS3 #Economy #Remittances #Data 
+- As per **RBI report**, ***remittances to India reached USD 235.46 Billion*** in **FY25(2024-25)**, increasing **14% yoy** - doubling from *USD 61 Billion* in FY17(2016-17)
+- **Significance:**
+	- **Economic contribution** and increased **Forex:** Remittances accounted for over **10% of India's USD 1 Trillion Gross Current Account inflows in FY25**
+	- **Supports Trade Deficit:** Represented **47% of India's USD 287 Billion merchandise trade deficit**
+	- **Stable source of finance:** Remittances surpass gross FDI, serving as a stable source of external financing
+---

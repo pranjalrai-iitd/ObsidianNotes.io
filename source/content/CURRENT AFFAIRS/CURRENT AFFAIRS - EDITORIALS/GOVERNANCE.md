@@ -119,3 +119,34 @@
 	- **Sunset clauses:** mandated by the Finance Ministry in 2017 to align schemes with financial resources cycle.
 	- A private member bill, **The Government Legislative Proposal and Schemes Bill, 2022** was introduced to bring accountability and Parliamentary oversight.
 ---
+### DATA ON CHILD AND MATERNAL HEALTH
+#GS1 #GS2 #Governance #Health #Data #Report #MainsValueAddition 
+
+<b><u>NEWS:</u></b>
+- Reports by **UN Inter-agency groups:**
+	- ***Trends in maternal mortality 2000 to 2023***
+	- ***Levels & Trends in Child Mortality 2024***
+
+<b><u>ACHIEVEMENTS OF INDIA:</u></b>
+- **Decline in *"zero-dose children"*:** Reduced from *0.11% (2023)* to <b><u>0.06%</u> (2024)</b> of total population
+	- "<b><u><i>Zero-dose children</i></u></b>" are those who did not receive their first dose on **DPT** *(Diptheria-Tetanus-Pertussis)* vaccine
+- **Polio-Free Status:** maintained since *2014* through **National Immunization Days**
+- **Reduction in mortality indicators:**
+
+| **INDICATOR**                           | **DEFINITION**                                                                         | **INDIAN DECLINE SINCE 1990** | **GLOBAL DECLINE SINCE 1990** |
+| --------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------- |
+| 1. **Maternal Mortality Rate (MMR)**    | Number of maternal deaths during a given time period per 1,00,000 (1 lakh) live births | **86%**                       | 48%                           |
+| 2. **Under-Five Mortality Rate (U5MR)** | Number of deaths of children under 5 years of age per 1,000 live births                | **78%**                       | 61%                           |
+| 3. **Neonatal Mortality Rate (NMR)**    | Number of neonatal (birth to 29 days) deaths per 1,000 live births                     | **70%**                       | 54%                           |
+
+- **Achievements of Universal Immunization Programme (UIP):**
+	- **Reach:** provides free vaccination services annually to **~3 crore pregnant women** and **~2.6 crore infants*** (0-1 year)
+	- **Vaccines:** includes **12 vaccine-preventable diseases** (up from 6 in 2013)
+
+<b><u>INITIATIVES BY INDIA FOR VACCINATION:</u></b>
+1. ***Zero Dose Implementation Plan 2024:*** rolled across 143 districts in 11 states with high burden on unvaccinated children
+2. **Mission Indradhanush:** vaccinated **5.5 crore children** and **1.32 crore pregnant women** in 2017
+3. **Village Health and Nutrition Days (VHNDs):** community-level immunization and outreach
+4. **U-WIN** portal for tracking of immunization status
+
+---

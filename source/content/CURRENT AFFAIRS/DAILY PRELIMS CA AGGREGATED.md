@@ -519,7 +519,7 @@ A(Social security)-->D(Labor market  programs);
 ---
 ### Sustainable Nickel:
 #GS3 #Environment #Minerals #EnergyTransition #EVs 
-- Importance of Nickel is in various *clean energy technologies*, especially ***Electric Vehicles (EVs)***. The **demand** for Nickel is expected to surpass **6MnT a year by 2040*.
+- Importance of Nickel is in various *clean energy technologies*, especially ***Electric Vehicles (EVs)***. The **demand** for Nickel is expected to surpass **6MnT a year by 2040**.
 	- Nickel is used in **batteries**
 - Nickel **extraction** is **highly carbon-intensive**: For **1T Nickel** around **20T CO2** is emitted
 - <b><u>NEWS:</u></b> New method developed by researchers using **Hydrogen plasma**, which is about **18% energy efficient** and **cut 84% CO2** compared to present.
@@ -2587,4 +2587,206 @@ A(Social security)-->D(Labor market  programs);
 		3. **IUCN**
 		4. **UNEP-WCMC:** United Nations Environment Programme - *World Conservation Monitoring Centre*
 	- It provided **data, tools and guidance** that helps organizations act on biodiversity related risks
+---
+### National Bioenergy Programme
+#GS3 #Environment #Energy #ClimateChange 
+- **MNRE** has updated the guidelines on **"Waste to Energy"** and **"Biomass"** components of the ***National Bioenergy Programme***
+- **Bioenergy:** energy generated from *biomass fuel* which comes from *organic matter* such as harvest residues, crops and organic waste, etc.
+- **NATIONAL BIOENERGY PROGRAMME (NBP):**
+	- Launched in 2022 and to be implemented in **two phases** with total budget of *INR 1715 crore*
+	- **OBJECTIVE:** to utilize **surplus biomass** *(primarily from rural areas)* for **power generation**, while providing **additional income** to rural households
+	- **Central Finance Assistance (CFA):** to be provided to project developers based on various aspects of projects
+		- For **special categories** like NER, Hilly states, SC/ST beneficiaries, etc. will get **20% more CFA**
+	- **3 COMPONENTS OF NBP:**
+		1. <b><u>Waste to Energy Programme:</u></b> support projects for generating ***Biogas, BioCNG, Syngas*** from *urban, industrial, and agricultural waste/residues*.
+		2. <b><u>Biomass Programme:</u></b> support ***Biomass Briquette/Pellet manufacturing*** plants and ***Biomass (non-bagasse)*** based **cogeneration** plants
+		3. <b><u>Biogas Programme:</u></b> support ***biogas plants*** for *clean cooking fuel, small power needs, improved sanitation, women empowerment*, etc.
+			- **NOTE:** ***Biogas*** has:
+				- **95% CH4**
+				- **CO2**
+				- Traces of *N2, H2, H2S, O2,* etc.
+- **REVISED GUIDELINES:**
+	- **For Waste to Energy Programme:**
+		- **Simplified processes:** easier approvals for MSMEs and industry
+		- **Improved CFA disbursal:** with two-stage release:
+			- *50% CFA* after consent from the *SPCB*, with *bank guarantee*
+			- Remaining after *80% capacity achievement* or *maximum limit* (lower of the two)
+		- **Streamlined inspections** and flexible performance based funding
+	- **For Biomass Programme:**
+		- **Simplified processes:** *no clearance documents* needed for *briquette/pallet* plants
+		- **Tech integration:** enabling use of *IoT based monitoring* systems
+		- **Stubble burning support:** peller producers in NCR and nearby states can choose MNRE or CPCB scheme
+		- **Flexible market access** and performance based subsidy
+---
+### UN Report on Child and Maternal Health
+#GS1 #GS2 #Governance #Health #Data #Report #MainsValueAddition 
+- Reports by **UN Inter-agency groups:**
+	- ***Trends in maternal mortality 2000 to 2023***
+	- ***Levels & Trends in Child Mortality 2024***
+- **Key achievements of India:**
+	- **Decline in *"zero-dose children"*:** Reduced from *0.11% (2023)* to <b><u>0.06%</u> (2024)</b> of total population
+		- "<b><u><i>Zero-dose children</i></u></b>" are those who did not receive their first dose on **DPT** *(Diptheria-Tetanus-Pertussis)* vaccine
+	- **Polio-Free Status:** maintained since *2014* through **National Immunization Days**
+	- **Reduction in mortality indicators:**
+
+| **INDICATOR**                           | **DEFINITION**                                                                         | **INDIAN DECLINE SINCE 1990** | **GLOBAL DECLINE SINCE 1990** |
+| --------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------- |
+| 1. **Maternal Mortality Rate (MMR)**    | Number of maternal deaths during a given time period per 1,00,000 (1 lakh) live births | **86%**                       | 48%                           |
+| 2. **Under-Five Mortality Rate (U5MR)** | Number of deaths of children under 5 years of age per 1,000 live births                | **78%**                       | 61%                           |
+| 3. **Neonatal Mortality Rate (NMR)**    | Number of neonatal (birth to 29 days) deaths per 1,000 live births                     | **70%**                       | 54%                           |
+
+- **Achievements of Universal Immunization Programme (UIP):**
+	- **Reach:** provides free vaccination services annually to **~3 crore pregnant women** and **~2.6 crore infants*** (0-1 year)
+	- **Vaccines:** includes **12 vaccine-preventable diseases** (up from 6 in 2013)
+		- **New introduces vaccines:** *Inactivated Polio vaccine, Rotavirus vaccine, Pneumococcal Conjugate vaccine, Measles-Rubella vaccine, Adult Japanese Encephalitis vaccine, Tetanus-Diphtheria vaccine*
+- **Various initIatIves/achievements for vaccination:**
+	- ***Zero Dose Implementation Plan 2024:*** rolled across 143 districts in 11 states with high burden on unvaccinated children
+	- **Mission Indradhanush:** vaccinated **5.5 crore children** and **1.32 crore pregnant women** in 2017
+	- **Village Health and Nutrition Days (VHNDs):** community-level immunization and outreach
+	- **U-WIN** portal for tracking of immunization status
+---
+### Rules to promote Agroforestry
+#GS3 #Environment #Agriculture #AgroForestry #Rules
+- Government released **model rules** for ***"Felling of Trees in Agricultural Land"*** to **promote Agroforestry**
+- **Highlights of rules:**
+	- The existing **State Level Committee (SLC)**, constituted under the ***"Wood-Based Industries (Establishment & Regulation) Guidelines, 2016"*** will **oversee** these rules
+		- It will **advise the state** on promoting **agroforesty** and boosting **timber production** by ***easing tree falling*** and ***transit rules***
+	- **Registration of plantation areas:** applicants shall register on the ***National Timber Management System*** with land ownership details
+	- **Felling Permission:** A ***Felling Permit*** is issued for agricultural lands **felling more than 10 trees**, while a **NOC** is issued for lands  **felling 10 or fewer trees**.
+- **Agroforestry:**
+	- #Definition Agroforestry involves **growing trees & agricultural crops** together on the **same land**
+		- Government defines agroforestry land, for all calculation purposes, as having over **10% tree cover on agricultural land**
+	- **Types of Agroforestry:**
+```mermaid
+graph TD;
+A(Types of Agroforestry)-->B(<b>Agrisilviculture:</b><br> Crops + Trees);
+A(Types of Agroforestry)-->C(<b>Silvopasture:</b><br> Trees + Livestock);
+A(Types of Agroforestry)-->D(<b>Agrosilvopastoral:</b><br> Trees + Crops + Pasture/Animals);
+```
+
+- **Data on Agroforestry:** #Data 
+	- It covers ***8.65%** (28.42 million hectares)* of India's total geographical area
+	- It's share in **Agiculture GVO** is around ****7.7%***
+
+- **Benefits:**
+	- **Environmental benefits:** support increasing tree cover outside forests and promoted **sustainable land use** aligning with **NDCs**
+	- **Economic benefits:** it helps ***Double farmer's income*** by boosting *productivity, improving soil health*, and *conserving water*
+	- **Social benefits:** improvement in **rural living standards** from sustained employment and higher incomes
+- **Initiatives to promote agroforestry:**
+	- **National Agroforestry Policy, 2014:** to promote agroforestry and to create a framework for research, development, and scaling up agroforestry practices.
+	- **Sub-Mission on Agroforestry (SMAF):** it is under the **National Mission for Sustainable Agriculture**
+	- **GROW initiative:** launched by **NITI Aayog**, aiming to transform India's wastelands through agroforestry
+	- **Amendments to the Forest Act 1927 in 2017:** redefined **bamboo** as **grass** instead of a tree, simplifying its harvesting and transit
+---
+### Registered Unrecognized Political Parties
+#GS2 #Polity #Elections #RPA 
+- **RUPPs** have failed to fulfill essential condition of contesting even a single election for the **last six years** also their **officer could not be physically located anywhere**
+- **Registration of political parties:**
+	- ***Section 29A of RPA, 1951:*** lays down the requirements for registration of a political party with ECI
+	- #Judgement ***Indian National Congress vs. Institute of Social Welfare 2000:*** **ECI has no power to de-register** political parties but can **de-list** them
+- **Concerns posed by RRPUs:**
+	- **Compliance related concerns:** non-submission of ***mandatory Contribution Reports*** under ***section 29C of RPA, 1951***
+	- **Financial irregularities and Tax abuse:**
+		- **Improper claims of Income Tax Exemptions:** In FY20, **219 RUPPs** claimed around **INR 600 crore**
+		- **Alleged serious financial impropriety:** through *fake donation receipts, use of shell companies, bogus transactions and purchases,* etc.
+	- **No electoral participation:** in General Election 2019, around **70% RUPPs** did **not** participated, despite being registered
+- **Ways to deal with errant RUPPs:**
+	- ***225th Law Commission's Report (2015):*** recommended **automatic de-registration** of parties failing to contest elections for **10 consecutive years**
+	- ***2016 ECI's memorandum:*** suggested **amending RPA 1951** to **empower ECI to de-register** political parties.
+---
+### Artificial Rain
+#GS3 #Environment #AirPollution
+- Delhi government to conduct first-ever artificial rain through **cloud seeding** to combat air pollution, in collaboration with **IIT Kanpur**
+- Its a **weather modification technique** which can be used to **enhance precipitation** by dispersing chemicals into the sky
+	- These chemicals attract water vapour and act as **condensation nuclei** promoting precipitation
+	- ***Silver Iodide, Potassium Iodide,*** and ***Dry Ice***
+- **Types of cloud seeding:**
+	1. ***Hygroscopic Cloud Seeding:*** accelerates the merging of droplets in liquid clouds
+	2. ***Glaciogenic Cloud Seeding:*** induces ice formation in super cooled clouds
+
+| **BENEFITS**                                                                                                                                                                                                                                                                                                        | **CONCERNS**                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Enhances **rainfall in drought-prone** areas<br>2. Supports **agriculture** during dry spells<br>3. Helps **regulate weather conditions** artificially - reducing crop damage from hail storms<br>4. Reduces **air pollution**<br>5. **Wildfire mitigation**<br>6. Supplementary solution for **water scarcity** | 1. Can results into **floods and landslides:** <br>#Eg ***Dubai cloud seeding project*** resulted into unprecedented floods in 2024<br>2. Disturbs **natural weather patterns**<br>3. **Environmental damage** due to non-seasonal rains, which can negatively affect biodiversity<br>4. Once seeded, **difficult to regulate** and can have unintended consequences |
+- It must be guided by **scientific research** and **adequate environmental safeguards** and **clear regulations**
+- **Cloud-seeding in India and required permissions:** NOC from *13 agencies*
+	- *DGCA, AAI, BCAS(Bureau of Civil Aviation), MoDefence, MoHome, SPG, MoEnvrionment, IMD, CPCB* and others
+- **Efficacy:** 
+	- Up to **15% increase** recorded in some countries like **Australia**
+	- **Success rate** of up to **60%** as per IIT Kanpur
+---
+
+### National Turmeric Board
+#GS3 #Agriculture #Organizations 
+- It's **headquarters** inaugurated at **Nizamabad, Hyderabad** 
+- **Not a statutory body** under **Ministry of Commerce & Industry**
+- **Composition:**
+	- Chairperson - by Central government
+	- Members from - *MoAgriculture & Farmer's welfare, MoAYUSH, Departments of Pharmaceuticals,* etc.
+	- State government representatives - from 3 states (rotational basis)
+	- Secretary, appointed by DoCommerce
+- **Turmeric:**
+	- A ***rhizome*** **(underground stem)** called as ***"Golden Spice"***
+		- ***NOT Nitrogen-fixing***
+		- **Antioxidant** and **Anti-inflammatory**
+	- Thrives best in **well-drained sandy** and **clay loam** soil
+	- ***India is world's largest producer of turmeric*** - **75%** of global production
+	- More than 30 varieties grown in 20 states
+		1. **Maharashtra**
+		2. **Telangana**
+		3. **Karnataka**
+		4. **Tamil Nadu**
+	- India is **largest exporter - 62%** of global trade
+		- Leading export markets are *Bangladesh, UAE, USA & Malaysia*
+	- **Turmeric** with GI tags also exist:
+		- Maharashtra
+			- *Sangli Turmeric*
+			- *Waigaon Turmeric*
+		- Tamil Nadu
+			- *Erode Manjal*
+		- Meghalaya
+			- *Lakadong Turmeric*
+---
+### India Energy Stack
+#GS3 #Economt #Energy #SciTech #DPI 
+- **Ministry of Power** has announced the launch of a **task force** to conceive the **India Energy Stack**
+- It will be a **DPI**(Digital Public Infrastructure) that will provide a **standardized, secure and open platform** to **manage, monitor, and innovate** across the electricity value chain
+- **Key features:**
+	- *Unique IDs* for consumers, assets, and transactions
+	- *Real-time* consent-based data sharing
+	- *Open APIs* for seamless system integration
+	- *Tools* for consumer empowerment, market access, and innovation
+---
+### Botrytis Fungi (Nobel Rot)
+#GS3 #Environment #Biodiversity #Fungi
+- Researchers have found that ***Botrytis fungi cannot be cloned*** as **no single nucleus contains a complete set of chromosomes**
+	- The chromosome set is ***distributed across two or more nuclei***
+- **Botrytis Fungi** or **Nobel Rot**
+	- It is also called, ***"Alchemist of wines"*** as it infect **grapes** and causes the **berries to loose water by evaporation and shrivel up, and thus concentrates the sugars and flavours in them**
+	- It is a <b><u>Ascomycetes Fungi</u></b>
+		- Type of fungi that produces **sexual spores** known as ***"ascospores"*** inside small **sacs** called, ***"asci"***
+---
+### Remittances 
+#GS3 #Economy #Remittances #Data 
+- As per **RBI report**, ***remittances to India reached USD 235.46 Billion*** in **FY25(2024-25)**, increasing **14% yoy** - doubling from *USD 61 Billion* in FY17(2016-17)
+- **Significance:**
+	- **Economic contribution** and increased **Forex:** Remittances accounted for over **10% of India's USD 1 Trillion Gross Current Account inflows in FY25**
+	- **Supports Trade Deficit:** Represented **47% of India's USD 287 Billion merchandise trade deficit**
+	- **Stable source of finance:** Remittances surpass gross FDI, serving as a stable source of external financing
+---
+### Dhole (Asiatic Wild Dog)
+#GS3 #Environment #Biodiversity 
+- Dhole, once *extinct in the Assam region*, has made a confirmed comeback in **Assam's** ***Kaziranga-Karbi Anglong Landscape (KKAL)***
+- It is found almost all over **Asia** - India, Central Asia, Nepal, Bhutan, Thailand, Cambodia, etc.
+- In India it is found in:
+	- **Western Ghats**, **Eastern Ghats**, **Assam**, **Meghalaya**, **West Bengal**, and even **Ladakh**
+- IUCN: **"Endangered"**
+---
+### SynHG: Synthetic Human Genome Project
+#GS3 #SciTech #Biotech 
+- It is to construct human genetic material from scratch to learn more about how DNA works
+- It is a **five-year multi-center** research project with participants like *University of Cambridge, Oxford, etc.*
+- **Synthetic genome:**
+	- Is either **completely designed in lab** (OR)
+	- **Heavily modified form** of **natural DNA**
+- It can enable **target cell therapies, virus-resistant transplants, and climate engineered plants**
 ---

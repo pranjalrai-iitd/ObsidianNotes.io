@@ -157,3 +157,36 @@
 		- **PM Fasal Bima Yojana**
 		- **Rashtryia Krishi Vikas Yojana**
 ---
+### Rules to promote Agroforestry
+#GS3 #Environment #Agriculture #AgroForestry #Rules
+- Government released **model rules** for ***"Felling of Trees in Agricultural Land"*** to **promote Agroforestry**
+- **Highlights of rules:**
+	- The existing **State Level Committee (SLC)**, constituted under the ***"Wood-Based Industries (Establishment & Regulation) Guidelines, 2016"*** will **oversee** these rules
+		- It will **advise the state** on promoting **agroforesty** and boosting **timber production** by ***easing tree falling*** and ***transit rules***
+	- **Registration of plantation areas:** applicants shall register on the ***National Timber Management System*** with land ownership details
+	- **Felling Permission:** A ***Felling Permit*** is issued for agricultural lands **felling more than 10 trees**, while a **NOC** is issued for lands  **felling 10 or fewer trees**.
+- **Agroforestry:**
+	- #Definition Agroforestry involves **growing trees & agricultural crops** together on the **same land**
+		- Government defines agroforestry land, for all calculation purposes, as having over **10% tree cover on agricultural land**
+	- **Types of Agroforestry:**
+```mermaid
+graph TD;
+A(Types of Agroforestry)-->B(<b>Agrisilviculture:</b><br> Crops + Trees);
+A(Types of Agroforestry)-->C(<b>Silvopasture:</b><br> Trees + Livestock);
+A(Types of Agroforestry)-->D(<b>Agrosilvopastoral:</b><br> Trees + Crops + Pasture/Animals);
+```
+
+- **Data on Agroforestry:** #Data 
+	- It covers ***8.65%** (28.42 million hectares)* of India's total geographical area
+	- It's share in **Agiculture GVO** is around ****7.7%***
+
+- **Benefits:**
+	- **Environmental benefits:** support increasing tree cover outside forests and promoted **sustainable land use** aligning with **NDCs**
+	- **Economic benefits:** it helps ***Double farmer's income*** by boosting *productivity, improving soil health*, and *conserving water*
+	- **Social benefits:** improvement in **rural living standards** from sustained employment and higher incomes
+- **Initiatives to promote agroforestry:**
+	- **National Agroforestry Policy, 2014:** to promote agroforestry and to create a framework for research, development, and scaling up agroforestry practices.
+	- **Sub-Mission on Agroforestry (SMAF):** it is under the **National Mission for Sustainable Agriculture**
+	- **GROW initiative:** launched by **NITI Aayog**, aiming to transform India's wastelands through agroforestry
+	- **Amendments to the Forest Act 1927 in 2017:** redefined **bamboo** as **grass** instead of a tree, simplifying its harvesting and transit
+---

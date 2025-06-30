@@ -90,3 +90,19 @@
 	- **Article 344** provides for the construction of the **Commission and Committee on Official Language**
 	- **Article 345** provides that State legislatures may adopt any one or more languages used in the State or Hindi as the official language of that state
 ---
+### Registered Unrecognized Political Parties
+#GS2 #Polity #Elections #RPA 
+- **RUPPs** have failed to fulfill essential condition of contesting even a single election for the **last six years** also their **officer could not be physically located anywhere**
+- **Registration of political parties:**
+	- ***Section 29A of RPA, 1951:*** lays down the requirements for registration of a political party with ECI
+	- #Judgement ***Indian National Congress vs. Institute of Social Welfare 2000:*** **ECI has no power to de-register** political parties but can **de-list** them
+- **Concerns posed by RRPUs:**
+	- **Compliance related concerns:** non-submission of ***mandatory Contribution Reports*** under ***section 29C of RPA, 1951***
+	- **Financial irregularities and Tax abuse:**
+		- **Improper claims of Income Tax Exemptions:** In FY20, **219 RUPPs** claimed around **INR 600 crore**
+		- **Alleged serious financial impropriety:** through *fake donation receipts, use of shell companies, bogus transactions and purchases,* etc.
+	- **No electoral participation:** in General Election 2019, around **70% RUPPs** did **not** participated, despite being registered
+- **Ways to deal with errant RUPPs:**
+	- ***225th Law Commission's Report (2015):*** recommended **automatic de-registration** of parties failing to contest elections for **10 consecutive years**
+	- ***2016 ECI's memorandum:*** suggested **amending RPA 1951** to **empower ECI to de-register** political parties.
+---
