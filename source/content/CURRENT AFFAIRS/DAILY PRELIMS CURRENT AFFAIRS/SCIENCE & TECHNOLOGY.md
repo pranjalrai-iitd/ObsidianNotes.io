@@ -211,4 +211,15 @@
 	- **Heavily modified form** of **natural DNA**
 - It can enable **target cell therapies, virus-resistant transplants, and climate engineered plants**
 ---
-
+### Altermagnets
+#GS3 #SciTech 
+- Researchers from **S.N. Bose national Center for Basic Sciences (SNBNCBS)** discovered a unique ***duality in altermagnets*** using **Chromium Atimonide (CrSb)**
+- **ALTERMAGNETS:**
+	- Altermagnets are ***new type of magnetic material*** that combine the best features of ***ferromagnets*** and ***antiferromagnets***
+		- **Ferromagnets:** spins **align** in the same direction, resulting in **strong magnetism**
+		- **Antiferromagnets:** spins **alternate**, thus cancelling each other out, resulting in **no external magnetism**
+	- **Features of Altermagnets:**
+		- They exhibit **alternating spins** like antiferromagnets and therefore have **no net magnetism**
+		- Due to their **unique crystal symmetry**, they shoe **intense internal spin polarisation**, similar to ferromagnets
+	- **CrSb (Chromium Antimonide)** an **altermagnet** shows the ***strongest spin-splitting*** among all known altermagnets.
+---

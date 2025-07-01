@@ -111,3 +111,14 @@
 		- Urban green space connected to grey infrastructure
 	- Collaboration of all stakeholders - **private and public**
 ---
+### "SACHET" Disaster Alert System
+#GS3 #DisasterManagement #EarlyWarningSystem
+- The **NDMA** operationalised the **Integrated Alert System**, ***SACHET*** and a testing of the **Cell Broadcast (CB) system** is being conducted
+- **SACHET:** India's *SMS-Based Alert System*
+	- Developed by **C-DOT** using the **Common Alerting Protocol (CAP)**, recommended by the **ITU** (International Telecommunication Union)
+	- It is active in all 36 states and UTs and sends a **geo-targeted SMS alert** during disasters like cyclones, floods, and storms
+- **Cell Broadcast (CB) System:** *Near Real-Time Emergency Alerts*
+	- Being developed by **C-DOT**
+	- **CB** are broadcast **directly** to **all mobile phones** in the affected are
+	- They are **much faster than SMS** and are ideal of *urgent disasters* like Tsunamis, Earthquakes, Lightning (not-notified) and Gas Leaks (not-notified)
+---

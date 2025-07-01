@@ -403,3 +403,81 @@
 	- **Village Health and Nutrition Days (VHNDs):** community-level immunization and outreach
 	- **U-WIN** portal for tracking of immunization status
 ---
+### RBI's Financial Stability Report (FSR)
+#GS3 #Economy #RBI #Data #Report #MainsValueAddition 
+- It is **biannual report** released by the **RBI**
+- It reflects the collective assessment of the **sub-committee** of the **FSDC** on resilience of the Indian financial system and risks to financial stability
+	- **FSDC: Financial Stability and Development Council**
+		- Established in 2010 and is chaired by the ***Finance Minister*** with members including **heads of financial regulators:** ***RBI, SEBI, IRDAI, PFRDAI*** and other members
+		- It is responsible for ensuring **financial stability** and **coordination**
+- **Highlights of the report:**
+	- **India still driver of global growth:**
+		- **Resilience of the Indian economy:** real GDP is projected to grow at ***6.5% in FY26***, driven by *strong domestic demand* which shields the economy from global shocks
+		- **Strong financial institutions and banking health:**
+			- #Data **GNPA** (Gross non-performing asset ratio) - ***2.3%**
+			- #Data**NNPA** (Net non-performing asset ratio) - ***0.5%***
+			- #Data Till 2025, the **CRAR** of *SCBs (Schedule Commercial Banks)* has increased to a record high of ***17.3%***
+		- **Strong corporate sector performance:** the **large borrower cohort's  GNPA** ratio declined from *3.8% (September 2023)* to ***1.9% (March  2025)***
+	- **Inflation trends:**
+		- **Domestic inflation:** **CPI** dropped to a **6 year low** of ***2.8% (May 2025)***
+		- **Imported inflation:** slower global growth may ease commodity and oil prices, though tensions in the Middle East may add some uncertainties
+	- **Global Macro-financial Risks:**
+		- **Spillovers from advanced economies to emerging economies:** Emerging markets face rising risks from **global trade tensions, ongoing geopolitical conflicts, rising global public debt**
+		- **Uncertainty over US trade policy:** led to market volatility, tighter financial conditions
+		- **Climate related shocks:** have potential to disrupt business operations through the ***materialization of physical hazard***
+- **NOTE:** ***Global Financial Stability Report*** is released by **IMF**
+---
+### SDG-NIF Progress Report 2025
+#GS3 #Economy #SustainableDevelopment #Report 
+- **MosPI** released the **SDG-National Indicator Framework (NFI) Progress Report 2025**
+	- The **NIF** reflects *India's commitment to SDGs*
+- **Highlights:**
+
+| **SDG GOAL#**                               | **PROGRESS**                                                                                                                                                                                                                                                                           |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **SDG2:** *Zero Hunger*                     | - **Agriculture productivity** improved<br>- **Income per worker** improved from **Rs.61K (FY16)** to ***Rs.94K (FY25)***                                                                                                                                                              |
+| **SDG6:** *Clean Water and Sanitation*      | - **Rural access to safe drinking water** increased from *94.6% (FY16)* to ***99.62% (FY25)***                                                                                                                                                                                         |
+| **SDG7:** *Clean Energy*                    | - **Renewable energy generation** in total generation rose from *16% (FY16)* to ***22%(FY25)***<br>- **Per capita renewable energy generation** capacity increased from *64W (FY16)* to ***156.3W (FY25)***                                                                            |
+| **SDG8:** *Decent work and Economic growth* | - **Social protection coverage** expanded from *22% (2016)* to ***64.3% (2025)***                                                                                                                                                                                                      |
+| **SDG9:** *Industry and Innovation*         | - **Emission intensity of GDP** reduced by **36% from 2005** to 2020 showing ***greener growth***                                                                                                                                                                                      |
+| **SDG10:** *Reduced Inequality*             | - From **FY12 to FY24**, the **Gini coefficient** of **household expenditure** decreased from **0.283** to ***0.237*** in **RURAL AREAS**<br>- From **FY12 to FY24**, the **Gini coefficient** of **household expenditure** decreased from **0.363** to ***0.284*** in **URBAN AREAS** |
+| **SDG12:** *Responsible Consumption*        | - **Waste processed** has increased from *18% (FY16)* to ***81% (FY25)***                                                                                                                                                                                                              |
+| **SDG15:** *Life on Land*                   | - **Forest cover** rose from *21.24% (2015)* to ***21.76% (2023)***                                                                                                                                                                                                                    |
+- **Some concerns highlighted in the report:**
+	- Rising **adolescent birth rates** in girls
+	- Rise in **road accident fatalities**
+	- Decline in **issuance of soil health cards**
+	- Reduction in **primary government expenditure** as a proportion of original approved budget
+---
+### 10 Years of Digital India Mission
+#GS3 #SciTech #DPI #Scheme #Data
+- It was launched in 2015 with an aim to transform India into a **digitally empowered society and knowledge economy**
+- It is an **umbrella programme** covering **multiple government Ministries and Departments**
+- Overall coordination is performed by **MeITY**
+- It identifies **3 vision areas:**
+```mermaid
+graph TD;
+A(a)-->B(<b>Digital infrastructure</b> as a Utility to Every Citizen<br><b>...</b><br><br>- High speed internet<br>- Digital identity from cradle to grave<br>- Mobile phone and Banking<br>- Common Service Centre<br>- Public cloud<br>- Safe and secure cyber-space);
+A(a)-->C(<b>Governance and Services on Demand</b><br><b>...</b><br><br>- Seamlessly integrated departments<br>- Real-time service availability on online and mobile platforms<br>- Cloud accessibility<br>- EoDB through digital enhancement<br>- Cashless financial transactions<br>- GIS for decision-support);
+A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empowerment</b> of Citizens<br><b>...</b><br><br>- Universal digital literacy<br>- Universal accesibility to digital resorces<br>- Cloud accessibility for all documents<br>- Digital resources in Indian languages<br>- Collaborative digital platforms for participative governance<br>- Portablility of all entitlements through the  Cloud);
+```
+
+- **Major achievement under Digital India Mission:** #MainsValueAddition
+	- **Digital Economy:** #Data contributing ***11.75% to national income in FY23*** and expected to reach ***13.4% by FY25***
+		- India ranks **3rd** in the world for **digitization of economy**
+	- **Connectivity and Infrastructure:**
+		- #Data **Internet connections** increased from *25 crore (2014)* to ***97 crore (2024)*** and **BharatNet** connected ***2.18 lakh Gram Panchayats*** with high speed internet
+	- **Digital Finance and Financial inclusion:**
+		- **Digital payments:** #Data India accounts for **49% of global real-time digital payments** in 2023 with ***UPI*** being live in 7 countries
+			- *1. Bhutan, 2. France, 3. Mauritius, 4. Nepal, 5. Singapore, 6. Sri-Lanka, 7. UAE*
+		- **Aadhar-enabled DBT:** #Data saved **Rs. 3.5 lakh crore** by eliminating ***fake beneficiaries***
+	- **Advancing strategic tech capabilities:** through *IndiaAI Mission, India Semiconductor Mission* (six projects approved), and *SEMICON India 2025*
+	- **e-Goverance:** training of civil servants on *Karmayogi Bharat iGOT platform,* and improving access to central and state government services through *UMANG*
+---
+### WaveX
+#Gs3 #Economy #MICE 
+- **WaveX**
+	- Is a dedicated **Startup accelerator platform** launched under **MoI&B's WAVES initiative**, aimed at nurturing innovation in the media, entertainment, and language technology sectors
+- **MoI&B** launched the **"WAVEX Startup Challenge 2025"** under its flagship **startup accelerator programme, "WaveX"**
+	- under this there is a challenge titled, ***"BhashaSetu"*** - Real time language tech for Bharat, is a national hackathon to develop AI-powered multilingual translation solution across *at least 12 major Indian languages*
+---

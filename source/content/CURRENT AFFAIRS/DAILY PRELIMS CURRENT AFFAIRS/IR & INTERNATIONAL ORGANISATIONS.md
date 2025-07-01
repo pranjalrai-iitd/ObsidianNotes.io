@@ -243,3 +243,14 @@
 			- ***India accepted the neutral expert process*** but, not the CoA.
 	- Post the Pahalgam attack, India **held IWT** ***in abeyance***
 ---
+### Wilmingtom Declaration (2024)
+#GS2 #GS3 #IR #InternalSecurity 
+- Issued by **QUAD members** at **Wilmington, USA**
+- It reaffirms a commitment to a *free, open, inclusive, and resilient Indo-Pacific*, respecting *rule of law, democracy* and *territorial integrity*
+- **Other initiatives by QUAD:**
+	- <b><u><i>Quad Cancer Moonshot</i></u></b> focused on Cervical cancer
+	- <b><u><i>MAITRI:</i></u></b> *Maritime training in the Info-Pacific*
+	- <b><u><i>Ports of the Future Partnership</i></u></b> to support for **digital infrastructure**, including **undersea cables**
+- The ***Coast Guards*** of the **QUAD members** launched the first <b>"<u><i>QUAD at Sea Ship Observer Mission</i></u>"</b> under the ***Wilmington Declaration***
+	- The mission will strengthen *maritime cooperation, security,* and *interoperability* among **QUAD coast guards** in the Indo-Pacific and support India's maritime vision of **SAGAR** *(Security and Growth for All in the Region)*
+---

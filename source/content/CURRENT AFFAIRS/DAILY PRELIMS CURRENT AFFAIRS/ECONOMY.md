@@ -263,6 +263,35 @@
 	- Expanding the use of **guarantees**  
 	- **Hybrid capital** and de-risking instruments to **crowd in private investment**  
 ---
+### World of Debt Report 2025
+#GS3 #Economy #Report #Data 
+- By **UNCTAD (UN Conference on Trade and Development)**
+- It highlights **surge in global public debt**, aggravated by cascading crises in recent years and its **disproportionate burden on developing countries.**
+- **Status of Global Public Debt (GPD):**
+	- **High Public Debt:** reached a **record high** of **USD 102 Trillion in 2024**
+		- ***GPD could increase to 100% of GDP*** by ***2030*** if the current trends continue
+	- **Disproportionate debt growth:** developing countries accounted for **less than 1/3 = USD 31 Trillion**. However, it has grown **twice as fast as in developed economies** since 2010
+		- *Asia and Oceania* - *24% of GPD*
+		- *Lain America and Caribbean* - *5% of GPD*
+		- *Africa* - *2% of GPD*
+	- **High borrowing consts:** developing countries face higher borrowing costs - ***2 to 4 times higher than those for USA***
+		- ***A record of 61 developing countries allocates 10% or more of government revenues to interest payments***
+- **Impact of rising GPD:**
+	- Widening **Development financing** gaps
+	- Decline in **aid flows**
+	- Constraining spending in **critical areas** like *education and health*
+- **Public Debt can also be important:**
+	- Helps to **finance development expenditure**
+	- External debt **complements domestic savings** and provides **forex**
+	- Stimulate **economic growth** and help **manage economic downturns**
+- **Recommendations for Debt Management and Sustainable Financing:*** the ***UN Secretary General's Expert Group on Public Debt*** recommends the following:
+	- **Multilateral reforms:** 
+		- **Normalize debt service pauses** during crises
+		- Reform the **G20 Common Framework**
+		- **Re-channel SDR** through **IMF's Resilience and Sustainability Trust**
+	- **Cooperation between countries:** establish a **shared information hub** to provide technical assistance on innovative financial instruments
+	- **National measures:** strengthen institutional capacities to address liquidity risks, currency mismatch, improve quality of project pipeline and increase impact of debt swaps
+---
 ### India's External Debt
 #Gs3 #Economy #Data #Debt 
 - As per **RBI Report**, India's external debt rose to ***USD 736.6 Billion*** in March 2025 - an increase of **USD 67.5 Billion y-o-y**, *excluding the valuation effects*.

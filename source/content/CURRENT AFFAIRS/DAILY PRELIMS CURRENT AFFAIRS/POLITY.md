@@ -106,3 +106,11 @@
 	- ***225th Law Commission's Report (2015):*** recommended **automatic de-registration** of parties failing to contest elections for **10 consecutive years**
 	- ***2016 ECI's memorandum:*** suggested **amending RPA 1951** to **empower ECI to de-register** political parties.
 ---
+### Reservation in Supreme Court Administration
+#GS2 #Polity #Reservation #FundamentalRights #Judiciary 
+- For the first time, the Supreme Court has introduced a **formal policy of reservation** in **direct appointment** and **promotion** for **SCs & STs** staff in **court's internal administration**
+	- ***NOT applicable on Judges***
+	- Covers - *registrars, senior personal assistants, assistant librarians, junior court assistants and chamber attendants*
+	- SC - 15% quota in both appointment and promotion
+	- ST - 7.5% quota in both appointment and promotion
+---

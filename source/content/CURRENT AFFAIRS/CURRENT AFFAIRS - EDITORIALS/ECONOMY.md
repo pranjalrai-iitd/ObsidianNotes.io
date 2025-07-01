@@ -400,3 +400,109 @@
 
 ---
 
+### HIGHLIGHTS OF RBI's FINANCIAL STABILITY REPORT (FSR)
+#GS3 #Economy #RBI #Data #Report #MainsValueAddition 
+
+<b><u>NEWS:</u></b>
+- **RBI** released the **biannual** ***Financial Stability Report***, which reflects the collective assessment of the **sub-committee** of the **FSDC** on resilience of the Indian financial system and risks to financial stability
+
+<b><u>HIGHLIGHTS OF FSR:</u></b>
+1. **India still driver of global growth:**
+	1. **Resilience of the Indian economy:** real GDP is projected to grow at ***6.5% in FY26***, driven by *strong domestic demand* which shields the economy from global shocks
+	2. **Strong financial institutions and banking health:**
+		- #Data **GNPA** (Gross non-performing asset ratio) - ***2.3%**
+		- #Data **NNPA** (Net non-performing asset ratio) - ***0.5%***
+		- #Data Till 2025, the **CRAR** of *SCBs (Schedule Commercial Banks)* has increased to a record high of ***17.3%***
+	3. **Strong corporate sector performance:** the **large borrower cohort's  GNPA** ratio declined from *3.8% (September 2023)* to ***1.9% (March  2025)***
+2. **Inflation trends:**
+	- **Domestic inflation:** **CPI** dropped to a **6 year low** of ***2.8% (May 2025)***
+	- **Imported inflation:** slower global growth may ease commodity and oil prices, though tensions in the Middle East may add some uncertainties
+3. **Global Macro-financial Risks:**
+	1. **Spillovers from advanced economies to emerging economies:** Emerging markets face rising risks from **global trade tensions, ongoing geopolitical conflicts, rising global public debt**
+	2. **Uncertainty over US trade policy:** led to market volatility, tighter financial conditions
+	3. **Climate related shocks:** have potential to disrupt business operations through the ***materialization of physical hazard***
+
+---
+### STATUS OF SUSTAINABLE DEVELOPMENT IN INDIA #Data 
+#GS3 #Economy #SustainableDevelopment #Report 
+
+<b><u>NEWS:</b></u>
+- **MosPI** released the **SDG-National Indicator Framework (NFI) Progress Report 2025** highlighting India's achievements in SDGs.
+ 
+<b><u>INDIA'S PROGRESS ON SOME SDGs:</u></b>
+
+| **SDG GOAL#**                               | **PROGRESS**                                                                                                                                                                                                                                                                           |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **SDG2:** *Zero Hunger*                     | - **Agriculture productivity** improved<br>- **Income per worker** improved from **Rs.61K (FY16)** to ***Rs.94K (FY25)***                                                                                                                                                              |
+| **SDG6:** *Clean Water and Sanitation*      | - **Rural access to safe drinking water** increased from *94.6% (FY16)* to ***99.62% (FY25)***                                                                                                                                                                                         |
+| **SDG7:** *Clean Energy*                    | - **Renewable energy generation** in total generation rose from *16% (FY16)* to ***22%(FY25)***<br>- **Per capita renewable energy generation** capacity increased from *64W (FY16)* to ***156.3W (FY25)***                                                                            |
+| **SDG8:** *Decent work and Economic growth* | - **Social protection coverage** expanded from *22% (2016)* to ***64.3% (2025)***                                                                                                                                                                                                      |
+| **SDG9:** *Industry and Innovation*         | - **Emission intensity of GDP** reduced by **36% from 2005** to 2020 showing ***greener growth***                                                                                                                                                                                      |
+| **SDG10:** *Reduced Inequality*             | - From **FY12 to FY24**, the **Gini coefficient** of **household expenditure** decreased from **0.283** to ***0.237*** in **RURAL AREAS**<br>- From **FY12 to FY24**, the **Gini coefficient** of **household expenditure** decreased from **0.363** to ***0.284*** in **URBAN AREAS** |
+| **SDG12:** *Responsible Consumption*        | - **Waste processed** has increased from *18% (FY16)* to ***81% (FY25)***                                                                                                                                                                                                              |
+| **SDG15:** *Life on Land*                   | - **Forest cover** rose from *21.24% (2015)* to ***21.76% (2023)***                                                                                                                                                                                                                    |
+
+<b><u>ALARMING TRENDS HINDERING SDG ACHIEVEMENT:</u></b>
+1. Rising **adolescent birth rates** in girls
+2. Rise in **road accident fatalities**
+3. Decline in **issuance of soil health cards**
+4. Reduction in **primary government expenditure** as a proportion of original approved budget
+
+---
+### MOBILIZING PRIVATE CAPITAL FOR SUSTAINABLE DEVELOPMENT
+#GS3 #Economy #PrivateCapital #SustainableDevelopment 
+
+<b><u>NEWS:</u></b>
+- A **seven point strategy** was proposed by the **Finance Minister** while addressing the ***4th International Conference on Financing for Development (FFD4)*** organised by the UN at **Seville, Spain**
+
+<b><u>SIGNIFICANCE OF PRIVATE CAPITAL IN SUSTAINABLE DEVELOPMENT:</u></b>
+1. **Catalytic force:** *unlocking capital, boosting productivity, fostering innovation* and *driving demand*
+2. **Closing finance gap:** ***UNCTAD estimates an annual investment gap of USD 2.5 trillion*** in critical sectors of ***education, health & climate change***
+3. **Improving inclusion:** access to finance for *under-served groups* including *women-led MSMEs* and *rural communities*
+
+<b><u>SEVEN-POINT STRATEGY TO MOBILIZE PRIVATE CAPITAL:</u></b>
+1. <b><u><i>Strong domestic financial markets:</i></u></b> strengthen **banking system** and deepen **capital markets** to finance **infrastructure and industry**
+2. <b><u><i>Address perceived risk through Institutional Reforms:</i></u></b> establishing **independent regulators**, implementing **transparent bidding process**, and improving **EoDB**
+3. <b><u><i>Create scale in investment opportunities:</i></u></b> establish *well-prepared, de-risked* and *investment-ready* **project pipeline**
+4. <b><u><i>Scale up "blended finance":</i></u></b> leverage **public and concessional finance** to *de-risk private investment* and use *innovative tools* like **Sovreign Green Bonds (SGB), Impact Investment Instruments**, etc.
+5. <b><u><i>Enabling role of Multilateral Development Banks and Development Finance Institutions</i></u></b>
+6. <b><u><i>Evolution of International Credit Rating Methodologies:</i></u></b> to reflect *long-term resilience* of emerging markets and developing economies
+7. <b><u><i>Unlocking capital at grassroots level</i></u></b> that supports **MSMEs**
+
+---
+### RISING GLOBAL PUBLIC DEBT
+#GS3 #Economy #Report #Data 
+
+<b><u>NEWS:</u></b>
+- **UNCTAD (UN Conference on Trade and Development)** released it's ***A World of Debt Report 2025*** highlighting **surge in global public debt**, aggravated by cascading crises in recent years and its **disproportionate burden on developing countries.**
+
+<b><u>STATUS OF GLOBAL PUBLIC DEBT (GPD):</u></b>
+1. **High Public Debt:** reached a **record high** of <b><u><i>USD 102 Trillion in 2024</i></u></b>
+	- ***GPD could increase to 100% of GDP*** by ***2030*** if the current trends continue
+2. **Disproportionate debt growth:** developing countries accounted for **less than 1/3 = USD 31 Trillion**. However, it has grown **twice as fast as in developed economies** since 2010
+	- *Asia and Oceania* - *24% of GPD*
+	- *Lain America and Caribbean* - *5% of GPD*
+	- *Africa* - *2% of GPD*
+3. **High borrowing consts:** developing countries face higher borrowing costs - ***2 to 4 times higher than those for USA***
+	- ***A record of 61 developing countries allocates 10% or more of government revenues to interest payments***
+
+<b><u>IMPACT OF RISING GPD:</u></b>
+1. Widening **Development financing** gaps
+2. Decline in **aid flows**
+3. Constraining spending in **critical areas** like *education and health*
+	- #Data ***UNCTAD estimates an annual investment gap of USD 2.5 trillion*** in critical sectors of ***education, health & climate change***
+
+<b><u>IMPORTANCE OF PUBLIC DEBT:</u></b>
+1. Helps to **finance development expenditure**
+2. External debt **complements domestic savings** and provides **forex**
+3. Stimulate **economic growth** and help **manage economic downturns**
+
+<b><u>MANAGING PUBLIC DEBT FOR SUSTAINABLE FINANCING:</u></b> ***UN Secretary General's Expert Group on Public Debt*** recommends the following:
+1. **Multilateral reforms:** 
+	- **Normalize debt service pauses** during crises
+	- Reform the **G20 Common Framework**
+	- **Re-channel SDR** through **IMF's Resilience and Sustainability Trust**
+2. **Cooperation between countries:** establish a **shared information hub** to provide technical assistance on innovative financial instruments
+3. **National measures:** strengthen institutional capacities to address liquidity risks, currency mismatch, improve quality of project pipeline and increase impact of debt swaps
+
+---

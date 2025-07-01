@@ -33,6 +33,33 @@
 
 - <b><u>NOTE:</u></b> **PAT** schemes with **Energy Saving Certificates** by **BEE** under the **Energy Conservation Act, 2001**
 ---
+### Draft Greenhouse Gas (GHG) Emission Intensity Target Rules, 2025
+#GS3 #Environment #ClimateChange #Rules #Scheme
+- **MoEFCC** issued *Draft Emission Target Rules for Industries* under the **Carbon Credit Trading Scheme (CCTS)**. These are officially called ***Draft Greenhouse Gas (GHG) Emission Intensity Target Rules, 2025***
+- **Provisions of Draft Rules:**
+	- Defines **GHG emission intensity (GHI)** as *tonnes of CO2 equivalent emitted per unit of output or product*
+	- Proposed **legally binding** GHG emission targets for over *400 industrial units*
+	- *Emission targets* to be determined by **BEE** *(Bureau of Energy Efficiency)*
+	- It applies to sectors like *aluminium, iron & steel, petroleum refining, petrochemicals, and textiles*
+	- Failure to comply will attract financial **penalties** under the **Environment (Protection) Act, 1986**
+- **Carbon Credit Trading Scheme (CCTS):**
+	- Legally backed by the **Energy Conservation Act, 2022** and empowers the **central government** in consultation with **BEE** to specify the CCTS
+	- It is **administered** by **BEE**
+	- **Regulator of carbon trading:** Central Electricity Regulatory Commission - **CERC**
+	- The two mechanisms under CCTS are **Compliance mechanism** and **Voluntary offset mechanism**
+- **Carbon Markets in India:**
+	1. ***Perform Achieve and Trade (PAT) Scheme:***
+		- Reduced *specific eenergy consumption (SEC)* in energy-intensive industries through issuance of **Energy Saving Certificates** for efficiency improvements
+	2. ***Renewable Energy Certificates (REC):***
+		- Trading certificates to help meet **Renewable Purchase Obligations (RPO)**
+	3. ***Rate-based Emissions Trading Scheme:***
+		- To accelerate transition towards *performance-based emissions trading* with **CCTS adoption**
+			- Note that, **total emissions are NOT capped**. Individual entities get performance benchmarks as emission intensity limits
+	4. ***Clean Development Mechanism:***
+		- Part of **Kyoto Protocol (1997)**
+		- It allow industrialized countries to invest in emission-reduction projects in developing countries through **Certified Emission Reduction (CER)** credits for trading
+
+---
 ### FOREST RIGHTS ACT (FRA) CELLS:
 #GS3 #GS1 #Society #Environment #Tribals #Scheme 
 - **MoTA** under the **Dharti Aba Janjatiya Gram Utkarsh Abhiyaan (DAJGUA)** sanctioned setting up of 324 **district-level FRA cells** for implementing the forest rights law. Further **state-level FRA cells** are also setup

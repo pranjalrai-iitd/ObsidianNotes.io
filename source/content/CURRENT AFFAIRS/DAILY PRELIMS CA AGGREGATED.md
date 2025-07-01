@@ -376,6 +376,33 @@ A(Social security)-->D(Labor market  programs);
 
 - <b><u>NOTE:</u></b> **PAT** schemes with **Energy Saving Certificates** by **BEE** under the **Energy Conservation Act, 2001**
 ---
+### Draft Greenhouse Gas (GHG) Emission Intensity Target Rules, 2025
+#GS3 #Environment #ClimateChange #Rules #Scheme
+- **MoEFCC** issued *Draft Emission Target Rules for Industries* under the **Carbon Credit Trading Scheme (CCTS)**. These are officially called ***Draft Greenhouse Gas (GHG) Emission Intensity Target Rules, 2025***
+- **Provisions of Draft Rules:**
+	- Defines **GHG emission intensity (GHI)** as *tonnes of CO2 equivalent emitted per unit of output or product*
+	- Proposed **legally binding** GHG emission targets for over *400 industrial units*
+	- *Emission targets* to be determined by **BEE** *(Bureau of Energy Efficiency)*
+	- It applies to sectors like *aluminium, iron & steel, petroleum refining, petrochemicals, and textiles*
+	- Failure to comply will attract financial **penalties** under the **Environment (Protection) Act, 1986**
+- **Carbon Credit Trading Scheme (CCTS):**
+	- Legally backed by the **Energy Conservation Act, 2022** and empowers the **central government** in consultation with **BEE** to specify the CCTS
+	- It is **administered** by **BEE**
+	- **Regulator of carbon trading:** Central Electricity Regulatory Commission - **CERC**
+	- The two mechanisms under CCTS are **Compliance mechanism** and **Voluntary offset mechanism**
+- **Carbon Markets in India:**
+	1. ***Perform Achieve and Trade (PAT) Scheme:***
+		- Reduced *specific eenergy consumption (SEC)* in energy-intensive industries through issuance of **Energy Saving Certificates** for efficiency improvements
+	2. ***Renewable Energy Certificates (REC):***
+		- Trading certificates to help meet **Renewable Purchase Obligations (RPO)**
+	3. ***Rate-based Emissions Trading Scheme:***
+		- To accelerate transition towards *performance-based emissions trading* with **CCTS adoption**
+			- Note that, **total emissions are NOT capped**. Individual entities get performance benchmarks as emission intensity limits
+	4. ***Clean Development Mechanism:***
+		- Part of **Kyoto Protocol (1997)**
+		- It allow industrialized countries to invest in emission-reduction projects in developing countries through **Certified Emission Reduction (CER)** credits for trading
+
+---
 ### FOREST RIGHTS ACT (FRA) CELLS:
 #GS3 #GS1 #Society #Environment #Tribals #Scheme 
 - **MoTA** under the **Dharti Aba Janjatiya Gram Utkarsh Abhiyaan (DAJGUA)** sanctioned setting up of 324 **district-level FRA cells** for implementing the forest rights law. Further **state-level FRA cells** are also setup
@@ -1329,6 +1356,36 @@ A(Social security)-->D(Labor market  programs);
 	- Scale up the catalytic role of **Multilateral Development Banks**  
 	- Expanding the use of **guarantees**  
 	- **Hybrid capital** and de-risking instruments to **crowd in private investment**  
+---
+### World of Debt Report 2025
+#GS3 #Economy #Report #Data 
+- By **UNCTAD (UN Conference on Trade and Development)**
+- It highlights **surge in global public debt**, aggravated by cascading crises in recent years and its **disproportionate burden on developing countries.**
+- **Status of Global Public Debt (GPD):**
+	- **High Public Debt:** reached a **record high** of **USD 102 Trillion in 2024**
+		- ***GPD could increase to 100% of GDP*** by ***2030*** if the current trends continue
+	- **Disproportionate debt growth:** developing countries accounted for **less than 1/3 = USD 31 Trillion**. However, it has grown **twice as fast as in developed economies** since 2010
+		- *Asia and Oceania* - *24% of GPD*
+		- *Lain America and Caribbean* - *5% of GPD*
+		- *Africa* - *2% of GPD*
+	- **High borrowing consts:** developing countries face higher borrowing costs - ***2 to 4 times higher than those for USA***
+		- ***A record of 61 developing countries allocates 10% or more of government revenues to interest payments***
+- **Impact of rising GPD:**
+	- Widening **Development financing** gaps
+	- Decline in **aid flows**
+	- Constraining spending in **critical areas** like *education and health*
+- **Public Debt can also be important:**
+	- Helps to **finance development expenditure**
+	- External debt **complements domestic savings** and provides **forex**
+	- Stimulate **economic growth** and help **manage economic downturns**
+- **Recommendations for Debt Management and Sustainable Financing:*** the ***UN Secretary General's Expert Group on Public Debt*** recommends the following:
+	- **Multilateral reforms:** 
+		- **Normalize debt service pauses** during crises
+		- Reform the **G20 Common Framework**
+		- **Re-channel SDR** through **IMF's Resilience and Sustainability Trust**
+	- **Cooperation between countries:** establish a **shared information hub** to provide technical assistance on innovative financial instruments
+	- **National measures:** strengthen institutional capacities to address liquidity risks, currency mismatch, improve quality of project pipeline and increase impact of debt swaps
+
 ---
 ### QS World University Rankings 2026  
 #GS2 #Governance #Education  
@@ -2789,4 +2846,179 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 	- Is either **completely designed in lab** (OR)
 	- **Heavily modified form** of **natural DNA**
 - It can enable **target cell therapies, virus-resistant transplants, and climate engineered plants**
+---
+### RBI's Financial Stability Report (FSR)
+#GS3 #Economy #RBI #Data #Report #MainsValueAddition 
+- It is **biannual report** released by the **RBI**
+- It reflects the collective assessment of the **sub-committee** of the **FSDC** on resilience of the Indian financial system and risks to financial stability
+	- **FSDC: Financial Stability and Development Council**
+		- Established in 2010 and is chaired by the ***Finance Minister*** with members including **heads of financial regulators:** ***RBI, SEBI, IRDAI, PFRDAI*** and other members
+		- It is responsible for ensuring **financial stability** and **coordination**
+- **Highlights of the report:**
+	- **India still driver of global growth:**
+		- **Resilience of the Indian economy:** real GDP is projected to grow at ***6.5% in FY26***, driven by *strong domestic demand* which shields the economy from global shocks
+		- **Strong financial institutions and banking health:**
+			- #Data **GNPA** (Gross non-performing asset ratio) - ***2.3%**
+			- #Data**NNPA** (Net non-performing asset ratio) - ***0.5%***
+			- #Data Till 2025, the **CRAR** of *SCBs (Schedule Commercial Banks)* has increased to a record high of ***17.3%***
+		- **Strong corporate sector performance:** the **large borrower cohort's  GNPA** ratio declined from *3.8% (September 2023)* to ***1.9% (March  2025)***
+	- **Inflation trends:**
+		- **Domestic inflation:** **CPI** dropped to a **6 year low** of ***2.8% (May 2025)***
+		- **Imported inflation:** slower global growth may ease commodity and oil prices, though tensions in the Middle East may add some uncertainties
+	- **Global Macro-financial Risks:**
+		- **Spillovers from advanced economies to emerging economies:** Emerging markets face rising risks from **global trade tensions, ongoing geopolitical conflicts, rising global public debt**
+		- **Uncertainty over US trade policy:** led to market volatility, tighter financial conditions
+		- **Climate related shocks:** have potential to disrupt business operations through the ***materialization of physical hazard***
+- **NOTE:** ***Global Financial Stability Report*** is released by **IMF**
+---
+### SDG-NIF Progress Report 2025
+#GS3 #Economy #SustainableDevelopment #Report 
+- **MosPI** released the **SDG-National Indicator Framework (NFI) Progress Report 2025**
+	- The **NIF** reflects *India's commitment to SDGs*
+- **Highlights:**
+
+| **SDG GOAL#**                               | **PROGRESS**                                                                                                                                                                                                                                                                           |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **SDG2:** *Zero Hunger*                     | - **Agriculture productivity** improved<br>- **Income per worker** improved from **Rs.61K (FY16)** to ***Rs.94K (FY25)***                                                                                                                                                              |
+| **SDG6:** *Clean Water and Sanitation*      | - **Rural access to safe drinking water** increased from *94.6% (FY16)* to ***99.62% (FY25)***                                                                                                                                                                                         |
+| **SDG7:** *Clean Energy*                    | - **Renewable energy generation** in total generation rose from *16% (FY16)* to ***22%(FY25)***<br>- **Per capita renewable energy generation** capacity increased from *64W (FY16)* to ***156.3W (FY25)***                                                                            |
+| **SDG8:** *Decent work and Economic growth* | - **Social protection coverage** expanded from *22% (2016)* to ***64.3% (2025)***                                                                                                                                                                                                      |
+| **SDG9:** *Industry and Innovation*         | - **Emission intensity of GDP** reduced by **36% from 2005** to 2020 showing ***greener growth***                                                                                                                                                                                      |
+| **SDG10:** *Reduced Inequality*             | - From **FY12 to FY24**, the **Gini coefficient** of **household expenditure** decreased from **0.283** to ***0.237*** in **RURAL AREAS**<br>- From **FY12 to FY24**, the **Gini coefficient** of **household expenditure** decreased from **0.363** to ***0.284*** in **URBAN AREAS** |
+| **SDG12:** *Responsible Consumption*        | - **Waste processed** has increased from *18% (FY16)* to ***81% (FY25)***                                                                                                                                                                                                              |
+| **SDG15:** *Life on Land*                   | - **Forest cover** rose from *21.24% (2015)* to ***21.76% (2023)***                                                                                                                                                                                                                    |
+- **Some concerns highlighted in the report:**
+	- Rising **adolescent birth rates** in girls
+	- Rise in **road accident fatalities**
+	- Decline in **issuance of soil health cards**
+	- Reduction in **primary government expenditure** as a proportion of original approved budget
+---
+### 10 Years of Digital India Mission
+#GS3 #SciTech #DPI #Scheme #Data
+- It was launched in 2015 with an aim to transform India into a **digitally empowered society and knowledge economy**
+- It is an **umbrella programme** covering **multiple government Ministries and Departments**
+- Overall coordination is performed by **MeITY**
+- It identifies **3 vision areas:**
+```mermaid
+graph TD;
+A(a)-->B(<b>Digital infrastructure</b> as a Utility to Every Citizen<br><b>...</b><br><br>- High speed internet<br>- Digital identity from cradle to grave<br>- Mobile phone and Banking<br>- Common Service Centre<br>- Public cloud<br>- Safe and secure cyber-space);
+A(a)-->C(<b>Governance and Services on Demand</b><br><b>...</b><br><br>- Seamlessly integrated departments<br>- Real-time service availability on online and mobile platforms<br>- Cloud accessibility<br>- EoDB through digital enhancement<br>- Cashless financial transactions<br>- GIS for decision-support);
+A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empowerment</b> of Citizens<br><b>...</b><br><br>- Universal digital literacy<br>- Universal accesibility to digital resorces<br>- Cloud accessibility for all documents<br>- Digital resources in Indian languages<br>- Collaborative digital platforms for participative governance<br>- Portablility of all entitlements through the  Cloud);
+```
+
+- **Major achievement under Digital India Mission:** #MainsValueAddition
+	- **Digital Economy:** #Data contributing ***11.75% to national income in FY23*** and expected to reach ***13.4% by FY25***
+		- India ranks **3rd** in the world for **digitization of economy**
+	- **Connectivity and Infrastructure:**
+		- #Data **Internet connections** increased from *25 crore (2014)* to ***97 crore (2024)*** and **BharatNet** connected ***2.18 lakh Gram Panchayats*** with high speed internet
+	- **Digital Finance and Financial inclusion:**
+		- **Digital payments:** #Data India accounts for **49% of global real-time digital payments** in 2023 with ***UPI*** being live in 7 countries
+			- *1. Bhutan, 2. France, 3. Mauritius, 4. Nepal, 5. Singapore, 6. Sri-Lanka, 7. UAE*
+		- **Aadhar-enabled DBT:** #Data saved **Rs. 3.5 lakh crore** by eliminating ***fake beneficiaries***
+	- **Advancing strategic tech capabilities:** through *IndiaAI Mission, India Semiconductor Mission* (six projects approved), and *SEMICON India 2025*
+	- **e-Goverance:** training of civil servants on *Karmayogi Bharat iGOT platform,* and improving access to central and state government services through *UMANG*
+---
+### Namibia and Diamonds
+#GS1 #Geography #PlacesInNews #Mapping 
+- PM to visit Namibia to boost bilateral cooperation on ***diamond trade***
+- **Namibia** has **world's richest** <b><u><i>Marine Diamond deposits</i></u></b> - *diamond rich coastline* along the ***Namib Desert***
+	- <b><u>NOTE:</u></b> <b><u>DIAMOND PRODUCTION</u></b>
+		- **Country wise Diamond production:***
+			1. *Russia*
+			2. *Botswana*
+			3. *Canada*
+			4. *DRC*
+			5. *Angola*
+		- **Country wise Diamond exports:**
+			1. *India*
+			2. *USA*
+			3. *Hong Kong*
+		- **State wise Diamond production in India:**
+			1. **Madhya Pradesh** - **32%**
+			2. Andhra Pradesh
+			3. Chattisgarh
+
+ <p align="center"><img src="https://www.worldatlas.com/r/w960-q80/upload/66/0a/e4/na-01.jpg" alt="Namibia" width="450"/></p>
+
+- **Land boundaries of Namibia (AZ-BS):** 
+	- ***Angola, Zambia, Botswana, South Africa*** 
+		- **NOTE:** *Zimbabwe and Namibia do not share a borer, as there is narrow corridor connecting* ***Zamibia*** and ***Botswana***
+- **Capital:** ***Windhoek***
+	- <b><u>NOTE:</u></b> <b><u><i>Windhoek Declaration:</i></u></b>
+		- A statement on ***press freedom*** by **UNESCO**
+- **Geographic features:**
+	- **Rivers:**
+		- ***Kuene(Cuene) river**
+		- ***Okavangao(Cubangao) river**
+		- ***Orange river***
+		- ***Fish river***
+			- ***Fish river canyon*** is in **Namibia** and is the world's ***second largest canyon***
+		- **Zambezi river**
+	- **Desert:**
+		- ***Kalahari Desert:*** *Kalahari, Botswana, Namibia, and South Africa*
+		- **Namib Desert**
+	- ***The Great Escarpment*** a part of steep slopes south of the plateau - it consists of the **Cape fold mountains** and extends to Namibia from South Africa and Lesotho
+		- In *Namibia* the **Huns mountains** and **Auas mountains**
+		- It covers ***South Africa, Lesotho, Namibia, Angola, and Zimbabwe*** (it separates Zimbabwe from *Mozambique*)
+	- **Sossusvlei sand dunes** are some of the world's highest sand dunes
+---
+### Wilmingtom Declaration (2024)
+#GS2 #GS3 #IR #InternalSecurity 
+- Issued by **QUAD members** at **Wilmington, USA**
+- It reaffirms a commitment to a *free, open, inclusive, and resilient Indo-Pacific*, respecting *rule of law, democracy* and *territorial integrity*
+- **Other initiatives by QUAD:**
+	- <b><u><i>Quad Cancer Moonshot</i></u></b> focused on Cervical cancer
+	- <b><u><i>MAITRI:</i></u></b> *Maritime training in the Info-Pacific*
+	- <b><u><i>Ports of the Future Partnership</i></u></b> to support for **digital infrastructure**, including **undersea cables**
+- The ***Coast Guards*** of the **QUAD members** launched the first <b>"<u><i>QUAD at Sea Ship Observer Mission</i></u>"</b> under the ***Wilmington Declaration***
+	- The mission will strengthen *maritime cooperation, security,* and *interoperability* among **QUAD coast guards** in the Indo-Pacific and support India's maritime vision of **SAGAR** *(Security and Growth for All in the Region)*
+---
+### Altermagnets
+#GS3 #SciTech 
+- Researchers from **S.N. Bose national Center for Basic Sciences (SNBNCBS)** discovered a unique ***duality in altermagnets*** using **Chromium Atimonide (CrSb)**
+- **ALTERMAGNETS:**
+	- Altermagnets are ***new type of magnetic material*** that combine the best features of ***ferromagnets*** and ***antiferromagnets***
+		- **Ferromagnets:** spins **align** in the same direction, resulting in **strong magnetism**
+		- **Antiferromagnets:** spins **alternate**, thus cancelling each other out, resulting in **no external magnetism**
+	- **Features of Altermagnets:**
+		- They exhibit **alternating spins** like antiferromagnets and therefore have **no net magnetism**
+		- Due to their **unique crystal symmetry**, they shoe **intense internal spin polarisation**, similar to ferromagnets
+	- **CrSb (Chromium Antimonide)** an **altermagnet** shows the ***strongest spin-splitting*** among all known altermagnets.
+---
+### "SACHET" Disaster Alert System
+#GS3 #DisasterManagement #EarlyWarningSystem
+- The **NDMA** operationalised the **Integrated Alert System**, ***SACHET*** and a testing of the **Cell Broadcast (CB) system** is being conducted
+- **SACHET:** India's *SMS-Based Alert System*
+	- Developed by **C-DOT** using the **Common Alerting Protocol (CAP)**, recommended by the **ITU** (International Telecommunication Union)
+	- It is active in all 36 states and UTs and sends a **geo-targeted SMS alert** during disasters like cyclones, floods, and storms
+- **Cell Broadcast (CB) System:** *Near Real-Time Emergency Alerts*
+	- Being developed by **C-DOT**
+	- **CB** are broadcast **directly** to **all mobile phones** in the affected are
+	- They are **much faster than SMS** and are ideal of *urgent disasters* like Tsunamis, Earthquakes, Lightning (not-notified) and Gas Leaks (not-notified)
+---
+### Mahabodhi temple
+#GS1 #ArtCulture #TempleArchitecture 
+- Supreme court declined to hear a plea challenging the ***Bodh Gaya Temple Act***, which governs the management of the Mahabodhi temple complex in BIhar
+- It is a **UNESCO WHS**
+- It was the **first temple** built by **Ashoka** in **3rd BCE**. However, the present structures dates to the **Gupta era (5-6th CE)**
+- It is a **mix** of **Nagara** and **Dravidian** style and **unique** in its own architectural form
+	- It's **shikhara** is **narrow** like a **Nagara** temple, but it rises **without curving** like a **dravida** temple
+	  <p align="center"><img src="https://sabrangindia.in/wp-content/uploads/2025/03/Mahabodhi_Temple_Complex_511d2e9a47.webp" alt="Mahabodhi Temple" width="300"/></p>
+
+- The temple houses the **Vajrasana (Diamond throne)** and the Sacred **Bodhi tree**. It has many **votive stupas** and has **three protective boudnaries**
+---
+### WaveX
+#Gs3 #Economy #MICE 
+- **WaveX**
+	- Is a dedicated **Startup accelerator platform** launched under **MoI&B's WAVES initiative**, aimed at nurturing innovation in the media, entertainment, and language technology sectors
+- **MoI&B** launched the **"WAVEX Startup Challenge 2025"** under its flagship **startup accelerator programme, "WaveX"**
+	- under this there is a challenge titled, ***"BhashaSetu"*** - Real time language tech for Bharat, is a national hackathon to develop AI-powered multilingual translation solution across *at least 12 major Indian languages*
+---
+### Reservation in Supreme Court Administration
+#GS2 #Polity #Reservation #FundamentalRights #Judiciary 
+- For the first time, the Supreme Court has introduced a **formal policy of reservation** in **direct appointment** and **promotion** for **SCs & STs** staff in **court's internal administration**
+	- ***NOT applicable on Judges***
+	- Covers - *registrars, senior personal assistants, assistant librarians, junior court assistants and chamber attendants*
+	- SC - 15% quota in both appointment and promotion
+	- ST - 7.5% quota in both appointment and promotion
 ---

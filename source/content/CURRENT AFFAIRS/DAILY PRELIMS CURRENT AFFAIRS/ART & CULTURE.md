@@ -109,3 +109,14 @@
 		- **Columnar** stromatolites
 		- **Stratiform** stromatolies
 ---
+### Mahabodhi temple
+#GS1 #ArtCulture #TempleArchitecture 
+- Supreme court declined to hear a plea challenging the ***Bodh Gaya Temple Act***, which governs the management of the Mahabodhi temple complex in BIhar
+- It is a **UNESCO WHS**
+- It was the **first temple** built by **Ashoka** in **3rd BCE**. However, the present structures dates to the **Gupta era (5-6th CE)**
+- It is a **mix** of **Nagara** and **Dravidian** style and **unique** in its own architectural form
+	- It's **shikhara** is **narrow** like a **Nagara** temple, but it rises **without curving** like a **dravida** temple
+	  <p align="center"><img src="https://sabrangindia.in/wp-content/uploads/2025/03/Mahabodhi_Temple_Complex_511d2e9a47.webp" alt="Mahabodhi Temple" width="300"/></p>
+
+- The temple houses the **Vajrasana (Diamond throne)** and the Sacred **Bodhi tree**. It has many **votive stupas** and has **three protective boudnaries**
+---

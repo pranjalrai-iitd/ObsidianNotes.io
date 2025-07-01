@@ -150,3 +150,33 @@
 4. **U-WIN** portal for tracking of immunization status
 
 ---
+### DATA ON E-GOVERNANCE
+#GS2 #Governance #e-Governance #DPI #Data 
+### 10 Years of Digital India Mission
+#GS3 #SciTech #DPI #Scheme #Data 
+
+<b><u>NEWS:</b></u>
+- **Digital India Mission** completed **10 years**
+
+<b><u>DIMENSIONS OF DIGITAL GOVERNANCE:</u></b>
+```mermaid
+graph TD;
+A(a)-->B(<b>Digital infrastructure</b> as a Utility to Every Citizen<br><b>...</b><br><br>- High speed internet<br>- Digital identity from cradle to grave<br>- Mobile phone and Banking<br>- Common Service Centre<br>- Public cloud<br>- Safe and secure cyber-space);
+A(a)-->C(<b>Governance and Services on Demand</b><br><b>...</b><br><br>- Seamlessly integrated departments<br>- Real-time service availability on online and mobile platforms<br>- Cloud accessibility<br>- EoDB through digital enhancement<br>- Cashless financial transactions<br>- GIS for decision-support);
+A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empowerment</b> of Citizens<br><b>...</b><br><br>- Universal digital literacy<br>- Universal accesibility to digital resorces<br>- Cloud accessibility for all documents<br>- Digital resources in Indian languages<br>- Collaborative digital platforms for participative governance<br>- Portablility of all entitlements through the  Cloud);
+```
+
+
+<b><u>ACHIEVEMENTS OF DIGITAL INDIA MISSION: DATA ON E-GOVERNANCE:</u></b> #MainsValueAddition
+1. **Digital Economy:** #Data contributing ***11.75% to national income in FY23*** and expected to reach ***13.4% by FY25***
+	- India ranks **3rd** in the world for **digitization of economy**
+2. **Connectivity and Infrastructure:**
+	- #Data **Internet connections** increased from *25 crore (2014)* to ***97 crore (2024)*** and **BharatNet** connected ***2.18 lakh Gram Panchayats*** with high speed internet
+3. **Digital Finance and Financial inclusion:**
+	- **Digital payments:** #Data India accounts for **49% of global real-time digital payments** in 2023 with ***UPI*** being live in 7 countries
+	- **Aadhar-enabled DBT:** #Data saved **Rs. 3.5 lakh crore** by eliminating ***fake beneficiaries*** 
+		- <i><u><b>ALWAYS USE THIS DATA ON DBT/GHOST-BENEFECIARIES</b></u></i>
+4. **Advancing strategic tech capabilities:** through ***IndiaAI Mission**, ***India Semiconductor Mission*** (six projects approved), and ***SEMICON India 2025***
+5. **e-Goverance:** training of civil servants on ***Karmayogi Bharat iGOT platform**,* and improving access to central and state government services through ***UMANG***
+
+---

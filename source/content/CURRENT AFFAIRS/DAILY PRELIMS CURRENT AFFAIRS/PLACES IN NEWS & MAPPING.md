@@ -196,3 +196,46 @@
 
 - There is **Chiu Hompa Monastery** located near the lake
 ---
+### Namibia
+#GS1 #Geography #PlacesInNews #Mapping 
+- PM to visit Namibia to boost bilateral cooperation on ***diamond trade***
+- **Namibia** has **world's richest** <b><u><i>Marine Diamond deposits</i></u></b> - *diamond rich coastline* along the ***Namib Desert***
+	- <b><u>NOTE:</u></b> <b><u>DIAMOND PRODUCTION</u></b>
+		- **Country wise Diamond production:***
+			1. *Russia*
+			2. *Botswana*
+			3. *Canada*
+			4. *DRC*
+			5. *Angola*
+		- **Country wise Diamond exports:**
+			1. *India*
+			2. *USA*
+			3. *Hong Kong*
+		- **State wise Diamond production in India:**
+			1. **Madhya Pradesh** - **32%**
+			2. Andhra Pradesh
+			3. Chattisgarh
+ <p align="center"><img src="https://www.worldatlas.com/r/w960-q80/upload/66/0a/e4/na-01.jpg" alt="Namibia" width="450"/></p>
+
+- **Land boundaries of Namibia (AZ-BS):** 
+	- ***Angola, Zambia, Botswana, South Africa*** 
+		- **NOTE:** *Zimbabwe and Namibia do not share a borer, as there is narrow corridor connecting* ***Zamibia*** and ***Botswana***
+- **Capital:** ***Windhoek***
+	- <b><u>NOTE:</u></b> <b><u><i>Windhoek Declaration:</i></u></b>
+		- A statement on ***press freedom*** by **UNESCO**
+- **Geographic features:**
+	- **Rivers:**
+		- ***Kuene(Cuene) river**
+		- ***Okavangao(Cubangao) river**
+		- ***Orange river***
+		- ***Fish river***
+			- ***Fish river canyon*** is in **Namibia** and is the world's ***second largest canyon***
+		- **Zambezi river**
+	- **Desert:**
+		- ***Kalahari Desert:*** *Kalahari, Botswana, Namibia, and South Africa*
+		- **Namib Desert**
+	- ***The Great Escarpment*** a part of steep slopes south of the plateau - it consists of the **Cape fold mountains** and extends to Namibia from South Africa and Lesotho
+		- In *Namibia* the **Huns mountains** and **Auas mountains**
+		- It covers ***South Africa, Lesotho, Namibia, Angola, and Zimbabwe*** (it separates Zimbabwe from *Mozambique*)
+	- **Sossusvlei sand dunes** are some of the world's highest sand dunes
+---
