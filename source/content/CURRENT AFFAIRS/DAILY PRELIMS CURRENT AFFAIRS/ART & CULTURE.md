@@ -22,6 +22,8 @@
 <p align="center">
 <img src="https://holidaysdna.com/wp-content/uploads/simhachalam-temple-visakhapatnam-india-tourism-1.jpg" alt="Simhachalam Temple" width="250"/>
 </p>
+
+
 ---
 ### Orchha Ramaraja Temple
 #GS1 #ArtCulture #PlacesInNews #TempleArchitecture
