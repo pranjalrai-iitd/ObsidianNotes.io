@@ -36,18 +36,10 @@
 	- The deity gets **guard of honor** and **gun salute** along with the aarti
 	- Instead of the *prasada(sweet offering)*, guests are offered ***beera (betel nut)*** and ***itar(perfume)*** in accordance with the tradition of King's palace.
 	  
-		<p align="center">
-		<img src ="https://indianexpress.com/wp-content/uploads/2025/06/Ram_Raja_Temple-1600.jpg?resize=1536,1025" alt="Ramaraja temple at Orchha, MP", width="400"/>
-		<br>
-		<i>Ramaraja temple at Orchha, MP. It has no Shikhara!</i>
-		</p>
+<p align="center"><img src ="https://indianexpress.com/wp-content/uploads/2025/06/Ram_Raja_Temple-1600.jpg?resize=1536,1025" alt="Ramaraja temple at Orchha, MP", width="400"/><br><i>Ramaraja temple at Orchha, MP. It has no Shikhara!</i></p>
 
 - Beside the Orchha temple, there is the **Chaturbhuj Temple** dedicated to Lord Vishnu
-  	<p align="center">
-  	<img src ="https://indianexpress.com/wp-content/uploads/2025/06/Chaturbhuj_Temple-Orchha-1600.jpg?resize=1536,1152" alt="Chaturbhuj temple, Orchha, MP", width="350"/>
-  	<br>
-  	<i>Chaturbhuj temple, Orchha, MP</i>
-  	</p>
+  <p align="center"><img src ="https://indianexpress.com/wp-content/uploads/2025/06/Chaturbhuj_Temple-Orchha-1600.jpg?resize=1536,1152" alt="Chaturbhuj temple, Orchha, MP", width="350"/><br><i>Chaturbhuj temple, Orchha, MP</i></p>
 
 - <b><u>Various forms of Lord Rama worshiped in temples:</u></b>
 	- ***Ramlala*** or ***Balak Ram*** - Rama the Chils
