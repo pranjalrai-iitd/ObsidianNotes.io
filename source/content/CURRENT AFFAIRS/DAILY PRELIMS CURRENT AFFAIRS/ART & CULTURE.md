@@ -40,7 +40,8 @@
 		<br>
 		<i>Ramaraja temple at Orchha, MP. It has no Shikhara!</i>
 		</p>
--  Beside the Orchha temple, there is the **Chaturbhuj Temple** dedicated to Lord Vishnu
+
+- Beside the Orchha temple, there is the **Chaturbhuj Temple** dedicated to Lord Vishnu
   		<p align="center">
 		<img src ="https://indianexpress.com/wp-content/uploads/2025/06/Chaturbhuj_Temple-Orchha-1600.jpg?resize=1536,1152" alt="Chaturbhuj temple, Orchha, MP", width="400"/>
 		<br>
