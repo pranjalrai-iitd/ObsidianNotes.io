@@ -42,12 +42,11 @@
 		</p>
 
 - Beside the Orchha temple, there is the **Chaturbhuj Temple** dedicated to Lord Vishnu
-  		<p align="center">
-		<img src ="https://indianexpress.com/wp-content/uploads/2025/06/Chaturbhuj_Temple-Orchha-1600.jpg?resize=1536,1152" alt="Chaturbhuj temple, Orchha, MP", width="400"/>
-		<br>
-		<i>Chaturbhuj temple, Orchha, MP</i>
-		</p>
-
+  	<p align="center">
+  	<img src ="https://indianexpress.com/wp-content/uploads/2025/06/Chaturbhuj_Temple-Orchha-1600.jpg?resize=1536,1152" alt="Chaturbhuj temple, Orchha, MP", width="400"/>
+  	<br>
+  	<i>Chaturbhuj temple, Orchha, MP</i>
+  	</p>
 - <b><u>Various forms of Lord Rama worshiped in temples:</u></b>
 	- ***Ramlala*** or ***Balak Ram*** - Rama the Chils
 	- ***Ram Darbar*** - Lord Rama as a King and head of family
