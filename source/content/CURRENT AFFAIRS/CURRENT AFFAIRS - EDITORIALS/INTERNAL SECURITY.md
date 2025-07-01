@@ -169,3 +169,14 @@
 9. Instill a sense of **pride in Indian culture and ideas**, fostering confidence in achieving **global standards** through **indigenous capabilities**.
 
 ---
+### SECURITY AND DEVELOPMENT #Quote 
+
+- China recently published a whitepaper on ***"National Security in the 'New Era'"*** which mentions that ***"development and security are like two wings of one body"***. It reads like testament on the importance of maintaining scientific and technological security at all times, and the importance of ensuring maintainability of supply chains.
+- **Some recommendations for India post Operation Sindoor:**
+	- **CONTEXT:** ***Emergence of a world which is more influenced by 'hard power' over 'soft power'***
+		- India's new approach must take this in account
+	- In depth study of India's defence capabilities on lines of what UK did after Russia-Ukraine conflict
+	- ***National Armament System***
+	- New ***Cyber and Electromagnetic Command*** to oversee networks and electromagnetic warfare
+	- India must also reassess it's *"neutral"* stance on Israel-Iran conflict and it's growing relation with Israel. Israel must not become an ***"albatross around India's neck"***.
+---
