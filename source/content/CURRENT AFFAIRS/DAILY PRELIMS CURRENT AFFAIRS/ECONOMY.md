@@ -355,3 +355,16 @@
 	- **Supports Trade Deficit:** Represented **47% of India's USD 287 Billion merchandise trade deficit**
 	- **Stable source of finance:** Remittances surpass gross FDI, serving as a stable source of external financing
 ---
+### Certificate of Deposits (CD)
+#GS3 #Economy #Banking #MoneyMarket
+- #Data Recently **public sector banks** stepped up issuance of CDs from ***6% (2022)*** to **69% (2024)***
+- They are **negotiable money market** instruments issued in **dematerialized form** against funds deposited at a bank/eligible financial institution for a specified period of time. They are issued at a **discount on face value**
+- **CDs can be issued by:** (as per RBI)
+	- **Schedule Commercial Banks** 
+		- EXCEPT ***Regional Rural Banks (RRBs) and Local Area Banks (LABs)*** which ***CANNOT ISSUE CDs***
+	- Selec **All-India Financial Institutions (AIFIs)** permitted by **RBI** to raise **short-term resources**
+- **CDs can be issued to:** (as per RBI)
+	- Individuals, Corporations, Companies including Banks, Trusts, Funds, Associations, and
+	- **Non-Resident Indians** (only on ***non-repatriable*** basis)
+		- Must remain in India
+---

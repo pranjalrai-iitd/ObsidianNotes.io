@@ -3023,3 +3023,146 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 	- SC - 15% quota in both appointment and promotion
 	- ST - 7.5% quota in both appointment and promotion
 ---
+### Employment Linked Incentive (ELI) Scheme
+#Gs3 #Economy #Employment #Scheme 
+- Announced in **Budget 2024-25** 
+- **Details of the Scheme:**
+	- Under the **Ministry of Labour & Employment**
+	- Outlay of Rs. 99,446 crore (*~1,00,000 lakh crore*) over 2 years
+	- It targets to generate **3.5 crore hobs** including **1.92 crore** for **first-time employees**
+- **Two parts of the scheme:**
+	- <b><u>PART A: Incentive to first time employees</u></b>
+		- First time employees **registered** with **EPFO** and earning **up to INR 1 lakh/month** are eligible
+			- Around **1.92 crore** beneficiaries
+		- **Incentive amount:** ***1 month EPF wage** (up to Rs.15,000)* disbursed in two installments:
+			- After 6 months of continuous employment
+			- After 12 months and successful completion of a financial literacy programme
+		- **Savings provision** to deposit the incentive in a *savings instrument* with a lock-in period
+		- **Payment mechanisms:** DBT through **ABPS**
+	- <b><u>PART B: Incentives for employers</u></b>
+		- Special focus in manufacturing sector
+		- **Eligibility:** All **EPFO-registered establishments** hiring the following:
+			- At least **2 additional employees** for *(workforce < 50)*
+			- At least **5 additional employees** for *(workforce $\geq$ 50)*
+		- **Incentives to employers:** Up to **Rs. 3000/month** for **2 years**
+			- Extended to **4 years** for **manufacturing** sector
+		- **Minimum employment period:** **6 months** of sustainable employment per new hire
+		- **Salary cap:** employees earning up to **Rs. 1lakh/month**
+		- It will create around **2.6 crore additional jobs**
+		- **Payment mechanisms:** directly to PAN-linked accounts
+---
+### Research Development and Innovation (RDI) Scheme
+#GS3 #Research #Scheme #GS2 #Education
+- Outlay of **Rs.1 lakh crore** to encourage **private sector participation** in R&D, particularly in **sunrise sectors** including *economic security, strategic purpose, self-reliance,* etc.
+- **Nodal department:** ***DST***
+- It will provide **long-term financing or re-financing** with **long tenors at low/nil interest rates** to spur private investments
+- **Objectives:**
+	- *Finance transformative projects* at higher levers of **Technology Readiness Levels (TRL)**
+	- Support **acquisition** *of critical and strategic technologies*
+	- Facilitate setting up of a **Deep-tech Fund of funds**
+- **Two-tiered Funding Mechanism:**
+	1. ***Special Purpose Fund (SPF):*** established within the **Anusandhan National Research Foundation (ANRF)**, acting as the **custodian of funds**
+	2. ***Second Level Fund Managers:*** funds from SPF are allocated her, in the form of **long-term concessional loans** or **equity funding** (for startups)
+- The strategic direction is provided by the **Governing board** of **ANRF**, chaired by **Prime Minister**
+---
+### National Sports Policy (NSP) 2025
+#GS2 #Governance #Sports #Policy #Scheme 
+- India's first **National Sports Policy (NSP)** was launched in **1984** with further policies launched later. The new policy will supersede the existing **NSP, 2001**
+- It will be called, ***"Khelo Bharat Niti, 2025"***
+- **Pillars of the  NSP or Khelo Bharat Niti, 2025**
+	- **Excellence on global stage** through strengthening of sports programs from *grassroots to elite levels*, enhance capacity and governance of the **National Sports Federation**, etc.
+	- **Economic Development:** ensuring **social inclusion** through the participation of women and weaker sections, etc.
+	- **Sports a people's movement:** driving **mass participation**, promoting a **culture of fitness** and universal access to sports facilities, etc.
+	- **Integration with National Education Policy 2020:** by **integrating sports into school curricula** with specialized training for teachers, etc.
+- **Strategic Framework for the KBN 2025:**
+	- **Governance:** through a **robust regulatory framework** including a legal framework
+	- **Private sector funding & support:** innovative mechanisms like **PPP** and **CSR**
+	- Leveraging **emerging technologies** including AI and data analytics and creating a **National Level Monitoring Framework**, etc.
+- **India and Sports:**
+	- **Constitutional scheme:** Sports is a ***"state"*** subject
+	- Dedicated **Ministry of Youth Affairs and Sports (MYAS)** with two separate departments of *Youth Affairs* and *Sports*
+	- ***Sports Authority of India (SAI)*** was setup in 1984 under the **Societies Registration Act, 1860** under the **Department of Sports**
+	- **Schemes:**
+		- *TOP (Target Olympic Podium Scheme), 2014*
+		- *Khelo India, 2017*
+		- *Fit India Movement, 2019*
+- **Significance of sports sector:**
+	- Assert India's **soft power** and regional aspirations
+	- Establish India as a **global sporting powerhouse**, and a strong contender for **2036 Olympic Games**
+	- Reap country's **favorable demographic dividend** aligning with the principles of *Viksit Bharat*
+---
+### Natural Rubber
+#GS3 #Agriculture #Crops 
+- **World's top producers of Rubber:**
+	1. **Thailand**
+	2. *Indonesia*
+	3. *Vietnam*
+	4. *Ivory Coast*
+	5. **India** ~ 843,000 Tn (almost **similar to China**)
+	6. **China**  ~ 843,000 Tn
+- **Thailand** is world's largest producer of Rubber while, ***India ranks 5th/6th globally*** which China being almost equal
+	- Interestingly, ***India has one of the highest Rubber Yield** (2022 in kg/Ha)* even *higher than China's*
+- **State wise Rubber Production in India:**
+	1. **Kerala** - 74%
+	2. **Tripura**
+	3. **Karnataka**
+	4. **Assam**
+	5. **Tamil Nadu**
+	6. **Meghalaya**
+- ***iSNR/BSNA initiative:***
+	- ***"Indian/Bharat Standard Natural Rubber"*** initiative by **Rubber Board of India** 
+	- It will establish a **traceable rubber supply chain** in India
+	- It will comply with **EUDR (EU's Deforestation Regulation)** regulations
+		- **EUDR** will be enforceable from *30th Dec, 2025*
+- **Rubber Board of India:**
+	- **Statutory** under the **Rubber Act, 1947**
+	- It functions under **Ministry of Commerce and Industry**
+	- Headquarter - **Kottyam, Kerala**
+---
+### Terbium
+#GS3 #SciTech #Minerals 
+- **IISC** developed a **glowing paper sensor** to detect **liver cancer**
+- It uses the ***green glow of Terbium*** to sense the presence of a enzyme called, ***β-glucuronidase*** which is a **biomarker** for liver cancer
+- **Terbium** is a **Rare-earth metal** of the lanthanide series
+- It occurs in the **monazite** and **bastnaesite** minerals
+- it is also obtained from **euxenite** which is a complex oxide containing 1% of Terbium
+- **Applications:**
+	- *Solid-state devices, low-energy lightbulbs, mercury lamps, medical x-rays, laser devices*, etc.
+---
+### Captive Non-Public Networks (CNPNs)
+#GS3 #Economy #SciTech #Services #Telecom
+- **DoT** issued guidelines for the establishment of **Captive Non-Public Networks (CNPNs)** and launched a module on the **Saral Sanchar portal** for identification of CNPN bands
+- **CNPNs:**
+	- They are **terrestrial wireless telecommunication network** established for **captive use** within a **specified geographical area**
+	- unlike a *public module network* operated by telecom providers and accessible by anyone, CNPNs are operated by **private entity** and are **not accessible by general public**
+---
+### Certificate of Deposits (CD)
+#GS3 #Economy #Banking #MoneyMarket
+- #Data Recently **public sector banks** stepped up issuance of CDs from ***6% (2022)*** to **69% (2024)***
+- They are **negotiable money market** instruments issued in **dematerialized form** against funds deposited at a bank/eligible financial institution for a specified period of time. They are issued at a **discount on face value**
+- **CDs can be issued by:** (as per RBI)
+	- **Schedule Commercial Banks** 
+		- EXCEPT ***Regional Rural Banks (RRBs) and Local Area Banks (LABs)*** which ***CANNOT ISSUE CDs***
+	- Selec **All-India Financial Institutions (AIFIs)** permitted by **RBI** to raise **short-term resources**
+- **CDs can be issued to:** (as per RBI)
+	- Individuals, Corporations, Companies including Banks, Trusts, Funds, Associations, and
+	- **Non-Resident Indians** (only on ***non-repatriable*** basis)
+		- Must remain in India
+---
+### Operation Melon
+#GS3 #InternalSecurity #MoneyLaundering 
+- **Narcotics Control Bureau (NCB)** has busted a massive international drug racket operating through **darknet**, in the operation code-named, ***"Operation MELON"***
+- They discovered drugs named, **LSD** and **Ketamine**
+	- **Ketamine is not an opoid** it is an *NMDA receptor antagonist*
+---
+## Project 17A
+#GS3 #InternalSecurity #Defence 
+- **INS Udaygiri**, the **indigenous** second ship of **Project 17A's stealth frigates** was delivered to Indian Navy
+- **Project 17A**
+	- It is a follow-on of the **Shivalik class (Project 17) frigates** active in service
+		- **Frigate** is a **multi-role vessel** utilized for fleet surface ship protection against surface combatants or incoming aerial threats
+		  <p align="center"><img src="https://media.assettype.com/deccanherald%2F2023-08%2Fba91d6ad-b636-4340-bd9c-13c26bfb65e7%2Fdownload.png?w=400&auto=format%2Ccompress&fit=max" alt="Frigate" width="300"/></p>
+
+	- **P-17A ships** have enhanced **stealth features** and fitted with state of the art weapons and sensors, a significant upgrade from the P17 class
+	- These **multi-functional frigates** are capable of operating in a **Blue Water environment** dealing with both **conventional** and **non-conventional maritime threats**
+---

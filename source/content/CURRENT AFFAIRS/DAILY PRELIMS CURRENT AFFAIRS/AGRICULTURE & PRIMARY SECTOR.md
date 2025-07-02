@@ -208,3 +208,31 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 		3. Bihar ~9 MnTn
 		4. Gujarat, Maharashtra, & Punjab
 ---
+### Natural Rubber
+#GS3 #Agriculture #Crops 
+- **World's top producers of Rubber:**
+	1. **Thailand**
+	2. *Indonesia*
+	3. *Vietnam*
+	4. *Ivory Coast*
+	5. **India** ~ 843,000 Tn (almost **similar to China**)
+	6. **China**  ~ 843,000 Tn
+- **Thailand** is world's largest producer of Rubber while, ***India ranks 5th/6th globally*** which China being almost equal
+	- Interestingly, ***India has one of the highest Rubber Yield** (2022 in kg/Ha)* even *higher than China's*
+- **State wise Rubber Production in India:**
+	1. **Kerala** - 74%
+	2. **Tripura**
+	3. **Karnataka**
+	4. **Assam**
+	5. **Tamil Nadu**
+	6. **Meghalaya**
+- ***iSNR/BSNA initiative:***
+	- ***"Indian/Bharat Standard Natural Rubber"*** initiative by **Rubber Board of India** 
+	- It will establish a **traceable rubber supply chain** in India
+	- It will comply with **EUDR (EU's Deforestation Regulation)** regulations
+		- **EUDR** will be enforceable from *30th Dec, 2025*
+- **Rubber Board of India:**
+	- **Statutory** under the **Rubber Act, 1947**
+	- It functions under **Ministry of Commerce and Industry**
+	- Headquarter - **Kottyam, Kerala**
+---

@@ -180,3 +180,14 @@
 	- New ***Cyber and Electromagnetic Command*** to oversee networks and electromagnetic warfare
 	- India must also reassess it's *"neutral"* stance on Israel-Iran conflict and it's growing relation with Israel. Israel must not become an ***"albatross around India's neck"***.
 ---
+### GOLDEN CRESCENT AND GOLDEN TRIANGLE
+#GS3 #InternalSecurity #MainsValueAddition #Keywords
+- Honbl. Home Minister said that we have replaced the term **"Golden Triangle"** and **"Golden Crescent"** with "***Death Triangle"*** and ***"Death Crescent"***. 
+- They may be **Golden** for *drug traffickers*
+- However, for those against them the appropriate term are as suggested by the Hobl. Home Mininster
+---
+### DRUG TRAFFICKING THROUGH DARKNET
+#GS3 #InternalSecurity #MoneyLaundering #Eg 
+- Use in the **threats of emerging technologies:**
+	- #Eg **Narcotics Control Bureau (NCB)** busted a massive **international drug trafficking racket** operating through **darknet**, in the operation code-named, ***"Operation MELON"***
+---

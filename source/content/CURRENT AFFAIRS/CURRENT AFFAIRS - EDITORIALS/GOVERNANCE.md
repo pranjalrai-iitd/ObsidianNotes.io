@@ -1,5 +1,5 @@
-### INDIA and R&D ECOSYSTEM  
-#GS2 #Governance #Education  
+### INDIA AND R&D ECOSYSTEM  
+#GS2 #Governance #Education #Gs3 #Research
   
 <b><u>NEWS:</u></b>  
 - India has **54 universities in the Rankings**, making it **4th** after **US, UK, and China** in terms of **most represented country**  

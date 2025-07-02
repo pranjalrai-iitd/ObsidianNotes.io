@@ -260,3 +260,41 @@
 - <b><u><i>2016 ECI's memorandum:</i></u></b> suggested **amending RPA 1951** to **empower ECI to de-register** political parties
 
 ---
+### NEW CRIMINAL LAWS
+#GS2 #Polity #CriminalLaws #Judiciary 
+
+<b><u>NEWS:</u></b>
+- Completion of **one year of implementation**, of the **three new criminal laws** which came into force on **1st July 2024**. The 3 laws are:
+	- **BNS** - **Bharatiya Nyay Samhita 2023*** 
+		- Replaces **Indian Penal Code 1860**
+	- **BNSS** - ***Bharatiya Nagrik Suraksha Samhita 2023***
+		- Replaces **Criminal Procedure Code 1973**
+	- **BSA** - ***Bharatiya Sakshya Adhiniyam 2023*** to 
+		- Replaces **Indian Evidence Act 1872**
+
+<b><u>KEY CHANGES/ PROVISIONS IN THE NEW LAWS:</u></b>
+1. **FIR registration at any police station** regardless of jurisdiction to *enhance accessibility* and to ensure *effective reporting of crimes*
+2. **Death sentence for certain offences against Women and Children:** to reduce the offences against the vulnerable populations
+3. **New offences:** addressing **terrorist acts** as those *endangering sovereignty, unity and integrity of India*
+4. **Mob lynching** and **snatching** made *specific offences*
+
+<b><u>REFORMS IN THE CRIMINAL JUSTICE SYSTEM BROUGHT BY THE LAWS:</u></b>
+1. **Technology driven Justice system:**
+	- **e-Sakshya (e-evidence)** and **e-Summons** notified in *11 states/UTs*
+	- **Nyaya Shruti**, which enables courts to hear witness testimonies via video conferencing implemented in *6 states/UTs*
+	- **CCTNS network** *(Crime and Criminal Tracking Network & System)*: covers over *14K police stations* and *22K courts*  
+2. **Capacity building and training:** *23 states/UTs* have completed *100% capacity-building*
+3. **Community service** introduced as a penalty in *12 states/UTs*
+
+<b><u>CHALLENGES IN IMPLEMENTATION:</u></b>
+1. **lack of adequate infrastructural support:** #Eg several police stations, courts and prisons lack basic access to internet and tools to enable digital access
+2. **BNSS sets jsutice timelines but lacks enforcement:** #Eg 22% vacancies in police and district judiciary makes deadlines hard to meet
+3. **BNSS and BSA emphasize forensics, but implementation suffers:** mainly due to *47% administrative* and *49% scientific* vacancies.
+
+<b><u>JUDGEMENTS ON BNS AND BNSS:</u></b>
+1. #Judgement <b><u><i>Re-Inhuman Conditions In 1382 Prisons Vs. Director General of Prisons:</i></u></b> 
+	- Court applied **BNSS section 479 (undertrial detention)** ***retrospectively***
+	- Jail authorities must identify **eligible women prisoners for release** under BNSS
+2. #Judgement <b><u><i>Badshah Majid Malik Vs. Directorate of Enforcement:</i></u></b> Court granted bail under PMLA as the accused has served **one-third of the maximum sentence** under **BNSS**
+
+---

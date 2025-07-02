@@ -92,3 +92,20 @@
 - **Armed Forces** can now use up to **15% of their capital budget for urgent purchase** of weapons and equipment to refill operational stocks.
 - It was introduced after key events like the **2016 surgical strikes**, the **2019 Balakot strikes**, and the **2020 Ladakh standoff.**
 ---
+### Operation Melon
+#GS3 #InternalSecurity #MoneyLaundering 
+- **Narcotics Control Bureau (NCB)** has busted a massive international drug racket operating through **darknet**, in the operation code-named, ***"Operation MELON"***
+- They discovered drugs named, **LSD** and **Ketamine**
+	- **Ketamine is not an opoid** it is an *NMDA receptor antagonist*
+---
+## Project 17A
+#GS3 #InternalSecurity #Defence 
+- **INS Udaygiri**, the **indigenous** second ship of **Project 17A's stealth frigates** was delivered to Indian Navy
+- **Project 17A**
+	- It is a follow-on of the **Shivalik class (Project 17) frigates** active in service
+		- **Frigate** is a **multi-role vessel** utilized for fleet surface ship protection against surface combatants or incoming aerial threats
+		  <p align="center"><img src="https://media.assettype.com/deccanherald%2F2023-08%2Fba91d6ad-b636-4340-bd9c-13c26bfb65e7%2Fdownload.png?w=400&auto=format%2Ccompress&fit=max" alt="Frigate" width="300"/></p>
+
+	- **P-17A ships** have enhanced **stealth features** and fitted with state of the art weapons and sensors, a significant upgrade from the P17 class
+	- These **multi-functional frigates** are capable of operating in a **Blue Water environment** dealing with both **conventional** and **non-conventional maritime threats**
+---

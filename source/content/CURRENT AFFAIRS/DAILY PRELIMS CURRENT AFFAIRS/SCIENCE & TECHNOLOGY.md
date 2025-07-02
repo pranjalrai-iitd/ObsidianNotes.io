@@ -223,3 +223,21 @@
 		- Due to their **unique crystal symmetry**, they shoe **intense internal spin polarisation**, similar to ferromagnets
 	- **CrSb (Chromium Antimonide)** an **altermagnet** shows the ***strongest spin-splitting*** among all known altermagnets.
 ---
+### Terbium
+#GS3 #SciTech #Minerals 
+- **IISC** developed a **glowing paper sensor** to detect **liver cancer**
+- It uses the ***green glow of Terbium*** to sense the presence of a enzyme called, ***β-glucuronidase*** which is a **biomarker** for liver cancer
+- **Terbium** is a **Rare-earth metal** of the lanthanide series
+- It occurs in the **monazite** and **bastnaesite** minerals
+- it is also obtained from **euxenite** which is a complex oxide containing 1% of Terbium
+- **Applications:**
+	- *Solid-state devices, low-energy lightbulbs, mercury lamps, medical x-rays, laser devices*, etc.
+---
+### Captive Non-Public Networks (CNPNs)
+#GS3 #Economy #SciTech #Services #Telecom
+- **DoT** issued guidelines for the establishment of **Captive Non-Public Networks (CNPNs)** and launched a module on the **Saral Sanchar portal** for identification of CNPN bands
+- **CNPNs:**
+	- They are **terrestrial wireless telecommunication network** established for **captive use** within a **specified geographical area**
+	- unlike a *public module network* operated by telecom providers and accessible by anyone, CNPNs are operated by **private entity** and are **not accessible by general public**
+---
+

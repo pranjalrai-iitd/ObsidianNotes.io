@@ -481,3 +481,71 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 - **MoI&B** launched the **"WAVEX Startup Challenge 2025"** under its flagship **startup accelerator programme, "WaveX"**
 	- under this there is a challenge titled, ***"BhashaSetu"*** - Real time language tech for Bharat, is a national hackathon to develop AI-powered multilingual translation solution across *at least 12 major Indian languages*
 ---
+### Employment Linked Incentive (ELI) Scheme
+#Gs3 #Economy #Employment #Scheme 
+- Announced in **Budget 2024-25** 
+- **Details of the Scheme:**
+	- Under the **Ministry of Labour & Employment**
+	- Outlay of Rs. 99,446 crore (*~1,00,000 lakh crore*) over 2 years
+	- It targets to generate **3.5 crore hobs** including **1.92 crore** for **first-time employees**
+- **Two parts of the scheme:**
+	- <b><u>PART A: Incentive to first time employees</u></b>
+		- First time employees **registered** with **EPFO** and earning **up to INR 1 lakh/month** are eligible
+			- Around **1.92 crore** beneficiaries
+		- **Incentive amount:** ***1 month EPF wage** (up to Rs.15,000)* disbursed in two installments:
+			- After 6 months of continuous employment
+			- After 12 months and successful completion of a financial literacy programme
+		- **Savings provision** to deposit the incentive in a *savings instrument* with a lock-in period
+		- **Payment mechanisms:** DBT through **ABPS**
+	- <b><u>PART B: Incentives for employers</u></b>
+		- Special focus in manufacturing sector
+		- **Eligibility:** All **EPFO-registered establishments** hiring the following:
+			- At least **2 additional employees** for *(workforce < 50)*
+			- At least **5 additional employees** for *(workforce $\geq$ 50)*
+		- **Incentives to employers:** Up to **Rs. 3000/month** for **2 years**
+			- Extended to **4 years** for **manufacturing** sector
+		- **Minimum employment period:** **6 months** of sustainable employment per new hire
+		- **Salary cap:** employees earning up to **Rs. 1lakh/month**
+		- It will create around **2.6 crore additional jobs**
+		- **Payment mechanisms:** directly to PAN-linked accounts
+---
+### Research Development and Innovation (RDI) Scheme
+#GS3 #Research #Scheme #GS2 #Education
+- Outlay of **Rs.1 lakh crore** to encourage **private sector participation** in R&D, particularly in **sunrise sectors** including *economic security, strategic purpose, self-reliance,* etc.
+- **Nodal department:** ***DST***
+- It will provide **long-term financing or re-financing** with **long tenors at low/nil interest rates** to spur private investments
+- **Objectives:**
+	- *Finance transformative projects* at higher levers of **Technology Readiness Levels (TRL)**
+	- Support **acquisition** *of critical and strategic technologies*
+	- Facilitate setting up of a **Deep-tech Fund of funds**
+- **Two-tiered Funding Mechanism:**
+	1. ***Special Purpose Fund (SPF):*** established within the **Anusandhan National Research Foundation (ANRF)**, acting as the **custodian of funds**
+	2. ***Second Level Fund Managers:*** funds from SPF are allocated her, in the form of **long-term concessional loans** or **equity funding** (for startups)
+- The strategic direction is provided by the **Governing board** of **ANRF**, chaired by **Prime Minister**
+---
+### National Sports Policy (NSP) 2025
+#GS2 #Governance #Sports #Policy #Scheme 
+- India's first **National Sports Policy (NSP)** was launched in **1984** with further policies launched later. The new policy will supersede the existing **NSP, 2001**
+- It will be called, ***"Khelo Bharat Niti, 2025"***
+- **Pillars of the  NSP or Khelo Bharat Niti, 2025**
+	- **Excellence on global stage** through strengthening of sports programs from *grassroots to elite levels*, enhance capacity and governance of the **National Sports Federation**, etc.
+	- **Economic Development:** ensuring **social inclusion** through the participation of women and weaker sections, etc.
+	- **Sports a people's movement:** driving **mass participation**, promoting a **culture of fitness** and universal access to sports facilities, etc.
+	- **Integration with National Education Policy 2020:** by **integrating sports into school curricula** with specialized training for teachers, etc.
+- **Strategic Framework for the KBN 2025:**
+	- **Governance:** through a **robust regulatory framework** including a legal framework
+	- **Private sector funding & support:** innovative mechanisms like **PPP** and **CSR**
+	- Leveraging **emerging technologies** including AI and data analytics and creating a **National Level Monitoring Framework**, etc.
+- **India and Sports:**
+	- **Constitutional scheme:** Sports is a ***"state"*** subject
+	- Dedicated **Ministry of Youth Affairs and Sports (MYAS)** with two separate departments of *Youth Affairs* and *Sports*
+	- ***Sports Authority of India (SAI)*** was setup in 1984 under the **Societies Registration Act, 1860** under the **Department of Sports**
+	- **Schemes:**
+		- *TOP (Target Olympic Podium Scheme), 2014*
+		- *Khelo India, 2017*
+		- *Fit India Movement, 2019*
+- **Significance of sports sector:**
+	- Assert India's **soft power** and regional aspirations
+	- Establish India as a **global sporting powerhouse**, and a strong contender for **2036 Olympic Games**
+	- Reap country's **favorable demographic dividend** aligning with the principles of *Viksit Bharat*
+---
