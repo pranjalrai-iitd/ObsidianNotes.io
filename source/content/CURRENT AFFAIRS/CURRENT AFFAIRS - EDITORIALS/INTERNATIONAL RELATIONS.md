@@ -103,7 +103,7 @@
 - The **12 day war** between Iran and Israel followed by **USA led, Qatar mediated ceasefire**
 
 <b><u>CONCLUSION/QUOTE:</u></b>
-- ***The situation in West Asia, to quote Churchill, 'is a riddle wrapped in a mystery inside an enigma'.***
+- ***The situation in West Asia, to quote Churchill, '<b><u><i>is a riddle wrapped in a mystery inside an enigma</i></u></b>'.***
 - ***The business as usual in West Asia has been, cyclicity of the conflicts punctuated by an interregnum of tense peace"***   - Ambassador Mahesh Sachdev
 ---
 ### SHANGHAI COOPERATION ORGANIZATION (SCO)
@@ -144,5 +144,11 @@
 2. **Undermine climate actions:** 2024 was recorded as one of the two hottest years and USA stands as the second largest emitter
 3. **Shortage of funds for health:** #Eg #Data ***In 2024, US funded about 15% of WHO's total funding***
 4. **Leadership vacuum:** can be filled by **China** - it may **reduce India's influence on decision making**
+
+---
+### INDIA-USA
+#GS2 #IR #BilateralRelations 
+
+<b><u>QUOTE:</u></b> ***"<b><u><i>American foreign policy oscillates between idealism, realism and transactionalism</i></u></b>. This has led to occasional erraticness in USA's approach towards India's adversarial neighbors. India must walk the delicate tight-rope and ensure that India-USA relations remain resilient to maximize her gains and minimize the harms."***
 
 ---
