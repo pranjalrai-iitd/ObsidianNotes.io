@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Lora",
-        body: "Lora",
-        code: "Lora"
+        header: "Fira Code",
+        body: "Fira Code",
+        code: "Fira Code"
       },
       colors: {
         lightMode: {
