@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: "JetBrains Mono",
         body: {
-        	name: "Schibsted Grotesk",
+        	name: "JetBrains Mono",
     		weights: [400, 500],
     		includeItalic: true,
     		},
