@@ -24,7 +24,11 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "JetBrains Mono",
-        body: "Oswald",
+        body: {
+        	name: "Schibsted Grotesk",
+    		weights: [400, 500],
+    		includeItalic: true,
+    		},
         code: "JetBrains Mono"
       },
       colors: {
