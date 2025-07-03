@@ -506,3 +506,27 @@
 3. **National measures:** strengthen institutional capacities to address liquidity risks, currency mismatch, improve quality of project pipeline and increase impact of debt swaps
 
 ---
+### CURBING INEQUALITY
+#GS3 #Economy #Inequality #Development 
+
+<b><u>NEWS:</u></b>
+- **Spain** and **Brazil** as part of ***"Seville Platform for Action"*** at **UN-FFD4** called for **enforcing effective taxation of High-Net-Worth Individuals (HNIs)** and taxing the super rich to curb inequality.
+	- They also proposed creating a **Global Wealth Registry (GWR)** for more transparency, accountability, and fairer contributions from the riche
+
+<b><u>STATUS OF INEQUALITY IN THE WORLD:</u></b>
+1. <b><u>Income disparity:</u></b> #Data The ***wealthiest 1% own more than 95% of the global population combined***
+2. <b><u>Addressing tax disparity:</u></b> #Data The ***wealth of the richest 1% has surged to USD 34 Trillion** (30% of global GDP)* since 2015, yet ***billionaires only pay 0.3% in real taxes***
+3. <b><u>Achieving SDGs:</u></b> Roughly ***3,000 billionaires - have gained USD 6.5 Trillion*** in real terms, more than ***USD 4 Trillion estimated annual cost of achieving SDGs***
+4. <b><u>Public-Private Wealth Gap:</u></b> Between 1995 and 2023, global private wealth grew by ***USD 342 Trillion*** - ***8 times more than global public wealth***
+
+<b><u>INITIATIVES TO TACKLE INEQUALITY:</u></b>
+- **GLOBAL:**
+	- ***Seville Platform for Action:*** supports voluntary international actions towards achieving SDGs
+	- ***G20 Agreement:*** G20's 2024 agreement to develop a **joint tax agenda for HNIs**
+	- Negotiations on **UN Convention on Tax**
+- **INDIA:**
+	- **Employment generation schemes:** like *MGNREGA, DDU-GKY*, etc.
+	- **Social security schemes:** like *Atal Pension Yojana, Jeevan Jyoti Yojana*
+	- **Financial Inclusion:** through *Jan Dhan Yojana* and financial access through schemes like *MUDRA Yojana*
+
+---

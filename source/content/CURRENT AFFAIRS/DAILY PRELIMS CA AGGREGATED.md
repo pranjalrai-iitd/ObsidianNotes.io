@@ -55,7 +55,7 @@ A(Social security)-->D(Labor market  programs);
 - **Impact**:
 	- **Environment**: marine pollution, loss of biodiversity, ballast water contamination.
 	- **Health**: toxic chemicals can affect the local fishing communities.
-	- **Economic loss**: devaluation of the shores, beach cleanup operations, loss of costal livelihoods, tourism deteriorates, shipping delays.
+	- **Economic loss**: devaluation of the shores, beach cleanup operations, loss of coastal livelihoods, tourism deteriorates, shipping delays.
 - **Various International Conventions under IMO related to maritime disasters and pollution**: #MainsValueAddition 
 	- <b><u>Bunker Convention (2001)</u></b>: #convention Holds shipowners liable for bunker oil pollution i.e, **civil liability**. Ensures victim compensation and compulsory insurance.
 		- 🚫 India is **NOT** a member
@@ -3155,6 +3155,12 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 - They discovered drugs named, **LSD** and **Ketamine**
 	- **Ketamine is not an opoid** it is an *NMDA receptor antagonist*
 ---
+## Operation MED MAX
+#GS3 #InternalSecurity #MoneyLaundering 
+- It was an operation conducted by **NCB** for cracking down on **illegal pharmaceutical drug trade**
+	- Under it, NCB dismantled a transnational drug trafficking syndicate that smuggles controlled medicines across four continents
+- It shows the growing convergence of digital platforms, cryptocurrency, and transactional logistics in modern illicit trade
+---
 ## Project 17A
 #GS3 #InternalSecurity #Defence 
 - **INS Udaygiri**, the **indigenous** second ship of **Project 17A's stealth frigates** was delivered to Indian Navy
@@ -3165,4 +3171,109 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 
 	- **P-17A ships** have enhanced **stealth features** and fitted with state of the art weapons and sensors, a significant upgrade from the P17 class
 	- These **multi-functional frigates** are capable of operating in a **Blue Water environment** dealing with both **conventional** and **non-conventional maritime threats**
+---
+### C-FLOOD
+#GS3 #DisasterManagement #Flood
+- **Ministry of Jal Shakti** inaugurates **C-FLOOD**, a ***Unified Inundation Forecasting System (UIFS)***, which will **integrates flood modelling outputs** from **national** and **regional agencies**, offering a comprehensive ***decision-support tool*** for disaster management authorities.
+- It is a **web-based platform** providing ***2 day advance*** flood inundation forecasts up to **village level**, using advanced **2D-hydrodynamic modelling** to simulate flood scenarios.
+- It is jointly developed by:
+	- **C-DAC**
+	- **CWC** (Central Water Commission)
+	- **Department of Water Resources**
+	- **National Remote Sensing Centre (NRSC)**
+- It will be executed under ***National Supercomputing Mission (NSM)***, which was jointly started by **MeiTY** and **DST**
+- **Coverage:**
+	- Presently covers ***Mahanadi, Godavari, and Tapi*** river basins, with ***plans to cover all river basins***
+- The forecasts are integrated with the **NDEM** - National Disaster Management Emergency Response Portal
+---
+### Financial Fraud Risk Indicator
+#GS3 #Economy #Scheme 
+- RBI directed all SCBs, SFBs, Payment Banks, and Cooperative banks to integrate the **Financial Fraud Risk Indicator (FRI)** developed by **DoT** into their systems.
+- It ensures **automatic data exchange** between **banks** and **DoT's Digital Intelligence Platform** through **API** integration, enabling **real-time responsiveness**
+- **DIP: Digital Intelligence Platform** 
+	- Under **Department of Telecommunications (DoT)**
+	- It is an **online secure platform** for sharing information related to **misuse of telecom** resources among stakeholders to prevent cyber-crimes
+- **Financial Fraud Risk Indicator**
+	- It was launched by **DoT's Digital Intelligence Unit (DIU)**
+	- It is a risk-based metric that **classifies a mobile number** to have been associated with *Medium, High, or Very High risk of financial fraud*
+		- The classification is an outcome of inputs obtained from various stakeholders including:
+			- **I4C:** India Cuber Crime Coordinating Centre
+			- **NCRP:** National Cybercrime Reporting Portal
+			- **DoT's** **Chakshu portal**
+			- Intelligence shared by banks and financial institutions
+		- **DIU** regularly shares the **Mobile Number Revocation List (MNRL)** with stakeholders detailing numbers to be disconnected sue to cyber crime links, failed re-verification, etc. 
+---
+### Ghana
+#Gs1 #Geography #Mapping #PlacesInNews 
+- Indian PM on a state visit to Ghana and was conferred with Ghana's highest civilian honour, *"Officer of the Order of the Star of Ghana"*
+
+| <img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/o41eFxTnZHxbRu9SZh7LP1PnQpKFrpGsuGC0Yrj8.jpg" alt="Ghana" width="450"/> |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://www.worldatlas.com/r/w960-q80/upload/d2/cd/62/gh-01.jpg" alt="Ghana" width="450"/>                            |
+
+- Capital - *Accra*
+- Ghana is located in **Western Africa** and is situated on the coast of the ***Gulf of Guinea**
+- **Land boundaries:** *IBT*
+	- ***Ivory Coast, Burkina Faso, Togo***
+- It was also known as the **"Gold Coast"** before its independence in 1957
+- **Geographical features:**
+	- **Rivers:** *White Volta, Black Volta, Pra, Oti, Tano, Volta*
+	- **Lakes:** Lake ***Volta*** is the ***world's largest artificial lake**** by surface area
+	- **Highest point:** *Mount Afdajato*
+	- **Natural resources:** Ghana is ***one of the largest producer of GOLD and COCOA***
+	- *Prime Meridian* passes through Ghana
+- **NOTE: GOLD PRODUCTION BY COUNTRIES:**
+	1. China
+	2. Russia
+	3. Australia
+	4. Canada
+	5. USA
+	6. Ghana
+	7. Mexico
+- **NOTE: WORLD's PRODUCTION OF COCOA BEANS:**
+	1. Ivory Coast
+	2. Ghana
+---
+### PARAKH
+#GS2 #Governance #Education #Scheme 
+- **PARAKH Rashtriya Sarvekshan Dissemination Portal** was launched recently to provide **open access to National and State-level data on student performance** and serve as a key resource for States/UTs to design targeted plans to enhance learning outcomes.
+- **PARAKH:**
+	- It stands for **Performance Assessment, Review and Analysis of Knowledge for Holistic Development**
+	- It was set us a **National Assessment Centre** in 2023 in the **NCERT** as an independent constituent
+	- **Focus Areas:**
+		- Capacity development
+		- Achievement survey
+		- School Boards equivalence
+		- Holistic progress cards
+---
+### Male Mahadeshwara (MM) Hills Wildlife Sanctuary
+#GS1 #GS3 #Geography #PlacesInNews #Environment 
+- 5 tigers were found dead in the MM Hills Wildlife Sanctuary
+- It is located in **Southeast Karnataka** and forms **connecting corridor** between:
+	- ***Biligiri Ranganatha Swamy Temple (BRT) Wildlife Sanctuary***, and
+	- ***Cauvery Wildlife Sanctuary***
+- **Soligas** and **Lingayats** are the dominant communities in MM HIlls
+- It is an important corridor in the ***Eastern Ghats-Western Ghats landscape***
+---
+### Transition Bonds
+#GS3 #Economy #Environment #EnergyTransition 
+- The **International Financial Services Authority (IFSCA)** approved for issuance and listing of transition bonds under the ***IFSCA (Listing) Regulations, 2024***.
+- **Transition Bonds:**
+	- It is one of the sub-categories of the ***"Green Debt Security"*** as per **SEBI** regulation
+		- **Green Debt Security:** means a debt security issued for raising funds that are to be utilised for projec(s) and/or asset(s) such as clean transportation, sustainable waste management, etc.
+	- **Objective:**
+		- To help **hard-to-abate sectors** like *steel and cement* and raise capital for progressive decarbonisation
+		- **Mitigate Greenwashing** through transparency, disclosures, and third-party validation, ensuring investor confidence.
+- **Transition bonds Vs. Green bonds:** while transition bonds focus on an issuer's commitment to become greener, the green bonds are used to fund environmental projects. 
+---
+### Nutritional Intake in India Report
+#GS2 #Govenance #Health #Nutrition #Data #MainsValueAddition 
+- **NSO** has released the report based on **Household Consumption Expenditure Surveys** of **2022-23 and 2023-24**
+- **Findings of the report:** #Data 
+	- **Avg. per capita per day calorie intake:**
+		- **Rural:** *2233 Kcal (FY23)* declined to *2212 Kcal (FY24)*
+		- **Urban:** *2250 kcal (FY23)* declined to *2240 kcal (FY24)*
+	- **Cereals** continue to be the most important source of protein. However, their contribution to **protein intake** **dropped ~14% in rural** and **~12% in urban** India since FY10, ***offset by increased egg, fish, meat, and milk**
+	- **Expenditure and calorie intake:** with an increase in the **MPCE**, the average calorie intake also increases.
+	- **Narrowing gap:** calorie intake gap between the **bottom 5% and top 5%** has significantly narrowed in FY24
 ---

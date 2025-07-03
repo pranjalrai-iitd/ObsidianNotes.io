@@ -188,6 +188,10 @@
 ---
 ### DRUG TRAFFICKING THROUGH DARKNET
 #GS3 #InternalSecurity #MoneyLaundering #Eg 
-- Use in the **threats of emerging technologies:**
-	- #Eg **Narcotics Control Bureau (NCB)** busted a massive **international drug trafficking racket** operating through **darknet**, in the operation code-named, ***"Operation MELON"***
+- #Eg **Operation MELON:**
+	- Use in the **threats of emerging technologies:**
+		- #Eg **Narcotics Control Bureau (NCB)** busted a massive **international drug trafficking racket** operating through **darknet**, in the operation code-named, ***"Operation MELON"***
+- #Eg **Operation MED MAX:**
+	- Another operation was ***"Operation MED MAX"*** conducted by **NCB** for cracking down on **illegal pharmaceutical drug trade**
+	- It shows the growing ***convergence of digital platforms, cryptocurrency, and transactional logistics in modern illicit trade***
 ---

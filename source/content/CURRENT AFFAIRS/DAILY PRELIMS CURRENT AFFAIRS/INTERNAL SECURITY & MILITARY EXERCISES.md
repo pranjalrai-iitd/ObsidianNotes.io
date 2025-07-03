@@ -98,6 +98,12 @@
 - They discovered drugs named, **LSD** and **Ketamine**
 	- **Ketamine is not an opoid** it is an *NMDA receptor antagonist*
 ---
+## Operation MED MAX
+#GS3 #InternalSecurity #MoneyLaundering 
+- It was an operation conducted by **NCB** for cracking down on **illegal pharmaceutical drug trade**
+	- Under it, NCB dismantled a transnational drug trafficking syndicate that smuggles controlled medicines across four continents
+- It shows the growing convergence of digital platforms, cryptocurrency, and transactional logistics in modern illicit trade
+---
 ## Project 17A
 #GS3 #InternalSecurity #Defence 
 - **INS Udaygiri**, the **indigenous** second ship of **Project 17A's stealth frigates** was delivered to Indian Navy

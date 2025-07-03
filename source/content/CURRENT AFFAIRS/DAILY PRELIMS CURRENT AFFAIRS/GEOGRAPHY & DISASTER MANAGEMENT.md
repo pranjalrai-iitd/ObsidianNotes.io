@@ -5,7 +5,7 @@
 - **Impact**:
 	- **Environment**: marine pollution, loss of biodiversity, ballast water contamination.
 	- **Health**: toxic chemicals can affect the local fishing communities.
-	- **Economic loss**: devaluation of the shores, beach cleanup operations, loss of costal livelihoods, tourism deteriorates, shipping delays.
+	- **Economic loss**: devaluation of the shores, beach cleanup operations, loss of coastal livelihoods, tourism deteriorates, shipping delays.
 - **Various International Conventions under IMO related to maritime disasters and pollution**: #MainsValueAddition 
 	- <b><u>Bunker Convention (2001)</u></b>: #convention Holds shipowners liable for bunker oil pollution i.e, **civil liability**. Ensures victim compensation and compulsory insurance.
 		- 🚫 India is **NOT** a member
@@ -121,4 +121,18 @@
 	- Being developed by **C-DOT**
 	- **CB** are broadcast **directly** to **all mobile phones** in the affected are
 	- They are **much faster than SMS** and are ideal of *urgent disasters* like Tsunamis, Earthquakes, Lightning (not-notified) and Gas Leaks (not-notified)
+---
+### C-FLOOD
+#GS3 #DisasterManagement #Flood
+- **Ministry of Jal Shakti** inaugurates **C-FLOOD**, a ***Unified Inundation Forecasting System (UIFS)***, which will **integrates flood modelling outputs** from **national** and **regional agencies**, offering a comprehensive ***decision-support tool*** for disaster management authorities.
+- It is a **web-based platform** providing ***2 day advance*** flood inundation forecasts up to **village level**, using advanced **2D-hydrodynamic modelling** to simulate flood scenarios.
+- It is jointly developed by:
+	- **C-DAC**
+	- **CWC** (Central Water Commission)
+	- **Department of Water Resources**
+	- **National Remote Sensing Centre (NRSC)**
+- It will be executed under ***National Supercomputing Mission (NSM)***, which was jointly started by **MeiTY** and **DST**
+- **Coverage:**
+	- Presently covers ***Mahanadi, Godavari, and Tapi*** river basins, with ***plans to cover all river basins***
+- The forecasts are integrated with the **NDEM** - National Disaster Management Emergency Response Portal
 ---

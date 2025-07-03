@@ -282,3 +282,43 @@
 
 ---
 
+### MENTAL HEALTH AND SOCIAL DISCONNECT
+#GS1 #Society #Health #MentalHealth 
+
+<b><u>NEWS:</b></u>
+- **WHO Commission on Social Connection** released the report titled, ***"From Loneliness to Social Connection: Charting a Path to Healthier Societies"*** highlighting the impact of **social isolation** on health and well-being and society.
+
+<b><u>DEFINITION:</u></b> 
+- **Social connection:** #Definition is about the *many ways we relate to and interact with others* and it include family, friends, classmates, coworkers, neighbours etc.
+- **Social disconnect:** #Definition occurs when a person doesn't have enough social contact, doesn't feel supported by the relationships, or have strained or negative relationships. Two forms of social disconnect are:
+	- **Loneliness:** #Definition discrepancy between one's desired and actual experiences of connection
+	- **Social isolation:** #Definition having very few relationships or not seeing people enough
+
+<b><u>DRIVERS OF SOCIAL ISOLATION AND LONELINESS:</u></b>
+1. Poor health
+2. Marginalization
+3. Low income/education
+4. Weak community infrastructure
+5. Life transition
+6. Living alone
+7. Unhealthy use of technologies
+
+<b><u>DATA/STATUS OF SOCIAL DISCONNECT AS PER WHO:</u></b>
+1. **Widespread Social Disconnection:** About ***1 in 6 people feel lonely (2014-2023)*** with ***young people (ages 13-29)*** feeling the loneliest
+2. **Disparities:** in **low income countries**, about ***24% people feel lonely*** while in **richer countries**, about ***11% people feel lonely***
+
+<b><u>IMPACTS OF SOCIAL DISCONNECTION:</u></b>
+1. On **physical health:** about **8,71,000 deaths linked to loneliness (2014-2019)** 
+2. **Mental health** disorders like **depression, anxiety, dementia**, etc.
+3. **Socio-economic** degradation like **academic performance** and **productivity loss**
+
+<b><u>ROADMAP FOR IMPROVING SOCIAL CONNECTION:</u></b>
+- **Policy:** National Policy to encourage social connection as adopted by the 8 countries including *Denmark, Finland, and Germany*
+- **Research:** building global and national research capacity and launch grand challenges in social connection
+- **Interventions:** launch an intervention accelerator and strengthen social infrastructure (community spaces and services)
+- **Improved measurement:** developing a global **Social Connection Index**
+- **Public engagement:** large public campaigns, events, group activities and social prescribing
+
+---
+
+

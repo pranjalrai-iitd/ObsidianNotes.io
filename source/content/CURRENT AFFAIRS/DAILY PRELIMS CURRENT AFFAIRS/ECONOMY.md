@@ -368,3 +368,14 @@
 	- **Non-Resident Indians** (only on ***non-repatriable*** basis)
 		- Must remain in India
 ---
+### Transition Bonds
+#GS3 #Economy #Environment #EnergyTransition 
+- The **International Financial Services Authority (IFSCA)** approved for issuance and listing of transition bonds under the ***IFSCA (Listing) Regulations, 2024***.
+- **Transition Bonds:**
+	- It is one of the sub-categories of the ***"Green Debt Security"*** as per **SEBI** regulation
+		- **Green Debt Security:** means a debt security issued for raising funds that are to be utilised for projec(s) and/or asset(s) such as clean transportation, sustainable waste management, etc.
+	- **Objective:**
+		- To help **hard-to-abate sectors** like *steel and cement* and raise capital for progressive decarbonisation
+		- **Mitigate Greenwashing** through transparency, disclosures, and third-party validation, ensuring investor confidence.
+- **Transition bonds Vs. Green bonds:** while transition bonds focus on an issuer's commitment to become greener, the green bonds are used to fund environmental projects. 
+---

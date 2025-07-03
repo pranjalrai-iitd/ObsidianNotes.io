@@ -549,3 +549,43 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 	- Establish India as a **global sporting powerhouse**, and a strong contender for **2036 Olympic Games**
 	- Reap country's **favorable demographic dividend** aligning with the principles of *Viksit Bharat*
 ---
+### Financial Fraud Risk Indicator
+#GS3 #Economy #Scheme 
+- RBI directed all SCBs, SFBs, Payment Banks, and Cooperative banks to integrate the **Financial Fraud Risk Indicator (FRI)** developed by **DoT** into their systems.
+- It ensures **automatic data exchange** between **banks** and **DoT's Digital Intelligence Platform** through **API** integration, enabling **real-time responsiveness**
+- **DIP: Digital Intelligence Platform** 
+	- Under **Department of Telecommunications (DoT)**
+	- It is an **online secure platform** for sharing information related to **misuse of telecom** resources among stakeholders to prevent cyber-crimes
+- **Financial Fraud Risk Indicator**
+	- It was launched by **DoT's Digital Intelligence Unit (DIU)**
+	- It is a risk-based metric that **classifies a mobile number** to have been associated with *Medium, High, or Very High risk of financial fraud*
+		- The classification is an outcome of inputs obtained from various stakeholders including:
+			- **I4C:** India Cuber Crime Coordinating Centre
+			- **NCRP:** National Cybercrime Reporting Portal
+			- **DoT's** **Chakshu portal**
+			- Intelligence shared by banks and financial institutions
+		- **DIU** regularly shares the **Mobile Number Revocation List (MNRL)** with stakeholders detailing numbers to be disconnected sue to cyber crime links, failed re-verification, etc. 
+---
+### PARAKH
+#GS2 #Governance #Education #Scheme 
+- **PARAKH Rashtriya Sarvekshan Dissemination Portal** was launched recently to provide **open access to National and State-level data on student performance** and serve as a key resource for States/UTs to design targeted plans to enhance learning outcomes.
+- **PARAKH:**
+	- It stands for **Performance Assessment, Review and Analysis of Knowledge for Holistic Development**
+	- It was set us a **National Assessment Centre** in 2023 in the **NCERT** as an independent constituent
+	- **Focus Areas:**
+		- Capacity development
+		- Achievement survey
+		- School Boards equivalence
+		- Holistic progress cards
+---
+### Nutritional Intake in India Report
+#GS2 #Govenance #Health #Nutrition #Data #MainsValueAddition 
+- **NSO** has released the report based on **Household Consumption Expenditure Surveys** of **2022-23 and 2023-24**
+- **Findings of the report:** #Data 
+	- **Avg. per capita per day calorie intake:**
+		- **Rural:** *2233 Kcal (FY23)* declined to *2212 Kcal (FY24)*
+		- **Urban:** *2250 kcal (FY23)* declined to *2240 kcal (FY24)*
+	- **Cereals** continue to be the most important source of protein. However, their contribution to **protein intake** **dropped ~14% in rural** and **~12% in urban** India since FY10, ***offset by increased egg, fish, meat, and milk**
+	- **Expenditure and calorie intake:** with an increase in the **MPCE**, the average calorie intake also increases.
+	- **Narrowing gap:** calorie intake gap between the **bottom 5% and top 5%** has significantly narrowed in FY24
+---

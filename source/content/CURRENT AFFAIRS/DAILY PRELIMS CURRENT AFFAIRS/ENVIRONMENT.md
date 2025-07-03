@@ -421,4 +421,12 @@
 	- **Western Ghats**, **Eastern Ghats**, **Assam**, **Meghalaya**, **West Bengal**, and even **Ladakh**
 - IUCN: **"Endangered"**
 ---
-
+### Male Mahadeshwara (MM) Hills Wildlife Sanctuary
+#GS1 #GS3 #Geography #PlacesInNews #Environment 
+- 5 tigers were found dead in the MM Hills Wildlife Sanctuary
+- It is located in **Southeast Karnataka** and forms **connecting corridor** between:
+	- ***Biligiri Ranganatha Swamy Temple (BRT) Wildlife Sanctuary***, and
+	- ***Cauvery Wildlife Sanctuary***
+- **Soligas** and **Lingayats** are the dominant communities in MM HIlls
+- It is an important corridor in the ***Eastern Ghats-Western Ghats landscape***
+---
