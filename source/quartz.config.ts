@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: "JetBrains Mono",
         body: "Lora",
-        code: "JetBrains Mono"
+        code: "Lora"
       },
       colors: {
         lightMode: {
