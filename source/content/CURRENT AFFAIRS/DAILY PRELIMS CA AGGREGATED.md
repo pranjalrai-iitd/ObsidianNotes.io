@@ -1767,6 +1767,11 @@ A(Social security)-->D(Labor market  programs);
 	- Least-adopted MPOWER measure is **tobacco-tax**, even in India
 	- India became the **first country globally to apply tobacco control regulations** specifically to **digital streaming content**
 ---
+### "3 by 35" Initiative by WHO
+#GS2 #Governance #Health #Agriculture 
+
+
+---
 ### Intergovernmental Science-Policy Panel on Chemicals, Waste and Pollution (IPCWP)
 #GS2 #GS3 #IR #Environment #InternationalOrganizations 
 - Established following a **United Nations Environment Assembly (UNEA)** resolution in 2022
