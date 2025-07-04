@@ -1,5 +1,7 @@
 {
-  "cssTheme": "Typewriter",
+  "cssTheme": "Encore",
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 18,
+  "textFontFamily": ""
 }
