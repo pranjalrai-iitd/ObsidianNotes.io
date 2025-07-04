@@ -6,7 +6,7 @@
 	- **1.D)** Employment - Labor 
 - [[2. INCLUSIVE GROWTH AND ISSUES]]
 - [[3. GOVERNMENT BUDGETING]]
-- [[4. MAJOR CROPS AND CROPPING PATTERN]]
+- [[4. CROPPING PATTERN, IRRIGATION, TRANSPORTATION AND MARKETING]]
 	- **4.A)** Cropping patterns
 	- **4.B)** Irrigation
 	- **4.C)** Storage of agricultural produce
