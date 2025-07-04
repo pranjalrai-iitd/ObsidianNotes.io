@@ -136,3 +136,13 @@
 	- Presently covers ***Mahanadi, Godavari, and Tapi*** river basins, with ***plans to cover all river basins***
 - The forecasts are integrated with the **NDEM** - National Disaster Management Emergency Response Portal
 ---
+### Polar Anticyclone
+#GS1 #Geography #Climatology 
+- **Chile** and **Argentine** were ranked among the **coldest places of Earth** *outside the polar regions*, owing to the **Polar Anticyclone**
+- **Polar Anticyclones:**
+	- They are wind systems associated with a region in which **high atmospheric pressure** develops
+	- They are created by the **cooling surface layers or air**
+	- This cooling causes the *air near the surface to become denser*, which causes an **inflow of air** at **high levels** to replace the denser, sinking air.
+	- This **increase the mass of air above the surface** creating an **anticyclone** - *high pressure system* with *winds flowing outward from the center*
+		- **NOTE:** the anticyclone is outward and **CW** in North and **ACW** in South
+---

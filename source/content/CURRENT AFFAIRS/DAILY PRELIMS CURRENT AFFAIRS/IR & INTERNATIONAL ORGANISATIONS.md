@@ -254,3 +254,30 @@
 - The ***Coast Guards*** of the **QUAD members** launched the first <b>"<u><i>QUAD at Sea Ship Observer Mission</i></u>"</b> under the ***Wilmington Declaration***
 	- The mission will strengthen *maritime cooperation, security,* and *interoperability* among **QUAD coast guards** in the Indo-Pacific and support India's maritime vision of **SAGAR** *(Security and Growth for All in the Region)*
 ---
+### Chemical Weapons Convention (CWC)
+#GS2 #IR #InternationalOrganizations 
+- **OPCW (Organisation for the Prohibition of Chemical Weapons)** convened the meeting the *23rd Regional Meeting of National Authorities of State Parties in Asia* in **New Delhi**
+	- It was in collaboration with **India's** ***National Authority Chemical Weapons Convention (NACWC)***
+		- It is a **statutory** body formed under the ***Chemical Weapons Convention Act, 2000***
+		- It is an office in the **Cabinet Secretariat**, GoI
+		- **Indian Chemical Council (ICC):**
+			- In **2024,** ***Indian Chemical Council (ICC)*** was awarded the **OPCW-The Hague Award**, making the first time a chemical industry body anywhere in the world received this award.
+			- ICC is India's **oldest chemical industry association**
+- **OPCW** is the **implementing agency** of the **Chemical Weapons Convention (CWC)**
+- **Chemical Weapons Convention (CWC):**
+	- In 1992, a draft convention was formally adopted by the **Conference on Disarmament** and it came into force in 1997
+	- It is the **world's first multilateral disarmament agreement** to provide for the elimination of an entire category of weapons of mass destruction within a fixed time frame
+	- It has **193 parties**
+		- ***India is an original signatory to the convention**
+		- ***Egypt, North Korea, and South Sudan*** are **non-signatory** to the convention
+---
+### International Olympic Committee (IOC)
+#GS2 #IR #Governance #Sport #InternationalOrganizations 
+- **IOC flagge**d two issues **governance crisis** in **Indian Olympics Association** and rise of **doping violations** in the background of India's pitch to **host 2056 Olympics**
+- **IOC:**
+	- **Independent, non-profit** international organisation
+	- It is the **guardian** of the **Olympic games**
+	- **Members:** are **representatives of IOC in their respective countries** and ***NOT their country's delegate within the IOC***
+	- It is **entirely privately funded**
+	- HQ - *Lausanne, Switzerland*
+---

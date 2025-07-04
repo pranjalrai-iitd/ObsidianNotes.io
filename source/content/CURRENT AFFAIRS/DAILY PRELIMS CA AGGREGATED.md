@@ -1767,11 +1767,6 @@ A(Social security)-->D(Labor market  programs);
 	- Least-adopted MPOWER measure is **tobacco-tax**, even in India
 	- India became the **first country globally to apply tobacco control regulations** specifically to **digital streaming content**
 ---
-### "3 by 35" Initiative by WHO
-#GS2 #Governance #Health #Agriculture 
-
-
----
 ### Intergovernmental Science-Policy Panel on Chemicals, Waste and Pollution (IPCWP)
 #GS2 #GS3 #IR #Environment #InternationalOrganizations 
 - Established following a **United Nations Environment Assembly (UNEA)** resolution in 2022
@@ -2151,7 +2146,8 @@ A(Social security)-->D(Labor market  programs);
 	3. New Zealand
 	4. Austria
 - **India:** ranked ***115th/163*** with a *GPI score of 2.229* (higher score means lower peace) - **0.58% improvement** from 116th in 2024
-- **South Asia** recorded largest **deterioration** of all the regions, with significant falls in peacefulness in **Bangladesh** and **Pakistan**
+- **South Asia** recorded largest **deterioration** of all the regions, with significant falls in peacefulness in **Bangladesh** and **Pakistan**. It became the **second least peaceful region globally**.
+- The **least peaceful country** is ***Russia***.
 ---
 ### Global Terrorism Index
 #GS3 #InternalSecurity #Terrorism #Report #Data 
@@ -3281,4 +3277,94 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 	- **Cereals** continue to be the most important source of protein. However, their contribution to **protein intake** **dropped ~14% in rural** and **~12% in urban** India since FY10, ***offset by increased egg, fish, meat, and milk**
 	- **Expenditure and calorie intake:** with an increase in the **MPCE**, the average calorie intake also increases.
 	- **Narrowing gap:** calorie intake gap between the **bottom 5% and top 5%** has significantly narrowed in FY24
+---
+### "3 by 35" Initiative by WHO & "Health Taxes"
+#GS2 #Governance #Health #Agriculture 
+- **WHO** launched ***"3 by 35"*** initiatives aiming to ***raise prices on tobacco, alcohol, and sugary drinks*** by ***at least 50%*** through ***health taxes*** over the next 10 years.
+- It can **mobilize an additional USD 1 Trillion*** in public revenue globally over the next decade
+- It will function as a **collaborative alliance** with coordinated efforts from coalition of *development partners, civil society, academic institutions, and national governments.*
+- **Health Tax:**
+	- Levied on products that have **negative public health impact** #Eg Tobacco, Alcohol, etc.
+	- **WHO** recommends **taxation** as one of the most cost-effective tools for addressing population levels of **obesity** and other related **non-communicable diseases (NCDs)**
+- **Need for Health Tax:**
+	- **Health impact:** consumption of tobacco, alcohol, and sugary drinks **fuels the NCD epidemic** which accounts for over **75% of global deaths**
+	- **Economic impact:** these products create **negative externatlities** *(costs to others)* and **negative internalities** *(hidden costs to customers)*
+		- ***Tobacco use costed the global economy USD 1.4 Trillion in 2012***
+	- **Revenue generation:** ***50% tax*** generate up to **USD 3.7 Trillion** in new revenue globally within five years, or an average of **USD 740 Billion** per year - equivalently to **0.75% of global GDP**
+	- **Promote equity:** as NCDs impact lower-income populations disproportionately
+- **Steps taken in India for curbing consumption for unhealthy products:**
+	- **Areated beverages in India** are taxed at **28% GST** and an additional **12% compensation cess**
+	- **High-Fat Sugar Salt (HFSS)** foods in India are taxed at **12% GST rate**
+	- **FSSAI limits Trans Fatty Acids (TFA)** in food products to 2% y mass of total oils and fats
+- **Successful global case studies:**
+	- **Colombia (2016):** Increase in taxation of cigarettes in Colombia causes **34% drop in cigarette consumption**
+	- **Saudi Arabia:** A **50% SSB (Sugar, Sweet and Beverages) tax** resulted in a **19% decrease** in consumption of SSBs within a year
+---
+### NITI Aayog report on Chemical Industry in India
+#GS3 #Economy #Industries #Chemicals #Report
+- **NITI Aayog** released ***"Chemical Industry: Powering India's Participation in Global Value Chains"*** report providing an extensive analysis of India's chemical sector
+---
+### Chemical Weapons Convention (CWC)
+#GS2 #IR #InternationalOrganizations 
+- **OPCW (Organisation for the Prohibition of Chemical Weapons)** convened the meeting the *23rd Regional Meeting of National Authorities of State Parties in Asia* in **New Delhi**
+	- It was in collaboration with **India's** ***National Authority Chemical Weapons Convention (NACWC)***
+		- It is a **statutory** body formed under the ***Chemical Weapons Convention Act, 2000***
+		- It is an office in the **Cabinet Secretariat**, GoI
+		- **Indian Chemical Council (ICC):**
+			- In **2024,** ***Indian Chemical Council (ICC)*** was awarded the **OPCW-The Hague Award**, making the first time a chemical industry body anywhere in the world received this award.
+			- ICC is India's **oldest chemical industry association**
+- **OPCW** is the **implementing agency** of the **Chemical Weapons Convention (CWC)**
+- **Chemical Weapons Convention (CWC):**
+	- In 1992, a draft convention was formally adopted by the **Conference on Disarmament** and it came into force in 1997
+	- It is the **world's first multilateral disarmament agreement** to provide for the elimination of an entire category of weapons of mass destruction within a fixed time frame
+	- It has **193 parties**
+		- ***India is an original signatory to the convention**
+		- ***Egypt, North Korea, and South Sudan*** are **non-signatory** to the convention
+---
+### Defence Aquisition Council (DAC)
+#GS3 #InternalSecurity #Defence 
+- Recently DAC has cleared capital acquisition proposals for nearly **Rs. 1.05 lakh crore**. This comes in the backdrop the **Emergency Procurement (EP)** after Operation Sindoor and tussle with Pakistan.
+- **DAC:**
+	- It serves as the apex body for **strategic acquisition planing and oversight, ensuring coordinated decision-making** across India's defence establishment.
+	- **Chair:** ***Minister of Defence***
+	- **Functions:**
+		- Give **"in principle" approval** to **capital acquisitions** in the ***long term perspective plan***
+		- **Monitor** the progress of ***minor projects**
+		- Grants **acceptance of necessity for acquisition** proposals
+---
+### International Olympic Committee (IOC)
+#GS2 #IR #Governance #Sport #InternationalOrganizations 
+- **IOC flagge**d two issues **governance crisis** in **Indian Olympics Association** and rise of **doping violations** in the background of India's pitch to **host 2056 Olympics**
+- **IOC:**
+	- **Independent, non-profit** international organisation
+	- It is the **guardian** of the **Olympic games**
+	- **Members:** are **representatives of IOC in their respective countries** and ***NOT their country's delegate within the IOC***
+	- It is **entirely privately funded**
+	- HQ - *Lausanne, Switzerland*
+---
+### Kariyachalli Island
+#GS1 #Geography #PlacesInNews #Mapping 
+- **Uninhabited Kariyachalli island** has **sunk significantly** over the past few decades due to **rapid erosion** and **rising sea level**
+<p align="center"><img src="https://media.assettype.com/newindianexpress%2F2025-05-13%2Fky9msvnb%2FScreenshot-2025-05-14-024750.jpg?w=500&auto=format%2Ccompress" alt="Kariyachalli Island" width="450"/></p>
+
+- **Location:**
+	- Between **Rameshwaram** and **Thhothukudi** in the ***Gulf of Mannar Marine National Park*** region in **Tamil Nadu**
+- The **Tamil Nadu Sustainably Harnessing Ocean Resources (TNSHORE)** project will try to restore the **reefs** around the island with **artificial modules, planting sea-grass beds** and **reviving marine life.**
+---
+### Polar Anticyclone
+#GS1 #Geography #Climatology 
+- **Chile** and **Argentine** were ranked among the **coldest places of Earth** *outside the polar regions*, owing to the **Polar Anticyclone**
+- **Polar Anticyclones:**
+	- They are wind systems associated with a region in which **high atmospheric pressure** develops
+	- They are created by the **cooling surface layers or air**
+	- This cooling causes the *air near the surface to become denser*, which causes an **inflow of air** at **high levels** to replace the denser, sinking air.
+	- This **increase the mass of air above the surface** creating an **anticyclone** - *high pressure system* with *winds flowing outward from the center*
+		- **NOTE:** the anticyclone is outward and **CW** in North and **ACW** in South
+---
+### Surveillance Pricing
+#GS3 #GS4 #SciTech #Ethics 
+- **Surveillance Pricing/ Personalized Pricing/ Dynamic Pricing:**
+	- Refers to the practice where **businesses/online retailers** use data collected about individuals to **adjust prices of products** or services
+	- This data include *browsing history, location, purchase history, etc.*
+- **New York** state was sued by the **National Retail Federation** over **surveillance pricing**
 ---

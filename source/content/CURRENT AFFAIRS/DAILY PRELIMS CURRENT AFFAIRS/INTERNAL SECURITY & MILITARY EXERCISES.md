@@ -115,3 +115,14 @@
 	- **P-17A ships** have enhanced **stealth features** and fitted with state of the art weapons and sensors, a significant upgrade from the P17 class
 	- These **multi-functional frigates** are capable of operating in a **Blue Water environment** dealing with both **conventional** and **non-conventional maritime threats**
 ---
+### Defence Aquisition Council (DAC)
+#GS3 #InternalSecurity #Defence 
+- Recently DAC has cleared capital acquisition proposals for nearly **Rs. 1.05 lakh crore**. This comes in the backdrop the **Emergency Procurement (EP)** after Operation Sindoor and tussle with Pakistan.
+- **DAC:**
+	- It serves as the apex body for **strategic acquisition planing and oversight, ensuring coordinated decision-making** across India's defence establishment.
+	- **Chair:** ***Minister of Defence***
+	- **Functions:**
+		- Give **"in principle" approval** to **capital acquisitions** in the ***long term perspective plan***
+		- **Monitor** the progress of ***minor projects**
+		- Grants **acceptance of necessity for acquisition** proposals
+---

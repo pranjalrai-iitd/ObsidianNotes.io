@@ -180,3 +180,30 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 5. **e-Goverance:** training of civil servants on ***Karmayogi Bharat iGOT platform**,* and improving access to central and state government services through ***UMANG***
 
 ---
+### HEALTH TAX
+#GS2 #Governance #Health #Agriculture #FoodProcessing 
+
+<b><u>NEWS:</u></b>
+- **WHO** launched ***"3 by 35"*** initiatives aiming to ***raise prices on tobacco, alcohol, and sugary drinks*** by ***at least 50%*** through ***health taxes*** over the next 10 years.
+
+<b><u>HEALTH TAX:</u></b>
+- Levied on products that have **negative public health impact** #Eg Tobacco, Alcohol, etc.
+- **WHO** recommends **taxation** as one of the most cost-effective tools for addressing population levels of **obesity** and other related **non-communicable diseases (NCDs)**
+
+<b><u>NEED FOR HEALTH TAX:</u></b>
+1. **Health impact:** consumption of tobacco, alcohol, and sugary drinks **fuels the NCD epidemic** which accounts for over **75% of global deaths**
+2. **Economic impact:** these products create **negative externatlities** *(costs to others)* and **negative internalities** *(hidden costs to customers)*
+	- ***Tobacco use costed the global economy USD 1.4 Trillion in 2012***
+3. **Revenue generation:** ***50% tax*** generate up to **USD 3.7 Trillion** in new revenue globally within five years, or an average of **USD 740 Billion** per year - equivalently to **0.75% of global GDP**
+4. **Promote equity:** as NCDs impact lower-income populations disproportionately
+
+<b><u>STEPS TAKEN IN INDIA FOR CURBING CONSUMPTION FOR UNHEALTHY PRODUCTS:</u></b>
+1. **Areated beverages in India** are taxed at **28% GST** and an additional **12% compensation cess**
+2. **High-Fat Sugar Salt <b><u>(HFSS)</u></b>** foods in India are taxed at **12% GST rate**
+3. **FSSAI limits Trans Fatty Acids (TFA)** in food products to 2% y mass of total oils and fats
+
+<b><u>SUCCESSFUL GLOBAL CASE STUDIES:</u></b> #MainsValueAddition 
+- **Colombia (2016):** Increase in taxation of cigarettes in Colombia causes **34% drop in cigarette consumption**
+- **Saudi Arabia:** A **50% <b><u>SSB</u></b> (Sugar, Sweet and Beverages) tax** resulted in a **19% decrease** in consumption of SSBs within a year
+
+---

@@ -270,3 +270,22 @@
 	1. Ivory Coast
 	2. Ghana
 ---
+### Kariyachalli Island
+#GS1 #Geography #PlacesInNews #Mapping 
+- **Uninhabited Kariyachalli island** has **sunk significantly** over the past few decades due to **rapid erosion** and **rising sea level**
+<p align="center"><img src="https://media.assettype.com/newindianexpress%2F2025-05-13%2Fky9msvnb%2FScreenshot-2025-05-14-024750.jpg?w=500&auto=format%2Ccompress" alt="Kariyachalli Island" width="450"/></p>
+
+- **Location:**
+	- Between **Rameshwaram** and **Thhothukudi** in the ***Gulf of Mannar Marine National Park*** region in **Tamil Nadu**
+- The **Tamil Nadu Sustainably Harnessing Ocean Resources (TNSHORE)** project will try to restore the **reefs** around the island with **artificial modules, planting sea-grass beds** and **reviving marine life.**
+---
+### Great Ethiopian Renaissance Dam (GERD)
+#GS1 #GS2 #Geography #IR #PlacesInNews 
+- Construction of GRED on ***Blue Nile*** has been completed
+- It is considered **Africa's largest hydroelectric project** with **6.45 GW** generation capacity
+- **BLUE NILE:**
+	- It is a major tributary of the Nile River
+	- **Origin:** ***Lake Tana*** in **Ethiopia**
+	- It flows into **Sudan** to meet the **While Nile** to for the **Nile river at Khartoum**
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/4klOtqN5EDog455gvmoik1eGw4ucNx2RwzSRG8WM.jpg" alt="Nile" width="450"/></p>
+---

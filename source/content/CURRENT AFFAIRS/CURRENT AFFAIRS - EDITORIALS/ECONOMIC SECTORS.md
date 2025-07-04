@@ -34,3 +34,34 @@
 <b><i>"Garment industry sits at the intersection of mass employment and maximum value addition. They also promote down-stream logistics and exports along with empowerment of women."</i></b>
 
 ---
+### CHEMICAL INDUSTRY IN INDIA
+#GS3 #Economy #Industries #Chemicals #Report
+
+<b><u>NEWS:</u></b>
+- **NITI Aayog** released ***"Chemical Industry: Powering India's Participation in Global Value Chains"*** report providing an extensive analysis of India's chemical sector
+
+<b><u>HIGHLIGHTS OF NITI REPORT:</u></b> #Data 
+- Currently, **India's share** in GVC (Global Value Chains) in **3.5%**
+- ***India being the 6th largest chemicals producer globally***
+- Highlighted that fiscal and non-fiscal interventions will lead to a **USD 1 Trillion** ***chemical industry*** and achieve **12% GVC share by 2040**
+
+<b><u>CHALLENGES OF CHEMICAL INDUSTRY:</b></u>
+1. **Heavy reliance on imported feed-stock:** this contributed to a **USD 31 Billion** ***trade-deficit***, stemming from ***limited domestic backward integration.***
+2. **Low investment in R&D:** 0.7% against the global average of 2.3% in R&D hampers indigenous innovation in high-value chemicals
+3. **Skill shortage:** Chemical industry has a ***30% shortfall in skilled professionals***
+4. **Safety issues** and lack of **preparedness against chemical disasters:***
+	- #Eg ***Vishakhapatnam gas leak (2020)*** - ***Styrene*** leak from **LG Polymers**
+	- #Eg ***Bhopal gas tragedy (1984)*** - ***Methyl IsoCynate*** leak from **Union Carbide** pesticide plant
+	- #Eg ***Telangana factory explosion (2025)*** - ***Microcrystalline Cellulose (MC)*** manufactured in un-safe environment at **Sigachi Industries**
+5. **Other challenges:**
+	- *Infrastructure limitations*
+	- *Logical inefficiencies*
+	- *Complex regulatory frameworks*
+
+<b><u>WAY AHEAD:</u></b>
+1. Targeted government support such as **Viability Gap Funding (VGF)** to catalyze Funding and attract FDI in the Chemical industry sector
+2. Establish world-class **chemicals hub** in India and introduce ***opex (operational expenditure) subsidy*** for chemicals with high import dependence, export potential, and end-market critically
+3. **fast-track environmental clearance** and **securing FTAs** to support Industrial growth.
+4. Build **safety awareness** and **risk assessments** through ***comprehensive safety audits*** supplemented by **IoT** based **SCADA** systems and **digital twins** to build ***smart chemical industries.***
+
+---

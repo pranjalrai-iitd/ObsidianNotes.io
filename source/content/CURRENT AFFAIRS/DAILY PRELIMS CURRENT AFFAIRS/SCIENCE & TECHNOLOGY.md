@@ -240,4 +240,10 @@
 	- They are **terrestrial wireless telecommunication network** established for **captive use** within a **specified geographical area**
 	- unlike a *public module network* operated by telecom providers and accessible by anyone, CNPNs are operated by **private entity** and are **not accessible by general public**
 ---
-
+### Surveillance Pricing
+#GS3 #GS4 #SciTech #Ethics 
+- **Surveillance Pricing/ Personalized Pricing/ Dynamic Pricing:**
+	- Refers to the practice where **businesses/online retailers** use data collected about individuals to **adjust prices of products** or services
+	- This data include *browsing history, location, purchase history, etc.*
+- **New York** state was sued by the **National Retail Federation** over **surveillance pricing**
+---

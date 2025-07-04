@@ -152,3 +152,25 @@
 <b><u>QUOTE:</u></b> ***"<b><u><i>American foreign policy oscillates between idealism, realism and transactionalism</i></u></b>. This has led to occasional erraticness in USA's approach towards India's adversarial neighbors. India must walk the delicate tight-rope and ensure that India-USA relations remain resilient to maximize her gains and minimize the harms."***
 
 ---
+### GLOBAL SOUTH
+#GS2 #IR #InternationalGroupings 
+
+<b><u>INTRODUCTION:</u></b>
+- The *1980 Commission on International Development*, chaired by **Willy Brandt** in provided the idea of **"Brandt Line"** dividing the world in **Global North (developed)** and **Global South (developing)** based on **GDP per capita and economic development**.
+  <p align="center"><img src="https://static.wikia.nocookie.net/churchillhigh/images/5/55/North_South_Divide_3.PNG/revision/latest/scale-to-width-down/1000?cb=20071206161546" alt="Brandt Line" width="300"/><br><i>Blue - "Global North"<br>Red - "Global South"<br> UNCTAD follows the same classification</i></p>
+- #Data Accounts for **42% global GDP** and **75% global population**
+- India launched **3rd Voice of Global South Summit in 2024** and Indian Prime Minister visited **5 nations of global south in 2025** - *Ghana, Trinidad & Tobago, Argentina, Brazil and Namibia.*
+
+<b><u>RISE OF GLOBAL SOUTH AND RESHAPING OF THE WORLD ORDER:</u></b>
+- **Economic growth:** Global south accounts for ***40% of world trade*** as per **UNCTAD**
+	- Rapid growth of China, India, etc. has significantly altered global economic dynamics
+- **Strengthening alternative institutions:** like **NDB** and **BRICS**
+- **Assertive diplomacy:** as seen during the establishment of the **loss ad damage fund at COP27**
+	- **G77** is also pushing for **UNSC reforms**
+- **Demographic strength:** around **75%** world's population with many nations experiencing **demographic dividend** - this can complement the **demographic winter** in *Global North*
+- **Global south** is the major driver of growing **renewable energy installation** with China and India dominating the global race
+- **Energy resources:** Global South controls **70% of global solar and wind resources** and **50% of critical minerals**
+
+<b><u>CONCLUSION:</u></b> ***"India is the 'voice of the global south'"***
+
+---

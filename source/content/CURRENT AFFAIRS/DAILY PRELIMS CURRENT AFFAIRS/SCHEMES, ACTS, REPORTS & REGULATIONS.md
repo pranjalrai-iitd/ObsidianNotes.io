@@ -224,7 +224,7 @@
 	- Trends in peace
 	- Economic value of peace
 	- Ways to develop peaceful societies
-- The index is based on **23 qualitative and quantitative indicators** across **3 domains:**
+- The index is based on <b><u>23 qualitative and quantitative indicators</u></b> across **3 domains:**
 	1. ***Level of Societal Safety***
 	2. ***The extent of ongoing domestic and international conflict***
 	3. ***Degree of militarisation***
@@ -247,7 +247,8 @@
 	3. New Zealand
 	4. Austria
 - **India:** ranked ***115th/163*** with a *GPI score of 2.229* (higher score means lower peace) - **0.58% improvement** from 116th in 2024
-- **South Asia** recorded largest **deterioration** of all the regions, with significant falls in peacefulness in **Bangladesh** and **Pakistan**
+- **South Asia** recorded largest **deterioration** of all the regions, with significant falls in peacefulness in **Bangladesh** and **Pakistan.** It became the **second least peaceful region globally**
+- The **least peaceful country** is ***Russia***
 ---
 ### Global Terrorism Index
 #GS3 #InternalSecurity #Terrorism #Report #Data 
@@ -588,4 +589,30 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 	- **Cereals** continue to be the most important source of protein. However, their contribution to **protein intake** **dropped ~14% in rural** and **~12% in urban** India since FY10, ***offset by increased egg, fish, meat, and milk**
 	- **Expenditure and calorie intake:** with an increase in the **MPCE**, the average calorie intake also increases.
 	- **Narrowing gap:** calorie intake gap between the **bottom 5% and top 5%** has significantly narrowed in FY24
+---
+### "3 by 35" Initiative by WHO & "Health Taxes"
+#GS2 #Governance #Health #Agriculture 
+- **WHO** launched ***"3 by 35"*** initiatives aiming to ***raise prices on tobacco, alcohol, and sugary drinks*** by ***at least 50%*** through ***health taxes*** over the next 10 years.
+- It can **mobilize an additional USD 1 Trillion*** in public revenue globally over the next decade
+- It will function as a **collaborative alliance** with coordinated efforts from coalition of *development partners, civil society, academic institutions, and national governments.*
+- **Health Tax:**
+	- Levied on products that have **negative public health impact** #Eg Tobacco, Alcohol, etc.
+	- **WHO** recommends **taxation** as one of the most cost-effective tools for addressing population levels of **obesity** and other related **non-communicable diseases (NCDs)**
+- **Need for Health Tax:**
+	- **Health impact:** consumption of tobacco, alcohol, and sugary drinks **fuels the NCD epidemic** which accounts for over **75% of global deaths**
+	- **Economic impact:** these products create **negative externatlities** *(costs to others)* and **negative internalities** *(hidden costs to customers)*
+		- ***Tobacco use costed the global economy USD 1.4 Trillion in 2012***
+	- **Revenue generation:** ***50% tax*** generate up to **USD 3.7 Trillion** in new revenue globally within five years, or an average of **USD 740 Billion** per year - equivalently to **0.75% of global GDP**
+	- **Promote equity:** as NCDs impact lower-income populations disproportionately
+- **Steps taken in India for curbing consumption for unhealthy products:**
+	- **Areated beverages in India** are taxed at **28% GST** and an additional **12% compensation cess**
+	- **High-Fat Sugar Salt (HFSS)** foods in India are taxed at **12% GST rate**
+	- **FSSAI limits Trans Fatty Acids (TFA)** in food products to 2% y mass of total oils and fats
+- **Successful global case studies:**
+	- **Colombia (2016):** Increase in taxation of cigarettes in Colombia causes **34% drop in cigarette consumption**
+	- **Saudi Arabia:** A **50% SSB (Sugar, Sweet and Beverages) tax** resulted in a **19% decrease** in consumption of SSBs within a year
+---
+### NITI Aayog report on Chemical Industry in India
+#GS3 #Economy #Industries #Chemicals #Report
+- **NITI Aayog** released ***"Chemical Industry: Powering India's Participation in Global Value Chains"*** report providing an extensive analysis of India's chemical sector
 ---
