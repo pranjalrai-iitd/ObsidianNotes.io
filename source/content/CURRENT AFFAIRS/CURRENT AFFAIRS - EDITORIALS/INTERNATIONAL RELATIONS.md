@@ -180,3 +180,29 @@
 <b><u>CONCLUSION:</u></b> ***"India is the 'voice of the global south'"***
 
 ---
+### **INDIA-AFRICA RELATIONS**
+#GS2 #IR #BilateralRelations 
+
+<b><u>NEWS:</u></b> PM visit to **Ghana** where he emphasized that India supports Africa's goal on priorities and seeks to **grow together with Africa as equal partners**.
+
+<b><u>DIMENSIONS IN INDIA-AFRICA RELATIONS:</u></b>
+1. **Amplification of the voice of Global South:** Inclusion of **African Union** as a permanent member of the **G20** during India's Presidency.
+2. **Joint partnerships:** ***India-Japan's Asia-Africa Growth Corridor (AAGC)*** for sustainable development and growth.
+3. **Developmental framework:** India backs **Africa's Development Framework**, vision of ***Agenda 2063***
+4. **Trade:** India is the ***fourth largest trading partner*** of Africa with bilateral trade of about ***USD 100 Billion*** and cumulative ***investments of more than USD 75 billion**.*
+5. **Reformed Multilateralism:** India calls for greater Frican representation in global institutions, including UNSC, in line wit the ***Ezulwini Consensus***
+6. **Renewable Energy and Climate change:** Participation of African countries in the ***International Solar Allaince (ISA)***, ***Global Biofuels Alliance (GBA)*** and the ***Coalition for Disaster Resilient Infrastructure (CDRI)***
+7. **Capacity building:** India supports **African Union's** focus of ***"Educate an Africa Fir for the 21st Century"*** by capacity building, training, etc.
+8. **Cultural ties:** India's **old diaspora** along with ***people-to-people relations*** via extension of **e-Visa** facilities to *33 African countries*.
+9. **Critical Minerals:** like ***55% Cobalt, 47% Manganese, 21% natural Graphite*** reserves are in Africa and these minerals are key to **energy transition**.
+
+<b><u>Challenges:</u></b>
+1. **China's dominance and Sinicization of Africa:** through aggressive financing under **Belt and Road Initiative** anf infrastructure development.
+2. **Increasing conflicts and coups in Africa:** Many African countries are being attracted to **China's centralized and despotic developmental model**.
+3. **Project implementation record** of India is poor with many projects not completed on time.
+4. **Nuclear disarmament:** India resists joining global non-proliferation treaties while, Africa's ***Ubuntu philosophy*** focuses on inter-connectedness and peace while wishing for **global disarmament**
+
+<b><u>CONSLUSION:</u></b>
+>***"India's engagement in Africa has been guided by the vision of SAGAR , which was recently expanded to the Vision of MAHASAGAR (Mutual and Holistic Advancement of Security and Growth Across Regions) for the Global South."***
+
+---

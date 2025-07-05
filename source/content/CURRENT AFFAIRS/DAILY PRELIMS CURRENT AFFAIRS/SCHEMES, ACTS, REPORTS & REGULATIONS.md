@@ -616,3 +616,46 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 #GS3 #Economy #Industries #Chemicals #Report
 - **NITI Aayog** released ***"Chemical Industry: Powering India's Participation in Global Value Chains"*** report providing an extensive analysis of India's chemical sector
 ---
+### 2nd Amendment to Natural Gas Pipeline Tariff Regulations 2025
+#GS3 #Economy #Fuel #NaturalGas #Regulation
+- **PNGRB** approved second amendment to the *Natural Gas Pipeline Tariff Regulations, 2025*. The amendments aim to develop more *transparent, consumer-oriented, and investment-friendly* natural gas infrastructure in India anchored in the vision of ***One Nation, One Grid, One Tariff***
+- **Reforms in Narutal Gas Pipeline Tariffs:**
+	1. **Streamlined Tariff Zones:** It reduces the number of **Unified Tariff Zones (UTZ)** for *3* to ***2***, simplifying the transportation system.
+		- **Earlier 3 Zones and now only 2:**
+			- ***Zone - 1:*** up to distance of **300 Km** from the gas source
+			- ***Zone - 2:*** being **300-1200 Km** from the gas source
+			- ***Zone - 3:*** being more than **1200 Km**
+	2. **Boost to Domestic PNG and CNG:**  Benefit of the **Unified Zonal Tariff Zone 1** has been **extended nationwide** to **CNG and PNG** ***domestic segments***, regardless the distance from the source.
+	3. **Efficient Fuel Procurement Mandate:** It mandates that the pipeline operators to **procure $\geq$ 75% of annual system-use gas** via **long-term contracts (3 years)**, aiming to *lower procurement risks* and *reduce transaction costs*.
+	4. **Pipeline Development Reserve (PDR) - A Sustainable Infra Model:** It creates a **PDR** using **earnings** from **pipeline entities that exceed 75% utilization benchmark**
+		- **50%** of these net-of-tax earnings will be **reinvested intro infrastructure development**, while the rest of 50% will be passed on to **consumers through tariff adjustments** - creating a performance-linked, self-sustaining model for growth.
+- ***PETROLEUM AND NATURAL GAS REGULATORY BOARD (PNGRB)***
+	- It is a **statutory** body formed under the ***Petroleum and Natural Gas Regulatory Board Act, 2006***
+	- **Functions:**
+		- **Regulation** of *refining, transportation, distribution, storage, marketing, supply and sale of petroleum products and natural gas* **EXCLUDING *production* of crude oil and natural gas** so as to ensure uninterrupted and adequate supply of petroleum products and natural gal in all parts of the country.
+		- It **registers** entities to market notified petroleum and petroleum products.
+		- **Protects the interest of consumers** by fostering fair trade and competition and ensure competitive market for gas.
+		- **Maintain a data bank of information** on activities related to petroleum, petroleum products and natural gas.
+	- **Appeals** against the decisions of the PNGRB go before the **Appellate Tribunals for Electricity** established under the ***Electricity Act 2003*** 
+---
+### UMEED Portal
+#GS2 #Polity #Mionrities #Portal
+- Union Ministry of **Minority Affairs** launched ***UMEED Central Portal***
+- It is **operationalized** by the  **Unified Waqf Management, Empowerment, Efficiency and Development (UMEED) Rules 2025**
+- It aims to serve as a *centralized digital platform* for *real-time uploading, verification, and monitoring* of Waqf properties.
+- **Features:**
+	- Creation of a **digital inventory** with **geo-tagging** of **all Waqf properties.**
+	- **Online grievance redressal system** for better responsiveness
+	- **Transparent leasing** and **usage tracking**
+	- Integration with **GIS mapping** and other **e-Governance tools**
+	- **Public access** to verified records and reports
+---
+### RECLAIM Framework
+#GS3 #Economy #Resources #Coal 
+- ***Coal Ministry*** has launched the ***RECLAIM* framework** - a community engagement and development framework for ***Mine closure and Re-purposing***
+- It is developed by ***Coal Controllers Organisation*** under the **Ministry of Coal** in partnership with the **Heartfulness Institute.**
+- Objective is to serve a structured guide for ***inclusive community engagement*** and development throughout the ***mine closure and post-closure phase***
+- The framework is as follows:
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/h8WgCydOuzYvhhjHW8rZQECsxLsDv6S39rONh5TF.jpg" alt="RECLAIM framework" width="700"/></p>
+
+---

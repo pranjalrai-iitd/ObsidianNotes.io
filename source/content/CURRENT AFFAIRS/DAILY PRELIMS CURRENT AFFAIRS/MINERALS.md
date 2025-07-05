@@ -61,3 +61,61 @@
 		3. Jharkhand - 21%
 			- ***Singhbum*** mines
 ---
+### Copper and Aluminium Vision Documents
+#GS1 #GS3 #Geography #Economy #Resources #Minerals 
+- At the **International Conference on Sustainable Responsible Mining** organised by **Indian National Committee of the World Mining Congress** at ***Hyderabad***, two **vision documents** were released for **Copper and Aluminum** by the central government.
+- <b><u>Copper Vision Document:</u></b> Anticipates a **six fold (6x) increase in demand** by **2047** and outlines to add **5 MTPA** (Million Tonnes Per Annum) of smelting and refining capacity by 2030.
+	- **Copper reserves in world:**
+		1. **Chile** - largest share - **19% world's Copper reserves** 
+		2. Peru - 12%
+		3. Australia - 10%
+	- **Copper production in the world:**
+		1. **Chile**
+		2. Congo
+		3. Peru
+		4. China
+		5. USA
+	- **Copper in India:**
+		1. **Rajasthan** - **52.25%**
+		2. Madhya Pradesh
+		3. Jharkhand
+ - <b><u>Aluminum Vision Documents:</u></b> Outlines a strategic roadmap to scale up aluminium production **six fold (6x) by 2047** and sims to expand **Bauxite production capacity** to **150 MTPA**
+	- **Aluminium/Bauxite reserves in the world:
+		1. **Guinea**
+		2. Australia
+		3. Vietnam
+		4. Brazil
+		5. Jamaica
+	- **Aluminium production in the world:**
+		1. **China** - 58% of global production
+		2. **India** - 6% global production
+		3. Russia
+		4. Canada
+		5. UAE
+		- **Bauxite production in the world:**
+			1. **Guinea**
+			2. Australia
+			3. **China**
+			4. Brazil
+			- *India is 6th largest producer of Bauxite (2024)*
+	- **Aluminium in India:**
+		1. **Odisha** - 41% of India's reserves and **73% of India's production**
+		2. Chattisgarh
+		3. Andhra Pradesh
+---
+### Gold Production and Reserves
+- **Gold production in the world:
+	1. **China**
+	2. Russia
+	3. Australia
+	4. Canada
+	5. USA
+	6. Ghana
+	7. Mexico
+- **Gold in India - state wise:**
+	1. **Karnataka**
+	2. Jharkhand
+	3. Andhra Pradesh
+	4. Chattisgarh
+	5. Maharashtra
+---

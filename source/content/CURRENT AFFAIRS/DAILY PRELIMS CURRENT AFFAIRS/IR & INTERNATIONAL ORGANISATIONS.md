@@ -203,7 +203,7 @@
 ---
 ### The Seville Commitment of FFD:  
 #GS2 #GS3 #IR #Economy #SustainableDevelopment  
-- ***Compromiso de Sevilla***, or ***The Seville Commitment*** is the final outcome document for the **UN's 4th International Conference on Financing for Development* (FFD4)** 
+- ***Compromiso de Sevilla***, or ***The Seville Commitment*** is the final outcome document for the **UN's 4th International Conference on Financing for Development (FFD4)** 
 - It is held **once in a decade**
 - **FINANCING FOR DEVELOPMENT:**  
 	- ***Monterrery Consensus (2002):***  
@@ -217,11 +217,25 @@
 - Approved at ***Sevilla, Spain*** #PlacesInNews  
 - **Participants:** Government leaders, institutions, businesses, and civil society  
 - **Outcome Document in FFD4:  
-	- **Global Financing Framework:** renews commitments for **Addis Ababa Action Agenda**, **Monterrey Consensus**, and **Doha Declaration**.  
-	- **International Financial Architecture Reforms:** call for inclusive governance like IMF quota reforms, World bank shareholding  
-	- **Debt sustainability:** UN to lead IMF/World Bank group proposing **voluntary principles for responsible sovereign debt practices**  
-	- **Tax reforms:** It recognized **Pillar II** implementation under **OCED/G20 Inclusive Framework on Base Erosion and Profit Shifting** - mandating minimum corporate tax  
+	- ***Global Financing Framework:*** renews commitments for **Addis Ababa Action Agenda,** **Monterrey Consensus**, and **Doha Declaration**.  
+	- ***International Financial Architecture Reforms:*** call for inclusive governance like IMF quota reforms, World bank shareholding  
+	- ***Debt sustainability:*** UN to lead IMF/World Bank group proposing **voluntary principles for responsible sovereign debt practices**  
+	- ***Tax reforms:*** It recognized **Pillar II** implementation under **OCED/G20 Inclusive Framework on Base Erosion and Profit Shifting** - mandating minimum corporate tax  
 - **Aim** to close the **USD 4 Trillion** **financing gap** in developing countries  
+- There are ***other major initiatives*** by individual countries:
+
+| **INITIATIVE**                                                    | **LED BY**                                                                                                    | **PURPOSE**                                                                                   |
+| :---------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| ***Debt Swaps for Development Hub***                              | Spain & <br>World Bank                                                                                        | Scale up **debt swaps** and lower debt service burdens                                        |
+| ***Debt-for-Development Swap Programme***                         | Italy                                                                                                         | **Convert debt obligations** of **African** countries into investments                        |
+| ***Debt "Pause Clause" Alliance***                                | Multilateral Development Banks                                                                                | **"Pause clause"** to suspend debt service payments during crises                             |
+| ***Sevilla Forun on Debt***                                       | **Spain**                                                                                                     | Coordination in debt management and restructuring                                             |
+| ***Coalition for Global Solidarity Levies***                      | **France**, Kenya & Barbados                                                                                  | **Taxing premium-class flying** and private jets to raise funds for climate change            |
+| ***SCALED***                                                      | **Germany**, Canada, **France**, UK, Denmark & South Africa                                                   | **Blended finance** (public + private) platform for development impact                        |
+| ***FX EDGE***                                                     | Inter-American Development Bank and DELTA (Development Effectiveness, Learning, Tracking and Assessment tool) | Toolbox to **increase local currency lending**                                                |
+| ***Effective Taxation of High-Net-Worth individuals initiative*** | **Brazil** and **Spain**                                                                                      | Ensure HNI pay their fair share                                                               |
+| ***Scale up "Pre-arranged financing" for disasters***             | **UK** and **Bridgetown initiative**                                                                          | To **scale-up pre-arranged financing from *2%* to *20%*** of total disaster financing by 2035 |
+
 ---
 ### Indus Waters Treaty 1960
 #GS2 #IR #HydroDiplomacy #IndiaPakistan
@@ -280,4 +294,12 @@
 	- **Members:** are **representatives of IOC in their respective countries** and ***NOT their country's delegate within the IOC***
 	- It is **entirely privately funded**
 	- HQ - *Lausanne, Switzerland*
+---
+### Girmitiyas
+#GS2 #IR #Africa #GlobalSouth #Diaspora
+- **Girmitiyas** were ***Indian indentured labourers who migrated to British colonies*** in the 19th and early 20th century, primarily to work on plantations.
+	- They form a major part of the **old Indian diaspora**
+- Indian Prime Minister announced that India will create a database of the **Girimitiya community**, during his visit to **Trinidad & Tobago**, whose **40%** population is of **Indian origin**
+- India will also issue ***OCI cards*** for **6th generation** of diaspora in **Trinidad & Tobago**
+	- OCI card holders are allowed to travel to India without a visa, work and study in India, own property (except for certain agricultural and plantation properties), etc.
 ---

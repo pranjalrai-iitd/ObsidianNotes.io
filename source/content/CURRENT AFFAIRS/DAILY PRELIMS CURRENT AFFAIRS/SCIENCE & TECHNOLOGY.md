@@ -247,3 +247,16 @@
 	- This data include *browsing history, location, purchase history, etc.*
 - **New York** state was sued by the **National Retail Federation** over **surveillance pricing**
 ---
+### Equine Diseases and EDFC
+#GS3 #SciTech #Health 
+- India established ***Equine Disease-Free Compartment (EDFC)*** at **Meerut** and it is India's first internationally recognized* such centre - which got recognition from **WOAH (World organisation for Animal Health)**
+- ***WHOA***
+	- **Not** a part of UN and **Not** under WHO
+	- **Recognized by WTO** as an international reference for the safe trade of animals and animal products.
+- The EDFC has been declared free from *Equine Infectious Anemia,  Equine Influenza, equine Piroplasmosis, Glanders,* and *Surra*. Additionally, India has historically **remained free** from ***African Horse Sickness*** since 2014.
+- The approval follows the standard outlined in the ***WHOA Terrestrial Animal health Code*** which provides framework for **compartmentalisation.**
+	- ***COMPARTMENTALISATION:*** is a science-based approach for managing a defined animal sub-population with a distinct health status, maintained through stringent biosecurity and husbandry practices.
+- This will pave way for **international movement of Indian horses** and boost **Equestrian sports**, **high-value trade** and **biosecurity preparedness.**
+- India is also developing  **Highly Pathogenic Avian Influenza (HPAI) free compartments** to enable **safe export of poultry products**.
+---
+

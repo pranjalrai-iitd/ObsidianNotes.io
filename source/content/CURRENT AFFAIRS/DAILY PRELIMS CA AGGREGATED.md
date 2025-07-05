@@ -1299,7 +1299,7 @@ A(Social security)-->D(Labor market  programs);
 ---
 ### The Seville Commitment of FFD:  
 #GS2 #GS3 #IR #Economy #SustainableDevelopment  
-- ***Compromiso de Sevilla***, or ***The Seville Commitment*** is the final outcome document for the **UN's 4th International Conference on Financing for Development* (FFD4)** 
+- ***Compromiso de Sevilla***, or ***The Seville Commitment*** is the final outcome document for the **UN's 4th International Conference on Financing for Development (FFD4)** 
 - It is held **once in a decade**
 - **FINANCING FOR DEVELOPMENT:**  
 	- ***Monterrery Consensus (2002):***  
@@ -1313,11 +1313,26 @@ A(Social security)-->D(Labor market  programs);
 - Approved at ***Sevilla, Spain*** #PlacesInNews  
 - **Participants:** Government leaders, institutions, businesses, and civil society  
 - **Outcome Document in FFD4:  
-	- **Global Financing Framework:** renews commitments for **Addis Ababa Action Agenda**, **Monterrey Consensus**, and **Doha Declaration**.  
-	- **International Financial Architecture Reforms:** call for inclusive governance like IMF quota reforms, World bank shareholding  
-	- **Debt sustainability:** UN to lead IMF/World Bank group proposing **voluntary principles for responsible sovereign debt practices**  
-	- **Tax reforms:** It recognized **Pillar II** implementation under **OCED/G20 Inclusive Framework on Base Erosion and Profit Shifting** - mandating minimum corporate tax  
+	- ***Global Financing Framework:*** renews commitments for **Addis Ababa Action Agenda,** **Monterrey Consensus**, and **Doha Declaration**.  
+	- ***International Financial Architecture Reforms:*** call for inclusive governance like IMF quota reforms, World bank shareholding  
+	- ***Debt sustainability:*** UN to lead IMF/World Bank group proposing **voluntary principles for responsible sovereign debt practices**  
+	- ***Tax reforms:*** It recognized **Pillar II** implementation under **OCED/G20 Inclusive Framework on Base Erosion and Profit Shifting** - mandating minimum corporate tax  
 - **Aim** to close the **USD 4 Trillion** **financing gap** in developing countries  
+- There are ***other major initiatives*** by individual countries:
+
+| **INITIATIVE**                                                    | **LED BY**                                                                                                    | **PURPOSE**                                                                                   |
+| :---------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| ***Debt Swaps for Development Hub***                              | Spain & <br>World Bank                                                                                        | Scale up **debt swaps** and lower debt service burdens                                        |
+| ***Debt-for-Development Swap Programme***                         | Italy                                                                                                         | **Convert debt obligations** of **African** countries into investments                        |
+| ***Debt "Pause Clause" Alliance***                                | Multilateral Development Banks                                                                                | **"Pause clause"** to suspend debt service payments during crises                             |
+| ***Sevilla Forun on Debt***                                       | **Spain**                                                                                                     | Coordination in debt management and restructuring                                             |
+| ***Coalition for Global Solidarity Levies***                      | **France**, Kenya & Barbados                                                                                  | **Taxing premium-class flying** and private jets to raise funds for climate change            |
+| ***SCALED***                                                      | **Germany**, Canada, **France**, UK, Denmark & South Africa                                                   | **Blended finance** (public + private) platform for development impact                        |
+| ***FX EDGE***                                                     | Inter-American Development Bank and DELTA (Development Effectiveness, Learning, Tracking and Assessment tool) | Toolbox to **increase local currency lending**                                                |
+| ***Effective Taxation of High-Net-Worth individuals initiative*** | **Brazil** and **Spain**                                                                                      | Ensure HNI pay their fair share                                                               |
+| ***Scale up "Pre-arranged financing" for disasters***             | **UK** and **Bridgetown initiative**                                                                          | To **scale-up pre-arranged financing from *2%* to *20%*** of total disaster financing by 2035 |
+
+
 ---
 ### Women in STEM  
 #GS2 #Governance #Education #Women #Data  
@@ -3156,13 +3171,13 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 - They discovered drugs named, **LSD** and **Ketamine**
 	- **Ketamine is not an opoid** it is an *NMDA receptor antagonist*
 ---
-## Operation MED MAX
+### Operation MED MAX
 #GS3 #InternalSecurity #MoneyLaundering 
 - It was an operation conducted by **NCB** for cracking down on **illegal pharmaceutical drug trade**
 	- Under it, NCB dismantled a transnational drug trafficking syndicate that smuggles controlled medicines across four continents
 - It shows the growing convergence of digital platforms, cryptocurrency, and transactional logistics in modern illicit trade
 ---
-## Project 17A
+### Project 17A
 #GS3 #InternalSecurity #Defence 
 - **INS Udaygiri**, the **indigenous** second ship of **Project 17A's stealth frigates** was delivered to Indian Navy
 - **Project 17A**
@@ -3367,4 +3382,109 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 	- Refers to the practice where **businesses/online retailers** use data collected about individuals to **adjust prices of products** or services
 	- This data include *browsing history, location, purchase history, etc.*
 - **New York** state was sued by the **National Retail Federation** over **surveillance pricing**
+---
+### Copper and Aluminium Vision Documents
+#GS1 #GS3 #Geography #Economy #Resources #Minerals 
+- At the **International Conference on Sustainable Responsible Mining** organised by **Indian National Committee of the World Mining Congress** at ***Hyderabad***, two **vision documents** were released for **Copper and Aluminum** by the central government.
+- <b><u>Copper Vision Document:</u></b> Anticipates a **six fold (6x) increase in demand** by **2047** and outlines to add **5 MTPA** (Million Tonnes Per Annum) of smelting and refining capacity by 2030.
+	- **Copper reserves in world:**
+		1. **Chile** - largest share - **19% world's Copper reserves** 
+		2. Peru - 12%
+		3. Australia - 10%
+	- **Copper production in the world:**
+		1. **Chile**
+		2. Congo
+		3. Peru
+		4. China
+		5. USA
+	- **Copper in India:**
+		1. **Rajasthan** - **52.25%**
+		2. Madhya Pradesh
+		3. Jharkhand
+ - <b><u>Aluminum Vision Documents:</u></b> Outlines a strategic roadmap to scale up aluminium production **six fold (6x) by 2047** and sims to expand **Bauxite production capacity** to **150 MTPA**
+	- **Aluminium/Bauxite reserves in the world:
+		1. **Guinea**
+		2. Australia
+		3. Vietnam
+		4. Brazil
+		5. Jamaica
+	- **Aluminium production in the world:**
+		1. **China** - 58% of global production
+		2. **India** - 6% global production
+		3. Russia
+		4. Canada
+		5. UAE
+		- **Bauxite production in the world:**
+			1. **Guinea**
+			2. Australia
+			3. **China**
+			4. Brazil
+			- *India is 6th largest producer of Bauxite (2024)*
+	- **Aluminium in India:**
+		1. **Odisha** - 41% of India's reserves and **73% of India's production**
+		2. Chattisgarh
+		3. Andhra Pradesh
+---
+### Girmitiyas
+#GS2 #IR #Africa #GlobalSouth #Diaspora
+- **Girmitiyas** were ***Indian indentured labourers who migrated to British colonies*** in the 19th and early 20th century, primarily to work on plantations.
+	- They form a major part of the **old Indian diaspora**
+- Indian Prime Minister announced that India will create a database of the **Girimitiya community**, during his visit to **Trinidad & Tobago**, whose **40%** population is of **Indian origin**
+- India will also issue ***OCI cards*** for **6th generation** of diaspora in **Trinidad & Tobago**
+	- OCI card holders are allowed to travel to India without a visa, work and study in India, own property (except for certain agricultural and plantation properties), etc.
+---
+### 2nd Amendment to Natural Gas Pipeline Tariff Regulations 2025
+#GS3 #Economy #Fuel #NaturalGas #Regulation
+- **PNGRB** approved second amendment to the *Natural Gas Pipeline Tariff Regulations, 2025*. The amendments aim to develop more *transparent, consumer-oriented, and investment-friendly* natural gas infrastructure in India anchored in the vision of ***One Nation, One Grid, One Tariff***
+- **Reforms in Narutal Gas Pipeline Tariffs:**
+	1. **Streamlined Tariff Zones:** It reduces the number of **Unified Tariff Zones (UTZ)** for *3* to ***2***, simplifying the transportation system.
+		- **Earlier 3 Zones and now only 2:**
+			- ***Zone - 1:*** up to distance of **300 Km** from the gas source
+			- ***Zone - 2:*** being **300-1200 Km** from the gas source
+			- ***Zone - 3:*** being more than **1200 Km**
+	2. **Boost to Domestic PNG and CNG:**  Benefit of the **Unified Zonal Tariff Zone 1** has been **extended nationwide** to **CNG and PNG** ***domestic segments***, regardless the distance from the source.
+	3. **Efficient Fuel Procurement Mandate:** It mandates that the pipeline operators to **procure $\geq$ 75% of annual system-use gas** via **long-term contracts (3 years)**, aiming to *lower procurement risks* and *reduce transaction costs*.
+	4. **Pipeline Development Reserve (PDR) - A Sustainable Infra Model:** It creates a **PDR** using **earnings** from **pipeline entities that exceed 75% utilization benchmark**
+		- **50%** of these net-of-tax earnings will be **reinvested intro infrastructure development**, while the rest of 50% will be passed on to **consumers through tariff adjustments** - creating a performance-linked, self-sustaining model for growth.
+- ***PETROLEUM AND NATURAL GAS REGULATORY BOARD (PNGRB)***
+	- It is a **statutory** body formed under the ***Petroleum and Natural Gas Regulatory Board Act, 2006***
+	- **Functions:**
+		- **Regulation** of *refining, transportation, distribution, storage, marketing, supply and sale of petroleum products and natural gas* **EXCLUDING *production* of crude oil and natural gas** so as to ensure uninterrupted and adequate supply of petroleum products and natural gal in all parts of the country.
+		- It **registers** entities to market notified petroleum and petroleum products.
+		- **Protects the interest of consumers** by fostering fair trade and competition and ensure competitive market for gas.
+		- **Maintain a data bank of information** on activities related to petroleum, petroleum products and natural gas.
+	- **Appeals** against the decisions of the PNGRB go before the **Appellate Tribunals for Electricity** established under the ***Electricity Act 2003*** 
+---
+### UMEED Portal
+#GS2 #Polity #Mionrities #Portal
+- Union Ministry of **Minority Affairs** launched ***UMEED Central Portal***
+- It is **operationalized** by the  **Unified Waqf Management, Empowerment, Efficiency and Development (UMEED) Rules 2025**
+- It aims to serve as a *centralized digital platform* for *real-time uploading, verification, and monitoring* of Waqf properties.
+- **Features:**
+	- Creation of a **digital inventory** with **geo-tagging** of **all Waqf properties.**
+	- **Online grievance redressal system** for better responsiveness
+	- **Transparent leasing** and **usage tracking**
+	- Integration with **GIS mapping** and other **e-Governance tools**
+	- **Public access** to verified records and reports
+---
+### Equine Diseases and EDFC
+#GS3 #SciTech #Health 
+- India established ***Equine Disease-Free Compartment (EDFC)*** at **Meerut** and it is India's first internationally recognized* such centre - which got recognition from **WOAH (World organisation for Animal Health)**
+- ***WHOA***
+	- **Not** a part of UN and **Not** under WHO
+	- **Recognized by WTO** as an international reference for the safe trade of animals and animal products.
+- The EDFC has been declared free from *Equine Infectious Anemia,  Equine Influenza, equine Piroplasmosis, Glanders,* and *Surra*. Additionally, India has historically **remained free** from ***African Horse Sickness*** since 2014.
+- The approval follows the standard outlined in the ***WHOA Terrestrial Animal health Code*** which provides framework for **compartmentalisation.**
+	- ***COMPARTMENTALISATION:*** is a science-based approach for managing a defined animal sub-population with a distinct health status, maintained through stringent biosecurity and husbandry practices.
+- This will pave way for **international movement of Indian horses** and boost **Equestrian sports**, **high-value trade** and **biosecurity preparedness.**
+- India is also developing  **Highly Pathogenic Avian Influenza (HPAI) free compartments** to enable **safe export of poultry products**.
+---
+### RECLAIM Framework
+#GS3 #Economy #Resources #Coal 
+- ***Coal Ministry*** has launched the ***RECLAIM* framework** - a community engagement and development framework for ***Mine closure and Re-purposing***
+- It is developed by ***Coal Controllers Organisation*** under the **Ministry of Coal** in partnership with the **Heartfulness Institute.**
+- Objective is to serve a structured guide for ***inclusive community engagement*** and development throughout the ***mine closure and post-closure phase***
+- The framework is as follows:
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/h8WgCydOuzYvhhjHW8rZQECsxLsDv6S39rONh5TF.jpg" alt="RECLAIM framework" width="700"/></p>
+
 ---
