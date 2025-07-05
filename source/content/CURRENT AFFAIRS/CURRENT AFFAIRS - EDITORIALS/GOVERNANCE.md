@@ -1,4 +1,4 @@
-### INDIA AND R&D ECOSYSTEM  
+### **INDIA AND R&D ECOSYSTEM**
 #GS2 #Governance #Education #Gs3 #Research
   
 <b><u>NEWS:</u></b>  
@@ -30,7 +30,7 @@
 - **IMPacting Research INnovation and Technology (IMPRINT):** aimed at bridging gap between **scientific knowledge base** created through **fundamental research** and **applied research** and fruitful translation to engineering innovation  
 
 ---
-### MGNREGS SPENDING CAP
+### **MGNREGS SPENDING CAP**
 #GS2 #GS3 #Scheme #Employment #SocialSecurity
 
 <b><u>NEWS:</u></b> Union Finance Ministry has **capped spending** under the **MGNREGS** at **60%** of its **annual allocation** for the **first half of FY26**
@@ -55,7 +55,7 @@
 	3.**Legality issues:** for social security schemes which are based on specific legislations, the **government has limited power to determine the implementation modalities**
 	- #Judgement <b><u>Swaraj Abhiyan Vs Union of India (2016):</u></b> SC has held that **financial inability cannot** be a reason to **disregard statutory or constitutional duties**.
 ---
-### DATA GOVERNANCE
+### **DATA GOVERNANCE**
 #GS2 #GS3 #Governance #SciTech #DataGovernance #Report 
 
 <b><u>NEWS:</u></b>
@@ -104,7 +104,7 @@
 <b><u>CONCLUSION:</u></b> ***"Trust, not volume, defines the future of digital India"***
 
 ---
-### GUIDELINE FOR DIRECT RELEASE OF CENTRAL SECTOR (CSS) FUNDS
+### **GUIDELINE FOR DIRECT RELEASE OF CENTRAL SECTOR (CSS) FUNDS**
 #GS3 #Economy #Scheme #Funding #Finances #Ethics
 - Issued by **Finance Ministry**
 - **Guidelines:**
@@ -119,7 +119,7 @@
 	- **Sunset clauses:** mandated by the Finance Ministry in 2017 to align schemes with financial resources cycle.
 	- A private member bill, **The Government Legislative Proposal and Schemes Bill, 2022** was introduced to bring accountability and Parliamentary oversight.
 ---
-### DATA ON CHILD AND MATERNAL HEALTH
+### **DATA ON CHILD AND MATERNAL HEALTH**
 #GS1 #GS2 #Governance #Health #Data #Report #MainsValueAddition 
 
 <b><u>NEWS:</u></b>
@@ -150,10 +150,8 @@
 4. **U-WIN** portal for tracking of immunization status
 
 ---
-### DATA ON E-GOVERNANCE
+### **DATA ON E-GOVERNANCE**
 #GS2 #Governance #e-Governance #DPI #Data 
-### 10 Years of Digital India Mission
-#GS3 #SciTech #DPI #Scheme #Data 
 
 <b><u>NEWS:</b></u>
 - **Digital India Mission** completed **10 years**
@@ -180,7 +178,7 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 5. **e-Goverance:** training of civil servants on ***Karmayogi Bharat iGOT platform**,* and improving access to central and state government services through ***UMANG***
 
 ---
-### HEALTH TAX
+### **HEALTH TAX**
 #GS2 #Governance #Health #Agriculture #FoodProcessing 
 
 <b><u>NEWS:</u></b>

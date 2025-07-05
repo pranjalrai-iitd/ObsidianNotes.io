@@ -1,5 +1,4 @@
-
-### CHINESE DAMS ON BRAHMAPUTRA
+### **CHINESE DAMS ON BRAHMAPUTRA**
 #GS2 #WaterDiplomacy #China
 
 <u><b>NEWS:</b></u>
@@ -31,7 +30,7 @@
 - **Enhance diplomatic engagement** to **renew MoU on hydrological data sharing** with China.
 - **Build strategic buffer projects to regulate flow**.
 ---
-### INDIA-CYPRUS RELATIONS
+### **INDIA-CYPRUS RELATIONS**
 #GS2 #IR #BilateralRelations #Europe
 
 <b><u>NEWS:</u></b> India PM visited Cyprus after 2002 and was awarded the highest civilian award of Cyprus, **Grand Cross of the Order Makarios III** 
@@ -49,7 +48,7 @@
 <b><u>INDIA's STAND ON CYPRUS:</u></b> India supports a ***Bi-zonal Bicommunal Federation (BBF)*** based on the **UN Resolutions** as a solution to the Cyprus problems
 
 ---
-### INDIA-EU DEFENCE RELATIONS: EXPORTS & JOINT RESEARCH
+### **INDIA-EU DEFENCE RELATIONS: EXPORTS & JOINT RESEARCH**
 #GS2 #Europe #Defence 
 
 <b><u>NEWS:</u></b> 
@@ -68,11 +67,12 @@
 7. India must **examine** the **impact** of **ReArm Europe Plan** on **its supply chains** originating in Europe. These are EU's harmonisation of rules and procedures for defence procurement.
 8. India could explore the possibility of joining the **EUDIS:** *EU Defence Innovation Scheme* like the INDUS-X with the USA. It may require special agreements as entities participating in EUDIS are required to be locates in EU or Norway with local and legal identity.
 
-<b><u>QUOTE:</u></b> ***"As an aspiring global power and strategically autonomous pole, India should invest strongly in the partnership with the EU".***
+<b><u>QUOTE:</u></b> 
+>***"As an aspiring global power and strategically autonomous pole, India should invest strongly in the partnership with the EU".***
 
 ---
 
-### INDIA-CROATIA RELATIONS
+### **INDIA-CROATIA RELATIONS**
 #GS2 #IR #BilateralRelations #Europe 
 
 <b><u>NEWS:</u></b> PM visited Croatia
@@ -93,20 +93,25 @@
 	- Croatians played a role in construction of **Church of Sao Braz** in **Goa** in 1560s
 6. Croatia supports **India**'s bid for **UNSC permanent membership**
 
-<b><u>CONCLUSION:</u></b> ***Croatia is at cross-roads of Europe and Asia with deep cultural roots and historic partnership**
+<b><u>CONCLUSION:</u></b> 
+>***Croatia is at cross-roads of Europe and Asia with deep cultural roots and historic partnership**
 
 ---
-### WEST ASIA
+### **WEST ASIA**
 #GS2 #IR 
 
 <b><u>NEWS:</u></b>
 - The **12 day war** between Iran and Israel followed by **USA led, Qatar mediated ceasefire**
 
 <b><u>CONCLUSION/QUOTE:</u></b>
-- ***The situation in West Asia, to quote Churchill, '<b><u><i>is a riddle wrapped in a mystery inside an enigma</i></u></b>'.***
-- ***The business as usual in West Asia has been, cyclicity of the conflicts punctuated by an interregnum of tense peace"***   - Ambassador Mahesh Sachdev
+>***The situation in West Asia, to quote Churchill, '<b><u><i>is a riddle wrapped in a mystery inside an enigma</i></u></b>'.***
+
+
+>***The business as usual in West Asia has been, cyclicity of the conflicts punctuated by an interregnum of tense peace"***   - Ambassador Mahesh Sachdev
+
+
 ---
-### SHANGHAI COOPERATION ORGANIZATION (SCO)
+### **SHANGHAI COOPERATION ORGANIZATION (SCO)**
 #GS3 #IR #InternationalGroupings 
 
 <b><u>NEWS:</u></b>
@@ -129,7 +134,7 @@
 <b><u>CONCLUSION:</u></b> ***"SCO will be at the heart of realization of the Asian century"***
 
 ---
-### US WITHDRAWAL FROM GLOBAL ALLIANCES
+### **US WITHDRAWAL FROM GLOBAL ALLIANCES**
 #GS2 #IR #InternationalOrganizations 
 
 <b><u>NEWS:</u></b>
@@ -146,13 +151,14 @@
 4. **Leadership vacuum:** can be filled by **China** - it may **reduce India's influence on decision making**
 
 ---
-### INDIA-USA
+### **INDIA-USA**
 #GS2 #IR #BilateralRelations 
 
-<b><u>QUOTE:</u></b> ***"<b><u><i>American foreign policy oscillates between idealism, realism and transactionalism</i></u></b>. This has led to occasional erraticness in USA's approach towards India's adversarial neighbors. India must walk the delicate tight-rope and ensure that India-USA relations remain resilient to maximize her gains and minimize the harms."***
+<b><u>QUOTE:</u></b> 
+>***"<b><u><i>American foreign policy oscillates between idealism, realism and transactionalism</i></u></b>. This has led to occasional erraticness in USA's approach towards India's adversarial neighbors. India must walk the delicate tight-rope and ensure that India-USA relations remain resilient to maximize her gains and minimize the harms."***
 
 ---
-### GLOBAL SOUTH
+### **GLOBAL SOUTH**
 #GS2 #IR #InternationalGroupings 
 
 <b><u>INTRODUCTION:</u></b>

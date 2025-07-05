@@ -1,5 +1,5 @@
 
-## ANTI-NAXAL DRIVE
+### **ANTI-NAXAL DRIVE**
 #GS3 #LWE
 
 <b><u>NEWS:</u></b> 
@@ -11,7 +11,7 @@
 - **Incidents of violence**: **81%** reduction since 2010.
   <p align="center"><img src="https://static.pib.gov.in/WriteReadData/userfiles/image/Screenshot2025-04-10195538ZQPZ.png" alt="reduction of LWE" width="600px"/></p>
 ---
-### DRONE WARFARE
+### **DRONE WARFARE**
 #GS3 #Drones 
 
 <b><u>NEWS:</u></b> 
@@ -32,8 +32,8 @@
 	- More **resilient** than traditional drones - even if one is intercepted others can continuous autonomously or semi-autonomously.
 	- Can easily **saturate air-defenses** allowing intelligence collection and attacking high value targets
 	- **Lethal Autonomous Drone Swarms** with capabilities to perform complex manoeuvres.
-	- ***"Now we have drones as small as water bottles - and in swarms, which are undetectable and untargetable"*** - CDS Gen. Anil Chaudhary
 	- Single drones can be jammed easily but, swarms are a challenge to intercept.
+		>***"Now we have drones as small as water bottles - and in swarms, which are undetectable and untargetable"*** - CDS Gen. Anil Chaudhary
 4. **Cost asymmetry:** is the central challenge as cheap drones can damage expensive assets and even countering drone threats is quiet expensive.
 
 <b><u>COUNTERING DRONE THREATS:</u></b>
@@ -63,10 +63,11 @@
 - Israel's Iron Dome
 - **USA's Directed Energy M-SHORAD**
 
-<b><u>CONCLUSION:</u></b> ***"We are at a cusp where war may be between humans and machines - and tomorrow, between machines themselves, Machines that are autonomous, intelligent, and make decisions. We may need a layered and resilient defence system to counter this."*** - CSD Chauhan
+<b><u>CONCLUSION:</u></b> 
+>***"We are at a cusp where war may be between humans and machines - and tomorrow, between machines themselves, Machines that are autonomous, intelligent, and make decisions. We may need a layered and resilient defence system to counter this."*** - CSD Chauhan
 
 ---
-### GLOBAL MILITARY SPENDING
+### **GLOBAL MILITARY SPENDING**
 #GS3 #InternalSecurity #Defence #GS2 #IR 
 
 <b><u>NEWS:</u></b>
@@ -89,11 +90,12 @@
 4. **Securitisation of the commons:** in areas like *seabed mapping, underseal cabels, marine biodiversity* - blurring line between peace-time preparations and war-time readiness
 5. **Lack of treaties and confidence building measures:** exacerbating the militarisation
 
-<b><u>CONCLUSION/WAY-FORWARD:</u></b> ***"Although modernisation and deterrence can promote security, the absence of clear military doctrines, effective arms control frameworks, and reliable confidence-building channels increases the risk of accidental escalation".***
+<b><u>CONCLUSION/ WAY-FORWARD:</u></b> 
+>***"Although modernisation and deterrence can promote security, the absence of clear military doctrines, effective arms control frameworks, and reliable confidence-building channels increases the risk of accidental escalation".***
 
 ---
 
-### DEFENCE PROCUREMENT REFORMS
+### **DEFENCE PROCUREMENT REFORMS**
 #GS3 #InternalSecurity #Defence 
 
 <b><u>NEWS:</u></b>
@@ -107,7 +109,7 @@
 2. #MainsValueAddition  Replacement of **field evaluation trials** with **digitisation & simulation**
 3. **Fast-tracking of negotiations** to **speed up procurement** and **incentivizing private sector**
 ---
-### PROLIFERATION EVASION AND SANCTIONS EVASION
+### **PROLIFERATION EVASION AND SANCTIONS EVASION**
 #GS3 #InternalSecurity #FATF #Terrorism #Report #MainsValueAddition 
 
 <b><u>NEWS:</u></b>
@@ -135,11 +137,11 @@
 4. Conduct a **global review of PF risk assessments** within 3 years to **identify best practices** and strengthen responses.
 
 ---
-### JOINTNESS AND INTEGRATION OF DEFENCE FORCES
+### **JOINTNESS AND INTEGRATION OF DEFENCE FORCES**
 #GS3 #InternalSecurity #Defence 
 
 <b><u>NEWS:</u></b>
-- **Defence Minister** authorized CDS to issue **joint orders** for the **Army, Navy, and Air Force**, replacing the old system where each service issued separate orders, to ensure **jointness and integration**. 
+- **Defence Minister** authorized CDS to issue **joint orders** for the **Army, Navy, and Air Force,** replacing the old system where each service issued separate orders, to ensure **jointness and integration**. 
 
 <b><u>JOINTNESS AND INTEGRATION OF DEFENCE FORCES:</u></b>
 - Jointness implies **synergized use of the resources of the three services while respecting the uniqueness of each** to achieve optimal results
@@ -169,9 +171,11 @@
 9. Instill a sense of **pride in Indian culture and ideas**, fostering confidence in achieving **global standards** through **indigenous capabilities**.
 
 ---
-### SECURITY AND DEVELOPMENT #Quote 
+### **SECURITY AND DEVELOPMENT** #Quote 
 
-- China recently published a whitepaper on ***"National Security in the 'New Era'"*** which mentions that ***"development and security are like two wings of one body"***. It reads like testament on the importance of maintaining scientific and technological security at all times, and the importance of ensuring maintainability of supply chains.
+- China recently published a whitepaper on ***"National Security in the 'New Era'"*** which mentions that,
+	>***"development and security are like two wings of one body"***.
+- It reads like testament on the importance of maintaining scientific and technological security at all times, and the importance of ensuring maintainability of supply chains.
 - **Some recommendations for India post Operation Sindoor:**
 	- **CONTEXT:** ***Emergence of a world which is more influenced by 'hard power' over 'soft power'***
 		- India's new approach must take this in account
@@ -180,13 +184,13 @@
 	- New ***Cyber and Electromagnetic Command*** to oversee networks and electromagnetic warfare
 	- India must also reassess it's *"neutral"* stance on Israel-Iran conflict and it's growing relation with Israel. Israel must not become an ***"albatross around India's neck"***.
 ---
-### GOLDEN CRESCENT AND GOLDEN TRIANGLE
+### **GOLDEN CRESCENT AND GOLDEN TRIANGLE**
 #GS3 #InternalSecurity #MainsValueAddition #Keywords
 - Honbl. Home Minister said that we have replaced the term **"Golden Triangle"** and **"Golden Crescent"** with "***Death Triangle"*** and ***"Death Crescent"***. 
 - They may be **Golden** for *drug traffickers*
 - However, for those against them the appropriate term are as suggested by the Hobl. Home Mininster
 ---
-### DRUG TRAFFICKING THROUGH DARKNET
+### **DRUG TRAFFICKING THROUGH DARKNET**
 #GS3 #InternalSecurity #MoneyLaundering #Eg 
 - #Eg **Operation MELON:**
 	- Use in the **threats of emerging technologies:**

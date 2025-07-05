@@ -1,4 +1,4 @@
-### CROP DIVERSIFICATION CHALLENGES IN PUNJAB
+### **CROP DIVERSIFICATION CHALLENGES IN PUNJAB**
 #GS3 #Agriculture #Environment 
 
 <b><u>NEWS:</u></b> Despite Punjab government's **pilot project** to **divert 12K Ha** from **Paddy** to **Maize** and to increase **cotton cultivation by 15%**, the state saw an all-time-high of **32.44LHa under paddy**.
@@ -14,7 +14,7 @@
 5. **Unintended consequences of MSP:** MSP procurement is skewed in favor of Punjab and makes paddy attractive while alternatives are ignored by farmers.
 6. **Flawed policy making and freebies:** like **8-hours free electricity** have increased GW depletion. Similar is the case for **subsidies on fertilizers**.
 ---
-### DATA ON SUB-SECTORS OF AGRICULTURE
+### **DATA ON SUB-SECTORS OF AGRICULTURE**
 #GS3 #Agriculture #Data 
 
 <b><u>DATA ON AGRICULTURE:</u></b>
@@ -36,13 +36,13 @@
 - **Rising share or allied sector:** ***~46%*** of total GVO from *37.6% in FY12*
 
 ---
-### MONSOON DEPENDENCE OF INDIAN AGRICULTURE
+### **MONSOON DEPENDENCE OF INDIAN AGRICULTURE**
 #GS1 #Agriculture #Irrigation #Monsoon
 
 <b><u>QUOTE:</u></b> ***Agriculture is back-bone of Indian economy and Indian agriculture growth is monsoon dependent. This dependence is so significant that the popular magazine Down to Earth once quipped "<b><i><u>the monsoon is the chief finance minister of India</u></i></b>"***.
 
 ---
-### AGROFORESTRY
+### **AGROFORESTRY**
 #GS3 #Environment #Agriculture #AgroForestry #Rules
 
 <b><u>NEWS/DATA:</u></b>

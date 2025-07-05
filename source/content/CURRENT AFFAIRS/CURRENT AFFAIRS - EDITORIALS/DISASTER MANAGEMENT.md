@@ -1,4 +1,4 @@
-### DROUGHTS
+### **DROUGHTS**
 #GS1 #GS3 #DisasterManagement #Report #Data #MainsValueAddition 
 
 <b><u>NEWS:</u></b>
@@ -34,7 +34,7 @@
 	- **Watershed Development**, a component of **WDC-PMKSY**
 	- **Atal Bhujal Yojana**
 ---
-### HEAT WAVES
+### **HEAT WAVES**
 #GS3 #DisasterManagement #Report
 
 <b><u>NEWS:</u></b> 

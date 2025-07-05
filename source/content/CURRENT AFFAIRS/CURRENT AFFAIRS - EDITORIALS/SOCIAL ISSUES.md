@@ -1,4 +1,4 @@
-### CHILD LABOR: VELPUR MANDAL
+### **CHILD LABOR: VELPUR MANDAL**
 #GS2 #VulnerableSections #ChildLabor #Children
 
 <b><u>NEWS:</u></b> **June 12th** is recognized as **World Day Against Child Labor** under the auspices of ILO
@@ -17,7 +17,7 @@
 - Former employers abandoned debts owed by parents, easing child labor constraints.
 - Sarpanchs signed agreements with the government to ensure children's school attendance.
 ---
-### INDIAN DEMOGRAPHIC DATA
+### **INDIAN DEMOGRAPHIC DATA**
 #GS1 #Society #Demography #Report #Data 
 
 <b><u>NEWS:</u></b>**State of World Population Report 2025** Released by **UNFPA** titled ***"The real fertility crisis: The pursuit of reproductive agency in a changing world"***
@@ -51,7 +51,7 @@
 	3. **Urban-rural gap:** Rural areas generally have higher TFR. Still, 7 states still to achieve below 2.1 TFR in rural areas.
 6. **Infertility in India:** estimate of **27.5 million couples** face the issue and GoI need to consider inclusion of infertility under government's health insurance scheme.
 ---
-### FORCED DISPLACEMENT
+### **FORCED DISPLACEMENT**
 #GS1 #GS3 #VulnerableSections #Refugees #Migration
 <b><u>NEWS/DATA:</u></b>
 - **Global Trends Report** released by **UNHCR*** (United Nations High Commissioner for Refugees)
@@ -72,10 +72,11 @@
 	- It is **NOT legally binding**
 - **Global Program on Forced Displacement (2009):** #convention established by **World Bank** to enhance development of forcefully displaced population.
 ---
-### REPRODUCTIVE RIGHTS: MATERNITY BENEFITS
+### **REPRODUCTIVE RIGHTS: MATERNITY BENEFITS**
 #GS2 #GS1 #VulnerableSections #Women 
 
-<b><u>NEWS:</u></b> May, 2025 Supreme court set aside a Madras HC order that had denied maternity leave to a government school teacher for the birth for her third child. The court ruled that **maternity leave is part of a woman's reproductive rights and requires constitutional protection**.
+<b><u>NEWS:</u></b> May, 2025 Supreme court set aside a Madras HC order that had denied maternity leave to a government school teacher for the birth for her third child. The court ruled that, 
+>***"maternity leave is part of a woman's reproductive rights and requires constitutional protection".***
 
 <b><u>REPRODUCTIVE JUSTICE:</u></b>
 - **ILO's Maternity Protection Convention, 1919:** #convention calling for 12 weeks of paid maternity leave, free medical care during and after pregnancy, job guarantees upon return to work.
@@ -105,7 +106,7 @@
 4. Comprehensive **Paternity leave law** or a **family leave policy** needed in India, for both parents.
 ---
 
-### URBANISATION: SUSTAINABLE & COST-EFFECTIVE TRANSIT SOLUTION
+### **URBANISATION: SUSTAINABLE & COST-EFFECTIVE TRANSIT SOLUTION**
 #GS1 #GS3 #Urbanisation #Mobility
 
 <b><u>DATA/INTRO:</u></b> 
@@ -132,11 +133,12 @@
 	- **e-Buses** show a **82% net-loss over 7 decades**, due to high operational and replacement costs.
 4. New fast mobility solutions to **decongest** the metropolitan cities - on the model of **Namo Bharat (RRTS)**.
 
-<b><u>CONCLUSION:</u></b> ***"Reviving the past Trams is not just a nostalgic choice -  it is a smart and timely move toward a more sustainable and financially viable transport future".***
+<b><u>CONCLUSION:</u></b> 
+>***"Reviving the past Trams is not just a nostalgic choice -  it is a smart and timely move toward a more sustainable and financially viable transport future".***
 
 ---
 
-### INTER-GENERATIONAL COMMUNICATIONS : Silver/Geriatric Economy
+### **INTER-GENERATIONAL COMMUNICATIONS : Silver/Geriatric Economy**
 #GS1 #Society #Demography #Elders 
 
 <b><u>NEWS:</u></b> **Generational Gap Perception Index** reveals **disconnection** between the youth and elder population shaped by *education, dependence, & emotional distance* then age alone.
@@ -162,10 +164,11 @@
 4. **Inter-generational *"Wisdom Exchange"* programs**.
 5. ***"Time bank"*** scheme of **Switzerland:** where youth earn time credits by providing services (like repairing, lawn mowing, babysitting) to elders, which can be exchanged for services when they need assistance themselves.
 
-<b><u>Quote:</u></b> ***"The best classroom in the world is at the feet of an elderly person"*** - Amy Eden
+<b><u>Quote:</u></b> 
+> ***"The best classroom in the world is at the feet of an elderly person"*** - Amy Eden
 
 ---
-### CENSUS
+### **CENSUS**
 #GS1 #Demography #Census
 
 <b><u>DEFINITION:</u></b> Population census is part of the **Union list of the VII schedule**. It is an exercise which **enumerates details of all Indians** including their **age, gender, family status, economic status, unemployment, language, disability, migration**, etc.
@@ -217,10 +220,11 @@
 2. **Politicized issue:** politicization of delimitation and caste census may lead to misrepresentation by vested interests
 3. **Privacy issues:** digital data collection comes with vulnerability associated with cyber crimes
 
-<b><u>CONCLUSION:</u></b> ***"Census provides a critical reset to economy and its policy makers along with its citizens."***
+<b><u>CONCLUSION:</u></b> 
+>***"Census provides a critical reset to economy and its policy makers along with its citizens."***
 
 ---
-### STREET CHILDREN AND HEAT WAVES
+### **STREET CHILDREN AND HEAT WAVES**
 #GS1 #GS3 #VulnerableSections #Children #DisasterManagement 
 
 <b><u>DATA:</u></b>
@@ -246,7 +250,7 @@
 1. **Delhi government** schemes launched in 2021, in colalboration with NGOs - ***Salaam Baalak Trust*** and **Youth Reach*** for **rehabilitation**
 2. **NGOs** run various initiatives like ***Save the Children*** and ***Jamghat***
 ---
-### GENDER DISCRIMINATION ON DIGITAL PLATFORMS - "MANOSPHERE"
+### **GENDER DISCRIMINATION ON DIGITAL PLATFORMS - "MANOSPHERE"**
 #GS1 #Society #VulnerableSections #Women 
 
 <b><u>NEWS:</u></b>
@@ -282,7 +286,7 @@
 
 ---
 
-### MENTAL HEALTH AND SOCIAL DISCONNECT
+### **MENTAL HEALTH AND SOCIAL DISCONNECT**
 #GS1 #Society #Health #MentalHealth 
 
 <b><u>NEWS:</b></u>

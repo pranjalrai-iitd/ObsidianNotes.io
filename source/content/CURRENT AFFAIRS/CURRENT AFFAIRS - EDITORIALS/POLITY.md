@@ -1,4 +1,4 @@
-### DELIMITATION
+### **DELIMITATION**
 #GS2 #GS1 #SocialIssues #Delimitation #Census #Demography
 
 <b><u>NEWS/INTRO:</u></b> 
@@ -18,9 +18,9 @@
 		- Using **reasonable classification** i.e, "likes be treated alike" - better social and economic indicators require special protection for Southern states. However, this will be an **anti-affirmative action** and is exact opposite of the logic that permits reservation.
 
 ---
-### FREE SPEECH & CENSORSHIP
+### **FREE SPEECH & CENSORSHIP**
 #GS2 #FundamentalRights
-- ***"Censorship is like no-confidence in individual's autonomous agency"*** - PB Mehta
+>***"Censorship is like no-confidence in individual's autonomous agency"*** - PB Mehta
 - Free speech is based on **various trust levels**:
 	- **Trust in individuals** that they would not easily be incited, inflamed or manipulated.
 	- **Trust in speakers ability** to able to make a distinction between the right to speech and the value of the speech.
@@ -30,7 +30,7 @@
 	2. **Censorship** always **incites** a political **economy of mobilization, competitive victim-hood**, tested on the site of speech. This is because community identities are based on benchmarks and taboos. In multicultural societies, every community brings its taboo - so the occasional exception becomes the norms. For instance blasphemy laws protect one religion. They now have to protect every religion or nation.
 - ***"Crisis of speech is crisis of mistrust and cannot be solved by legal censorship".***
 ---
-### ACCOUNTABILITY IN HIGHER JUDICIARY
+### **ACCOUNTABILITY IN HIGHER JUDICIARY**
 #GS2 #Judiciary #MainsValueAddition 
 
 <b><u>IN-HOUSE PROCEDURE:</u></b>
@@ -54,7 +54,7 @@
 - ***"Justice must be done and seen to be done"*** - transparency but also accountability.
 - **Harry T Edwards** from Columbia - peer review enhanced, not diminishes, judicial independence.
 ---
-### AI IN CRIMINAL JUSTICE
+### **AI IN CRIMINAL JUSTICE**
 #GS2 #GS3 #AI #SciTech #Judiciary 
 
 <b><u>NEWS:</u></b> The recent initiatives like  **CCTNS** (Crime and Criminal Tracking Network and Systems), the **ICJS** (Inter-operable Criminal Justice System), and the **NAFRS** (National Automated Facial Recognition System), reflect the future inclination of **integrating AI in criminal justice system**
@@ -78,7 +78,7 @@
 
 ---
 
-### DELAYS IN DISTRICT COURTS
+### **DELAYS IN DISTRICT COURTS**
 #GS2 #Judiciary 
 
 <b><u>NEWS/DATA:</u></b> #MainsValueAddition 
@@ -113,7 +113,7 @@
 	- It becomes difficult to **enforce accountability** on a single judge.
 
 ---
-### POLITICAL FUNDING IN INDIA
+### **POLITICAL FUNDING IN INDIA**
 #GS2 #Polity #Elections #ElectoralReforms #Report #Data
 
 <b><u>NEWS:</u></b>
@@ -143,28 +143,30 @@
 5. **No private funding** and a **small cess(INR 1) on fuel** for **public funding of elections**
 
 ---
-### HUMAN RIGHTS AND COURTS
+### **HUMAN RIGHTS AND COURTS**
 #GS2 #Governance #Quote #GovernanceQuote #Judgement #MainsValueAddition 
 
 <b><u>NEWS:</u></b> Courts stayed deportation of various individuals labelled "foreigner" by the Foreigners Tribunal in Assam. In a case where a Pakistani citizen having lived 38 years in India was deported, Supreme court called on the Union Home Secretary to repatriate her back to India.
 
-<b><u>QUOTES:</u></b> 
-- ***"Human rights are the most sacrosanct component of a human life and that there are times when a court has to respond 'SOS like' without going into the merits and demerits of a case, which can be decided on in due course of time."***                                 - **HC judge Rahul Bharti**
-- ***"It is well stated that suspicion, however it may be, can under no circumstances, be held to a substitute for legal evidence... Due process is to be followed when an individual is declared a foreigner."***
+<b><u>QUOTES:</u></b>  #Quote 
+>***"Human rights are the most sacrosanct component of a human life and that there are times when a court has to respond 'SOS like' without going into the merits and demerits of a case, which can be decided on in due course of time."***  - **HC judge Rahul Bharti**
+
+> ***"It is well stated that suspicion, however it may be, can under no circumstances, be held to a substitute for legal evidence... Due process is to be followed when an individual is declared a foreigner."***
+
 ---
-### KERALA CONTROVERSY ON BHARAT MATA PORTRAIT AT RAJ BHAVAN
+### **KERALA CONTROVERSY ON BHARAT MATA PORTRAIT AT RAJ BHAVAN**
 #GS2 #Polity #Governor #MainsValueAddition #Quote 
 - **The national movement never adopted any picture of the Bharat Mata**. 
 - Neither the **constitution or any law** unlike the **national anthem or national flag or national symbols.***
 - **Meaning of Bharat Mata as per Jawahar Lal Nehru** in ***Discovery of India:***
-	- *"... sometimes as I reached a gathering a great roar of welcome would greet me: Bharat Mata ki Jai - Victory to Mother India. I would ask them unexpectedly what they meant by that cry, who was this Bharat Mata, whose victory they wanted... The mountains and the rivers of India and the forest and the broad fields which gave us food were all dear to us, but what counted ultimately were the people of India, people like them and me who were spread out all over this vast land. ***Bharat Mata, Mother India, was essentially these millions of people and victory to her meant victory to those people***."*
+	>*"... sometimes as I reached a gathering a great roar of welcome would greet me: Bharat Mata ki Jai - Victory to Mother India. I would ask them unexpectedly what they meant by that cry, who was this Bharat Mata, whose victory they wanted... The mountains and the rivers of India and the forest and the broad fields which gave us food were all dear to us, but what counted ultimately were the people of India, people like them and me who were spread out all over this vast land. ***Bharat Mata, Mother India, was essentially these millions of people and victory to her meant victory to those people***."*
 ---
-### FILMS & FREEDOM OF SPEECH AND EXPRESSION
+### **FILMS & FREEDOM OF SPEECH AND EXPRESSION**
 #GS2 #Polity #FundamentalRights #Films
 
 <b><u>NEWS:</u></b>
 - The Supreme Court has characterized a "ban" on the **CBFC certified** Tamil film **"Thug Life"** in Karnataka as an infringement on the filmmaker's constitutionally guaranteed **right to freedom of speech and expression**. The court also directed the state to uphold the **"rule of law"**.
-	- #Quote ***"Upholding freedom of speech means protecting and extending the space for a diversity of views. It is not just screening of a film, it's much bigger than this."***
+> #Quote ***"Upholding freedom of speech means protecting and extending the space for a diversity of views. It is not just screening of a film, it's much bigger than this."***
 
 <b><u>CBFC certification:</u></b>
 - **CBFC** is a **statutory body** formed by the **Cinematograph Act, 1952** under the **MoI&B**
@@ -186,11 +188,11 @@
 - **Roth Test:** liberal interpretation where the focus is on message being sent by the film. #Eg Breast Feeding shown to promote child health should not be restricited
 - **Brandenburg Test:** Speech must be restricted only if it incites violence
 ---
-### PARLIAMENTARY COMMITTEES
+### **PARLIAMENTARY COMMITTEES**
 #GS2 #Polity #Parliament 
 
 <b><u>NEWS:</u></b>
-- ***"Parliamentary committees act as supportive and corrective instruments, offering constructive guidance"***  - Lok Sabha Speaker
+> #Quote ***"Parliamentary committees act as supportive and corrective instruments, offering constructive guidance"***  - Lok Sabha Speaker
 
 <b><u>Parliamentary Committees:</u></b> are panels on Members of Parliament formed to scrutinise the functioning of the government and to uphold executive accountability
 - Two types of Parliamentary committees:
@@ -232,11 +234,12 @@
 5. **Live streaming** of committee meetings on line of **US'd model** where hearings are live streamed
 
 <b><u>CONCLUSION:</u></b>
-- ***"Congress in session is congress on public exhibition, whilst Congress in its committee-rooms in Congress at work"***    - Woodrow Wilson
-- ***“Parliamentary committees are devices to overcome the limitations of organisational and technical complexity of large legislatures. Independent India inherited the modern committee system from the British parliamentary system and innovated new techniques to effectively manage the voluminous tasks in the large Parliament.”***
+> #Quote ***"Congress in session is congress on public exhibition, whilst Congress in its committee-rooms in Congress at work"***    - Woodrow Wilson
+
+> #Quote ***“Parliamentary committees are devices to overcome the limitations of organisational and technical complexity of large legislatures. Independent India inherited the modern committee system from the British parliamentary system and innovated new techniques to effectively manage the voluminous tasks in the large Parliament.”***
 
 ---
-### REGISTERED UN-RECOGNIZED POLITICAL PARTIES
+### **REGISTERED UN-RECOGNIZED POLITICAL PARTIES**
 #GS2 #Polity #Elections #RPA 
 
 <b><u>NEWS/DATA:</u></b>
@@ -260,7 +263,7 @@
 - <b><u><i>2016 ECI's memorandum:</i></u></b> suggested **amending RPA 1951** to **empower ECI to de-register** political parties
 
 ---
-### NEW CRIMINAL LAWS
+### **NEW CRIMINAL LAWS**
 #GS2 #Polity #CriminalLaws #Judiciary 
 
 <b><u>NEWS:</u></b>

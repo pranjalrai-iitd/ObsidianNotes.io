@@ -1,4 +1,4 @@
-### INDIA'S GARMENTS SECTOR: Textiles & Apparels
+### **INDIA'S GARMENTS SECTOR: Textiles & Apparels**
 #GS3 #Textiles
 
 <u><b>DATA</b></u>:
@@ -34,7 +34,7 @@
 <b><i>"Garment industry sits at the intersection of mass employment and maximum value addition. They also promote down-stream logistics and exports along with empowerment of women."</i></b>
 
 ---
-### CHEMICAL INDUSTRY IN INDIA
+### **CHEMICAL INDUSTRY IN INDIA**
 #GS3 #Economy #Industries #Chemicals #Report
 
 <b><u>NEWS:</u></b>

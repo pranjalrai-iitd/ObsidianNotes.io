@@ -1,5 +1,5 @@
 
-- [[1. ETHICS AND HUMAN INTERFACE]]
+- **[[1. ETHICS AND HUMAN INTERFACE]]**
 	- **1.A)** Essence of Ethics
 	- **1.B)** Determinants of Ethics
 	- **1.C)** Consequences of Ethics
@@ -10,13 +10,13 @@
 	- **1.H)** Role of family in inculcating values
 	- **1.I)** Role of society in inculcating values
 	- **1.J)** Role of educational institutions in inculcating values
-- [[2. ATTITUDE]]
+- **[[2. ATTITUDE]]**
 	- **2.A)** Concept, structure and function of Attitude
 	- **2.B)** Influence and relation of Attitude with thought and behaviour
 	- **2.C)** Moral and political attitudes
 	- **2.D)** Social influence
 	- **2.E)** Persuasion
-- [[3. APTITUDE AND VALUES FOR CIVIL SERVICE]]
+- **[[3. APTITUDE AND VALUES FOR CIVIL SERVICE]]**
 	- **3.A)** Aptitude for civil services
 	- **3.B)** Values for civil services
 	- **3.C)** Integrity
@@ -27,11 +27,11 @@
 	- **3.H)** Empathy
 	- **3.I)** Tolerance
 	- **3.J)** Compassion towards weaker sections
-- [[4. EMOTIONAL INTELLIGENCE]]
+- **[[4. EMOTIONAL INTELLIGENCE]]**
 	- **4.A)** Concept of Emotional Intelligence
 	- **4.B)** Utility and application of Emotional Intelligence in administration and governance
-- [[5. CONTRIBUTIONS OF MORAL THINKERS AND PHILOSOPHERS FROM INDIA AND THE WORLD]]
-- [[6. ETHICS IN PUBLIC ADMINISTRATION]]
+- **[[5. CONTRIBUTIONS OF MORAL THINKERS AND PHILOSOPHERS FROM INDIA AND THE WORLD]]**
+- **[[6. ETHICS IN PUBLIC ADMINISTRATION]]**
 	- **6.A)** Civil service values
 	- **6.B)** Ethics in Public Administration: Status and problems
 	- **6.C)** Ethical concerns and dilemmas in government and private institutions
@@ -42,7 +42,7 @@
 	- **6.H)** Strengthening of ethical and moral values in governance
 	- **6.I)** Ethical issues in IR and funding
 	- **6.J)** Corporate governance
-- [[7. PROBITY IN GOVERNANCE]]
+- **[[7. PROBITY IN GOVERNANCE]]**
 	- **7.A)** Concept of public service
 	- **7.B)** Philosophical basis of governance and probity
 	- **7.C)** Information sharing and Transparency in governance
@@ -54,5 +54,6 @@
 	- **7.I)** Quality of service delivery
 	- **7.J)** Utilization of public funds
 	- **7.K)** Challenges of corruption
-- [[8. CASE STUDIES AND APPLIED ETHICS]]
+- **[[8. CASE STUDIES AND APPLIED ETHICS]]**
+
 

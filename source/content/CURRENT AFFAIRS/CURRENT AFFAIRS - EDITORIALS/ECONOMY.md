@@ -1,4 +1,4 @@
-### BLUEPRINT FOR INDIA@2047
+### **BLUEPRINT FOR INDIA@2047**
 #GS3 #Data #Development
 
 <b><u>NEWS:</u></b>
@@ -56,7 +56,7 @@
 	- Emphasis on sustainability, inclusivity, and competitiveness
 	- Build on reforms like GST and regulatory compliance
 ---
-### GDP BASE YEAR REVISION
+### **GDP BASE YEAR REVISION**
 #GS3 #Economy #GDP 
 
 <b><u>NEWS:</u></b> 
@@ -80,7 +80,7 @@
 <b><u>CONCLUSION:</u></b> A concern however, is that the year of 2022-23 witnessed **pentup-demand** post the **COIVD-19** pandemic. This could lead to the new estimates being lower than expected. Though, update is required in conformity with the **UN-SMA** accounting methods.
 
 ---
-### INFLATION RATE
+### **INFLATION RATE**
 #GS3 #Economy #Data #Inflation
 
 <b><u>Recent MOSPI Data on Inflation for May 2025</u></b>:
@@ -93,7 +93,7 @@
 - YoY inflation was down for most of the food items except oil seeds. However, GoI reduced import duty on edible oils.
 - IMD has predicted above-normal monsoon. Though monsoon's spatial and temporal variation may effect the inflation.
 --- 
-### FORMAL STAFFING INDUSTRY
+### **FORMAL STAFFING INDUSTRY**
 #GS3 #Economy #Employment 
 
 <b><u>BACKGROUND:</u></b>  ***Potential weakening of the positive relation between labour quality and labour productivity*** due to the ***prevalence of informal job contracts***
@@ -112,7 +112,7 @@
 <b><u>CONCLUSION:</u></b> ***"By bridging the skill gap, the formal staffing industry ca play a vital role in India's journey towards more formalised and productive employment, contributing to the country's overall economic development".***
 
 ---
-### SKILLS FOR THE FUTURE REPORT
+### **SKILLS FOR THE FUTURE REPORT**
 #GS3 #Economy #Skilling #Report 
 
 <b><u>NEWS:</u></b>
@@ -139,7 +139,7 @@
 5. Promote the **Formal Staffing industries**
 
 ---
-### FOOD ADULTERATION
+### **FOOD ADULTERATION**
 #GS3 #Economy #FoodProcessing
 
 <b><u>NEWS/DEFINITION/DATA:</u></b>
@@ -179,7 +179,7 @@
 - **Food safety** must be ***seen as a matter of both Health & awareness****
 - **Food hygiene** are also linked with **caste & class**, addressing the issue in s **differentiated approach** is again required
 ---
-### FINTECH SECTOR AND RURAL INDIA
+### **FINTECH SECTOR AND RURAL INDIA**
 #GS3 #Economy #Fintech #Rural
 
 <b><u>NEWS:</u></b>
@@ -201,7 +201,7 @@
 2. **Mistrust of digital solutions:** skepticism due to unfamiliarity, negative experiences like cyberfraud and preference for cash
 3. **Geographic and Physical barrier:** lack of traditional banking infrastructure in remote areas to serve all customers.
 ---
-### LOGISTICS and NTRS (National Time Release Study)
+### **LOGISTICS and NTRS (National Time Release Study)**
 #GS3 #Economy #Infrastructure #Ports
 
 <b><u>NEWS:</u></b>
@@ -227,7 +227,7 @@
 4. **National Trade Facilitation Action Plan (NTFAP) 3.0 for 2024-2027:** launched by **CBIC**, focusing on **reducing cargo release time** across ports.
 
 ---
-### INITIATIVES FOR MARITIME SECTOR
+### **INITIATIVES FOR MARITIME SECTOR**
 #GS3 #Economy #Infrastructure 
 
 <b><u>NEWS:</u></b>
@@ -247,7 +247,7 @@
 	- Aims to develop **world-class ports and promote inland water transport, coastal shipping**, and a **sustainable maritime sector**
 
 ---
-### FDI DATA
+### **FDI DATA**
 #GS3 #Economy #FDI #Data 
 <p align="center"><img src="NetFDIData.jpeg" alt="" width="450"/></p>
 
@@ -256,7 +256,7 @@
 - **Outward FDI/ Overseas Direct Investment:** ***USD 29 Bn***
 - **Net FDI:** ***USD 0.4 Bn***
 ---
-### INDIA's EXTERNAL DEBT DATA
+### **INDIA'S EXTERNAL DEBT DATA**
 #Gs3 #Economy #Data #Debt 
 
 <b><u>HIGHLIGHTS OF RBI REPORT:</u></b>
@@ -274,7 +274,7 @@
 4. **BoP pressures** due to accumulation of persistent debt
 
 ---
-### INDIA'S STARTUP ECOSYSTEM
+### **INDIA'S STARTUP ECOSYSTEM**
 #GS3 #Economy #Startup
 
 <b><u>NEWS/DEFINITION:</u></b>
@@ -324,13 +324,13 @@
 <b><u>CONCLUSION:</u></b> ***"Startups are perfect models for improving the Total Factor Productivity of the Indian economy and will be at the forefront of Viksit Bharat in 2047"***
 
 ---
-### CURRENT ACCOUNT BALANCE DATA
+### **CURRENT ACCOUNT BALANCE DATA**
 #GS3 #Economy #Data 
 - India's Current Account Balance recorded a **surplus of *USD 13.5 Billion (1.3% of GDP)*** in **Q4 of FY25**
 - It led to narrowing of India's **Current Account Deficit (CAD)** to ***USD 23.3 Billion*** i.e, <b><u><i>0.6% of GDP</i></u></b> during FY25 down from *USD 26 Billion* i.e, *0.7% of GDP* in FY24. 
 ---
 
-### REMITTANCES DATA
+### **REMITTANCES DATA**
 #GS3 #Economy #Remittances #Data 
 - As per **RBI report**, ***remittances to India reached USD 235.46 Billion*** in **FY25(2024-25)**, increasing **14% yoy** - doubling from *USD 61 Billion* in FY17(2016-17)
 
@@ -340,7 +340,7 @@
 3. **Stable source of finance:** Remittances surpass gross FDI, serving as a stable source of external financing
 
 ---
-### POVERTY ESTIMATES
+### **POVERTY ESTIMATES**
 #GS1 #GS2 #GS3 #SocialIssues #Governance #Economy #Poverty
 
 <b><u>NEWS:</u></b> 
@@ -369,7 +369,7 @@
 3. Despite **5.7% abject poverty estimate**, there are **87% Indians living off INR 171/day** *(USD 8.3/day at PPP)*
 
 ---
-### WOMEN LED MSMEs
+### **WOMEN LED MSMEs**
 #GS3 #Economy #Manufacturing #MSMEs #Women
 
 <b><u>INTRO/DATA:</u></b>
@@ -399,8 +399,7 @@
 3. **Women led MSMEs** offer a **high social and economic returns** and thus, are attractive destination of **CSR funds**
 
 ---
-
-### HIGHLIGHTS OF RBI's FINANCIAL STABILITY REPORT (FSR)
+### **HIGHLIGHTS OF RBI's FINANCIAL STABILITY REPORT (FSR)**
 #GS3 #Economy #RBI #Data #Report #MainsValueAddition 
 
 <b><u>NEWS:</u></b>
@@ -423,7 +422,7 @@
 	3. **Climate related shocks:** have potential to disrupt business operations through the ***materialization of physical hazard***
 
 ---
-### STATUS OF SUSTAINABLE DEVELOPMENT IN INDIA #Data 
+### **STATUS OF SUSTAINABLE DEVELOPMENT IN INDIA** #Data 
 #GS3 #Economy #SustainableDevelopment #Report 
 
 <b><u>NEWS:</b></u>
@@ -449,7 +448,7 @@
 4. Reduction in **primary government expenditure** as a proportion of original approved budget
 
 ---
-### MOBILIZING PRIVATE CAPITAL FOR SUSTAINABLE DEVELOPMENT
+### **MOBILIZING PRIVATE CAPITAL FOR SUSTAINABLE DEVELOPMENT**
 #GS3 #Economy #PrivateCapital #SustainableDevelopment 
 
 <b><u>NEWS:</u></b>
@@ -470,7 +469,7 @@
 7. <b><u><i>Unlocking capital at grassroots level</i></u></b> that supports **MSMEs**
 
 ---
-### RISING GLOBAL PUBLIC DEBT
+### **RISING GLOBAL PUBLIC DEBT**
 #GS3 #Economy #Report #Data 
 
 <b><u>NEWS:</u></b>
@@ -506,7 +505,7 @@
 3. **National measures:** strengthen institutional capacities to address liquidity risks, currency mismatch, improve quality of project pipeline and increase impact of debt swaps
 
 ---
-### CURBING INEQUALITY
+### **CURBING INEQUALITY**
 #GS3 #Economy #Inequality #Development 
 
 <b><u>NEWS:</u></b>
