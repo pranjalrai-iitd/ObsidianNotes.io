@@ -163,7 +163,7 @@
 
 <b><u>INTRODUCTION:</u></b>
 - The *1980 Commission on International Development*, chaired by **Willy Brandt** in provided the idea of **"Brandt Line"** dividing the world in **Global North (developed)** and **Global South (developing)** based on **GDP per capita and economic development**.
-  <p align="center"><img src="https://static.wikia.nocookie.net/churchillhigh/images/5/55/North_South_Divide_3.PNG/revision/latest/scale-to-width-down/1000?cb=20071206161546" alt="Brandt Line" width="300"/><br><i>Blue - "Global North"<br>Red - "Global South"<br> UNCTAD follows the same classification</i></p>
+  <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Global_North_and_Global_South%2C_according_to_the_Wikimedia_Foundation.svg/800px-Global_North_and_Global_South%2C_according_to_the_Wikimedia_Foundation.svg.png" alt="Brandt Line" width="300"/><br><i>Blue - "Global North"<br>Red - "Global South"<br> UNCTAD follows the same classification</i></p>
 - #Data Accounts for **42% global GDP** and **75% global population**
 - India launched **3rd Voice of Global South Summit in 2024** and Indian Prime Minister visited **5 nations of global south in 2025** - *Ghana, Trinidad & Tobago, Argentina, Brazil and Namibia.*
 
