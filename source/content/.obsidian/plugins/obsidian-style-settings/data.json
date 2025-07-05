@@ -3,8 +3,7 @@
   "encore-settings@@theme-light": "encore-theme-light",
   "encore-settings@@encore-translucency": false,
   "encore-settings@@colors": "encore-colors-custom",
-  "encore-settings@@encore-custom-h1@@light": "#503D8F",
-  "encore-settings@@encore-custom-h2@@light": "#BB3535",
+  "encore-settings@@encore-custom-h1@@light": "#294A63",
   "encore-settings@@encore-disable-grain": false,
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-sapphire",
   "obsidian-typewriter@@shrink-formatting": false,
@@ -25,5 +24,6 @@
   "minimal-style@@h3-color@@light": "#3574BB",
   "minimal-style@@h4-color@@light": "#000000",
   "minimal-style@@h5-color@@light": "#000000",
-  "encore-settings@@encore-custom-h3@@light": "#503D8F"
+  "encore-settings@@encore-custom-h3@@light": "#BB3535",
+  "encore-settings@@encore-custom-h2@@light": "#294A63"
 }
