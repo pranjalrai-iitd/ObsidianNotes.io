@@ -1,58 +1,58 @@
 
-- [[1. ETHICS AND HUMAN INTERFACE]] #GS4_1
-	- #GS4_1A **1.A)** Essence of Ethics
-	- #GS4_1B **1.B)** Determinants of Ethics
-	- #GS4_1C **1.C)** Consequences of Ethics
-	- #GS4_1D **1.D)** Dimensions of Ethics
-	- #GS4_1E **1.E)** Ethics in private and public relations
-	- #GS4_1F **1.F)** Human values
-	- #GS4_1G **1.G)** Value, lessons learned from the teaching of great leaders, reformers and administrators
-	- #GS4_1H **1.H)** Role of family in inculcating values
-	- #GS4_1I **1.I)** Role of society in inculcating values
-	- #GS4_1J **1.J)** Role of educational institutions in inculcating values
-- [[2. ATTITUDE]] #GS4_2
-	- #GS4_2A **2.A)** Concept, structure and function of Attitude
-	- #GS4_2B **2.B)** Influence and relation of Attitude with thought and behaviour
-	- #GS4_2C **2.C)** Moral and political attitudes
-	- #GS4_2D **2.D)** Social influence
-	- #GS4_2E **2.E)** Persuasion
-- [[3. APTITUDE AND VALUES FOR CIVIL SERVICE]] #GS4_3
-	- #GS4_3A **3.A)** Aptitude for civil services
-	- #GS4_3B **3.B)** Values for civil services
-	- #GS4_3C **3.C)** Integrity
-	- #GS4_3D **3.D)** Impartiality
-	- #GS4_3E **3.E)** Non-partisanship
-	- #GS4_3F **3.F)** Objectivity
-	- #GS4_3G **3.G)** Dedication to public service
-	- #GS4_3H **3.H)** Empathy
-	- #GS4_3I **3.I)** Tolerance
-	- #GS4_3J **3.J)** Compassion towards weaker sections
-- [[4. EMOTIONAL INTELLIGENCE]] #GS4_4
-	- #GS4_4A **4.A)** Concept of Emotional Intelligence
-	- #GS4_4B **4.B)** Utility and application of Emotional Intelligence in administration and governance
-- [[5. CONTRIBUTIONS OF MORAL THINKERS AND PHILOSOPHERS FROM INDIA AND THE WORLD]] #GS4_5
-- [[6. ETHICS IN PUBLIC ADMINISTRATION]] #GS4_6
-	- #GS4_6A **6.A)** Civil service values
-	- #GS4_6B **6.B)** Ethics in Public Administration: Status and problems
-	- #GS4_6C **6.C)** Ethical concerns and dilemmas in government and private institutions
-	- #GS4_6D **6.D)** Laws, rules and regulations as a source of Ethical guidance
-	- #GS4_6E **6.E)** Conscience as a source of Ethical guidance
-	- #GS4_6F **6.F)** Accountability
-	- #GS4_6G **6.G)** Ethical Governance
-	- #GS4_6H **6.H)** Strengthening of ethical and moral values in governance
-	- #GS4_6I **6.I)** Ethical issues in IR and funding
-	- #GS4_6J **6.J)** Corporate governance
-- [[7. PROBITY IN GOVERNANCE]] #GS4_7
-	- #GS4_7A **7.A)** Concept of public service
-	- #GS4_7B **7.B)** Philosophical basis of governance and probity
-	- #GS4_7C **7.C)** Information sharing and Transparency in governance
-	- #GS4_7D **7.D)** Right to Information
-	- #GS4_7E **7.E)** Code of Ethics
-	- #GS4_7F **7.F)** Codes of Conduct
-	- #GS4_7G **7.G)** Citizen's Charter
-	- #GS4_7H **7.H)** Work culture
-	- #GS4_7I **7.I)** Quality of service delivery
-	- #GS4_7J **7.J)** Utilization of public funds
-	- #GS4_7K **7.K)** Challenges of corruption
-- [[8. CASE STUDIES AND APPLIED ETHICS]] #GS4_8
+- [[1. ETHICS AND HUMAN INTERFACE]]
+	- **1.A)** Essence of Ethics
+	- **1.B)** Determinants of Ethics
+	- **1.C)** Consequences of Ethics
+	- **1.D)** Dimensions of Ethics
+	- **1.E)** Ethics in private and public relations
+	- **1.F)** Human values
+	- **1.G)** Value, lessons learned from the teaching of great leaders, reformers and administrators
+	- **1.H)** Role of family in inculcating values
+	- **1.I)** Role of society in inculcating values
+	- **1.J)** Role of educational institutions in inculcating values
+- [[2. ATTITUDE]]
+	- **2.A)** Concept, structure and function of Attitude
+	- **2.B)** Influence and relation of Attitude with thought and behaviour
+	- **2.C)** Moral and political attitudes
+	- **2.D)** Social influence
+	- **2.E)** Persuasion
+- [[3. APTITUDE AND VALUES FOR CIVIL SERVICE]]
+	- **3.A)** Aptitude for civil services
+	- **3.B)** Values for civil services
+	- **3.C)** Integrity
+	- **3.D)** Impartiality
+	- **3.E)** Non-partisanship
+	- **3.F)** Objectivity
+	- **3.G)** Dedication to public service
+	- **3.H)** Empathy
+	- **3.I)** Tolerance
+	- **3.J)** Compassion towards weaker sections
+- [[4. EMOTIONAL INTELLIGENCE]]
+	- **4.A)** Concept of Emotional Intelligence
+	- **4.B)** Utility and application of Emotional Intelligence in administration and governance
+- [[5. CONTRIBUTIONS OF MORAL THINKERS AND PHILOSOPHERS FROM INDIA AND THE WORLD]]
+- [[6. ETHICS IN PUBLIC ADMINISTRATION]]
+	- **6.A)** Civil service values
+	- **6.B)** Ethics in Public Administration: Status and problems
+	- **6.C)** Ethical concerns and dilemmas in government and private institutions
+	- **6.D)** Laws, rules and regulations as a source of Ethical guidance
+	- **6.E)** Conscience as a source of Ethical guidance
+	- **6.F)** Accountability
+	- **6.G)** Ethical Governance
+	- **6.H)** Strengthening of ethical and moral values in governance
+	- **6.I)** Ethical issues in IR and funding
+	- **6.J)** Corporate governance
+- [[7. PROBITY IN GOVERNANCE]]
+	- **7.A)** Concept of public service
+	- **7.B)** Philosophical basis of governance and probity
+	- **7.C)** Information sharing and Transparency in governance
+	- **7.D)** Right to Information
+	- **7.E)** Code of Ethics
+	- **7.F)** Codes of Conduct
+	- **7.G)** Citizen's Charter
+	- **7.H)** Work culture
+	- **7.I)** Quality of service delivery
+	- **7.J)** Utilization of public funds
+	- **7.K)** Challenges of corruption
+- [[8. CASE STUDIES AND APPLIED ETHICS]]
 
