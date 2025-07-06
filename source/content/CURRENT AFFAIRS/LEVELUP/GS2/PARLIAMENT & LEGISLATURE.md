@@ -1,4 +1,4 @@
-## 1. OFFICE OF DEPUTY SPEAKER #LevelUpCA 
+### 1. OFFICE OF DEPUTY SPEAKER #LevelUpCA 
 #GS2 #Polity #Parliament #PresidingOfficers
 
 <b><u>NEWS:</u></b>
@@ -11,7 +11,7 @@
 - ***Article 178*** has similar provisions for Speaker and Deputy Speaker of the legislative assembly of the states.
 
 <b><u>Term of Deputy Speaker, Vacation of office, and Disqualification:</u></b> #Prelims 
-- Once elected, a deputy speaker usually **continues in office until the dissolution of the house**. However, the speaker continues till the new Lok Sabha is elected.
+- Once elected, a deputy speaker usually **continues in office until the dissolution of the house**. However, the speaker continues till the **new Lok Sabha is elected**.
 - Speaker or deputy speaker **vacates** her office if she **ceases to be a member** of the house.
 - They may also **resign** or may be **removed from the office** by resolution of the House of the People passed by a **majority of all the then members of the house (1/2 of total strength - vacancies)**
 
@@ -58,7 +58,7 @@
 <b><u>CONCLUSION:</u></b> ***The office of the deputy speaker foes beyond ceremonial significance and is indispensable for Parliamentary democracy. Thus, the appointment should be made as soon as possible.***
 
 ---
-## 2. PRIVATE MEMBER'S BILLS #LevelUpCA 
+### 2. PRIVATE MEMBER'S BILLS #LevelUpCA 
 #GS2 #Polity #Parliament #Bills 
 
 <b><u>DEFINITION:</u></b> 
