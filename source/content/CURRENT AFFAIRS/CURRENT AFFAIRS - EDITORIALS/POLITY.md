@@ -144,7 +144,7 @@
 
 ---
 ### **HUMAN RIGHTS AND COURTS**
-#GS2 #Governance #Quote #GovernanceQuote #Judgement #MainsValueAddition 
+#GS2 #Governance #Quote #Governance #Judgement #MainsValueAddition 
 
 <b><u>NEWS:</u></b> Courts stayed deportation of various individuals labelled "foreigner" by the Foreigners Tribunal in Assam. In a case where a Pakistani citizen having lived 38 years in India was deported, Supreme court called on the Union Home Secretary to repatriate her back to India.
 

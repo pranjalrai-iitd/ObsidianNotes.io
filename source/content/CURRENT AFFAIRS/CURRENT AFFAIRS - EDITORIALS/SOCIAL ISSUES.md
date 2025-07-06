@@ -105,7 +105,6 @@
 3. Extension of the act to **contractual employees**.
 4. Comprehensive **Paternity leave law** or a **family leave policy** needed in India, for both parents.
 ---
-
 ### **URBANISATION: SUSTAINABLE & COST-EFFECTIVE TRANSIT SOLUTION**
 #GS1 #GS3 #Urbanisation #Mobility
 
@@ -135,6 +134,87 @@
 
 <b><u>CONCLUSION:</u></b> 
 >***"Reviving the past Trams is not just a nostalgic choice -  it is a smart and timely move toward a more sustainable and financially viable transport future".***
+
+---
+### **CITIES AS FUTURE OF INDIA - CHALLENGES AND WAY FORWARD**
+#GS1 #GS3 #Society #Economy #Urbanisation #Governance #Data 
+
+<b><u>INTRODUCTION:</u></b>
+>***The next decade will be an "urban decade", and India's 15 cities (urban hubs) which currently contribute 30% to its GDP will drive it's ability to become a USD 30 Trillion+ economy by 2047, facilitating an extra 1.5% growth*** - Amitabh kant
+- These **15 cities** that contribute to **India's 30% GDP** are - *Mumbai, New Delhi, Chennai, Hyderabad, kolkata, Ahmedabad, Pune, Surat, Coimbatore, Noida/Greater Noida, Kochi, Gurugram, Vishakhapatnam, and Nagpur* 
+- While cities like *Bangkok, London, Dubai, and Singapore* attract millions worldwide, Indian cities rarely feature as **global destinations**
+
+<b><u>CHALLENGES FACED BY INDIAN CITIES:</b></u> 
+>***All these challenges are a direct reflection of how these cities expanded without proper planning or strong urban governance.*** - Amitabh Kant
+
+1. <b><u>Air pollution:</u></b> 
+	- #Data Approximately ***42 of the 50 most polluted cities*** are in India
+	- **CAUSES:** Vehicular emissions, construction and biomass burning
+	- **WAY FORWARD:**
+		1. **Electrification** of the **public transport** at the earliest
+		2. Strict implementation of **construction dust norms**
+		3. The **Budget FY26** announced the creation of a ***Rs. 1 lakh crore - Urban Challenge Fund*** - this can include **city-level grand challenges.**
+		4. **Performance appraisal and competitive finance:** cities should be **ranked** and **financial incentives** should be disbersed based on performance.
+2. <b><u>Solid Waste Management:</u></b>
+	- #Data  
+		- ***AT CITY LEVEL:*** As per **MoHUA** our cities produce more than ***1,50,000 tonnes*** of **solid waste daily**, of which only **25%** is **processed scientifically and sustainably**
+		- ***AT NATIONAL LEVEL:*** India generates about ***62 MnTn*** of **municipal  waste annually**, of which about ***70% is collected*** but only ***30% is processed***.
+		- ***POTENTIAL:*** As per some experts, **sustainable, circular system** can unlock as much as ***USD 73.5 Trillion annually by 2030***
+	- **WAY FORWARD:**
+		1. Building **strong waste collection and processing infrastructure:**
+			- Purchasing **vehicles** for **waste collection** and **transportation**
+			- **Training of staff** to handle tasks effectively
+		2. Clear policies and regulations that promote **performance-based accountability**
+		3. **Community involvement** is the key to transform waste management into a **sustainable, circular system***
+		4. #MainsValueAddition ***INDORE'S MODEL*** can be emulated in other cities: 
+			- **Door-to-door segregation** of waste followed by transportation in **specialized vehicles** to world-class **waste processing plants**, while **wet waste** being processed into **BioCNG**.
+		5. #MainsValueAddition ***RAJKOT's MODEL*** can be emulated for addressing **legacy waste** - it is focused on using **Miyawaki technique** with **Bioremediation** to reclaim and address legacy waste dumping sites, while promoting **circular economy** to reduce accumulation of waste at the site.
+3. <b><u>Water Stress:</u></b>
+	- #Data 
+		- On ***RIVER POLLUTION:*** Nearly **half** of our **rivers** are **polluted**
+		- On ***WATER SCARCITY:*** In 2018, NITI Aayog predicted that ***40% of India's population would face water scarcity by 2030***
+		- On ***WATER WASTAGE:*** Cities lose ***40-50% of piped waters*** in **transmission**
+	- **WAY FORWARD:**
+		- ***INDORE'S MODEL:*** #MainsValueAddition ***"India's first water surplus city"***
+			1. **Sewage leaks into water bodies** were **plugged using GIS technology**
+			2. **Rainwater harvesting** and **reuse** of treated water 
+4. <b><u>Lack of affordable housing and proliferation of informal settlements:</u></b>
+	- #Data 
+		- The CII and Knight Frank estimate a **shortfall of** ***10 million affordable homes***, expected to ***triple to 31 million by 2030***
+	- **WAY FORWARD:**
+		1. Increasing **floor space index (FSI)** and **floor area ratio (FAR)**  to promote **vertical growth** 
+		2. **Density-related incentives** as highlighted by ***G20 India*** and *OECD* report on *"Financing cities of Tomorrow"* - this can lead to **higher development densities** and effective **land use**
+			- #Eg ***Density Bonuses*** - allow developers to build more unit of space
+			- #Eg ***Land Value Capture (LVC)*** - capture a portion of the increased land value that results from public investments
+5. <b><u>Traffic congestion:</u></b>
+	- #Data 
+		- According to BCG, the **average Indian city dweller** spends ***1.5-2 hours daily stuck in traffic***.
+	- Traffic congestion also **boosts emissions** and **pollution**
+	- **WAY FORWARD:**
+		1. Investments in **public transports** and **high speed urban mobility** solutions like **Namo Bharat** trains to de-congest metropolitan cities
+		2. Implementing **congestion-based pricing** and harnessing **AI** and **IoT** for ***smart traffic management*** can optimize flow
+		3. Citizens must develop a culture of **responsible driving** and must **adhere to the traffic rules**, only then the roads will be free
+6. <b><u>Digital infrastructure and internet speeds:</u></b>
+	- #Data 
+		- While cities like *Seoul, Singapore and Hong Kong* offer **internet speeds exceeding 1 Gbps**, ***India's average mobile internet speed is just 100mbps***
+	- **High speed internet** and **digital infrastructure** is critical to attract top global companies to set up **R&D hubs** and **Global Capability Centers (GCCs)**
+	- **WAY FORWARD:**
+		1. Expand **high-speed broadband**, **4G and 5G** across cities and rural areas - where inaccessible areas  can be connected through **satellite based broadband**
+		2. Cutting **spectrum prices** to attract investment
+		3. Building **extensive fibre-optic network** and deploying **5G nationally**
+7. <b><u>Lack of decentralized planning, governance and financing:</u></b>
+	- #Data 
+		- **NITI Aayog** reports that ***India has just one planner for every 1 lakh people***, while **developed** nations have **one for every 5,000-10,000.**
+		- **Property tax collection** is less than **0.2% of GDP**
+	- **WAY FORWARD:**
+		1. Full implementation of **74th CAA** and **ULBs** must be empowered
+		2. Increasing **property tax collection** using technology 
+		3. **Digitisation of land records** and exploring ***Land Value Capture (LVC*)** as means to generate revenue
+		4. Cities can also tap into ***municipal bond markets*** and use ***blended finance***
+		5. These are effective ***only after completing planning and governance reforms***
+
+<b><u>CONCLUSION:</u></b>
+>***Our cities carry centuries of history and should be world-class economic and cultural magnets. The above steps must be paired with investments in Walkable Heritage Zones (WHZs) and seamless urban experiences - which government enables, and the private sector creates.*** - Amitabh kant
 
 ---
 
