@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS3/4. CROPPING PATTERN, IRRIGATION, TRANSPORTATION AND MARKETING.md",
+                "file": "CURRENT AFFAIRS/DAILY PRELIMS CA AGGREGATED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. CROPPING PATTERN, IRRIGATION, TRANSPORTATION AND MARKETING"
+              "title": "DAILY PRELIMS CA AGGREGATED"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Cloud Seeding\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "9cbccf89f823b2f4",
@@ -171,9 +170,10 @@
   },
   "active": "e1dbf60416371241",
   "lastOpenFiles": [
+    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/ENVIRONMENT.md",
     "CURRENT AFFAIRS/DAILY PRELIMS CA AGGREGATED.md",
-    "GS4/1. ETHICS AND HUMAN INTERFACE.md",
     "GS3/4. CROPPING PATTERN, IRRIGATION, TRANSPORTATION AND MARKETING.md",
+    "GS4/1. ETHICS AND HUMAN INTERFACE.md",
     "CURRENT AFFAIRS/LEVELUP/GS2/PARLIAMENT & LEGISLATURE.md",
     "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/SOCIAL ISSUES.md",
     "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/ENVIRONMENT.md",
@@ -196,7 +196,6 @@
     "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/ENRGY AND INFRASTRUCTURE.md",
     "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/ECONOMIC SECTORS.md",
     "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/DISASTER MANAGEMENT.md",
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/AGRICULTURE.md",
     "Attachments/Pasted image 20250628141940.png",
     "Attachments/Pasted image 20250628142225.png",
     "Attachments/AgricultureGVAData.jpg",
