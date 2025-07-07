@@ -368,6 +368,14 @@
 
 3. Despite **5.7% abject poverty estimate**, there are **87% Indians living off INR 171/day** *(USD 8.3/day at PPP)*
 
+<b><u>HIGHLIGHTS ON EQUITY:</u></b> #Inequality #Data 
+- According to the World Bank's spring 2025 **Poverty and Equity Brief**, ***India is the 4th most equal country*** in the world after the **Slovak Republic, Slovenia** and **Belarus** on the basis of **Gini Index score.**
+- **Highlights:** #Data 
+	- India achieved **greater income equality** with <b><u><i>Gini score of 25.5  (2022-23)</i></u></b> improving from ***28.8  (2011-12)***
+		- India falls into the ***"moderately low"*** inequality category with **Gini score between 25-30** and is only a fraction away from joining **"low inequality"** group. 
+	- India performed **better than G7 and G20** including **China** and **USA**
+	- ***Extreme poverty** (below USD 2.15/day PPP)* fell from *16.2% (2011-12)* to ***2.3% (2022-23)***, lifting ***171 million*** people above this line.
+
 ---
 ### **WOMEN LED MSMEs**
 #GS3 #Economy #Manufacturing #MSMEs #Women

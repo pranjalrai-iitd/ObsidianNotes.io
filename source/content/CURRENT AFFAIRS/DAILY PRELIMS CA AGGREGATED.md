@@ -1,3 +1,7 @@
+
+---
+## JUNE 2025
+---
 ### ILO Social Security Report
 #GS1 #GS2 #Society #SocialJustice #InternationalOrganizations #Data
 - Social security coverage of India increased from **19% (2015)** to **64.3% (2025)**.
@@ -2866,6 +2870,9 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 	- **Heavily modified form** of **natural DNA**
 - It can enable **target cell therapies, virus-resistant transplants, and climate engineered plants**
 ---
+---
+## JULY 2025
+---
 ### RBI's Financial Stability Report (FSR)
 #GS3 #Economy #RBI #Data #Report #MainsValueAddition 
 - It is **biannual report** released by the **RBI**
@@ -3489,4 +3496,105 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 - The framework is as follows:
 <p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/h8WgCydOuzYvhhjHW8rZQECsxLsDv6S39rONh5TF.jpg" alt="RECLAIM framework" width="700"/></p>
 
+---
+### National Biobank
+#GS3 #SciTech #Biotech 
+- India inaugurated ***National Biobank*** at the **CSIR-Institute of Genomics and Integrative Biology** (***IGIB***), which will enhance India's capabilities in **precision medicine** and **biomedical** research.
+- **NATIONAL BIOBANK:**
+	- It is launched under ***Phenome India Project***
+		- It is based on the *UK Biobank model*, but customized for Indian diversity
+	- **Purpose:** to aid in *early diagnosis, improve therapeutic targeting,* and bolster the fight against *complex diseases,* and *rare genetic disorders.*
+		- It will generate **high-resolution data** that can power **AI-driven diagnostics** and **gene-guided therapies.**
+	- **Coverage:** comprehensive genomic, lifestyle and clinical data from ***10,000 individuals***
+- **PHENOME INDIA PROJECT:**
+	- Officially called as ***Phenome India-CSIR Health Cohort Knowledgebase (PI-CheCK)*** and was launched by **CSIR** in 2023..
+	- It is designed to be a long-term, data-rich study tracking health trajectory of individuals over several years
+
+>***Phenome:*** is the **entire set of phenotypes** in a cell, tissue, organ, organism or species.
+>***Phenotype:*** refers to the **observable physical characteristics** of an organism. An organism's **phenotype** is determined by its **genotype** as well as **environmental influences** upon the genes.
+
+---
+### World Bank's Poverty and Equity Brief 2025
+#GS3 #Economy #Development 
+- According to the World Bank's spring 2025 **Poverty and Equity Brief**, ***India is the 4th most equal country*** in the world after the **Slovak Republic, Slovenia** and **Belarus** on the basis of **Gini Index score.**
+- **Highlights:**
+	- India achieved **greater income equality** with <b><u><i>Gini score of 25.5  (2022-23)</i></u></b> improving from ***28.8  (2011-12)***
+		- India falls into the ***"moderately low"*** inequality category with **Gini score between 25-30** and is only a fraction away from joining **"low inequality"** group. 
+	- India performed **better than G7 and G20** including **China** and **USA**
+	- ***Extreme poverty** (below USD 2.15/day PPP)* fell from *16.2% (2011-12)* to ***2.3% (2022-23)***, lifting ***171 million*** people above this line.
+---
+### Atomic Energy Regulatory Board (AERB)
+#GS3 #Energy #Nuclear #Organizations 
+- Recently, **AERB** granted license for two *indigenously developed* 700 MW **PHWR** (Units 3 and 4) at the **Kakrapar** atomic power station, **Gujarat**. 
+- Established by the **President** in 1983 as per the provision of the ***Atomic Energy Act, 1962***, thus is a **statutory body**
+- Regulatory authority of AERB is derived from the **rules & notifications** promulgated under the **Atomic Energy Act, 1962** and **Environmental (Protection) Act, 1986**
+- It's mission is to ensure the use of ionizing radiation and nuclear energy in India *does not cause undue risk to health of people and the environment.* 
+- AERB also **administers** the provisions of ***Factories Act, 1948*** for ensuring industrial safety in the units of DAE.
+- **Composition of AERB:** **Chairman**, along with *ex-officio* members, ***4*** *part-time members* and a *secretary*
+- AERB functions with various ***committees:**
+	- **Apex Safety Review Committees**
+	- **Apex Advisory Committees**
+---
+### Rio Declaration of BRICS
+#GS2 #IR #InternationalGroupings 
+- The **17th BRICS Summit** was held in **Rio de Janerio, Brazil**. The next summit will be held in India.
+- The **theme** of the summit was ***"Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance.***
+- **Highlights of the summit:**
+	- Adopted ***BRICS Leader's Framework Declaration on Climate Finance:*** for ensuring accessible, timely and affordable climate finance for developing countries and enabling *Just Transition.*
+	- Adopted the ***BRICS Leader's Statement on the Global Governance of Artificial Intelligence:*** to foster responsible development, deployment, and use of AI technologies in compliance with national regulatory frameworks and UN charter.
+	- Launched the ***BRICS Partnership for the Elimination of Socially Determined Diseases:*** focusing on tackling the root causes of health disparities such as *poverty and social exlcusion.*
+- **Other highlights:**
+	- Reaffirmed support for **multilateralism** and called for **reforms of Bretton Woods institutions** to reflect the *voice of the global south.*
+	- Reiterated **support for reform of UN system** including increased role of **India** and **Brazil** in **UNSC**
+	- Condemned all form of **terrorism**, including the *Pahalgam attack*
+	- Emphasized ***"African solutions to African problems"*** in conflict resolution across Africa
+	- Highlighted contribution of **nuclear-weapon-free-zones** for strengthening nuclear-non-proliferation
+	- Supported **India's candidacy** to host ***COP33 of UNFCCC*** in **2028**
+- **NEW DEVELOPMENT BANK (NDB):**
+	- *Board of Governors* of the NDB officially admitted ***Colombia*** and ***Uzbekistan*** as **borrowing members** of the NDB
+	- **Members:** *Brazil, Russia, India, China, South Africa, Bangladesh, UAE, Egypt, Algeria* with *Uruguay* being a *prospective member* - (***BRICS original + UAE (new BRICS)+ Egypt (new BRICS)+ Algeria + Bangladesh + Uruguay (prospective)***)
+		- **NOTE:** ***BRICS members*** are **Brazil , Russia, India, China, South Africa, Ethiopia, Egypt, UAE, Iran** and **Indonesia**
+---
+### NCLAT
+#GS3 #Economy #Banking #CorporateGovernance 
+- Constituted under the **Companies Act, 2013** for hearing appeals against the orders of the National Company Law Tribunals **(NCLT)**
+- It also act as **appellate tribunal** for hearing appeals passed by:
+	- **NCLT**
+	- **IBBI** - Insolvency and Bankruptcy Board of India
+	- **CCI** - Competition Commission of India
+	- **NFRA** - *National Financing Reporting Authority*
+- Recently, **NCLAT** held that ***IBC, 2016 cannot override PMLA, 2002***
+---
+### National Financing Reporting Authority
+#GS3 #Economy #CorporateGovernance #Organizations 
+- Constituted under the **Companies Act, 2013**
+- **Duties of NFRA:**
+	- Recommend **accounting** and **auditing policies** and **standards** to be adopted by **companies** for approval by the Central Government.
+	- **Monitor and enforce compliance** with accounting and auditing standards.
+	- Oversee the **quality of service** of the professions associated with ensuring compliance with such standards and **suggest measures** for improvement in the quality of service.
+	- Perform such functions and duties as necessary or incidental to the aforesaid functions and duties.
+---
+### National Medical Commission (NMC)
+#GS2 #GS3 #Health #SciTech #Organizations 
+- **NMC** has notified the ***Medical Institutions (Qualifications of Faculty) Regulations, 2025***
+	- The regulations have been issued by the **Post Graduate Medical Education Board** (***PGMEB***) under the **National Medical Commission (NMC)**
+- **NMC** is India's premier regulatory body overseeing ***medical education and practice.***
+- It is **statutory** body constitute under ***National Medical Commission Act,  2019*** and superseded the **Medical Council of India (MCI)**
+- It lay down policies for regulating medical institutions, medical researches and medical professionals, etc.
+---
+### FaceAuth: Aadhar-based face authentication
+#GS3 #Economy #Agriculture #PDS #DPI 
+- **Himachal Pradesh** became the ***first state*** to introduce **Aadhar-based face authentication (FaceAuth)** for distribution of ration under the **Public Distribution System (PDS)**
+- It was introduced by **UIDAI** as an **additional mode of authentication**
+	- Other methods of authentication include **OTP-based, fingerprint,** and **iris-based**
+- It is based on a **1:1 matching** with the **facial image stored in the repository against the Aadhar number.**
+---
+### Interstellar comet 3I/ATLAS
+#GS3 #SciTech #Space 
+- NASA funded **ATLAS *(Asteroid Terrestrial-impact Last Alert System)*** survey **telescope** in ***Chile***, discovered an **Interstellar comet** named **3I/ATLAS**
+- It is an ***Active comet***, i.e, if displays **out-gassing** due to **sublimation** - a process in which frozen gases transform directly into vapor, carrying dust and ice particles into space to form a **glowing coma** and **tail.**
+- It is ***only thirst interstellar object detected:***
+	1. ***1I/'Oumuamua*** in *2017*
+	2. ***2I/Borisov*** in *2019*
+	3. ***3I/ATLAS*** in *2025*
 ---

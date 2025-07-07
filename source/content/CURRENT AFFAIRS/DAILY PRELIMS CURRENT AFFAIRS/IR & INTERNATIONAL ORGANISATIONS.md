@@ -303,3 +303,23 @@
 - India will also issue ***OCI cards*** for **6th generation** of diaspora in **Trinidad & Tobago**
 	- OCI card holders are allowed to travel to India without a visa, work and study in India, own property (except for certain agricultural and plantation properties), etc.
 ---
+### Rio Declaration of BRICS
+#GS2 #IR #InternationalGroupings 
+- The **17th BRICS Summit** was held in **Rio de Janerio, Brazil**. The next summit will be held in India.
+- The **theme** of the summit was ***"Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance.***
+- **Highlights of the summit:**
+	- Adopted ***BRICS Leader's Framework Declaration on Climate Finance:*** for ensuring accessible, timely and affordable climate finance for developing countries and enabling *Just Transition.*
+	- Adopted the ***BRICS Leader's Statement on the Global Governance of Artificial Intelligence:*** to foster responsible development, deployment, and use of AI technologies in compliance with national regulatory frameworks and UN charter.
+	- Launched the ***BRICS Partnership for the Elimination of Socially Determined Diseases:*** focusing on tackling the root causes of health disparities such as *poverty and social exlcusion.*
+- **Other highlights:**
+	- Reaffirmed support for **multilateralism** and called for **reforms of Bretton Woods institutions** to reflect the *voice of the global south.*
+	- Reiterated **support for reform of UN system** including increased role of **India** and **Brazil** in **UNSC**
+	- Condemned all form of **terrorism**, including the *Pahalgam attack*
+	- Emphasized ***"African solutions to African problems"*** in conflict resolution across Africa
+	- Highlighted contribution of **nuclear-weapon-free-zones** for strengthening nuclear-non-proliferation
+	- Supported **India's candidacy** to host ***COP33 of UNFCCC*** in **2028**
+- **NEW DEVELOPMENT BANK (NDB):**
+	- *Board of Governors* of the NDB officially admitted ***Colombia*** and ***Uzbekistan*** as **borrowing members** of the NDB
+	- **Members:** *Brazil, Russia, India, China, South Africa, Bangladesh, UAE, Egypt, Algeria* with *Uruguay* being a *prospective member* - (***BRICS original + UAE (new BRICS)+ Egypt (new BRICS)+ Algeria + Bangladesh + Uruguay (prospective)***)
+		- **NOTE:** BRICS members are **Brazil , Russia, India, China, South Africa, Ethiopia, Egypt, UAE, Iran** and **Indonesia**
+---

@@ -169,6 +169,30 @@
 7. Position India as a **credible exported of defence products, fostering R&D** and partnerships between Indian industries and **foreign OEMs**
 8. Ensure **welfare of veterans** while leveraging their expertise
 9. Instill a sense of **pride in Indian culture and ideas**, fostering confidence in achieving **global standards** through **indigenous capabilities**.
+---
+### **DEFENCE MODERNISATION ROADMAP**
+#GS3 #InternalSecurity #Defence #MainsValueAddition 
+
+<b><u>NEWS:</u></b> Indian Army unveiled it's Defence Modernisation Roadmap (DMR)
+
+<b><u>HIGHLIGHTS OF DEFENCE MODERNISATION ROADMAP:</u></b>
+1. **Advanced Weapons Systems:** Development of **ultra-fast and highly maneuverable weapon systems** including **hypersonic glide vehicles, hypersonic air-breathing engines (HEBs)**, and 4th, 5th, and 6th gen missiles.
+	- Need to ***transition from conventional dump category ammunition to smart, precision-guided munitions*** such as *loitering munitions.*
+	- Advanced efforts in ***direct energy weapons*** such as *high-energy lasers* and *microwave systems* for counter-drone operations, missile defence and anti-satellite capabilities.
+2. Cyber & Electronic Warfare (EW):** aiming **spectrum dominance** through developing next-generation cyber defence tools, autonomous EW solutions, and resilient satellite systems.
+3. **Soldier -Centric Modernization:** equip soldiers with **exoskeletons, human augmentation systems, smart body armour** and **augmented reality** based battlefield management systems.
+	- It also includes **AI-powered helmets, smart apparel, and real-time health monitoring** to enhance battlefield effectiveness.
+4.  **Logistics and Infrastructure:** modernizing **supply chains** through **AI, blockchains** and **IoT** integration to create *green, sustainable, cyber-resilient logistics systems.*
+5. **Synergy:** between **three key stakeholders:**
+	- **Military:** which must clearly *define operational needs*
+	- **Policymakers:** who must *create enabling networks*
+	- **Industry:** which must *innovate and deliver tailored solutions*
+
+<b><u>OTHER INITIATIVES BY INDIA FOR MODERNISATION OF ARMED FORCES:</u></b>
+1. **Long term modernisation planning** through 10 years ***Integrated Capability Development Plan (ICDP)***
+2. **Raising of niche capability structures:** in terms of ***Defence Space Agency***, ***Defence Cyber Agency*** and ***Armed Forces Special Operations Division***.
+3. **Innovations for Defence Excellence (iDEX):** supporting startups with funding up to **Rs. 1.5 crore**
+4. **Atmanirbharta in defence manufacturing:** through initiatives such as **positive indigenisation list (5 such lists have been issued)**, **SRIJAN portal**, and **liberalization of FDI** in defence R&D.
 
 ---
 ### **SECURITY AND DEVELOPMENT** #Quote 

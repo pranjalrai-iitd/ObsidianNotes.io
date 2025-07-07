@@ -659,3 +659,17 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 <p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/h8WgCydOuzYvhhjHW8rZQECsxLsDv6S39rONh5TF.jpg" alt="RECLAIM framework" width="700"/></p>
 
 ---
+### Fugitive Economic Offenders Act, 2018
+#GS3 #InternalSecurity #MoneyLaundering #Act 
+- It defined a **Fugitive Economic Offender (FEO)**
+	- He/she is an individual with an **arrest warrant** for a **scheduled offence** who has **left India** to **avoid prosecution** or refuses to return from abroad.
+		- ***Scheduled offence:*** are offences specified in the **schedule** of the Act with **total value of Rs. 100 crore** or more
+- To be declared a **FEO**, the concerned **authority must submit an application** with a **Special Court** - a special court of session under the **PMLA 2002**
+---
+### FaceAuth: Aadhar-based face authentication
+#GS3 #Economy #Agriculture #PDS #DPI 
+- **Himachal Pradesh** became the ***first state*** to introduce **Aadhar-based face authentication (FaceAuth)** for distribution of ration under the **Public Distribution System (PDS)**
+- It was introduced by **UIDAI** as an **additional mode of authentication**
+	- Other methods of authentication include **OTP-based, fingerprint,** and **iris-based**
+- It is based on a **1:1 matching** with the **facial image stored in the repository against the Aadhar number.**
+---

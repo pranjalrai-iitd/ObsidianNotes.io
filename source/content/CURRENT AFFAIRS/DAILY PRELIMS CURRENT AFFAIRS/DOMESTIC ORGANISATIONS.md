@@ -62,3 +62,68 @@
 		- Meghalaya
 			- *Lakadong Turmeric*
 ---
+### PETROLEUM AND NATURAL GAS REGULATORY BOARD (PNGRB)
+- It is a **statutory** body formed under the ***Petroleum and Natural Gas Regulatory Board Act, 2006***
+- **Functions:**
+	- **Regulation** of *refining, transportation, distribution, storage, marketing, supply and sale of petroleum products and natural gas* **EXCLUDING *production* of crude oil and natural gas** so as to ensure uninterrupted and adequate supply of petroleum products and natural gal in all parts of the country.
+	- It **registers** entities to market notified petroleum and petroleum products.
+	- **Protects the interest of consumers** by fostering fair trade and competition and ensure competitive market for gas.
+	- **Maintain a data bank of information** on activities related to petroleum, petroleum products and natural gas.
+- **Appeals** against the decisions of the PNGRB go before the **Appellate Tribunals for Electricity** established under the ***Electricity Act 2003*** 
+---
+### Atomic Energy Regulatory Board (AERB)
+#GS3 #Energy #Nuclear #Organizations 
+- Recently, **AERB** granted license for two *indigenously developed* 700 MW **PHWR** (Units 3 and 4) at the **Kakrapar** atomic power station, **Gujarat**. 
+- Established by the **President** in 1983 as per the provision of the ***Atomic Energy Act, 1962***, thus is a **statutory body**
+- Regulatory authority of AERB is derived from the **rules & notifications** promulgated under the **Atomic Energy Act, 1962** and **Environmental (Protection) Act, 1986**
+- It's mission is to ensure the use of ionizing radiation and nuclear energy in India *does not cause undue risk to health of people and the environment.* 
+- AERB also **administers** the provisions of ***Factories Act, 1948*** for ensuring industrial safety in the units of DAE.
+- **Composition of AERB:** **Chairman**, along with *ex-officio* members, ***4*** *part-time members* and a *secretary*
+- AERB functions with various ***committees:**
+	- **Apex Safety Review Committees**
+	- **Apex Advisory Committees**
+---
+### NCLAT
+#GS3 #Economy #Banking #CorporateGovernance 
+- Constituted under the **Companies Act, 2013** for hearing appeals against the orders of the National Company Law Tribunals **(NCLT)**
+- It also act as **appellate tribunal** for hearing appeals passed by:
+	- **NCLT**
+	- **IBBI** - Insolvency and Bankruptcy Board of India
+	- **CCI** - Competition Commission of India
+	- **NFRA** - *National Financing Reporting Authority*
+- Recently, **NCLAT** held that ***IBC, 2016 cannot override PMLA, 2002***
+---
+### National Financing Reporting Authority
+#GS3 #Economy #CorporateGovernance #Organizations 
+- Constituted under the **Companies Act, 2013**
+- **Duties of NFRA:**
+	- Recommend **accounting** and **auditing policies** and **standards** to be adopted by **companies** for approval by the Central Government.
+	- **Monitor and enforce compliance** with accounting and auditing standards.
+	- Oversee the **quality of service** of the professions associated with ensuring compliance with such standards and **suggest measures** for improvement in the quality of service.
+	- Perform such functions and duties as necessary or incidental to the aforesaid functions and duties.
+---
+### Fugitive Economic Offenders Act, 2018
+#GS3 #InternalSecurity #MoneyLaundering #Act 
+- It defined a **Fugitive Economic Offender (FEO)**
+	- He/she is an individual with an **arrest warrant** for a **scheduled offence** who has **left India** to **avoid prosecution** or refuses to return from abroad.
+		- ***Scheduled offence:*** are offences specified in the **schedule** of the Act with **total value of Rs. 100 crore** or more
+- To be declared a **FEO**, the concerned **authority must submit an application** with a **Special Court** - a special court of session under the **PMLA 2002**
+---
+### National Financing Reporting Authority
+#GS3 #Economy #CorporateGovernance #Organizations 
+- Constituted under the **Companies Act, 2013**
+- **Duties of NFRA:**
+	- Recommend **accounting** and **auditing policies** and **standards** to be adopted by **companies** for approval by the Central Government.
+	- **Monitor and enforce compliance** with accounting and auditing standards.
+	- Oversee the **quality of service** of the professions associated with ensuring compliance with such standards and **suggest measures** for improvement in the quality of service.
+	- Perform such functions and duties as necessary or incidental to the aforesaid functions and duties.
+---
+### National Medical Commission (NMC)
+#GS2 #GS3 #Health #SciTech #Organizations 
+- **NMC** has notified the ***Medical Institutions (Qualifications of Faculty) Regulations, 2025***
+	- The regulations have been issued by the **Post Graduate Medical Education Board** (***PGMEB***) under the **National Medical Commission (NMC)**
+- **NMC** is India's premier regulatory body overseeing ***medical education and practice.***
+- It is **statutory** body constitute under ***National Medical Commission Act,  2019*** and superseded the **Medical Council of India (MCI)**
+- It lay down policies for regulating medical institutions, medical researches and medical professionals, etc.
+---
+

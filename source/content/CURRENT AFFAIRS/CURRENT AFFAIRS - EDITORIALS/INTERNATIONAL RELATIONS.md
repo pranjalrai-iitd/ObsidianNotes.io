@@ -206,3 +206,32 @@
 >***"India's engagement in Africa has been guided by the vision of SAGAR , which was recently expanded to the Vision of MAHASAGAR (Mutual and Holistic Advancement of Security and Growth Across Regions) for the Global South."***
 
 ---
+### **INDIA AND LAC REGION**
+#GS2 #IR #BilateralRelations 
+
+<b><u>NEWS:</u></b>
+- Indian Prime Minister is on a **diplomatic tour** covering ***LAC (Latin America and Caribbean) countries***
+	- **LAC region** covers **South America, Central America** and the **Caribbean** comprising of **45 countries** 
+
+<b><u>INDIA-LAC BILATERAL RELATIONS:</u></b>
+1. **Economic ties:** total **trade** stood at ***USD 36 Billion*** with **exports** worth ***USD 14.5 Billion*** in **2023-24**
+	- India ***targets*** bilateral trade of ***USD 100 Billion by 2027-28***
+2. **Export and Imports:** **LAC** ranks **8th among India's import sources**, while **India** ranks **9th among LAC's export sources**
+	- **Major imports:** Extractive and *agricultural products* like *crude and petroleum products*, *pearls and precious stones,* and *vegetable oils.*
+	- **Major exports:** *Manufactured commodities* like *motor vehicles, chemical products, mineral fuels,* etc.
+3. **Trade Agreements:**
+	- **Preferential Trade Agreement** with ***MERCOSUR*** - a **Common Market** comprising of *Argentina, Bolivia, Brazil, Paraguay, and Uruguay* - **ABBPU**.
+		- **NOTE:** *Venezeula* was suspended in 2016  fro **MERCOSUR**
+	- **Comprehensive Partnership Agreement (CPA)** with **Chile**
+	- **FTA** negotiations going on with **Peru**
+4. **Energy and Infrastructure:** LAC is supplier of **critical minerals** like *Gold, Copper, and Lithium*. The **Lithium Triangle** is in LAC consisting of **Argentina, Chile and Bolivia**
+5. **Regional blocks:** promotes ***South-South cooperation**
+	- ***CELAC:*** Community of Latin America and Caribeban States
+	- ***SICA:*** Central American Integration System
+	- ***CARICOM:*** Caribbean Community -  the **2nd India-CARICOM summit** was held at **Guyana** in 2024
+		- Established as a **Common Market** in 1973 by the ***Treaty of Chaguamaras***
+		- It comprises of **15 countries**
+6. **Diaspora:** a lot of Indian **old diaspora** in the form of **Girimityas**
+
+---
+

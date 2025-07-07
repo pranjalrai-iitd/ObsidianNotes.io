@@ -19,7 +19,7 @@
 	- **Single nucleotide polymorphism (SNPs) analysis:** typically used when the DNA is highly degraded. A SNP is a variation in the DNA sequence where a **single base** - A,T,C,G - at a **specific location differs among people**.
 		- SNP is **unique to each person** and can be used for identification.
 ---
-## Rinderpest
+### Rinderpest
 #GS3 #SciTech #Health 
 - **Rinderpest** or **Cattle Plague** is a **contagious viral disease** affecting cloven-hoofed animals (mainly cattle and buffalo)
 - Caused by Paramyxoviridae family, genus **Morbiliivirus**
@@ -259,4 +259,29 @@
 - This will pave way for **international movement of Indian horses** and boost **Equestrian sports**, **high-value trade** and **biosecurity preparedness.**
 - India is also developing  **Highly Pathogenic Avian Influenza (HPAI) free compartments** to enable **safe export of poultry products**.
 ---
+### National Biobank
+#GS3 #SciTech #Biotech 
+- India inaugurated ***National Biobank*** at the **CSIR-Institute of Genomics and Integrative Biology** (***IGIB***), which will enhance India's capabilities in **precision medicine** and **biomedical** research.
+- **NATIONAL BIOBANK:**
+	- It is launched under ***Phenome India Project***
+		- It is based on the *UK Biobank model*, but customized for Indian diversity
+	- **Purpose:** to aid in *early diagnosis, improve therapeutic targeting,* and bolster the fight against *complex diseases,* and *rare genetic disorders.*
+		- It will generate **high-resolution data** that can power **AI-driven diagnostics** and **gene-guided therapies.**
+	- **Coverage:** comprehensive genomic, lifestyle and clinical data from ***10,000 individuals***
+- **PHENOME INDIA PROJECT:**
+	- Officially called as ***Phenome India-CSIR Health Cohort Knowledgebase (PI-CheCK)*** and was launched by **CSIR** in 2023..
+	- It is designed to be a long-term, data-rich study tracking health trajectory of individuals over several years
 
+>***Phenome:*** is the **entire set of phenotypes** in a cell, tissue, organ, organism or species.
+>***Phenotype:*** refers to the **observable physical characteristics** of an organism. An organism's **phenotype** is determined by its **genotype** as well as **environmental influences** upon the genes.
+
+---
+### Interstellar comet 3I/ATLAS
+#GS3 #SciTech #Space 
+- NASA funded **ATLAS *(Asteroid Terrestrial-impact Last Alert System)*** survey **telescope** in ***Chile***, discovered an **Interstellar comet** named **3I/ATLAS**
+- It is an ***Active comet***, i.e, if displays **out-gassing** due to **sublimation** - a process in which frozen gases transform directly into vapor, carrying dust and ice particles into space to form a **glowing coma** and **tail.**
+- It is ***only thirst interstellar object detected:***
+	1. ***1I/'Oumuamua*** in *2017*
+	2. ***2I/Borisov*** in *2019*
+	3. ***3I/ATLAS*** in *2025*
+---
