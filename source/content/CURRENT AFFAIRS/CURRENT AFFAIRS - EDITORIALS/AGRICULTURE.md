@@ -122,8 +122,9 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 2. **Successful implementation of Bt Cotton** as an example with ***193% cotton growth*** between **FY03-FY14**, with ***87% productivity increase.***
 3. **GM crops are already in our food system:** Indians already consume **Bt cotton seed oil** and **GM-soya and corn already being imported as poultry feed**
 4. Delay in adopting GM crops has resulted in **productivity decline in India** #Eg **HT-Bt cotton** not being adopted as the next gen cotton seed
-5. Huge **potential to boost horticulture** and to **diversify India's cropping pattern** #Eg **Bt Brinjal** , **GM Mustard (DMH-11)**, and **GM soy**.
-6. Huge potential for **GM seed exports** to **Asia and Africa**
+5. Farmers already growing unapproved GM crops **illegally through leaked seeds** - around **15-25% cotton acreage is estimated by some firms to be under unapproved HT-Bt cotton**. This shows, **willingness of farmers to grow GM crops.**
+6. Huge **potential to boost horticulture** and to **diversify India's cropping pattern** #Eg **Bt Brinjal** , **GM Mustard (DMH-11)**, and **GM ssoy**.
+7. Huge potential for **GM seed exports** to **Asia and Africa**
 
 <b><u>CONCLUSION:</u></b> 
 >***Honbl. PM Atal Bihari Vajpayee was instrumental in allowing Bt-Cotton cultivation in India and he quipped, "IT (Information Technology) is for India and BT (Biotechnology) is for Bharat". We must proceed with advanced biotechnology in agriculture as "from plate to plough, India's future depends on embracing gene technology."***
