@@ -1,7 +1,6 @@
 
 ---
-<h2 align="center">JUNE 2025</h2>
-
+## JUNE 2025
 ---
 ### ILO Social Security Report
 #GS1 #GS2 #Society #SocialJustice #InternationalOrganizations #Data
@@ -2872,8 +2871,7 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 - It can enable **target cell therapies, virus-resistant transplants, and climate engineered plants**
 ---
 ---
-<h2 align="center">JULY 2025</h2>
-
+## JULY 2025
 ---
 ### RBI's Financial Stability Report (FSR)
 #GS3 #Economy #RBI #Data #Report #MainsValueAddition 
