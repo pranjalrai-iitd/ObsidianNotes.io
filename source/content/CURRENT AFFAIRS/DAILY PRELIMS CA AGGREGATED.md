@@ -1,4 +1,19 @@
-
+## TOPICS
+- **[[AGRICULTURE & PRIMARY SECTOR]]**
+- **[[ART & CULTURE]]**
+- **[[BIODIVERSITY]]**
+- **[[DOMESTIC ORGANISATIONS]]**
+- **[[CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/ECONOMY|ECONOMY]]**
+- **[[CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/ENVIRONMENT|ENVIRONMENT]]**
+- **[[GEOGRAPHY & DISASTER MANAGEMENT]]**
+- **[[INTERNAL SECURITY & MILITARY EXERCISES]]**
+- **[[IR & INTERNATIONAL ORGANISATIONS]]**
+- **[[MINERALS]]**
+- **[[PLACES IN NEWS & MAPPING]]**
+- **[[CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/POLITY|POLITY]]**
+- **[[SCHEMES, ACTS, REPORTS & REGULATIONS]]**
+- **[[SCIENCE & TECHNOLOGY]]**
+- **[[SOCIETY]]**
 ---
 ## JUNE 2025
 ---
@@ -898,7 +913,7 @@ A(Social security)-->D(Labor market  programs);
 		- India did **not** joined
 		- ***Legally binding*** on the **ratified states**
 ---
-## Rinderpest
+### Rinderpest
 #GS3 #SciTech #Health 
 - **Rinderpest** or **Cattle Plague** is a **contagious viral disease** affecting cloven-hoofed animals (mainly cattle and buffalo)
 - Caused by Paramyxoviridae family, genus **Morbiliivirus**
