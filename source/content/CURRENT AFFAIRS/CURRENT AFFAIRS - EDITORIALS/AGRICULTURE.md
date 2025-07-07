@@ -85,3 +85,47 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 <b><u>CONSLUSION:</u></b> ***"The future of agriculture depends on widespread adoption of dynamic agroforestry, as it is the best means to improve land productivity and best link between environment and economy"***
 
 ---
+### **GENETIC-TECHNOLOGY IN AGRICULTURE**
+
+<b><u>NEWS/DATA:</u></b> 
+- **USA** is urging India to open its agriculture market to imports of **Genetically Modified (GM) crops**.
+- **Global GM crop adoption** has skyrocketed since 1996, with **200 MnHa** of GM soybean, maize, canola being grown in **2023** across 76 countries.
+
+<b><u>CASE STUDY OF BT-COTTON:</u></b>
+- In **2002, Atal Bihari Vajpayee's government took a bold decision to allow BT-Cotton** in India and today **90% India's cotton area** is under **BT-Cotton** with ***193% cotton growth*** between **FY03-FY14**, with ***87% productivity increase.***
+- India became **2nd largest cotton producer** and **second largest cotton exporter** with around **USD 4 Billion** in exports.
+- **Bt-Cotton seed** is consumed by livestock and the **BT-Cotton seed oil** is consumed by humans. ***Although, some scientist suggest the oil does not the carry the protein that the seed has.***
+  <p align="center"><img src="https://indianexpress.com/wp-content/uploads/2025/07/BT-cotton.jpg" alt="Cotton Production" width="600"/></p>
+
+- However, since 2015 the **productivity gains flattened and then dipped** with yield **decreasing to even below global average** in 2023-24. This corresponds to ***2% average annual drop in cotton production since 2015***
+	- In 2023-24, the Cotton Yields are 
+		- **India: 436 kg/Ha**
+		- **Global avg: 770 Kg/Ha**
+		- **China: 1945 Kg/Ha (around 5 times of India! )**
+	- **Reasons:**
+		1. Largely drive by **pests outbreaks** - ***Pink Bollworms*** and ***Whiteflies***
+		2. **Prohibition** on **next generation cotton seeds** i.e, **Herbicide-tolerant (HT) BT-Cotton**
+			- **HT-BT-Cotton** is engineered to survive **Glyphosate spraying** never received official clearance and trials were suspended
+			- Still, **seeds have been leaked to farmers** with estimates that **GT-Bt Cotton** covers around ***15-25% acreage***.
+				- This represents **disconnect between government and farmers**
+		3. Tangled regulations like, **Price Control Order of 2015** through which government entered into **private seed contracts**, by **slashing Bt cotton seed royalties to Rs. 39/packet - to low to entice biotech firms to invest in new seed technologies.**
+		4. **Activism** and **idealogical opposition** to GM crops in India
+	- India now has turned to a ***net importer of cotton*** with net imports of USD 400 Mn
+
+<b><u>OTHER GM CROPS:</u></b>
+- Approval of **Bt Brinjal** and **GM mustard (DMH 11)** still remains on hold despite being **cleared by GEAC**
+	- **Bt Brinjal** is still under moratorium since 2009
+	- **GM Mustard** got **conditional environmental release in 2022**, but still **not approved for commercialization** 
+
+<b><u>GM CROPS AND FUTURE:</u></b> India **must approve GM crops** and **must produce them itself** rather than **importing them from USA**
+1. **India falling behind the world:** around  **200 MnHa** of GM soybean, maize, canola being grown in **2023** across 76 countries.
+2. **Successful implementation of Bt Cotton** as an example with ***193% cotton growth*** between **FY03-FY14**, with ***87% productivity increase.***
+3. **GM crops are already in our food system:** Indians already consume **Bt cotton seed oil** and **GM-soya and corn already being imported as poultry feed**
+4. Delay in adopting GM crops has resulted in **productivity decline in India** #Eg **HT-Bt cotton** not being adopted as the next gen cotton seed
+5. Huge **potential to boost horticulture** and to **diversify India's cropping pattern** #Eg **Bt Brinjal** , **GM Mustard (DMH-11)**, and **GM soy**.
+6. Huge potential for **GM seed exports** to **Asia and Africa**
+
+<b><u>CONCLUSION:</u></b> 
+>***Honbl. PM Atal Bihari Vajpayee was instrumental in allowing Bt-Cotton cultivation in India and he quipped, "IT (Information Technology) is for India and BT (Biotechnology) is for Bharat". We must proceed with advanced biotechnology in agriculture as "from plate to plough, India's future depends on embracing gene technology."***
+
+---

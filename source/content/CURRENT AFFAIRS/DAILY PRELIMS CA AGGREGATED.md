@@ -3111,7 +3111,8 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 - It will be called, ***"Khelo Bharat Niti, 2025"***
 - **Pillars of the  NSP or Khelo Bharat Niti, 2025**
 	- **Excellence on global stage** through strengthening of sports programs from *grassroots to elite levels*, enhance capacity and governance of the **National Sports Federation**, etc.
-	- **Economic Development:** ensuring **social inclusion** through the participation of women and weaker sections, etc.
+	- **Economic Development:** Promoting the **economic potential** of sports through **sports tourism**, promoting **Start up and entrepreneurship**, encouraging **PPP and CSR**, etc.
+	- **Sports for social development:** ensuring **social inclusion** through the participation of women and weaker sections, etc.
 	- **Sports a people's movement:** driving **mass participation**, promoting a **culture of fitness** and universal access to sports facilities, etc.
 	- **Integration with National Education Policy 2020:** by **integrating sports into school curricula** with specialized training for teachers, etc.
 - **Strategic Framework for the KBN 2025:**
