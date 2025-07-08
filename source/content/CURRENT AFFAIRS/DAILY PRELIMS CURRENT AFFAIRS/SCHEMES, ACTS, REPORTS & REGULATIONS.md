@@ -708,12 +708,12 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 - **Making Agrifood systems work for Youth:**
 ```mermaid
 graph TD;
-A(<b><u>Youth-Inclusive Agrifood systems</u></b>)-->B(**Broad-based Agrifood systems Transformation**);
-A(<b><u>Youth-Inclusive Agrifood systems</u></b>)-->C(**Youth Empowerment**);
-B(**Broad-based Agrifood systems Transformation**)-->D(Increasing supply of decent jobs);
+A(<b><u>Youth-Inclusive Agrifood systems</u></b>)-->B(<b>Broad-based Agrifood systems Transformation</b>);
+A(<b><u>Youth-Inclusive Agrifood systems</u></b>)-->C(<b>Youth Empowerment</b>);
+B(<b>Broad-based Agrifood systems Transformation</b>)-->D(Increasing supply of decent jobs);
 D(Increasing supply of decent jobs)--> E(Improving Food security and Nutrition);
 E(Improving Food security and Nutrition)--> F(Strengthening Resilience to shocks);
-C(**Youth Empowerment**)-->G(Enhancing youth voice and agency);
+C(<b>Youth Empowerment</b>)-->G(Enhancing youth voice and agency);
 G(Enhancing youth voice and agency)-->H(Increasing youth skills and training);
 H(Increasing youth skills and training)-->I(Improving youth access to resources);
 ```
