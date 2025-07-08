@@ -329,6 +329,7 @@
 - It is jointly announced by **India** and **Myanmar** offering **multi-modal transportation** of cargo from Eastern Ports of India to Myanmar and to **India's North-Eastern Region (NER)** through **Myanmar**
 	- Provides **India with an alternate route to NER** bypassing the **Chicken's neck corridor**
 <p align="center"><img src="KMTTP.png" alt="KMTTP" width="500"/></p>
+
 - **KMTTP:**
 	- Framework Agreement was signed in **2008**
 	- **Project Development Consultant (PDC):** ***Inland Waterways Authority of India (IWAI)*** (statutory body under *IWAI Act 1986*)

@@ -3620,6 +3620,7 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 - It is jointly announced by **India** and **Myanmar** offering **multi-modal transportation** of cargo from Eastern Ports of India to Myanmar and to **India's North-Eastern Region (NER)** through **Myanmar**
 	- Provides **India with an alternate route to NER** bypassing the **Chicken's neck corridor**
 <p align="center"><img src="KMTTP.png" alt="KMTTP" width="500"/></p>
+
 - **KMTTP:**
 	- Framework Agreement was signed in **2008**
 	- **Project Development Consultant (PDC):** ***Inland Waterways Authority of India (IWAI)*** (statutory body under *IWAI Act 1986*)
@@ -3680,6 +3681,7 @@ C(**Youth Empowerment**)-->G(Enhancing youth voice and agency);
 G(Enhancing youth voice and agency)-->H(Increasing youth skills and training);
 H(Increasing youth skills and training)-->I(Improving youth access to resources);
 ```
+
 
 ---
 
