@@ -456,6 +456,42 @@
 4. Reduction in **primary government expenditure** as a proportion of original approved budget
 
 ---
+### **SDG LOCALISATION**
+#GS3 #Economy #SustainableDevelopment #Report 
+
+<b><u>NEWS:</u></b>
+- **NITI Aayog**  released the **District SDG Index 2023-24 for the North East Region (NER)** and ranked ***Hnahthial (Mizoram)*** as the **best performing district** in NER.
+- India entered **top 100** for the **first time** and ranked **99** in **UNSDN's** ***Sustainable Development Report 2025***
+
+<b><u>SIGNIFICANCE OF LOCALISING SDG GOALS</u></b>
+1. **Local spaces as key site of delivery:** State-level **Vision and Agenda** documents sets targets for implementation and monitors it through **Village Level Monitoring Committee**, like in **Mizoram.**
+2. **Bottom-up approach:** subnational government acts as a **bridge** between the National government and the communities fostering civil society, academia and private sector participation.
+3. **Mobilizing local resources:** by adopting measures to **align state budgets** with SDGs
+4. **Address disparities:** local achievements would overcome **intra-regional** and **inter-district disparities** and align it with **national average**
+5. **Ensures saturation approach:** where every individual contributes to wards SDG achievement. #Eg **UP's Fatehpur village with no bridge - locals tried building a bridge themselves, but that was stopped by the authorities**. Localisation of SDGs is necessary to address such cases.
+
+<b><u>CHALLENGES IN SDG LOCALISATION:</u></b>
+1. **Financial constraints:** *competing priorities* in municipal budgets, where essential services like healthcare and education may take *precedence over sustainability projects.*
+2. **Intersectionality of Goals:** local governments may struggle to *balance economic growth* with *environmental sustainability*.
+3. **Data quality and availability:** lack of *up-to date socio-economic data* hampers evidence based decision-making.
+4. **Challenges of unaddressed issues** as per **SDG-NIF Report by MosPI 2025**
+	1. Rising **adolescent birth rates** in girls
+	2. Rise in **road accident fatalities**
+	3. Decline in **issuance of soil health cards**
+	4. Reduction in **primary government expenditure** as a proportion of original approved budget
+
+<b><u>INDIA AND SDG LOCALISATION:</u></b>
+- **NITI Aayog:**
+	- *Competitive and Cooperative federalism*
+	- **SDG India Index**
+	- **Agenda 2030**, etc.
+- **Schemes/Initiatives:**
+	- **Panchayat Advancement Index (PAI)**
+	- **Rashtriya Gram Swaraj Abhiyan (RGSA)**
+	- **PMAY**
+	- State schemes like CM's **Samagra Gramya Unnayan Yojana** of Assam
+
+---
 ### **MOBILIZING PRIVATE CAPITAL FOR SUSTAINABLE DEVELOPMENT**
 #GS3 #Economy #PrivateCapital #SustainableDevelopment 
 

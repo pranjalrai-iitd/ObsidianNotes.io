@@ -1918,28 +1918,6 @@ A(Social security)-->D(Labor market  programs);
 		- **Tripura**
 	- State must achieve a **benchmark of 95% literacy** among the **individuals aged 15 years and above**
 ---
-### Sustainable Development Report 2025
-#GS3 #Economy #SustainableDevelopment #Report 
-- 2025 **Sustainable Development Report** has the theme - ***"Financial Sustainable Development to 2030 and Mid-Century"***
-- **Sustainable Development Report** has been released annually since 2016 by the ***UNSDN* (UN Sustainable Development Solutions Network)**
-	- **UNSDN** was launched in **2012** to **mobilize scientific & technological expertise** for the **implementation** of the **SDGs** and the **Paris Climate Agreement**.
-- <b><u>Sustainable Development Goals (SDG):</u></b>
-	- SDGs are 17 global goals established by **UN** in **2015** as a part of the 2030 Agenda for Sustainable Development
-	- SDGs are built upon the backdrop of the **Millennium Development Goals (MDGs)** - which targeted *extreme poverty* from *2000-2015*
-- **Findings of the SDR 2025:**
-	- ***Global commitment to the SDGs is strong:*** 190 out of the 193 countries have presented National Action Plans for advancing sustainable development.
-	- ***SDGs are far off-track:*** **None** of the SDGs are on track to be achieved by 2030
-	- ***Support for UN multilateralism:*** 
-		- ***Barbados*** ranks highest, while the ***USA*** ranks last in the **2025 UN Multilateralism** ***(UN-Mi)***
-	- ***India entered top 100 in SDR 2025:***
-		- Ranked **99** from 109th in 2024
-	- **Finland** is ranked **1st** overall
-- **Challenges to SDG progress:**
-	- Global conflicts
-	- Structural vulnerabilities
-	- Limited fiscal space
-	- Delayed capital support by high-income countries to support Multilateral Development Banks
----
 ### Relaxed PSL norms for SFBs
 #GS3 #Economy #Banking
 - **RBI** issued new **PSL ruled for SFBs** under the ***Section 22(1)*** of the ***Banking Regulation Act, 1949***
@@ -2912,6 +2890,28 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 		- **Climate related shocks:** have potential to disrupt business operations through the ***materialization of physical hazard***
 - **NOTE:** ***Global Financial Stability Report*** is released by **IMF**
 ---
+### Sustainable Development Report 2025
+#GS3 #Economy #SustainableDevelopment #Report 
+- 2025 **Sustainable Development Report** has the theme - ***"Financial Sustainable Development to 2030 and Mid-Century"***
+- **Sustainable Development Report** has been released annually since 2016 by the ***UNSDN* (UN Sustainable Development Solutions Network)**
+	- **UNSDN** was launched in **2012** to **mobilize scientific & technological expertise** for the **implementation** of the **SDGs** and the **Paris Climate Agreement**.
+- <b><u>Sustainable Development Goals (SDG):</u></b>
+	- SDGs are 17 global goals established by **UN** in **2015** as a part of the 2030 Agenda for Sustainable Development
+	- SDGs are built upon the backdrop of the **Millennium Development Goals (MDGs)** - which targeted *extreme poverty* from *2000-2015*
+- **Findings of the SDR 2025:**
+	- ***Global commitment to the SDGs is strong:*** 190 out of the 193 countries have presented National Action Plans for advancing sustainable development.
+	- ***SDGs are far off-track:*** **None** of the SDGs are on track to be achieved by 2030
+	- ***Support for UN multilateralism:*** 
+		- ***Barbados*** ranks highest, while the ***USA*** ranks last in the **2025 UN Multilateralism** ***(UN-Mi)***
+	- ***India entered top 100 in SDR 2025:***
+		- Ranked **99** from 109th in 2024
+	- **Finland** is ranked **1st** overall
+- **Challenges to SDG progress:**
+	- Global conflicts
+	- Structural vulnerabilities
+	- Limited fiscal space
+	- Delayed capital support by high-income countries to support Multilateral Development Banks
+---
 ### SDG-NIF Progress Report 2025
 #GS3 #Economy #SustainableDevelopment #Report 
 - **MosPI** released the **SDG-National Indicator Framework (NFI) Progress Report 2025**
@@ -3613,4 +3613,158 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 	1. ***1I/'Oumuamua*** in *2017*
 	2. ***2I/Borisov*** in *2019*
 	3. ***3I/ATLAS*** in *2025*
+---
+### Kaladan Multimodal Transit Transport Project (KMTTP)
+#GS2 #IR #PlacesInNews 
+- Union Minister announced that **KMTTP** will be **operational** by ***2027***
+- It is jointly announced by **India** and **Myanmar** offering **multi-modal transportation** of cargo from Eastern Ports of India to Myanmar and to **India's North-Eastern Region (NER)** through **Myanmar**
+	- Provides **India with an alternate route to NER** bypassing the **Chicken's neck corridor**
+<p align="center"><img src="KMTTP.png" alt="KMTTP" width="500"/></p>
+- **KMTTP:**
+	- Framework Agreement was signed in **2008**
+	- **Project Development Consultant (PDC):** ***Inland Waterways Authority of India (IWAI)*** (statutory body under *IWAI Act 1986*)
+	- **Transit components:**
+		1. ***Kolkata*** to ***Sittwe*** via ***sea route***
+		2. ***Sittwe** (Rakhine, Mayanmar)* to ***Paletwa*** through the ***Kaladan river***
+		3. ***Paletwa*** to ***Zorinpui** (Mizoram)* via 4-lane ***highway***
+		4. ***Zorinpui** (Mizoram)* to ***Aizwal*** and beyond through ***high-speed corridor***
+- **Significance:**
+	- **End geographic isolation of NER:** by providing alternate connectivity to the NER bypassing the geostrategic *Chicken's neck corridor.*
+	- **Logistic cost and time:** for the goods from Kolkata to Aizwal will **drop by 50%**
+	- **Develop NER as a business hub:** through boosting **trade** and establish **expoty-oriented industries**
+- **Other connectivity projects for NER:***
+	- ***India-Myanmar-Thailand Trilateral Highway Project:*** connects **Moreh (Manipur)** to **Mae Sot (Thailand)** via **Myanmar**
+	- ***Protocol on Inland Water Transit and Trade (PIWT&T):*** between **India** and **Bangladesh** allowing inland vessels.cruises of one country to ply on the designated waterway routes of another
+	- ***Bangladesh-Bhutan-India-Nepal (BBIN) Motor Vehicle Agreement:*** an **MoU** for the use of **Chattogram** and **Mongla** ports of **Bangladesh**
+---
+### District SDG Index 2023-24 for NER
+#GS3 #Economy #SustainableDevelopment #Report 
+- Released by **NITI Aayog** for the **North East Region (NER)**
+- It ranked, ***Hnahthial (Mizoram)*** as the **best performing district** in NER and places ***all districts*** of **Mizoram, Sikkim, & Tripura** in the ***front runner status***
+- This ensures **SDG localisation** through ***bottom-up approach*** and ***local development policy***
+- **India and SDG Localisation:**
+	- **NITI Aayog:**
+		- *Competitive and Cooperative federalism*
+		- **SDG India Index**
+		- **Agenda 2030**, etc.
+	- **Schemes/Initiatives:**
+		- **Panchayat Advancement Index (PAI)**
+		- **Rashtriya Gram Swaraj Abhiyan (RGSA)**
+		- **PMAY**
+		- State schemes like CM's **Samagra Gramya Unnayan Yojana** of Assam
+---
+### Status of Youth in Agrifood Systems Report
+#GS1 #GS3 #SocialIssues #Agriculture #Youth #Report 
+- Report released by **Food and Agricultural Organization (FAO)** providing an assessment on **leveraging synergies** between **youth** and **Agrifood systems** for ***eliminating unemployment***
+- #Data **85% of world's population - 1.3 billion youth** live in **lower income countries** and nearly ***half of all youth (46%) still live in rural areas***
+- **Highlights of the Report:**
+	- **Economic growth:** Employment could generate a **1.4% boost in global GDP** with *45%* driven by *increased youth participation in Agrifood sytems*.
+	- **Youth participation:** around **44% of working youth** relies on agrifood systems for employment, compared to **38% of working adults**
+	- **Decline in working youth in agrifood systems:** it has decreased from **54% (2005)** to ***44% (2021)***
+	- **Food insecurity:** has risen from *16.7% (2014-16)* to ***24.4% (2021-23)***
+- **Challenges of Youth participation in Agriculture:**
+	- **Social status:** #Eg Farmers are perceives as having lower social status
+	- **Climate change:** #Eg Risks associated with it demotivates young people
+	- **Skewed internal migration:** #Eg In India, **SC/ST individuals aged 16-40** are **over-represented in short-term migration** 
+	- **Women inequality:** #Eg Women **relinquish their share of inherited land** in favour of brothers
+	- **Landlessness:** #Eg Most young people are landless and start farming on rented land
+- **Making Agrifood systems work for Youth:**
+```mermaid
+graph TD;
+A(<b><u>Youth-Inclusive Agrifood systems</u></b>)-->B(**Broad-based Agrifood systems Transformation**);
+A(<b><u>Youth-Inclusive Agrifood systems</u></b>)-->C(**Youth Empowerment**);
+B(**Broad-based Agrifood systems Transformation**)-->D(Increasing supply of decent jobs);
+D(Increasing supply of decent jobs)--> E(Improving Food security and Nutrition);
+E(Improving Food security and Nutrition)--> F(Strengthening Resilience to shocks);
+C(**Youth Empowerment**)-->G(Enhancing youth voice and agency);
+G(Enhancing youth voice and agency)-->H(Increasing youth skills and training);
+H(Increasing youth skills and training)-->I(Improving youth access to resources);
+```
+
+---
+
+### Changes in Floods
+#GS3 #DisasterManagement #Floods #Report 
+- **IIT Delhi** and **IIT Roorkee** have found that **riverine floods in India** are **changing** in terms of ***magnitude, size and intensity***, over the **past 40 years**.
+- **Highlights:**
+	- **Decline in flood magnitude:** Around 74% stations showed decreasing flood magnitude trends whereas 26% showed increasing trends.
+		- ***Larger catchments experienced reduced flood magnitudes***
+		- **Region specific:**
+			- **West and Central Ganga basin:** saw **17% decline** per decade in *monsoon floods* due to *declining precipitation* and *soil moisture*
+			- **Narmada basin:** consistent *decrease* in the magnitudes of floods mainly on the account of *dam construction*
+			- **Marathwada region:** river flows are **decreasing at 8%** during Monsoon and **31%** in pre-Monsoon season
+	- **Rise in pre-Monsoon Flood intensity:** increase of **8%** per decade in *pre-monsoon flood intensity* particularly on the **Malabar coast** due to ***rising pre-Monsoon rainfall**
+	- **Shift in flood timing:** 
+		- **Upper Ganga** - ***delayed floods***
+		- **Central India** - ***earlier floods***
+		- **Southern India** - generally sees ***later floods***
+- **Implications:**
+	- **Reservoir operations and water security:** declining floods may mean **lower reservoir levels** affecting water supply, irrigation and hydropwer.
+	- **Overhauling of flood management system:** increased focus on **early warning systems**, ***green buffers***, **smart planning** and **resilient infrastructure**.
+---
+### Enemy Properties Act 1968
+#GS2 #Policy #Act 
+- It defines an ***"enemy"*** as a **country (and its citizens)** that committed **external aggression against India** i.e, *Pakistan* and *China*.
+- Enemy Property means any property for the time being **belonging to or held or managed on behalf of an enemy subject or an enemy firm.**
+- The act vests these assets to the **Custodian of Enemy Property for India, Ministry of Home Affairs**
+- **2017 Amendment to the Enemy Properties Act 1968:** ***expanded the definition of enemy*** to counter a court judgement. The definition of ***enemy*** now includes:
+	- **Legal heir** or **successor of enemy** weather or not citizen of India or the citizen of a country which is not an enemy.
+	- **Enemy** who has **changed his nationality.**
+---
+### Jaa Mata Exercise
+#GS3 #InternalSecurity #MilitaryExercise 
+- **Japanese Coast Guard** ship, ***Itsukushima*** arrived in **Chennai** for the **joint exercise**, ***"Jaa Mata"***
+- **Jaa Maata** in Japanese means, ***"See you later"***
+- It is a **joint sea exercise** between **Japan** and **Indian Coast Guard**
+---
+### Central Drugs Standard Control organisation (CDSCO)
+#GS3 #GS2 #Governance #Health #Organizations 
+- CDSCO recommended 17 drugs to be ***flushed down the sink*** to **prevent harm to pets and people**
+- These drugs include:
+	- ***Fentanyl*** - a **narcotic**
+	- ***Tramadol*** - a **painkiller**
+	- ***Diazepam*** - an **anti-anxiety medication**
+- **CDSCO:**
+	- It id the Central Drug Authority under **Directorate General of health Services, MoH&FW**
+	- It discharges functions assigned to the ***Central government*** under the ***Drugs and Cosmetics Act, 1940***
+		- <b><u>NOTE:</u></b> Regulation of ***manufacture, sale and distribution of drugs*** is primarily the concern of the ***State authorities*** while the ***Central authorities*** are responsible for ***approval of new drugs***.
+	- **Functions:**
+		- Regulatory control over **import of drugs** - *import licensing*
+		- Approval of **new drugs** and **clinical trials**
+		- **Banning** of **drugs** and **cosmetics**
+		- Meetings of **Drugs Consultative Committee (DCC)*** and **Drugs Technical Advisory Board (DTAB)**
+			- ***Both DCC and DTAB are statutory*** under the ***Drugs and Cosmetics Act, 1950***
+---
+### Maize
+#GS3 #Agriculture #Crops 
+- 11th ***India Maize Summit 2025*** held in **Delhi**
+- Maize is a **kharif crop** and is used both as **food** and **fodder**
+- Globally, it is known as the ***"queen of cereals"*** because it has the **highest genetic yields potential** among the cereals.
+- **Growing conditions:**
+	- **Soil:** well drained *sandy loamy to silt loamy* soil
+		- It grows well in **old alluvial soil**
+	- **pH:** *5.5-7.5*
+	- **Temperature:** *21-27 degree C*
+- **Country wise production:**
+	1. USA
+	2. China
+	3. Brazil
+	4. Argentina
+	5. EU
+	6. India
+- **State wise production in India:**
+	1. **Karnataka** - 16.54%
+	2. **Madhya Pradesh** - 11.37%
+	3. **Maharashtra** - 10.91%
+---
+### Battery Passport
+#GS3 #SciTech #Scheme 
+- **NITI Aayog** has started deliberations with ministries on the proposed ***Battery Passport Framework***
+	- ***European Union Battery Regulation (2023)*** also mentioned the need for **battery passport** for **industrial batteries** with a **capacity** greater than ***2kWh***
+- **Battery Passport:**
+	- It is a **unique ID** for every battery containing information on the product including its **origin, performance, composition, end of life,** etc. digitally embedded in a ***QR Code***
+- **Significance:**
+	- Improves *safety* and *quality standards*
+	- Accelerate *export* of EVs from India
+	- Promote *transparent* and *circular supply chain*
 ---

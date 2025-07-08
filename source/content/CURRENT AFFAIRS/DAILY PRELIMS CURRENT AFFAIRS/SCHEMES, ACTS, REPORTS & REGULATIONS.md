@@ -450,6 +450,22 @@
 	- Decline in **issuance of soil health cards**
 	- Reduction in **primary government expenditure** as a proportion of original approved budget
 ---
+### District SDG Index 2023-24 for NER
+#GS3 #Economy #SustainableDevelopment #Report 
+- Released by **NITI Aayog** for the **North East Region (NER)**
+- It ranked, ***Hnahthial (Mizoram)*** as the **best performing district** in NER and places ***all districts*** of **Mizoram, Sikkim, & Tripura** in the ***front runner status***
+- This ensures **SDG localisation** through ***bottom-up approach*** and ***local development policy***
+- **India and SDG Localisation:**
+	- **NITI Aayog:**
+		- *Competitive and Cooperative federalism*
+		- **SDG India Index**
+		- **Agenda 2030**, etc.
+	- **Schemes/Initiatives:**
+		- **Panchayat Advancement Index (PAI)**
+		- **Rashtriya Gram Swaraj Abhiyan (RGSA)**
+		- **PMAY**
+		- State schemes like CM's **Samagra Gramya Unnayan Yojana** of Assam
+---
 ### 10 Years of Digital India Mission
 #GS3 #SciTech #DPI #Scheme #Data
 - It was launched in 2015 with an aim to transform India into a **digitally empowered society and knowledge economy**
@@ -674,3 +690,53 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 	- Other methods of authentication include **OTP-based, fingerprint,** and **iris-based**
 - It is based on a **1:1 matching** with the **facial image stored in the repository against the Aadhar number.**
 ---
+### Status of Youth in Agrifood Systems Report
+#GS1 #GS3 #SocialIssues #Agriculture #Youth #Report 
+- Report released by **Food and Agricultural Organization (FAO)** providing an assessment on **leveraging synergies** between **youth** and **Agrifood systems** for ***eliminating unemployment***
+- #Data **85% of world's population - 1.3 billion youth** live in **lower income countries** and nearly ***half of all youth (46%) still live in rural areas***
+- **Highlights of the Report:**
+	- **Economic growth:** Employment could generate a **1.4% boost in global GDP** with *45%* driven by *increased youth participation in Agrifood sytems*.
+	- **Youth participation:** around **44% of working youth** relies on agrifood systems for employment, compared to **38% of working adults**
+	- **Decline in working youth in agrifood systems:** it has decreased from **54% (2005)** to ***44% (2021)***
+	- **Food insecurity:** has risen from *16.7% (2014-16)* to ***24.4% (2021-23)***
+- **Challenges of Youth participation in Agriculture:**
+	- **Social status:** #Eg Farmers are perceives as having lower social status
+	- **Climate change:** #Eg Risks associated with it demotivates young people
+	- **Skewed internal migration:** #Eg In India, **SC/ST individuals aged 16-40** are **over-represented in short-term migration** 
+	- **Women inequality:** #Eg Women **relinquish their share of inherited land** in favour of brothers
+	- **Landlessness:** #Eg Most young people are landless and start farming on rented land
+- **Making Agrifood systems work for Youth:**
+```mermaid
+graph TD;
+A(<b><u>Youth-Inclusive Agrifood systems</u></b>)-->B(**Broad-based Agrifood systems Transformation**);
+A(<b><u>Youth-Inclusive Agrifood systems</u></b>)-->C(**Youth Empowerment**);
+B(**Broad-based Agrifood systems Transformation**)-->D(Increasing supply of decent jobs);
+D(Increasing supply of decent jobs)--> E(Improving Food security and Nutrition);
+E(Improving Food security and Nutrition)--> F(Strengthening Resilience to shocks);
+C(**Youth Empowerment**)-->G(Enhancing youth voice and agency);
+G(Enhancing youth voice and agency)-->H(Increasing youth skills and training);
+H(Increasing youth skills and training)-->I(Improving youth access to resources);
+```
+
+---
+### Enemy Properties Act 1968
+#GS2 #Policy #Act 
+- It defines an ***"enemy"*** as a **country (and its citizens)** that committed **external aggression against India** i.e, *Pakistan* and *China*.
+- Enemy Property means any property for the time being **belonging to or held or managed on behalf of an enemy subject or an enemy firm.**
+- The act vests these assets to the **Custodian of Enemy Property for India, Ministry of Home Affairs**
+- **2017 Amendment to the Enemy Properties Act 1968:** ***expanded the definition of enemy*** to counter a court judgement. The definition of ***enemy*** now includes:
+	- **Legal heir** or **successor of enemy** weather or not citizen of India or the citizen of a country which is not an enemy.
+	- **Enemy** who has **changed his nationality.**
+---
+### Battery Passport
+#GS3 #SciTech #Scheme 
+- **NITI Aayog** has started deliberations with ministries on the proposed ***Battery Passport Framework***
+	- ***European Union Battery Regulation (2023)*** also mentioned the need for **battery passport** for **industrial batteries** with a **capacity** greater than ***2kWh***
+- **Battery Passport:**
+	- It is a **unique ID** for every battery containing information on the product including its **origin, performance, composition, end of life,** etc. digitally embedded in a ***QR Code***
+- **Significance:**
+	- Improves *safety* and *quality standards*
+	- Accelerate *export* of EVs from India
+	- Promote *transparent* and *circular supply chain*
+---
+

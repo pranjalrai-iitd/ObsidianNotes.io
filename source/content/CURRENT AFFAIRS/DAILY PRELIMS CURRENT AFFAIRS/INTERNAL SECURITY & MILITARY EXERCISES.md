@@ -126,3 +126,9 @@
 		- **Monitor** the progress of ***minor projects**
 		- Grants **acceptance of necessity for acquisition** proposals
 ---
+### Jaa Mata Exercise
+#GS3 #InternalSecurity #MilitaryExercise 
+- **Japanese Coast Guard** ship, ***Itsukushima*** arrived in **Chennai** for the **joint exercise**, ***"Jaa Mata"***
+- **Jaa Maata** in Japanese means, ***"See you later"***
+- It is a **joint sea exercise** between **Japan** and **Indian Coast Guard**
+---

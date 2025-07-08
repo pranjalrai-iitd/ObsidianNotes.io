@@ -60,3 +60,27 @@
 3. **Underlying vulnerabilities of affected communities**
 
 ---
+### **CHANGING FLOOD PATTERN**
+#GS3 #DisasterManagement #Floods #Report 
+
+<b><u>NEWS:</u></b>
+- **IIT Delhi** and **IIT Roorkee** have found that **riverine floods in India** are **changing** in terms of ***magnitude, size and intensity***, over the **past 40 years**.
+
+<b><u>CHANGES AS PER THE REPORT:</u></b>
+1. **Decline in flood magnitude:** Around 74% stations showed decreasing flood magnitude trends whereas 26% showed increasing trends.
+	- ***Larger catchments experienced reduced flood magnitudes***
+	- **Region specific variation:**
+		- **West and Central Ganga basin:** saw **17% decline** per decade in *monsoon floods* due to *declining precipitation* and *soil moisture*
+		- **Narmada basin:** consistent *decrease* in the magnitudes of floods mainly on the account of *dam construction*
+		- **Marathwada region:** river flows are **decreasing at 8%** during Monsoon and **31%** in pre-Monsoon season
+2. **Rise in pre-Monsoon Flood intensity:** increase of **8%** per decade in *pre-monsoon flood intensity* particularly on the **Malabar coast** due to ***rising pre-Monsoon rainfall**
+3. **Shift in flood timing:** 
+	- **Upper Ganga** - ***delayed floods***
+	- **Central India** - ***earlier floods***
+	- **Southern India** - generally sees ***later floods***
+
+<b><u>IMPLICATION OF CHANGING FLOOD PATTERNS:</u></b>
+1. **Reservoir operations and water security:** declining floods may mean **lower reservoir levels** affecting water supply, irrigation and hydropwer.
+2. **Overhauling of flood management system:** increased focus on **early warning systems**, ***green buffers***, **smart planning** and **resilient infrastructure**.
+
+---

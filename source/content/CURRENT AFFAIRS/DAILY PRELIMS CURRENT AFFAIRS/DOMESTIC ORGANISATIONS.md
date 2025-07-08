@@ -126,4 +126,21 @@
 - It is **statutory** body constitute under ***National Medical Commission Act,  2019*** and superseded the **Medical Council of India (MCI)**
 - It lay down policies for regulating medical institutions, medical researches and medical professionals, etc.
 ---
-
+### Central Drugs Standard Control organisation (CDSCO)
+#GS3 #GS2 #Governance #Health #Organizations 
+- CDSCO recommended 17 drugs to be ***flushed down the sink*** to **prevent harm to pets and people**
+- These drugs include:
+	- ***Fentanyl*** - a **narcotic**
+	- ***Tramadol*** - a **painkiller**
+	- ***Diazepam*** - an **anti-anxiety medication**
+- **CDSCO:**
+	- It id the Central Drug Authority under **Directorate General of health Services, MoH&FW**
+	- It discharges functions assigned to the ***Central government*** under the ***Drugs and Cosmetics Act, 1940***
+		- <b><u>NOTE:</u></b> Regulation of ***manufacture, sale and distribution of drugs*** is primarily the concern of the ***State authorities*** while the ***Central authorities*** are responsible for ***approval of new drugs***.
+	- **Functions:**
+		- Regulatory control over **import of drugs** - *import licensing*
+		- Approval of **new drugs** and **clinical trials**
+		- **Banning** of **drugs** and **cosmetics**
+		- Meetings of **Drugs Consultative Committee (DCC)*** and **Drugs Technical Advisory Board (DTAB)**
+			- ***Both DCC and DTAB are statutory*** under the ***Drugs and Cosmetics Act, 1950***
+---

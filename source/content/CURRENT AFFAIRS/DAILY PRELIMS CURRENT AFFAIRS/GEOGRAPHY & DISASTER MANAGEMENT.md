@@ -146,3 +146,22 @@
 	- This **increase the mass of air above the surface** creating an **anticyclone** - *high pressure system* with *winds flowing outward from the center*
 		- **NOTE:** the anticyclone is outward and **CW** in North and **ACW** in South
 ---
+### Changes in Floods
+#GS3 #DisasterManagement #Floods #Report 
+- **IIT Delhi** and **IIT Roorkee** have found that **riverine floods in India** are **changing** in terms of ***magnitude, size and intensity***, over the **past 40 years**.
+- **Highlights:**
+	- **Decline in flood magnitude:** Around 74% stations showed decreasing flood magnitude trends whereas 26% showed increasing trends.
+		- ***Larger catchments experienced reduced flood magnitudes***
+		- **Region specific:**
+			- **West and Central Ganga basin:** saw **17% decline** per decade in *monsoon floods* due to *declining precipitation* and *soil moisture*
+			- **Narmada basin:** consistent *decrease* in the magnitudes of floods mainly on the account of *dam construction*
+			- **Marathwada region:** river flows are **decreasing at 8%** during Monsoon and **31%** in pre-Monsoon season
+	- **Rise in pre-Monsoon Flood intensity:** increase of **8%** per decade in *pre-monsoon flood intensity* particularly on the **Malabar coast** due to ***rising pre-Monsoon rainfall**
+	- **Shift in flood timing:** 
+		- **Upper Ganga** - ***delayed floods***
+		- **Central India** - ***earlier floods***
+		- **Southern India** - generally sees ***later floods***
+- **Implications:**
+	- **Reservoir operations and water security:** declining floods may mean **lower reservoir levels** affecting water supply, irrigation and hydropwer.
+	- **Overhauling of flood management system:** increased focus on **early warning systems**, ***green buffers***, **smart planning** and **resilient infrastructure**.
+---

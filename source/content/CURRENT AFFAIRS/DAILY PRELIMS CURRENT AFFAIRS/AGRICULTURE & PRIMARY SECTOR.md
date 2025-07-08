@@ -236,3 +236,26 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 	- It functions under **Ministry of Commerce and Industry**
 	- Headquarter - **Kottyam, Kerala**
 ---
+### Maize
+#GS3 #Agriculture #Crops 
+- 11th ***India Maize Summit 2025*** held in **Delhi**
+- Maize is a **kharif crop** and is used both as **food** and **fodder**
+- Globally, it is known as the ***"queen of cereals"*** because it has the **highest genetic yields potential** among the cereals.
+- **Growing conditions:**
+	- **Soil:** well drained *sandy loamy to silt loamy* soil
+		- It grows well in **old alluvial soil**
+	- **pH:** *5.5-7.5*
+	- **Temperature:** *21-27 degree C*
+- **Country wise production:**
+	1. USA
+	2. China
+	3. Brazil
+	4. Argentina
+	5. EU
+	6. India
+- **State wise production in India:**
+	1. **Karnataka** - 16.54%
+	2. **Madhya Pradesh** - 11.37%
+	3. **Maharashtra** - 10.91%
+---
+

@@ -323,3 +323,26 @@
 	- **Members:** *Brazil, Russia, India, China, South Africa, Bangladesh, UAE, Egypt, Algeria* with *Uruguay* being a *prospective member* - (***BRICS original + UAE (new BRICS)+ Egypt (new BRICS)+ Algeria + Bangladesh + Uruguay (prospective)***)
 		- **NOTE:** BRICS members are **Brazil , Russia, India, China, South Africa, Ethiopia, Egypt, UAE, Iran** and **Indonesia**
 ---
+### Kaladan Multimodal Transit Transport Project (KMTTP)
+#GS2 #IR #PlacesInNews 
+- Union Minister announced that **KMTTP** will be **operational** by ***2027***
+- It is jointly announced by **India** and **Myanmar** offering **multi-modal transportation** of cargo from Eastern Ports of India to Myanmar and to **India's North-Eastern Region (NER)** through **Myanmar**
+	- Provides **India with an alternate route to NER** bypassing the **Chicken's neck corridor**
+<p align="center"><img src="KMTTP.png" alt="KMTTP" width="500"/></p>
+- **KMTTP:**
+	- Framework Agreement was signed in **2008**
+	- **Project Development Consultant (PDC):** ***Inland Waterways Authority of India (IWAI)*** (statutory body under *IWAI Act 1986*)
+	- **Transit components:**
+		1. ***Kolkata*** to ***Sittwe*** via ***sea route***
+		2. ***Sittwe** (Rakhine, Mayanmar)* to ***Paletwa*** through the ***Kaladan river***
+		3. ***Paletwa*** to ***Zorinpui** (Mizoram)* via 4-lane ***highway***
+		4. ***Zorinpui** (Mizoram)* to ***Aizwal*** and beyond through ***high-speed corridor***
+- **Significance:**
+	- **End geographic isolation of NER:** by providing alternate connectivity to the NER bypassing the geostrategic *Chicken's neck corridor.*
+	- **Logistic cost and time:** for the goods from Kolkata to Aizwal will **drop by 50%**
+	- **Develop NER as a business hub:** through boosting **trade** and establish **expoty-oriented industries**
+- **Other connectivity projects for NER:***
+	- ***India-Myanmar-Thailand Trilateral Highway Project:*** connects **Moreh (Manipur)** to **Mae Sot (Thailand)** via **Myanmar**
+	- ***Protocol on Inland Water Transit and Trade (PIWT&T):*** between **India** and **Bangladesh** allowing inland vessels.cruises of one country to ply on the designated waterway routes of another
+	- ***Bangladesh-Bhutan-India-Nepal (BBIN) Motor Vehicle Agreement:*** an **MoU** for the use of **Chattogram** and **Mongla** ports of **Bangladesh**
+---
