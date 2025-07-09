@@ -3818,7 +3818,7 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	-  **Copper**, 
 	- **Zinc and it's alloys**
 - ***Circular Economy Framework:***
-<p align="center"><img src="https://ic-ce.com/wp-content/uploads/2021/06/Butterfly-diagram-1024x705.png" alt="Circular Economy" width="700"/></p>
+<p align="center"><img src="CircularEconomy.jpg" alt="Circular Economy" width="700"/><br><i>Allen McArthur Circular Economy Framework</i></p>
 
 - **EPR of Non-Ferrous Metals:**
 	- **Targets:** ***Every producer*** shall be responsible for the **recycling target structure**, which progressively increased from ***10% in 2026-27*** to ***75% by 2032-33***
@@ -3830,6 +3830,18 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- Covers an extensive range of products
 - **EPR:** it is a policy approach that makes producers responsible for the *end-of-life management* of their *products* and *packaging*.
 	- It was **introduced in India** by the ***E-Waste (Management and Handling) Rules, 2011***
+	- **Extended producer responsibility (EPR)** rules applying to:
+		- Plastic
+		- e-Waste
+		- Battery waste
+		- Tyre waste
+		- Waste oil
+		- Scrap of non-ferrous metals
+- **Right to Repair** portal by **Ministry of Consumer Affairs** covering the following sectors:
+	- **Farming equipment**
+	- **Mobiles/ Electronics displays and data storage components**
+	- **Consumer durables**
+	- **Automobiles equipment**
 ---
 ### Japonica Rice
 #GS3 #Agriculture #SciTech #Fertilizer

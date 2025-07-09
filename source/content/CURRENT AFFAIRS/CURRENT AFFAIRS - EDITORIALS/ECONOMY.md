@@ -573,3 +573,41 @@
 	- **Financial Inclusion:** through *Jan Dhan Yojana* and financial access through schemes like *MUDRA Yojana*
 
 ---
+### **CIRCULAR ECONOMY**
+#GS3 #Economy #SustainableDevelopment 
+
+<b><u>CIRCULAR ECONOMY:</u></b>
+> #Quote ***"In our current economy, we take materials from the Earth, make products from them, and eventually throw them away as waste – the process is linear. In a circular economy, by contrast, we stop waste being produced in the first place."***
+
+> #Definition ***The circular economy is a system where materials never become waste and nature is regenerated. In a circular economy, products and materials are kept in circulation through processes like maintenance, reuse, refurbishment, remanufacture, recycling, and composting.
+
+<b><u>NEWS/DATA:</u></b>
+- India to host **World Circular Economy Forum 2026**
+- India's circular economy could generate a **market value of over USD 2 Trillion and create close to 10 Million jobs by 2050**
+- **EAC-PM circular economy could lower India's GHG emissions by 23% in 2030 and 44% in 2050, at current rate of development**
+- **Circularity Gap Report 2024** says tahat the use of **secondary materials** in the **global economy** has **declined** from *9% in 2018* to **7.2% in 2023**
+
+<b><u>FRAMEWORK FOR CIRCULAR ECONOMY:</u></b>
+<p align="center"><img src="CircularEconomy.jpg" alt="Circular Economy" width="700"/><br><i>Allen McArthur Circular Economy Framework</i></p>
+
+<b><u>THREE PRINCIPLES OF CIRCULAR ECONOMY ARE:</u></b>
+1. Eliminate waste and pollution
+2. Circulate products and materials at their highest value
+3. Regenerate nature
+
+<b><u>BENEFITS</u></b>
+1. **Resource self-sufficiency** - mobile phones and cellular technologies become quickly obsolete and consumers buy new devices, fueling India's rising electronics imports.
+2. **Slowdown of climate change** - As per **EAC-PM circular economy could lower India's GHG emissions by 23% in 2030 and 44% in 2050, at current rate of development**
+3. **New jobs and a strengthened economy:** As per **ILO**, circular economy can generate **6 million jobs globally by 2030** and **FICCI** estimates around **USD 500 Billion** in **investments** in circular economy.
+	- #Eg ***Infinity Box*** - offers food packaging as a service with renewable boxes.
+
+<b><u>INDIAN INITATIVES:</u></b>
+- Launch of **SBM Waste to Wealth PMS (Panchayat Managment System) portal**
+- Release of ***"India's Circular Sutra"*** - a compendium of best practices in **3R & Circular Economy**
+	- **3R:*** ***Reduce, Reuse, and Recycle***
+- **Extended producer responsibility (EPR)** rules applying to: plastice packaging, e-waste, battery waste, tyre waste, waste oil, and scrap of non-ferrous metals
+- **Right to repair** portal by **Ministry of Consumer Affairs** covering *farming equipment, mobiles/electronic display and data storage components, consumer durable, and automobiles equipment*
+- **National Resource Efficiency Policy (NREP)** drafted in 2019
+- **Circularity in construction:** Government of Karnataka is launching a policy that mandated 20% of all construction material used in the state be sustainable.
+
+---
