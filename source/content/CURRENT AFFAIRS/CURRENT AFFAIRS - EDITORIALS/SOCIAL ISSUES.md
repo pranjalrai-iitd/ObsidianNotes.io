@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### **CHILD LABOR: VELPUR MANDAL**
 #GS2 #VulnerableSections #ChildLabor #Children
 

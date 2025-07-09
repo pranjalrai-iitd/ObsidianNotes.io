@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### **INDIA'S GARMENTS SECTOR: Textiles & Apparels**
 #GS3 #Textiles
 

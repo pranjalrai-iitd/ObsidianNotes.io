@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### Bhagirathi Eco Sensitive Zone
 #GS3 #Environment 
 - A solid-waste incerator installed at **Gangotri** inside the **Bhagirathi ESZ**, declared under **EPA 1986**.

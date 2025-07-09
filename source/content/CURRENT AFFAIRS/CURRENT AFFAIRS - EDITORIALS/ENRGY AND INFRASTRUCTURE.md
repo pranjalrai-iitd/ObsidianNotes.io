@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### **NUCLEAR ENERGY FOR NET ZERO VIKSIT BHARAT**
 #GS3 #Nuclear
 

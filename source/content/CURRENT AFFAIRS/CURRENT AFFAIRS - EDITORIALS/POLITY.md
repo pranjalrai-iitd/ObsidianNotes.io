@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### **DELIMITATION**
 #GS2 #GS1 #SocialIssues #Delimitation #Census #Demography
 

@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### Judgements on Preventive Detention
 #GS2 #Judgement #FundamentalRights #MainsValueAddition 
 - <b><u>Dhanya M vs State of Kerala and OThers 2025:</u></b> SC set aside the the preventive detention under the **Kerala Anti-Social Activities (Preventive) Act, 2007**

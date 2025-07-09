@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation):
 #GS3 #Environment #Aviation #Scheme 
 - By **ICAO (International Civil Aviation Organization)**

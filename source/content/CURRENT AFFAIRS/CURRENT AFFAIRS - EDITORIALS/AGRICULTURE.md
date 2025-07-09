@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### **CROP DIVERSIFICATION CHALLENGES IN PUNJAB**
 #GS3 #Agriculture #Environment 
 

@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### International Organization for Marine Aids to Navigation and Lighthouse Authorities (IALA) 
 #GS3 #GS2 #InternationalOrganizations 
 - In **2024** its status changed from an NGO to an **intergovernmental organization**.

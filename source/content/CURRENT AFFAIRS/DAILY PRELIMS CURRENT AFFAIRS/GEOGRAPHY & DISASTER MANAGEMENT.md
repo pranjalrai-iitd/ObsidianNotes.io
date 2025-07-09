@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### Maritime Disasters
 #GS3 #DisasterManagement
 - **News**: A cargo ship caught fire off the coast of Kerala and drifted within India's EEZ.

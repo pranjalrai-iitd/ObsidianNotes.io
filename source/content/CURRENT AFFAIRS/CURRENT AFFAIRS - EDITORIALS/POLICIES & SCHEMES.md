@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### **INDIA'S EV LOCALISATION POLICY**
 #GS3 #EVs #Environment 
 <b><u>NEWS:</u></b> **Ministry of Heavy Industries (MHI)** notified guidelines of the scheme to promote manufacturing of electric passenger cars in India

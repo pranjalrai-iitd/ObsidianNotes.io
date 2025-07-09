@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### Edible oil imports
 #GS3 #Agriculture #Data
 - **News**: India **reduced BCD** on major imported crude **edible oils** from 20% to **10%**.
@@ -49,7 +52,7 @@
 		- What about small scale fishermen of India? They need subsidies but they lack technical supports compared to mechanized fishermen of developed countries.
 		- Apply **"Polluter pays"** and **"CBDR"** principles.
 ---
-### **CROPIC**
+### CROPIC
 #GS3 #Agriculture #SciTech
 - **CROPIC** is **Collection of Real Time Observations & Photo of Crops** which is planned by the **Ministry of Agriculture & Farmers Welfare** using **AI**.
 - Crops will be photographed 4-5 times during their cycle, and pictures will be analysed to assess their health and potential mid-season losses using AI.

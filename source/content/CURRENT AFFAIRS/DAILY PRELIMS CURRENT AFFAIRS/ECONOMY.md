@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### SEBI's new verified UPI IDs
 #GS3 #Economy #DPI
 - Structured UPI address mechanism by SEBI for its **registered intermediaries** with an exclusive **@valid** handle.

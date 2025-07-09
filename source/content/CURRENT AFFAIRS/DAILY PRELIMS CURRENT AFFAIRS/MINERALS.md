@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### Silver & Climate Change:
 #GS3 #Environment #Minerals #EnergyTransition #ClimateChange 
 - **Data on Silver:**

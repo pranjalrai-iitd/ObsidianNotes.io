@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### **CROSS-BORDER CULTURE:**
 #Anecdote
 - During the **anti-ICE protests** in **Los Angeles**, Mexican flags were raised. Many interpreted this as an act of sedition as the state of California (with Los Angeles as its capital) was earlier a part of Mexico - USA captured California, from Mexico during the 1848 Mexican-American War. Raising foreign flags in principle is not a crime. However, during a protest supporting immigration, raising a flag of former state which controlled that territory might be a symbol of separation or rejection.

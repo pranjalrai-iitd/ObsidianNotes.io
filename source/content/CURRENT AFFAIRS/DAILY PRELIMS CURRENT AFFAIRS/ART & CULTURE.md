@@ -1,3 +1,6 @@
+```table-of-contents
+```
+---
 ### Contributions of Srimanta Sankaradeva:
 #GS1 #ArtCulture #BhaktiMovement
 - From **14th CE Assam**. Contemporary **Srimanta Sankardeva Award** is Assam's highest cultural honour.
