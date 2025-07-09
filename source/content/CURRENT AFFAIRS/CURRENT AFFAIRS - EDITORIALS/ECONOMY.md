@@ -579,7 +579,7 @@
 <b><u>CIRCULAR ECONOMY:</u></b>
 > #Quote ***"In our current economy, we take materials from the Earth, make products from them, and eventually throw them away as waste – the process is linear. In a circular economy, by contrast, we stop waste being produced in the first place."***
 
-> #Definition ***The circular economy is a system where materials never become waste and nature is regenerated. In a circular economy, products and materials are kept in circulation through processes like maintenance, reuse, refurbishment, remanufacture, recycling, and composting.
+> #Definition ***The circular economy is a system where materials never become waste and nature is regenerated. In a circular economy, products and materials are kept in circulation through processes like maintenance, reuse, refurbishment, remanufacture, recycling, and composting.***
 
 <b><u>NEWS/DATA:</u></b>
 - India to host **World Circular Economy Forum 2026**
