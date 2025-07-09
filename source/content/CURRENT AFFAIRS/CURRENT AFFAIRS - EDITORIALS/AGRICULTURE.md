@@ -120,14 +120,23 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 	- **Bt Brinjal** is still under moratorium since 2009
 	- **GM Mustard** got **conditional environmental release in 2022**, but still **not approved for commercialization** 
 
-<b><u>GM CROPS AND FUTURE:</u></b> India **must approve GM crops** and **must produce them itself** rather than **importing them from USA**
-1. **India falling behind the world:** around  **200 MnHa** of GM soybean, maize, canola being grown in **2023** across 76 countries.
-2. **Successful implementation of Bt Cotton** as an example with ***193% cotton growth*** between **FY03-FY14**, with ***87% productivity increase.***
-3. **GM crops are already in our food system:** Indians already consume **Bt cotton seed oil** and **GM-soya and corn already being imported as poultry feed**
-4. Delay in adopting GM crops has resulted in **productivity decline in India** #Eg **HT-Bt cotton** not being adopted as the next gen cotton seed
-5. Farmers already growing unapproved GM crops **illegally through leaked seeds** - around **15-25% cotton acreage is estimated by some firms to be under unapproved HT-Bt cotton**. This shows, **willingness of farmers to grow GM crops.**
-6. Huge **potential to boost horticulture** and to **diversify India's cropping pattern** #Eg **Bt Brinjal** , **GM Mustard (DMH-11)**, and **GM ssoy**.
-7. Huge potential for **GM seed exports** to **Asia and Africa**
+<b><u>CONCERNS OF GM CROPS:</u></b>
+1. ***Gene flow*** - **GM crops contaminate surrounding non-GM crops:** through pollen drift and other means, thus, affecting the natural biodiversity.
+2. **GM seeds are *not self-generating* while some GM seeds are designed to be** ***terminator seeds*** - these results into farmers needing new GM seeds every year.
+3. **Reduced crop diversification:** as proliferation of only GM variety.
+4. **Results into cyclic dependence on new varieties of GM seeds:** as in the example of **Bt-cotton**, the yield has been decreasing since 2015 as the **pests developed resistance**. Now there is new variety, **HT-Bt-cotton**.
+5. Can result into **super-weeds** - reduces *weed diversity* and thus, nudging a *single weed species* to *dominate* and develop *resistance to toxins.*
+6. **Can deteriorate soil health:** as the **Bt-toxin** can enter the soil and persist.
+7. **Toxic to living organisms** with **undirected effects** - can hinder even pollinators like **bees** and **butterflies** and even consumer may develop some health issues on persistent consumption.
+
+<b><u>GM CROPS AND FUTURE:</u></b> Despite above concerns, India **must approve GM crops** and **must produce them itself** rather than **importing them from USA**
+8. **India falling behind the world:** around  **200 MnHa** of GM soybean, maize, canola being grown in **2023** across 76 countries.
+9. **Successful implementation of Bt Cotton** as an example with ***193% cotton growth*** between **FY03-FY14**, with ***87% productivity increase.***
+10. **GM crops are already in our food system:** Indians already consume **Bt cotton seed oil** and **GM-soya and corn already being imported as poultry feed**
+11. Delay in adopting GM crops has resulted in **productivity decline in India** #Eg **HT-Bt cotton** not being adopted as the next gen cotton seed
+12. Farmers already growing unapproved GM crops **illegally through leaked seeds** - around **15-25% cotton acreage is estimated by some firms to be under unapproved HT-Bt cotton**. This shows, **willingness of farmers to grow GM crops.**
+13. Huge **potential to boost horticulture** and to **diversify India's cropping pattern** #Eg **Bt Brinjal** , **GM Mustard (DMH-11)**, and **GM ssoy**.
+14. Huge potential for **GM seed exports** to **Asia and Africa**
 
 <b><u>CONCLUSION:</u></b> 
 >***Honbl. PM Atal Bihari Vajpayee was instrumental in allowing Bt-Cotton cultivation in India and he quipped, "IT (Information Technology) is for India and BT (Biotechnology) is for Bharat". We must proceed with advanced biotechnology in agriculture as "from plate to plough, India's future depends on embracing gene technology."***
