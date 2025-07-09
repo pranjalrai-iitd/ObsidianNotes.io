@@ -234,3 +234,44 @@
 6. **Diaspora:** a lot of Indian **old diaspora** in the form of **Girimityas**
 
 ---
+### **INDIA-BRAZIL RELATIONS**
+#GS2 #IR #BilateralRelations 
+
+<b><u>NEWS:</u></b> Indian PM visited **Brazil** as part of his 5 nation visit and also attended the **17th BRICS summit**. Brazil conferred the *Brazil's highest civilian award*, the *Grand Collar of the national Order of the Southern Cross*, to the Indian PM.
+
+<b><u>KEY BILATERAL AGREEMENTS SIGNED:</u></b>
+1. Agreement on **Cooperation in Combating International Terrorism and Transnational Organized Crime**
+2. Memorandum on the **exchange of large-scale digital solutions** to support digital transformation
+3. MoU between **Brazil's EMBRAPA** and **India's ICAR** for collaboration in **renewable energy and agricultural research**
+4. Exchange and mutual protection of **classified information**
+5. MoU on **intellectual property**
+6. Establishment of a **ministerial-level mechanism** to monitor**trade, commerce, and investment**
+
+<b><u>PRIORITY PILLS FOR THE NEXT DECADE:</u></b>
+1. **Defence and security**
+2. **Food and nutritional security**
+3. **Energy transition and Climate change**
+4. **Digital transformation and emerging technologies**
+5. **industrial partnerships in strategic areas**
+
+<b><u>INDIA-BRAZIL RELATIONS:</u></b>
+- ***Strategic Partnership*** since 2006
+- Work closely at **plurilateral fora** such as *BRICS, BASIC, G20, G4, IBSA* and larger **multilateral bodies** such as *UN, WTO, UNESCO, and WIPO*
+	- **NOTE:** **IBSA** - *India, Brazil, and South Africa Dialogue Forum*
+- **Trade:** in **2024-25** we had the following numbers,
+	- **Bilateral trade:** ***USD 12.20 Billion**
+	- ***India*** has a **trade surplus** with Brazil
+- **Defence cooperation:** 
+	- **Defence Cooperation Agreement** was ratified in 2006
+		- It created a **Joint Defence Committee (JDC)** as an institutional mechanism
+- **Renewable Energy:**
+	- Brazil became **co-founder** of the **Global Biofuels Alliance**
+	- Brazil ratified the **International Solar Alliance (ISA)** agreement in 2022
+- **Convergence on UNSC reforms:** 
+	- Both countries are part of the **G-4** seeking **permanent membership in UNSC**
+	- Brazil endorsed India's candidature for **2028-29 UNSC non-permanent membership**
+
+<b><u>CONSLUSION:</u></b>
+>***"India and Brazil are two great nations with higher purposes of peace, prosperity, and sustainable development."*** - PM
+
+---

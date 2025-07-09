@@ -3277,7 +3277,7 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 ---
 ### PARAKH
 #GS2 #Governance #Education #Scheme 
-- **PARAKH Rashtriya Sarvekshan Dissemination Portal** was launched recently to provide **open access to National and State-level data on student performance** and serve as a key resource for States/UTs to design targeted plans to enhance learning outcomes.
+- **PARAKH Rashtriya Sarvekshan Dissemination Portal** ***(PARAKH-RS)*** was launched recently to provide **open access to National and State-level data on student performance** and serve as a key resource for States/UTs to design targeted plans to enhance learning outcomes.
 - **PARAKH:**
 	- It stands for **Performance Assessment, Review and Analysis of Knowledge for Holistic Development**
 	- It was set us a **National Assessment Centre** in 2023 in the **NCERT** as an independent constituent
@@ -3286,6 +3286,11 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 		- Achievement survey
 		- School Boards equivalence
 		- Holistic progress cards
+- **Results of PARAKH-RS** formerly known as **National Achievement Survey (NAS)**
+	- It assessed the performance in the following subjects:
+		- *Language and Mathematics* - for Grades 3, 6 and 9
+		- *World around us* - for Grades 3 and 6
+		- *Science and social science* - Grade 9
 ---
 ### Male Mahadeshwara (MM) Hills Wildlife Sanctuary
 #GS1 #GS3 #Geography #PlacesInNews #Environment 
@@ -3769,4 +3774,129 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- Improves *safety* and *quality standards*
 	- Accelerate *export* of EVs from India
 	- Promote *transparent* and *circular supply chain*
+---
+### Rare Earth Element (REE) Reserves
+#GS1 #GS3 #Resources #Minerals 
+- A report by **CareEdge** highlighted that, ***India holds 8% of the world's REE reserves but contributes to less than 1% of global production/mining.***
+- **China** on the other hand, holds ***49%* of world's total *reserves* and contributes to *69% production/mining* of REE, with *90%* share of REE *refining*.**
+- **World RRE Reserves:**
+```mermaid
+	%%{init: {"pie": {"textPosition": 0.8}, "themeVariables":{"pieOuterStrokeWidth": "2px", "pieTitleTextSize":"20px", "pieSectionTextSize":"20px", "pieLegendTextSize":"20px"} } }%%
+	pie title REE Reserves (2024)
+	    "China [49%]" : 49
+	    "Brazil [23%]" : 23
+	    "India [8%]" : 8
+	    "Australia [6%]" : 6
+	    "Russia [4%]" : 4
+	    "Others [10%]" : 10
+```
+
+- India's REE reserves are mainly found in **monazite sand** which also contains **Thorium**
+- **Coastal states** have the most **rare earth deposits** namely, **Tamil Nadu, Kerala, Andhra Pradesh** and **Odisha**
+---
+### Phone Tapping in India
+#GS2 #Polity #FundamentalRights #FoSE #Privacy
+- **Delhi HC** and **Madras HC** dealt with phone tapping and involved the reason of, ***"preventing incitement to commit a crime".***
+	- Delhi HC **upheld the interception order**
+	- Madras HC **quashed the same order**
+		- Madras HC held that **telephone tapping** constitutes a **violation of privacy (Article 21)** unless justified by procedure established by law.
+- **Phone tapping laws in India:**
+	- ***Telecommunications (Procedures and Safeguards for Lawful Interception of Message) Rules,  2024:*** issued under the newly enacted, ***Telecommunications Act, 2023***, lay down the procedure and due-process for the government o lawfully intercept message.
+	- ***Information Technology Act, 2000:*** governing the interception of WhatsApp messages, emails, etc.
+- #Judgement ***People's Union of Civil Liberties (PUCL) Vs. Union of India, 1997***:
+	- Sc upheld the **constitutional validity** of the **Section 5(2)** of the **Telegraph Act**
+	- Laid down **procedural safeguards** for its applications
+	- Phone tapping orders can only be issued by the **home secretary of the state and central government**
+	- The order, unless renewed, shall cease to have authority **at the end of two months.**
+---
+### Hazardous and Other Wastes (Management and Transboundary Movement) Amendment Rules, 2025
+#GS3 #Environment #CircularEconomy #Rules 
+- The rules shall come into force on 1st April, 2026
+- The rules introduces a **comprehensive Extended Producer Responsibility (EPR)** framework for **Scrap** of **Non-ferrous metals** including:
+	- **Non-ferrous metals**
+	- **Aluminum**, 
+	-  **Copper**, 
+	- **Zinc and it's alloys**
+- ***Circular Economy Framework:***
+<p align="center"><img src="https://ic-ce.com/wp-content/uploads/2021/06/Butterfly-diagram-1024x705.png" alt="Circular Economy" width="700"/></p>
+
+- **EPR of Non-Ferrous Metals:**
+	- **Targets:** ***Every producer*** shall be responsible for the **recycling target structure**, which progressively increased from ***10% in 2026-27*** to ***75% by 2032-33***
+	- **Central Pollution Control Board (CPCB):** shall generate an ***EPR Certificate***
+	- **validity of EPR Certificate:** shall be **two years** from the *end of the financial year in which it was generated*
+- **Significance of EPR for Scrap of Non-Ferrous metals:**
+	- Acknowledges the time required for industry adaptation
+	- Significant step towards *Circular Economy*
+	- Covers an extensive range of products
+- **EPR:** it is a policy approach that makes producers responsible for the *end-of-life management* of their *products* and *packaging*.
+	- It was **introduced in India** by the ***E-Waste (Management and Handling) Rules, 2011***
+---
+### Japonica Rice
+#GS3 #Agriculture #SciTech #Fertilizer
+- Researchers at the **National institute of Plant Genome Research (NIPGR)** have used **CRISPS-Cas9** gene-editing technology to increase the ***phosphate uptake and transport*** in the ***Japonica rice varities.***
+	- **40% higher yield** with the **recommended dose of Phosphate fertilizer**
+	- **20% higher yield** with **10% recommended dose of Phosphate fertilizer**
+- **Plant Nutrients:**
+	- **Macronutrients:** in higher quantities
+		- ***N, P, K, Ca, Mg,*** and  ***Sulphur***
+		- ***C, H, O***
+	- **Micronutrient:** in lower quantities
+		- ***Fe, Mn, B, Mo, Cu, Zn, Cl, Ni, Co, Na, Si***
+- **Role of Phosphorus in Plants:**
+	- It is **essential mineral for plant growth** and its limited availability leads to productivity drops drastically.
+	- It is noted especially for its role in **capturing and converting sun's energy** into useful plant compounds
+	- It is essential for **stimulated root development, increased N-fixing capacity of legumes, improved flower formation and seed production, etc.**
+- ***DAP supply squeeze caused by China***
+	- **DAP** has **46% Phosphorus** and **18% Nitrogen**
+	- China has reduced it's DAP ***(Di-Ammonium Phosphate)*** exports, which is the **second most used fertilizer in India after Urea**
+	- In **2023-24:** India imported around **40% DAP** form **China
+	- In **2024-25:** DAP imports from China were at **18%**
+		- Presently, DAP imports are sourced from:
+			1. **Saudi Arabia**
+			2. **Morocco**
+			3. **China**
+	- India is handling the **rising prices and low supply of DAP** through:
+		1. Diversifying import basket - importing from **Saudi Arabia** and **Morocco**
+		2. India is shifting to ***20:20:0:13*** OR ***Ammonium Phosphate Sulphate (APS)*** - now it is **India's third most consumed fertilizer***
+			- **APS** has **20% Pohsphorus** and also has **13% Sulphur** which is not present in DAP
+				- ***Silverlining*** as India needs **Sulphur** for **oilseeds and pulses***. Thus, increasing **APS** is good!
+---
+### Indian Telecom Services Yearly Performance Indicators
+#GS3 #Economy #Services #Telecom #Report #Data
+- **Telecom Regulatory Authority of India (TRAI)** has released the **Indian Telecom Services Yearly Performance Indicators** for the year 2024-25
+- **Highlights:**
+	- **Internet subscribers increased:** from *954.40 Mn (2024)* to ***969.10 Mn*** (2025)*
+		- **Composition of internet subscribers:**
+			- **Mobile wireless:** 95.22%
+			- **Wired:** 4.27%
+			- **Fixed wireless:** 0.51%
+		- **Broadband subscribers** increased but, **narrowband subscribers** ***decreased***
+	- **Telephone subscribers:** increased from *1.19 Billion (2024)* to ***1.20 Billion** (2025)*
+		- **Tele-density** ***Decreased*** from *85.69% (2024)* to ***85.04%** (2025)*
+			- Tele-density is the number of telephone connections per 100 individuals in a specific area
+			- **Rural tele-density:** ***59%***
+			- **Urban tele-density:** ***131.5%***
+		- **Market share of telephone subscribers:**
+			- **Wireless:** 96.92%
+			- **Wireline:** 3.08%
+---
+### BIND Scheme
+#GS3 #Economy #Serivces #Scheme 
+- A new **Akashvani Kendra** will be established in **Ujjain** with the support of the **Broadcasting Infrastructure and Network Development (BIND) scheme**
+- **Broadcasting Infrastructure and Network Development (BIND) scheme:**
+	- It is a **Central SECTOR scheme** under the **MoI&B**
+	- **Objective:** provides **financial support** to ***Prasar Bharat*** (i.e, **All India Radio (AIR)** and **Doordarshan (DD)**) to expand and upgrade its broadcasting infrastructure, content development, etc.
+		- **Prasar Bharati** is **statutory** under **Prasar Bharti Act 1990.** it is the ***public broadcaster*** of India, and has two divisions:
+			- **Akashvani - All India Radio**
+			- **Doordarshan (DD)**
+---
+### Carrying Capacity
+#GS3 #Environment #Tourism #SustainableDevelopment 
+- **Uttarakhand** government has commissioned **assessments of carrying capacity of cities** to check **ecological-balance**
+- **Carrying Capacity:** of an ecosystem is the **size of population or community that can be supported indefinitely upon the available resources** and services of that ecosystem.
+- It will be a step in moving towards ***"Sustainable Tourism"*** with quantified insights that can help regulate tourist rush, new hotels and constructions.
+- **Carrying Capacity and 3 factors:**
+	1. The amount of **resources available** in the ecosystem
+	2. The **size** of the **population or community**
+	3. The amount of **resource consumption by each individual** within the community
 ---

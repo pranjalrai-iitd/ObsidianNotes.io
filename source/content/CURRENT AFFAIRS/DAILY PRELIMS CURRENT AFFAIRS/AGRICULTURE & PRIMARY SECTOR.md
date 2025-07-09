@@ -258,4 +258,33 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 	2. **Madhya Pradesh** - 11.37%
 	3. **Maharashtra** - 10.91%
 ---
-
+### Japonica Rice
+#GS3 #Agriculture #SciTech #Fertilizer
+- Researchers at the **National institute of Plant Genome Research (NIPGR)** have used **CRISPS-Cas9** gene-editing technology to increase the ***phosphate uptake and transport*** in the ***Japonica rice varities.***
+	- **40% higher yield** with the **recommended dose of Phosphate fertilizer**
+	- **20% higher yield** with **10% recommended dose of Phosphate fertilizer**
+- **Plant Nutrients:**
+	- **Macronutrients:** in higher quantities
+		- ***N, P, K, Ca, Mg,*** and  ***Sulphur***
+		- ***C, H, O***
+	- **Micronutrient:** in lower quantities
+		- ***Fe, Mn, B, Mo, Cu, Zn, Cl, Ni, Co, Na, Si***
+- **Role of Phosphorus in Plants:**
+	- It is **essential mineral for plant growth** and its limited availability leads to productivity drops drastically.
+	- It is noted especially for its role in **capturing and converting sun's energy** into useful plant compounds
+	- It is essential for **stimulated root development, increased N-fixing capacity of legumes, improved flower formation and seed production, etc.**
+- ***DAP supply squeeze caused by China***
+	- **DAP** has **46% Phosphorus** and **18% Nitrogen**
+	- China has reduced it's DAP ***(Di-Ammonium Phosphate)*** exports, which is the **second most used fertilizer in India after Urea**
+	- In **2023-24:** India imported around **40% DAP** form **China
+	- In **2024-25:** DAP imports from China were at **18%**
+		- Presently, DAP imports are sourced from:
+			1. **Saudi Arabia**
+			2. **Morocco**
+			3. **China**
+	- India is handling the **rising prices and low supply of DAP** through:
+		1. Diversifying import basket - importing from **Saudi Arabia** and **Morocco**
+		2. India is shifting to ***20:20:0:13*** OR ***Ammonium Phosphate Sulphate (APS)*** - now it is **India's third most consumed fertilizer***
+			- **APS** has **20% Pohsphorus** and also has **13% Sulphur** which is not present in DAP
+				- ***Silverlining*** as India needs **Sulphur** for **oilseeds and pulses***. Thus, increasing **APS** is good!
+---

@@ -114,3 +114,18 @@
 	- SC - 15% quota in both appointment and promotion
 	- ST - 7.5% quota in both appointment and promotion
 ---
+### Phone Tapping in India
+#GS2 #Polity #FundamentalRights #FoSE #Privacy
+- **Delhi HC** and **Madras HC** dealt with phone tapping and involved the reason of, ***"preventing incitement to commit a crime".***
+	- Delhi HC **upheld the interception order**
+	- Madras HC **quashed the same order**
+		- Madras HC held that **telephone tapping** constitutes a **violation of privacy (Article 21)** unless justified by procedure established by law.
+- **Phone tapping laws in India:**
+	- ***Telecommunications (Procedures and Safeguards for Lawful Interception of Message) Rules,  2024:*** issued under the newly enacted, ***Telecommunications Act, 2023***, lay down the procedure and due-process for the government o lawfully intercept message.
+	- ***Information Technology Act, 2000:*** governing the interception of WhatsApp messages, emails, etc.
+- #Judgement ***People's Union of Civil Liberties (PUCL) Vs. Union of India, 1997***:
+	- Sc upheld the **constitutional validity** of the **Section 5(2)** of the **Telegraph Act**
+	- Laid down **procedural safeguards** for its applications
+	- Phone tapping orders can only be issued by the **home secretary of the state and central government**
+	- The order, unless renewed, shall cease to have authority **at the end of two months.**
+---

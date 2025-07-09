@@ -58,6 +58,7 @@ B-->D(Heavy Group - Yttrium Group);
 	- **Oil** - 87% imported
 	- **REE** - ~100% import dependence for most REEs
 - India has **great potential for domestic production** as it has **one of the largest reserves of REE: ~7 Million Tonnes** and ranks roughly **5th** in the world
+- ***NEWS:*** As per a recent report by **CareEdge**, India holds **8% of world's REE reserves**.
 - **Distribution in India:**
 	- States of **Andhra Pradesh, Karnataka, Odisha and Kerala**
 	- **Monazite sand** in **Andhra and Kerala** is particularly rich in REEs
@@ -66,7 +67,7 @@ B-->D(Heavy Group - Yttrium Group);
 		- <b><u>NOTES: <i>Monazite</i></u></b> is a mineral mainly containing **REE** and **Thorium** 
 			- Estimated Monazite resources ~ 12-13 Mn Tn
 			- State wise reserves - ***Costs*** of **Andhra > Odisha > TN > Kerala**
-- Despite having one of the largest reserves in the world, India' ***total production of REE is just 1% of the global production***.
+- Despite having one of the largest reserves in the world, India's ***total production of REE is just 1% of the global production***.
 
 <b><u>REASONS FOR LOW REE PRODUCTION IN INDIA:</u></b> 
 1. **Classification of REMs as "Atomic Minerals":** mining reserved for government entities which lack capacity
@@ -86,6 +87,7 @@ B-->D(Heavy Group - Yttrium Group);
 7. **Over-regulation:**
 	- #Eg In *2019*, the central government *amended* the *Atomic Minerals Concessions Rules, 2016*, whereby *threshold values, to be classified as an atomic mineral, for a range of minerals were reduced* - this decision ***effectively nationalized beach sand*** and forced several private players out
 8. **Environmental issues** and **Health issues** due to REE mining and extraction 
+9. **Coastal Regulation Zone (CRZ) norms** also hinder mining of REE on the **monazite** rich coasts of India
 
 <b><u>WHY LOW PRODUCTION AND IMPORT DEPENDENCY IS A CAUSE OF CONCERN?</u></b>
 - **Significant supply chain risks:** When China restricts the supply of REEs, the local industries may suffer

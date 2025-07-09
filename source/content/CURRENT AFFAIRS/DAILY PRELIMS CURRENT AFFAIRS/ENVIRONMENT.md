@@ -366,3 +366,13 @@
 - **Soligas** and **Lingayats** are the dominant communities in MM HIlls
 - It is an important corridor in the ***Eastern Ghats-Western Ghats landscape***
 ---
+### Carrying Capacity
+#GS3 #Environment #Tourism #SustainableDevelopment 
+- **Uttarakhand** government has commissioned **assessments of carrying capacity of cities** to check **ecological-balance**
+- **Carrying Capacity:** of an ecosystem is the **size of population or community that can be supported indefinitely upon the available resources** and services of that ecosystem.
+- It will be a step in moving towards ***"Sustainable Tourism"*** with quantified insights that can help regulate tourist rush, new hotels and constructions.
+- **Carrying Capacity and 3 factors:**
+	1. The amount of **resources available** in the ecosystem
+	2. The **size** of the **population or community**
+	3. The amount of **resource consumption by each individual** within the community
+---

@@ -498,6 +498,16 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 - **MoI&B** launched the **"WAVEX Startup Challenge 2025"** under its flagship **startup accelerator programme, "WaveX"**
 	- under this there is a challenge titled, ***"BhashaSetu"*** - Real time language tech for Bharat, is a national hackathon to develop AI-powered multilingual translation solution across *at least 12 major Indian languages*
 ---
+### BIND Scheme
+#GS3 #Economy #Serivces #Scheme 
+- A new **Akashvani Kendra** will be established in **Ujjain** with the support of the **Broadcasting Infrastructure and Network Development (BIND) scheme**
+- **Broadcasting Infrastructure and Network Development (BIND) scheme:**
+	- It is a **Central SECTOR scheme** under the **MoI&B**
+	- **Objective:** provides **financial support** to ***Prasar Bharat*** (i.e, **All India Radio (AIR)** and **Doordarshan (DD)**) to expand and upgrade its broadcasting infrastructure, content development, etc.
+		- **Prasar Bharati** is **statutory** under **Prasar Bharti Act 1990.** it is the ***public broadcaster*** of India, and has two divisions:
+			- **Akashvani - All India Radio**
+			- **Doordarshan (DD)**
+---
 ### Employment Linked Incentive (ELI) Scheme
 #Gs3 #Economy #Employment #Scheme 
 - Announced in **Budget 2024-25** 
@@ -586,7 +596,7 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 ---
 ### PARAKH
 #GS2 #Governance #Education #Scheme 
-- **PARAKH Rashtriya Sarvekshan Dissemination Portal** was launched recently to provide **open access to National and State-level data on student performance** and serve as a key resource for States/UTs to design targeted plans to enhance learning outcomes.
+- **PARAKH Rashtriya Sarvekshan Dissemination Portal** ***(PARAKH-RS)*** was launched recently to provide **open access to National and State-level data on student performance** and serve as a key resource for States/UTs to design targeted plans to enhance learning outcomes.
 - **PARAKH:**
 	- It stands for **Performance Assessment, Review and Analysis of Knowledge for Holistic Development**
 	- It was set us a **National Assessment Centre** in 2023 in the **NCERT** as an independent constituent
@@ -595,6 +605,11 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 		- Achievement survey
 		- School Boards equivalence
 		- Holistic progress cards
+- **Results of PARAKH-RS** formerly known as **National Achievement Survey (NAS)**
+	- It assessed the performance in the following subjects:
+		- *Language and Mathematics* - for Grades 3, 6 and 9
+		- *World around us* - for Grades 3 and 6
+		- *Science and social science* - Grade 9
 ---
 ### Nutritional Intake in India Report
 #GS2 #Govenance #Health #Nutrition #Data #MainsValueAddition 
@@ -740,4 +755,44 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- Accelerate *export* of EVs from India
 	- Promote *transparent* and *circular supply chain*
 ---
+### Hazardous and Other Wastes (Management and Transboundary Movement) Amendment Rules, 2025
+#GS3 #Environment #CircularEconomy #Rules 
+- The rules shall come into force on 1st April, 2026
+- The rules introduces a **comprehensive Extended Producer Responsibility (EPR)** framework for **Scrap** of **Non-ferrous metals** including:
+	- **Non-ferrous metals**
+	- **Aluminum**, 
+	-  **Copper**, 
+	- **Zinc and it's alloys**
+- ***Circular Economy Framework:***
+<p align="center"><img src="https://ic-ce.com/wp-content/uploads/2021/06/Butterfly-diagram-1024x705.png" alt="Circular Economy" width="700"/></p>
 
+- **EPR of Non-Ferrous Metals:**
+	- **Targets:** ***Every producer*** shall be responsible for the **recycling target structure**, which progressively increased from ***10% in 2026-27*** to ***75% by 2032-33***
+	- **Central Pollution Control Board (CPCB):** shall generate an ***EPR Certificate***
+	- **validity of EPR Certificate:** shall be **two years** from the *end of the financial year in which it was generated*
+- **Significance of EPR for Scrap of Non-Ferrous metals:**
+	- Acknowledges the time required for industry adaptation
+	- Significant step towards *Circular Economy*
+	- Covers an extensive range of products
+- **EPR:** it is a policy approach that makes producers responsible for the *end-of-life management* of their *products* and *packaging*.
+	- It was **introduced in India** by the ***E-Waste (Management and Handling) Rules, 2011***
+---
+### Indian Telecom Services Yearly Performance Indicators
+#GS3 #Economy #Services #Telecom #Report #Data
+- **Telecom Regulatory Authority of India (TRAI)** has released the **Indian Telecom Services Yearly Performance Indicators** for the year 2024-25
+- **Highlights:**
+	- **Internet subscribers increased:** from *954.40 Mn (2024)* to ***969.10 Mn*** (2025)*
+		- **Composition of internet subscribers:**
+			- **Mobile wireless:** 95.22%
+			- **Wired:** 4.27%
+			- **Fixed wireless:** 0.51%
+		- **Broadband subscribers** increased but, **narrowband subscribers** ***decreased***
+	- **Telephone subscribers:** increased from *1.19 Billion (2024)* to ***1.20 Billion** (2025)*
+		- **Tele-density** ***Decreased*** from *85.69% (2024)* to ***85.04%** (2025)*
+			- Tele-density is the number of telephone connections per 100 individuals in a specific area
+			- **Rural tele-density:** ***59%***
+			- **Urban tele-density:** ***131.5%***
+		- **Market share of telephone subscribers:**
+			- **Wireless:** 96.92%
+			- **Wireline:** 3.08%
+---

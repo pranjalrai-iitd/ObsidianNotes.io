@@ -119,3 +119,22 @@
 	4. Chattisgarh
 	5. Maharashtra
 ---
+### Rare Earth Element (REE) Reserves
+#GS1 #GS3 #Resources #Minerals 
+- A report by **CareEdge** highlighted that, ***India holds 8% of the world's REE reserves but contributes to less than 1% of global production/mining.***
+- **China** on the other hand, holds ***49%* of world's total *reserves* and contributes to *69% production/mining* of REE, with *90%* share of REE *refining*.**
+- **World RRE Reserves:**
+```mermaid
+	%%{init: {"pie": {"textPosition": 0.8}, "themeVariables":{"pieOuterStrokeWidth": "2px", "pieTitleTextSize":"20px", "pieSectionTextSize":"20px", "pieLegendTextSize":"20px"} } }%%
+	pie title REE Reserves (2024)
+	    "China [49%]" : 49
+	    "Brazil [23%]" : 23
+	    "India [8%]" : 8
+	    "Australia [6%]" : 6
+	    "Russia [4%]" : 4
+	    "Others [10%]" : 10
+```
+
+- India's REE reserves are mainly found in **monazite sand** which also contains **Thorium**
+- **Coastal states** have the most **rare earth deposits** namely, **Tamil Nadu, Kerala, Andhra Pradesh** and **Odisha**
+---
