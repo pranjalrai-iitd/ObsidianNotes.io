@@ -371,13 +371,41 @@
 
 3. Despite **5.7% abject poverty estimate**, there are **87% Indians living off INR 171/day** *(USD 8.3/day at PPP)*
 
-<b><u>HIGHLIGHTS ON EQUITY:</u></b> #Inequality #Data 
+----
+### **INEQUALITY IN INDIA**
+#GS3 #Economy #Inequality 
+
+<b><u>NEWS:</u></b>
 - According to the World Bank's spring 2025 **Poverty and Equity Brief**, ***India is the 4th most equal country*** in the world after the **Slovak Republic, Slovenia** and **Belarus** on the basis of **Gini Index score.**
+
+<b><u>HIGHLIGHTS ON EQUITY:</u></b> #Inequality #Data 
 - **Highlights:** #Data 
-	- India achieved **greater income equality** with <b><u><i>Gini score of 25.5  (2022-23)</i></u></b> improving from ***28.8  (2011-12)***
+	- India achieved **greater income equality** with <b><u><i>Gini score of 25.5  (2022-23)</i></u></b> improving from ***28.8  (2011-12)***, ***based on consumption***.
 		- India falls into the ***"moderately low"*** inequality category with **Gini score between 25-30** and is only a fraction away from joining **"low inequality"** group. 
 	- India performed **better than G7 and G20** including **China** and **USA**
+	- India now ***4th most equal country*** in the world
 	- ***Extreme poverty** (below USD 2.15/day PPP)* fell from *16.2% (2011-12)* to ***2.3% (2022-23)***, lifting ***171 million*** people above this line.
+
+<b><u>ISSUES WITH WORLD BANK'S ESTIMATE:</u></b>
+1. **World Bank** release itself mentions **"data limitations"** - the **Gini Index** is calculated based on **consumption** and **does NOT takes into account the Gini Index calculated by the World Inequality Database**.
+	- The **World Inequality Database** shows a **increase in Gini index!*
+		- **Income inequality** in India has increased with **income inequality gini index** rising from **52 (2004)** to ***62 (2023)***
+		- Further, **World Inequality Lab** data shows:
+			- **Top 10% pre-tax income earners, earn cumulative 58% of total pre-tax income**
+			- ***Top 1% pre-tax income earners, earn cumulative 22% of total pre-tax income***
+			- **Top 10% wealthy population, has 65% of total net personal wealth**
+			-  ***Top 1% wealthy population, has 40% of total net personal wealth***
+<p align="center"><img src="https://indianexpress.com/wp-content/uploads/2025/07/inequalityu.jpg" alt="Inequality in India" width="700"/></p>
+
+2. **Inequality** is not just based on **consumption** and must take into account **income** - as **variation in income is far more than variation in consumption.**
+	- ***This is as more income translates into more savings while consumption increases marginally.***
+3. **Survey limitations:** It is known that **gap between bottom 10% and top 10% is population is widening** however, the surveys **falter in capturing data of the richest,** primarily because:
+	- Rich exhibit a **"differential non-response"** & tend to decline to participate in surveys
+	- **Sampling** results into the **chances of richest persons in the country being drawn in the random sample, pretty low.**
+	- > *If 90% the population is not "unequal" while most the inequality is being driven by the top 1%, any survey that fails to sample the top 1% will fail to capture the real picture on inequality*
+4. Survey limitations can be bridged by **Income Tax data**, and **World inequality lab** has used the income tax data concluding **rising inequality**
+5. **Issues with Gini Index:** Gini index is **over sensitive to changes in the middle**. Other indices like 
+   >***Palma Ratio***, named after a Chilean economist would suggest looking at the shares of income (or wealth) at the extremes - **bottom 50% and the top 10%.**
 
 ---
 ### **WOMEN LED MSMEs**

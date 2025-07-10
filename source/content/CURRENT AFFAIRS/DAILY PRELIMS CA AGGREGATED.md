@@ -3557,7 +3557,7 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 ---
 ### World Bank's Poverty and Equity Brief 2025
 #GS3 #Economy #Development 
-- According to the World Bank's spring 2025 **Poverty and Equity Brief**, ***India is the 4th most equal country*** in the world after the **Slovak Republic, Slovenia** and **Belarus** on the basis of **Gini Index score.**
+- According to the World Bank's spring 2025 **Poverty and Equity Brief**, ***India is the 4th most equal country*** in the world after the **Slovak Republic, Slovenia** and **Belarus** on the basis of **Gini Index score** ***(consumption based)***.
 - **Highlights:**
 	- India achieved **greater income equality** with <b><u><i>Gini score of 25.5  (2022-23)</i></u></b> improving from ***28.8  (2011-12)***
 		- India falls into the ***"moderately low"*** inequality category with **Gini score between 25-30** and is only a fraction away from joining **"low inequality"** group. 
