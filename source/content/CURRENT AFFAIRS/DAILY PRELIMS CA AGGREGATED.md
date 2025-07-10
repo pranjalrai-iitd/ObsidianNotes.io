@@ -656,7 +656,7 @@ A(Social security)-->D(Labor market  programs);
 - DIGIPIN is **encoded geographic coordinates** and do **not store personal information**.
 - DIGPIN is intended act as an extra layer of precision on top of existing postal addresses and is **not to replace** the traditional **6 digit PIN code**.
 ---
-### INS Arnala 
+### INS Arnala (P68)
 #GS3 #InternalSecurity #Defence #PPP #Eg 
 - A warship to be inducted by the India Navy called **Anti-Submarine Warfare Shallow-Water Crast (ASW-SWC) ***Arnala*** at Vishakhapatnam
 - It is a propelled by **diesel-engine-waterjet** combination and has become the **largest Indian naval warship to be propelled by disesel engine-waterjet**
@@ -664,6 +664,8 @@ A(Social security)-->D(Labor market  programs);
 - Designed by GRSE, Kolkata under **PPP** with L&T shipbuilders
 - Named after the **historic** <b><u>Arnala fort</u></b> at **Vasai, Maharashtra**
 - **Indigenous design, engineering & manufacturing:** signifying a transition from ***"Buyer's Navy" to "Builder's Navy"***
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/INS_Arnala_%28P68%29_at_sea.jpg/330px-INS_Arnala_%28P68%29_at_sea.jpg" alt="INS Arnala" width="250"></p>
+
 ---
 ### Nomadic Elephant 
 #GS3 #InternalSecurity #MilitaryExercise 
@@ -3486,6 +3488,23 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 		- **Maintain a data bank of information** on activities related to petroleum, petroleum products and natural gas.
 	- **Appeals** against the decisions of the PNGRB go before the **Appellate Tribunals for Electricity** established under the ***Electricity Act 2003*** 
 ---
+### Draft Petroleum and Natural Gas Rules, 2025
+#GS3 #Economy #Minerals #Rules 
+- Released by **Ministry of Petroleum and Natural Gas** to replace the **outdated Petroleum Concession Rules, 1949** and **Petroleum and Natural Gas Rules, 1959**, and follow the recent amendment of the **Oilfields (Regulation and Development) Act, 1948.**
+- The **rules focus on:**
+	- **Modernisation of India's upstream oil and gas framework**
+	- **Investor stability** and encouragement to **small players**
+	- **Ease of Business**
+	- **Decarbonisation**
+	- Improved **Data Governance**
+- **Provisions:**
+	1. **Introduction of detailed requirements** for monitoring and reporting **GHG emissions** for *Carbon capture and storage* **(CCS)**, and mandates **site restoration funds** with **post-closure monitoring** for a minimum of ***five (5) years.***
+	2. **Undertake integrated renewable and low-carbon projects:** The rules permit operators to undertake projects in *solar, winds, hydrogen, and geo-thermal energy* **within oilfield blocks.**
+	3. **Stabilisation clause:** designed to **protect investors** from *adverse impacts of future legal or fiscal changes*, such as *increase in taxes* by allowing *compensation or deductions.*
+	4. **Declaration:** Need to declare **underutilised capacity in pipelines and other facilities** to reduce infrastructure duplication and encourage small players.
+	5. **Creation of a dedicated Adjudicating Authority:** to enforce *compliance, resolve disputes,* and *impose penalties.*
+	6. **Data Governance:** All *operational data* and *physical samples* to the **Government of India**. *Lessees can use this data internally*, with ***export or external use requiring government approval.*** 
+---
 ### UMEED Portal
 #GS2 #Polity #Mionrities #Portal
 - Union Ministry of **Minority Affairs** launched ***UMEED Central Portal***
@@ -3912,4 +3931,216 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	1. The amount of **resources available** in the ecosystem
 	2. The **size** of the **population or community**
 	3. The amount of **resource consumption by each individual** within the community
+---
+### Comprehensive Update on Terrorist Financing Risks by FATF
+#GS3 #InternalSecurity #Terrorism #Report 
+- Released by the **Financial Action Task Force (FATF)**
+- **FATF** - *intergovernmental policy-making* and *standard-setting* body dedicated to **combating money laundering** and **terror financing**
+	- It was established in **1989* during the **G7 Summit** in Paris
+	- In **2001**, its mandate **expanded** to include **terror-financing**
+	- **HQ:** *Paris*
+		- **Membership:** To become a member, a country must be considered **strategically important** (*large population, large GDP, developed-banking and insurance sector, etc.*), must adhere to **globally accepted financial standards** and be a **participant in other international organizations**
+			- It includes **39** countries - **USA, India, China**, Saudi Arabia, E3 and EU
+				- **Russia** was **suspended** in 2023
+				- More than 180 countries are affiliated with FATF through a network of **FATF-Style Regional Bodies (FSRBs)**
+			- **India** became a member in **2010** ans it also a part of **two FSRBs:**
+				- *FATF Style Regional Bodies - Asia Pacific Group* (***FSRB-APG***)
+				- *Eurasian Group fot Combating Money Laundering and Financing of Terrorism* (***EAG***)
+	- Once a member, a country or organization **must endorse and support** the most recent **FATF recommendations, commit to being evaluated and to evaluate** other members.
+	- If a country fails to implement FATF standards, it can be named a jurisdiction under **Increased Monitoring** or **High-Risk jurisdiction**
+		- ***Black List:*** countries known as **non-Cooperative Countries or Territories (NCCTs)** or **High-risk Jurisdictions subject to a call for action**
+			- *DPRK, Iran and Myanmar
+			- If a country in on black list, **no financial aid** is given to them by the **IMF, ADB, WB,** or **EU**. They also face various financial sanctions and restrictions.
+		- ***Grey List:*** countries known as **Jurisdictions under increased monitoring**
+			- *Nepal, South Africa, Vietnam, Virgin Islands (UK)*
+---
+### Aspirational District Mineral Foundation (DMF) Programme
+#GS3 #Economy #Mining #Scheme 
+- **Union Ministry of Mines** released the ***operational guidelines*** for the ***"Aspirational DMF Programme"*** which aims for the **convergence of DMF initiatives with the Aspirational District Programme (ADP)** and **Aspirational Block Programmes (ABP)**.
+	- The guidelines are based on ***Pradhan Mantri Khanij Kshetra Kalyan Yojana (PMKKKY)*** which aims to **develop areas affected** by **mining operations** through the **District Mineral Foundation (DMF) Funds**
+	- **ADP/ABP** is an initiative of **NITI Aayog** to rapidly and effectively transform **most underdeveloped districts/block** across the country.
+- ***Aspirational DMF Programme:***
+	- **Objective:** Alignment of DMF works with key ADP/ABP sectors and performance indicators for multiplier effect and strengthened outcomes for mining affected communities.
+	- **Priority sectors for alignment:**
+		- *Health and Nutrition*
+		- *Education*
+		- *Agriculture and Water resources, Agriculture and allied activities*
+		- *Basic infrastructure*
+		- *Social development, Financial development and Skill development*
+	- **Identification of Aspirational Districts and Blocks:**
+		- At present, there are **106 Aspirational Districts** and **473 Aspirational Blocks** 
+- ***District Mineral Foundation (DMF):***
+	- **DMFs** are established under the ***Section 9(B) of the MMDR Act, 1957*** (introduced through an amendment in 2015), which provides for the establishment of **DMF** as a ***non-profit body***
+	- It is headed by the District Collector
+	- **Objective:** to work for the interest and benefit of persons, and areas **affected by mining related operations** in such a manner as may be **prescribed by the State Government.**
+---
+### Starlink's Satellite Communication in India
+#GS3 #SciTech #Space #Telecom 
+- **Starlink by SpaceX** is a **satellite constellation system** in the **LEO** that aims to deliver global internet coverage.
+- **In-SPACe** grants **5 year authorisation** to **Starlink for satellite services in India**
+	- **In-SPACe** clearance forms part of India's broader effort to **liberalise the satellite communication sector** and increase **private participation** in space based services.
+- **Satellite Communication Services:**
+	- It is a **wireless internet connection** provided through **communication satellites,** independent of terrestrial infrastructure.
+	- **Key users:** *Broadcasters, ISPs, Governments, Military, & Corporations*
+	- **Types:** 
+		- *Telecom services*
+		- *Broadcasting services*
+		- *Data communication services*
+	- **Significance:** 
+		- Connectivity to *remote area*
+		- *Emergency and disaster relief*
+		- *Navigation aid*
+		- *Internet connectivity in flights*
+- **Other initiatives to increase private participation in Space:**
+	- ***Antrix:*** it acts a **commercial arm of ISRO**
+	- ***Space Sector Reforms (2020):*** enabled extensive participation of private players through clear role demarcations among **ISRO, IN-SPACe, & NSIL**
+	- ***India Space Policy 2023:*** provides a level playing field for **non-governmental entities** enabling them to participate across the entire space value chain
+	- **Support to startups** like ***Agnikul Cosmos***, by supplying critical items used by ISRO, for private Indian launch vehicles.
+	- The first sub-orbital launch by an Indian private company, ***Skyroot Aerospace (Vikram-S)*** occured on November 2022, facilitated by **IN-SPACe**
+- **About various arms of ISRO:**
+	- ***Antrix Corporation Limited:*** It is an **international commercial arm** of ISRO, **wholly owned by GoI**, focusing non promoting and marketing ISRO's space products and services to international customers.
+	- ***NSIL (New Space India Limited):*** A **PSU** and the **commercial arm of ISRO**, focusing on enabling **Indian industries** to take up high-technology space-related activities. It is responsible for manufacturing and marketing of ISRO-developed technologies.
+	- ***IN-SPACe (Indian National Space Promotion and Authorisation Centre):***
+		- Functions as an **autonomous body** under the **Department of Space**
+		- Established as part of **Space Sector Reforms (2020)** to enhance **private sector participation**
+		- It strengthens India's space economy through **public-private collaboration**
+		- It manages a dedicated **Venture Capital Fund** for **space startups**, to foster *innovation* and build a *vibrant space ecosystem* over the next 5 years.
+---
+### Namibia to roll out UPI based Payment System
+#GS3 #Economy #DPI #UPI 
+- ***Nabmibia to become first African country to roll out Digital Payments System based on UPI***
+- On recent visit of PM to Namibia, a **licensing agreement** was signed to **adopt UPI system in Namibia for real-time digital payments.**
+- Previously, in its **Annual Report for 2023-23** ****RBI***, in collaboration with ***NPCI International Payments Limited (NIPL),*** set an ambitious agenda to work on **expanding UPI** to ***20 countries by 2028-29.***
+- Presently, **UPI is available in 8 countries** where *international merchant payments* are accepted:
+	1. Bhutan
+	2. France
+	3. Mauritius
+	4. Nepal
+	5. Singapore
+	6. Sri Lanka
+	7. UAE
+	8. Maldives
+	9. *Namibia* - first **African** country to **soon roll out UPI based payment system**
+- **UPI:** was launched by **NPCI (non-profit company owned by RBI and consortium of Banks)** in 2016, which powers multiple bank accounts into a single mobile application, merging several banking features, seamless fund routing and merchant payments.
+- **Significance of internationalisation of UPI:**
+	- **Global market expansion:** faster and easier **cross-border payments** can stimulate **trade** between the two countries.
+	- **Interoperability and standardization:** wider adoption of UPI can promote interoperability between payment systems across countries ensuring smoother integration with financial technologies worldwide.
+	- **Digital diplomacy:** strengthening India's influence and goodwill through **Digital Public Infrastructure** particularly for **global south**.
+- **Other initiatives for Internationalization of UPI:**
+	- **NIPL** - wholly owned subsidiary of **NPCI** introduced in 2020, for deployment of **RuPay** and **UPI** outside India.
+	- ***UPI One World:*** **Prepaid payment instrument** linked to **UPI** for foreign nationals/NRIs coming from **G20 countries**
+	- ***India's initiatives under G20:***
+		- **Global Digital Public Infrastructure (DPI) Repository**
+		- ***Social Impact Fund*** to advance DPI in Global South
+- **RuPay Global Credit Cards** are accepted in **185+ countries**.
+---
+### Sierra Leone and Turtle Islands
+#GS1 #Geography #ClimateChange #PlacesInNews #Mapping 
+- **Nyangai**, located in the **Turtle Islands** off southern **Sierra Leone,** has lost ***two-thirds of its surface area due to rise in sea level***
+<p align="center"><img src="https://www.worldatlas.com/r/w960-q80/upload/f1/f5/f7/sl-01.jpg" alt="Sierra Leone" width="450"/></p>
+
+- Sierra Leone's capital is **Freetown**, opening to the **Atlantic Ocean** on African west coast
+- **Land boundaries:** *GL*
+	- **Guinea** (North and East)
+	- **Liberia** (South)
+- **Geographical features:**
+	- **Natural resources:**
+		- Diamonds, Chromite, Gold, Bauxite, and reserves of *Rutile* (Titanium Oxide)
+	- **Climate:** is tropical and characterized by the alteration of rainy and dry seasons.
+	- **Islands:**
+		- *Banana Islands*
+		- *Turtle Islands*
+---
+### ERASR and ATAGS
+#GS3 #InternalSecurity #Defence 
+- India has tested the **indigenous** **anti-submarine rocket systems** and **Advanced towed artillery gun systems**
+- **Extended Rang Anti-Submarine Rocket (ERASR):**
+	- It is totally indigenous anti-submarine rocket used to **combat submarines** and is **fired from onboard** of Indian Naval ships.
+	- It has **twin-rocket motor configuration** to meet a wide spectrum of range requirements with high accuracy and consistency.
+	- It uses an **indigenously** developed ***Electronic Time Fuze***
+	- It is designed and developed by **DRDO's Armament Research and Development Establishment (ARDE), Pune**
+<p align="center"><img src="https://journalsofindia.com/wp-content/uploads/2023/04/Extended-Range-Anti-Submarine-Rocket-ER-ASR-1.jpg" alt="ERASR" width="250"/></p>
+
+- **Advanced Towed Artillery Gun Systems (ATAGS):**
+	- It also designed by **ARDE, Pune**
+	- It is a **large gun** that can **fire guided missiles for accurate long-distance attacks**
+	- Uses an electric system that **needs less maintenance** and works reliably for a long time
+	- It also features and **Automatic Ammunition Handling** system, including a **crane**.
+<p align="center"><img src="https://www.spslandforces.com/experts-speak/images/ATAGS_DRDO_1.jpg" alt="ATAGS" width="250"/></p>
+
+---
+### INS Nistar
+#GS3 #InternalSecurity #Defence 
+- ***"INS Nistar"***, the **first indigenously designed and constructed** ***Diving Support Vessel*** was delivered to the Indian Navy.
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nistar_%28A16%29%2C_diving_support_vesssel_during_Yoga_day_practise.jpg/960px-Nistar_%28A16%29%2C_diving_support_vesssel_during_Yoga_day_practise.jpg" alt="INS Nistar" width ="250"></p>
+
+- It is installed with state-of-the-art **Diving Equipment** with capability to undertake **Deep Sea Saturation Diving** up to **300m depth**
+- It has a **side diving stage** for undertaking diving operations up to 75m depth
+- It will serve as ***"Mother Ship"*** for the **Deep Submergence Rescue Vessel (DSRV)** to rescue and evacuate personnel.
+- It is equipped with a combination of **Remotely Operated Vehicles** to undertake **Diver Monitoring and Salvage Operations** up to a depth of 1000m
+- ***Nistar*** originates from **Sanskrit** and means ***liberation, rescue or salvation.***
+---
+### Catastrophe Bonds (Cat Bonds)
+#GS3 #DisasterManagement #MainsValueAddition 
+- It is a **financial instrument** that transfers **catastrophic insurance risk** to **investors**, who receive **high yields** but may **loose their principal** if a specific **pre-defined** disaster occurs.
+- It could include **earthquake, hurricanes, floods,** and other **extreme events**.
+- **Climate change** and the **increased frequency** of natural disasters are making ***Cat Bonds*** more important in the insurance industry.
+- **Government funded Cat Bonds are the need of the hour***
+- However, there is a disadvantage that if the bond pre-defined a threshold of 6.6M Earthquake, then even at 6.5M Earthquake the principal amount will not be disbursed, despite same amount of damage.
+>***Nobel Prize-winner Harry Markowitz had famously stated that risk diversification is “truly the only free lunch in finance”.***
+
+---
+### Shadow Banking
+#GS3 #Economy #Banking 
+- Finance Minister recently said, ***"Non-banking financial institutions (NBFCs) are no longer shadow banks".***
+- **Shadow banking:**
+	- It refers to a network of **financial intermediaries** and **institutions** that **operate outside the traditional banking system**. 
+	- These are **not subject to the same regulatory oversight** as conventional bonds.
+	- **Issues:** 
+		- Lack of transparency
+		- Potential for increased systemic rick
+	- **Role:** It plays a significant role in the global financial system by providing **Credit** and **liquidity** to various sectors
+	- #Eg ***Money market Funds, Hedge Funds, Private Equity Funds, Securitization and Asset-backed securities***
+---
+### Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017
+#GS3 #DisasterManagement #MaritimeSector #Act 
+- **Kerala government** has sought **compensation** for **environmental damage** under the ***Admiralty Act, 2017*** for **sinking of a Liberian container ship.**
+	- **Keral HC** ordered a ***"conditional arrest"*** of the ship over the compensation
+- **Admiralty Act and Admiralty Suits:**
+	- **Application:**
+		- To **every vessel**, ***irrespective*** of the **place of residence or domicile** of the **owner**
+	- **Types of maritime claims covered:**
+		- *Damage to ships*
+		- *Ownership and agreement disputes*
+		- *Loss of life at sea*
+		- *Wage issues for maritime workers*
+		- *Environmental damage*
+	- **Jurisdiction:** should be **vested** in the respective **High Courts**
+	- It **covers compensation** for ***damage, removal measures, and remediation costs***
+	- It enables ***ship arrest (detention)*** until **claims are settle or security is provided**.
+---
+### Mahi or Mahisagar River
+#GS1 #GS3 #Geography #DisasterManagement #PlacesInNews 
+- A **bridge collapsed** in Gujarat over the **Mahi river**
+- **Mahi river:**
+	- It is a major ***west-flowing*** interstate river also known as ***Mahisagar*** due to its vastness.
+	- **Origin:** Northern slope of **Vindhyas** in *Dhar district* of **Madhya Pradesh**
+	- **Mouth:** Flows into the ***Gulf of Khambat*** in the **Arabian Sea**
+	- **Interstate river:*** Flowing through **Madhya Pradesh, Rajasthan**, and **Gujarat**
+	- It is one of the few rivers in India that ***flows across the Tropic of Cancer twice***
+		- ***NOTE:*** The ***Congo river*** crosses the **Equator twice**
+	- Forms a ***zig-zag*** course unlike other west-flowing rivers.
+---
+### Lake Turkana
+#GS1 #Geography #PlacesInNews #Mapping 
+- Scientists extracted *18-20 million year old* **proteins** from **tooth enamel of extinct mammals** found in the **Lake Turkana**
+<p align="center"><img src="https://www.researchgate.net/profile/Rene-Bobe/publication/51880817/figure/fig3/AS:282625890635813@1444394671572/Schematic-map-of-the-Omo-Turkana-Basin-including-Lake-Turkana-and-the-lower-Omo-Valley.png" alt="Lake Turkana" width="400"/></p>
+
+- **Lake Turkana (or) Lake Rudolf (or) Jade Sea:**
+	- It is also known as, ***Lake Rudolf*** and the ***Jade Sea***, due to the striking *turquoise-green color* caused by *algae* on the lake's surface.
+	- It is located mainly in **Northern Kenya** with some parts in **Ethiopia** 
+		- ***KE -*** **Kenya** and **Ethiopia**
+	- It is **Africa's** ***4th largest lake*** by **surface area** and the ***world's largest permanent desert lake*** (seasonal lake which is found in arid areas)
+	- **Lake Turkana National parks including the lake*** are designated as ***World Heritage Sites (UNESCO WHS)***
+	- **Only perennial tributary:** *Omo river*
 ---

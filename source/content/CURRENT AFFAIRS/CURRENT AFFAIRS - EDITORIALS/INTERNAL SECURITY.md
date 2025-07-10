@@ -225,3 +225,26 @@
 	- Another operation was ***"Operation MED MAX"*** conducted by **NCB** for cracking down on **illegal pharmaceutical drug trade**
 	- It shows the growing ***convergence of digital platforms, cryptocurrency, and transactional logistics in modern illicit trade***
 ---
+### **TERROR FINANCING**
+#GS3 #InternalSecurity #Terrorism #Report 
+
+ <b><u>NEWS:</u></b> ***"Comprehensive update on Terrorist Financing Risks"*** report was recently released by **FATF** revealing terrorist organizations's persistent ability to exploit the **international financial system** to support their activites.
+
+<b><u>KEY FACTORS INFLUENCING TERRORIST FINANCING RISKS:</u></b> 
+1. **Lone actors** and **small cells** requiring **minimal funding**
+2. **Porous borders** in *Africa* and *South Asia*
+3. **State sponsorship** of terrorism
+4. **Free Trade Zones** with week regulations
+
+<b><u>TRENDS IN TERRORIST FINANCING:</u></b>
+- **Conventional methods:** ***Cash-based transactions, Hawala*** and other informal hard-to-trace methods used by groups like ***Al-Shabaab*** and ***Hamas***, etc.
+- **Emerging methods:**
+	- **Digital platforms:** ***Social media, Crowdfunding, Online marketplaces*** are exploited for fundraising, ***Virtual assets like BitCoin, Online Gaming platforms*** for fund transfers, etc.
+	- **Criminal activities:** ***Extortion, Kidnapping for ransom (KFR), drug trafficking, anf illicit trade in natural resources (glod, timber, etc.)*** by groups like ***Boko Haram***, etc.
+	- **Use of non-profit and legal entities:** Use of ***Front and shell companies*** used to obscure terrorist funding activities, ***diversion of funds from non-profit organizations***, etc.
+
+<b><u>RECOMMENDATIONS FOR COUNTER-TERRORISM FINANCING (CTF) STRATEGIES:</u></b>
+1. **Identify risk indicators:** frequent transfers to *high-risk jurisdictions,* use of *anonymity-enhancing tools* like *virtual assets* and *prepaid cards,* etc.
+2. **Coordinated multilateral response:** to address transnational dimension of terrorist-financing - this involves *multilateral designation of terrorist organizations* under *UNSC sanctions.*
+3. **Outreach to sectors not covered under FATF standards:** develop targeted *PPPs* to better understand and address *threats* from *social media* and *messaging platforms.*
+---

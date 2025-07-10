@@ -23,7 +23,7 @@
 - It stands for **Passage Exercise** ***(PASSEX)***
 - Indian Navy's stealth **frigate** ***INS Tabar*** along with a *submarine* and a **P-8I maritime patrol aircraft** too part.
 ---
-### INS Arnala 
+### INS Arnala (P68)
 #GS3 #InternalSecurity #Defence #PPP #Eg 
 - A warship to be inducted by the India Navy called **Anti-Submarine Warfare Shallow-Water Crast (ASW-SWC) ***Arnala*** at Vishakhapatnam
 - It is a propelled by **diesel-engine-waterjet** combination and has become the **largest Indian naval warship to be propelled by disesel engine-waterjet**
@@ -31,6 +31,8 @@
 - Designed by GRSE, Kolkata under **PPP** with L&T shipbuilders
 - Named after the **historic** <b><u>Arnala fort</u></b> at **Vasai, Maharashtra**
 - **Indigenous design, engineering & manufacturing:** signifying a transition from ***"Buyer's Navy" to "Builder's Navy"***
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/INS_Arnala_%28P68%29_at_sea.jpg/330px-INS_Arnala_%28P68%29_at_sea.jpg" alt="INS Arnala" width="250"></p>
+
 ---
 ### Nomadic Elephant 
 #GS3 #InternalSecurity #MilitaryExercise 
@@ -134,4 +136,55 @@
 - **Japanese Coast Guard** ship, ***Itsukushima*** arrived in **Chennai** for the **joint exercise**, ***"Jaa Mata"***
 - **Jaa Maata** in Japanese means, ***"See you later"***
 - It is a **joint sea exercise** between **Japan** and **Indian Coast Guard**
+---
+### Comprehensive Update on Terrorist Financing Risks by FATF
+#GS3 #InternalSecurity #Terrorism #Report 
+- Released by the **Financial Action Task Force (FATF)**
+- **FATF** - *intergovernmental policy-making* and *standard-setting* body dedicated to **combating money laundering** and **terror financing**
+	- It was established in **1989* during the **G7 Summit** in Paris
+	- In **2001**, its mandate **expanded** to include **terror-financing**
+	- **HQ:** *Paris*
+		- **Membership:** To become a member, a country must be considered **strategically important** (*large population, large GDP, developed-banking and insurance sector, etc.*), must adhere to **globally accepted financial standards** and be a **participant in other international organizations**
+			- It includes **39** countries - **USA, India, China**, Saudi Arabia, E3 and EU
+				- **Russia** was **suspended** in 2023
+				- More than 180 countries are affiliated with FATF through a network of **FATF-Style Regional Bodies (FSRBs)**
+			- **India** became a member in **2010** ans it also a part of **two FSRBs:**
+				- *FATF Style Regional Bodies - Asia Pacific Group* (***FSRB-APG***)
+				- *Eurasian Group fot Combating Money Laundering and Financing of Terrorism* (***EAG***)
+	- Once a member, a country or organization **must endorse and support** the most recent **FATF recommendations, commit to being evaluated and to evaluate** other members.
+	- If a country fails to implement FATF standards, it can be named a jurisdiction under **Increased Monitoring** or **High-Risk jurisdiction**
+		- ***Black List:*** countries known as **non-Cooperative Countries or Territories (NCCTs)** or **High-risk Jurisdictions subject to a call for action**
+			- *DPRK, Iran and Myanmar
+			- If a country in on black list, **no financial aid** is given to them by the **IMF, ADB, WB,** or **EU**. They also face various financial sanctions and restrictions.
+		- ***Grey List:*** countries known as **Jurisdictions under increased monitoring**
+			- *Nepal, South Africa, Vietnam, Virgin Islands (UK)*
+---
+### ERASR and ATAGS
+#GS3 #InternalSecurity #Defence 
+- India has tested the **indigenous** **anti-submarine rocket systems** and **Advanced towed artillery gun systems**
+- **Extended Rang Anti-Submarine Rocket (ERASR):**
+	- It is totally indigenous anti-submarine rocket used to **combat submarines** and is **fired from onboard** of Indian Naval ships.
+	- It has **twin-rocket motor configuration** to meet a wide spectrum of range requirements with high accuracy and consistency.
+	- It uses an **indigenously** developed ***Electronic Time Fuze***
+	- It is designed and developed by **DRDO's Armament Research and Development Establishment (ARDE), Pune**
+<p align="center"><img src="https://journalsofindia.com/wp-content/uploads/2023/04/Extended-Range-Anti-Submarine-Rocket-ER-ASR-1.jpg" alt="ERASR" width="250"/></p>
+
+- **Advanced Towed Artillery Gun Systems (ATAGS):**
+	- It also designed by **ARDE, Pune**
+	- It is a **large gun** that can **fire guided missiles for accurate long-distance attacks**
+	- Uses an electric system that **needs less maintenance** and works reliably for a long time
+	- It also features and **Automatic Ammunition Handling** system, including a **crane**.
+<p align="center"><img src="https://www.spslandforces.com/experts-speak/images/ATAGS_DRDO_1.jpg" alt="ATAGS" width="250"/></p>
+
+---
+### INS Nistar
+#GS3 #InternalSecurity #Defence 
+- ***"INS Nistar"***, the **first indigenously designed and constructed** ***Diving Support Vessel*** was delivered to the Indian Navy.
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nistar_%28A16%29%2C_diving_support_vesssel_during_Yoga_day_practise.jpg/960px-Nistar_%28A16%29%2C_diving_support_vesssel_during_Yoga_day_practise.jpg" alt="INS Nistar" width ="250"></p>
+
+- It is installed with state-of-the-art **Diving Equipment** with capability to undertake **Deep Sea Saturation Diving** up to **300m depth**
+- It has a **side diving stage** for undertaking diving operations up to 75m depth
+- It will serve as ***"Mother Ship"*** for the **Deep Submergence Rescue Vessel (DSRV)** to rescue and evacuate personnel.
+- It is equipped with a combination of **Remotely Operated Vehicles** to undertake **Diver Monitoring and Salvage Operations** up to a depth of 1000m
+- ***Nistar*** originates from **Sanskrit** and means ***liberation, rescue or salvation.***
 ---

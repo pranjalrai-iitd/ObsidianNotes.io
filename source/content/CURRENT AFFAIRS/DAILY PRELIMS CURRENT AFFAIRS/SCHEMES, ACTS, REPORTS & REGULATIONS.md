@@ -673,6 +673,23 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 		- **Maintain a data bank of information** on activities related to petroleum, petroleum products and natural gas.
 	- **Appeals** against the decisions of the PNGRB go before the **Appellate Tribunals for Electricity** established under the ***Electricity Act 2003*** 
 ---
+### Draft Petroleum and Natural Gas Rules, 2025
+#GS3 #Economy #Minerals #Rules 
+- Released by **Ministry of Petroleum and Natural Gas** to replace the **outdated Petroleum Concession Rules, 1949** and **Petroleum and Natural Gas Rules, 1959**, and follow the recent amendment of the **Oilfields (Regulation and Development) Act, 1948.**
+- The **rules focus on:**
+	- **Modernisation of India's upstream oil and gas framework**
+	- **Investor stability** and encouragement to **small players**
+	- **Ease of Business**
+	- **Decarbonisation**
+	- Improved **Data Governance**
+- **Provisions:**
+	1. **Introduction of detailed requirements** for monitoring and reporting **GHG emissions** for *Carbon capture and storage* **(CCS)**, and mandates **site restoration funds** with **post-closure monitoring** for a minimum of ***five (5) years.***
+	2. **Undertake integrated renewable and low-carbon projects:** The rules permit operators to undertake projects in *solar, winds, hydrogen, and geo-thermal energy* **within oilfield blocks.**
+	3. **Stabilisation clause:** designed to **protect investors** from *adverse impacts of future legal or fiscal changes*, such as *increase in taxes* by allowing *compensation or deductions.*
+	4. **Declaration:** Need to declare **underutilised capacity in pipelines and other facilities** to reduce infrastructure duplication and encourage small players.
+	5. **Creation of a dedicated Adjudicating Authority:** to enforce *compliance, resolve disputes,* and *impose penalties.*
+	6. **Data Governance:** All *operational data* and *physical samples* to the **Government of India**. *Lessees can use this data internally*, with ***export or external use requiring government approval.*** 
+---
 ### UMEED Portal
 #GS2 #Polity #Mionrities #Portal
 - Union Ministry of **Minority Affairs** launched ***UMEED Central Portal***
@@ -810,4 +827,41 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 		- **Market share of telephone subscribers:**
 			- **Wireless:** 96.92%
 			- **Wireline:** 3.08%
+---
+### Aspirational District Mineral Foundation (DMF) Programme
+#GS3 #Economy #Mining #Scheme 
+- **Union Ministry of Mines** released the ***operational guidelines*** for the ***"Aspirational DMF Programme"*** which aims for the **convergence of DMF initiatives with the Aspirational District Programme (ADP)** and **Aspirational Block Programmes (ABP)**.
+	- The guidelines are based on ***Pradhan Mantri Khanij Kshetra Kalyan Yojana (PMKKKY)*** which aims to **develop areas affected** by **mining operations** through the **District Mineral Foundation (DMF) Funds**
+	- **ADP/ABP** is an initiative of **NITI Aayog** to rapidly and effectively transform **most underdeveloped districts/block** across the country.
+- ***Aspirational DMF Programme:***
+	- **Objective:** Alignment of DMF works with key ADP/ABP sectors and performance indicators for multiplier effect and strengthened outcomes for mining affected communities.
+	- **Priority sectors for alignment:**
+		- *Health and Nutrition*
+		- *Education*
+		- *Agriculture and Water resources, Agriculture and allied activities*
+		- *Basic infrastructure*
+		- *Social development, Financial development and Skill development*
+	- **Identification of Aspirational Districts and Blocks:**
+		- At present, there are **106 Aspirational Districts** and **473 Aspirational Blocks** 
+- ***District Mineral Foundation (DMF):***
+	- **DMFs** are established under the ***Section 9(B) of the MMDR Act, 1957*** (introduced through an amendment in 2015), which provides for the establishment of **DMF** as a ***non-profit body***
+	- It is headed by the District Collector
+	- **Objective:** to work for the interest and benefit of persons, and areas **affected by mining related operations** in such a manner as may be **prescribed by the State Government.**
+---
+### Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017
+#GS3 #DisasterManagement #MaritimeSector #Act 
+- **Kerala government** has sought **compensation** for **environmental damage** under the ***Admiralty Act, 2017*** for **sinking of a Liberian container ship.**
+	- **Keral HC** ordered a ***"conditional arrest"*** of the ship over the compensation
+- **Admiralty Act and Admiralty Suits:**
+	- **Application:**
+		- To **every vessel**, ***irrespective*** of the **place of residence or domicile** of the **owner**
+	- **Types of maritime claims covered:**
+		- *Damage to ships*
+		- *Ownership and agreement disputes*
+		- *Loss of life at sea*
+		- *Wage issues for maritime workers*
+		- *Environmental damage*
+	- **Jurisdiction:** should be **vested** in the respective **High Courts**
+	- It **covers compensation** for ***damage, removal measures, and remediation costs***
+	- It enables ***ship arrest (detention)*** until **claims are settle or security is provided**.
 ---

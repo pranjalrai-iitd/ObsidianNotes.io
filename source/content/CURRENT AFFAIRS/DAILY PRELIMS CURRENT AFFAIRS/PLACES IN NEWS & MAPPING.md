@@ -292,3 +292,45 @@
 	- It flows into **Sudan** to meet the **While Nile** to for the **Nile river at Khartoum**
 <p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/4klOtqN5EDog455gvmoik1eGw4ucNx2RwzSRG8WM.jpg" alt="Nile" width="450"/></p>
 ---
+### Sierra Leone and Turtle Islands
+#GS1 #Geography #ClimateChange #PlacesInNews #Mapping 
+- **Nyangai**, located in the **Turtle Islands** off southern **Sierra Leone,** has lost ***two-thirds of its surface area due to rise in sea level***
+<p align="center"><img src="https://www.worldatlas.com/r/w960-q80/upload/f1/f5/f7/sl-01.jpg" alt="Sierra Leone" width="450"/></p>
+
+- Sierra Leone's capital is **Freetown**, opening to the **Atlantic Ocean** on African west coast
+- **Land boundaries:** *GL*
+	- **Guinea** (North and East)
+	- **Liberia** (South)
+- **Geographical features:**
+	- **Natural resources:**
+		- Diamonds, Chromite, Gold, Bauxite, and reserves of *Rutile* (Titanium Oxide)
+	- **Climate:** is tropical and characterized by the alteration of rainy and dry seasons.
+	- **Islands:**
+		- *Banana Islands*
+		- *Turtle Islands*
+---
+### Mahi or Mahisagar River
+#GS1 #GS3 #Geography #DisasterManagement #PlacesInNews 
+- A **bridge collapsed** in Gujarat over the **Mahi river**
+- **Mahi river:**
+	- It is a major ***west-flowing*** interstate river also known as ***Mahisagar*** due to its vastness.
+	- **Origin:** Northern slope of **Vindhyas** in *Dhar district* of **Madhya Pradesh**
+	- **Mouth:** Flows into the ***Gulf of Khambat*** in the **Arabian Sea**
+	- **Interstate river:*** Flowing through **Madhya Pradesh, Rajasthan**, and **Gujarat**
+	- It is one of the few rivers in India that ***flows across the Tropic of Cancer twice***
+		- ***NOTE:*** The ***Congo river*** crosses the **Equator twice**
+	- Forms a ***zig-zag*** course unlike other west-flowing rivers.
+---
+### Lake Turkana
+#GS1 #Geography #PlacesInNews #Mapping 
+- Scientists extracted *18-20 million year old* **proteins** from **tooth enamel of extinct mammals** found in the **Lake Turkana**
+<p align="center"><img src="https://www.researchgate.net/profile/Rene-Bobe/publication/51880817/figure/fig3/AS:282625890635813@1444394671572/Schematic-map-of-the-Omo-Turkana-Basin-including-Lake-Turkana-and-the-lower-Omo-Valley.png" alt="Lake Turkana" width="400"/></p>
+
+- **Lake Turkana (or) Lake Rudolf (or) Jade Sea:**
+	- It is also known as, ***Lake Rudolf*** and the ***Jade Sea***, due to the striking *turquoise-green color* caused by *algae* on the lake's surface.
+	- It is located mainly in **Northern Kenya** with some parts in **Ethiopia** 
+		- ***KE -*** **Kenya** and **Ethiopia**
+	- It is **Africa's** ***4th largest lake*** by **surface area** and the ***world's largest permanent desert lake*** (seasonal lake which is found in arid areas)
+	- **Lake Turkana National parks including the lake*** are designated as ***World Heritage Sites (UNESCO WHS)***
+	- **Only perennial tributary:** *Omo river*
+---

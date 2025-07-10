@@ -87,3 +87,15 @@
 2. **Overhauling of flood management system:** increased focus on **early warning systems**, ***green buffers***, **smart planning** and **resilient infrastructure**.
 
 ---
+### Catastrophe Bonds (Cat Bonds)
+#GS3 #DisasterManagement #MainsValueAddition 
+- It is a **financial instrument** that transfers **catastrophic insurance risk** to **investors**, who receive **high yields** but may **loose their principal** if a specific **pre-defined** disaster occurs.
+- It could include **earthquake, hurricanes, floods,** and other **extreme events**.
+- **Climate change** and the **increased frequency** of natural disasters are making ***Cat Bonds*** more important in the insurance industry.
+- **Government funded Cat Bonds are the need of the hour***
+- However, there is a disadvantage that if the bond pre-defined a threshold of 6.6M Earthquake, then even at 6.5M Earthquake the principal amount will not be disbursed, despite same amount of damage.
+- #Data There have been ***USD 180 Billion*** worth new issuance of **Cat Bonds** globally with about **USD 50 Billion** currently outstanding.
+
+>***Nobel Prize-winner Harry Markowitz had famously stated that risk diversification is “truly the only free lunch in finance”.***
+
+---

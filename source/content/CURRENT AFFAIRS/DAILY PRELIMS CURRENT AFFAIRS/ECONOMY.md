@@ -391,3 +391,44 @@
 	- India performed **better than G7 and G20** including **China** and **USA**
 	- ***Extreme poverty** (below USD 2.15/day PPP)* fell from *16.2% (2011-12)* to ***2.3% (2022-23)***, lifting ***171 million*** people above this line.
 ---
+### Namibia to roll out UPI based Payment System
+#GS3 #Economy #DPI #UPI 
+- ***Nabmibia to become first African country to roll out Digital Payments System based on UPI***
+- On recent visit of PM to Namibia, a **licensing agreement** was signed to **adopt UPI system in Namibia for real-time digital payments.**
+- Previously, in its **Annual Report for 2023-23** ****RBI***, in collaboration with ***NPCI International Payments Limited (NIPL),*** set an ambitious agenda to work on **expanding UPI** to ***20 countries by 2028-29.***
+- Presently, **UPI is available in 8 countries** where *international merchant payments* are accepted:
+	1. Bhutan
+	2. France
+	3. Mauritius
+	4. Nepal
+	5. Singapore
+	6. Sri Lanka
+	7. UAE
+	8. Maldives
+	9. *Namibia* - first **African** country to **soon roll out UPI based payment system**
+- **UPI:** was launched by **NPCI (non-profit company owned by RBI and consortium of Banks)** in 2016, which powers multiple bank accounts into a single mobile application, merging several banking features, seamless fund routing and merchant payments.
+- **Significance of internationalisation of UPI:**
+	- **Global market expansion:** faster and easier **cross-border payments** can stimulate **trade** between the two countries.
+	- **Interoperability and standardization:** wider adoption of UPI can promote interoperability between payment systems across countries ensuring smoother integration with financial technologies worldwide.
+	- **Digital diplomacy:** strengthening India's influence and goodwill through **Digital Public Infrastructure** particularly for **global south**.
+- **Other initiatives for Internationalization of UPI:**
+	- **NIPL** - wholly owned subsidiary of **NPCI** introduced in 2020, for deployment of **RuPay** and **UPI** outside India.
+	- ***UPI One World:*** **Prepaid payment instrument** linked to **UPI** for foreign nationals/NRIs coming from **G20 countries**
+	- ***India's initiatives under G20:***
+		- **Global Digital Public Infrastructure (DPI) Repository**
+		- ***Social Impact Fund*** to advance DPI in Global South
+- **RuPay Global Credit Cards** are accepted in **185+ countries**.
+---
+### Shadow Banking
+#GS3 #Economy #Banking 
+- Finance Minister recently said, ***"Non-banking financial institutions (NBFCs) are no longer shadow banks".***
+- **Shadow banking:**
+	- It refers to a network of **financial intermediaries** and **institutions** that **operate outside the traditional banking system**. 
+	- These are **not subject to the same regulatory oversight** as conventional bonds.
+	- **Issues:** 
+		- Lack of transparency
+		- Potential for increased systemic rick
+	- **Role:** It plays a significant role in the global financial system by providing **Credit** and **liquidity** to various sectors
+	- #Eg ***Money market Funds, Hedge Funds, Private Equity Funds, Securitization and Asset-backed securities***
+---
+

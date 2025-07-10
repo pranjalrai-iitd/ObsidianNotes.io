@@ -288,3 +288,35 @@
 	2. ***2I/Borisov*** in *2019*
 	3. ***3I/ATLAS*** in *2025*
 ---
+### Starlink's Satellite Communication in India
+#GS3 #SciTech #Space #Telecom 
+- **Starlink by SpaceX** is a **satellite constellation system** in the **LEO** that aims to deliver global internet coverage.
+- **In-SPACe** grants **5 year authorisation** to **Starlink for satellite services in India**
+	- **In-SPACe** clearance forms part of India's broader effort to **liberalise the satellite communication sector** and increase **private participation** in space based services.
+- **Satellite Communication Services:**
+	- It is a **wireless internet connection** provided through **communication satellites,** independent of terrestrial infrastructure.
+	- **Key users:** *Broadcasters, ISPs, Governments, Military, & Corporations*
+	- **Types:** 
+		- *Telecom services*
+		- *Broadcasting services*
+		- *Data communication services*
+	- **Significance:** 
+		- Connectivity to *remote area*
+		- *Emergency and disaster relief*
+		- *Navigation aid*
+		- *Internet connectivity in flights*
+- **Other initiatives to increase private participation in Space:**
+	- ***Antrix:*** it acts a **commercial arm of ISRO**
+	- ***Space Sector Reforms (2020):*** enabled extensive participation of private players through clear role demarcations among **ISRO, IN-SPACe, & NSIL**
+	- ***India Space Policy 2023:*** provides a level playing field for **non-governmental entities** enabling them to participate across the entire space value chain
+	- **Support to startups** like ***Agnikul Cosmos***, by supplying critical items used by ISRO, for private Indian launch vehicles.
+	- The first sub-orbital launch by an Indian private company, ***Skyroot Aerospace (Vikram-S)*** occured on November 2022, facilitated by **IN-SPACe**
+- **About various arms of ISRO:**
+	- ***Antrix Corporation Limited:*** It is an **international commercial arm** of ISRO, **wholly owned by GoI**, focusing non promoting and marketing ISRO's space products and services to international customers.
+	- ***NSIL (New Space India Limited):*** A **PSU** and the **commercial arm of ISRO**, focusing on enabling **Indian industries** to take up high-technology space-related activities. It is responsible for manufacturing and marketing of ISRO-developed technologies.
+	- ***IN-SPACe (Indian National Space Promotion and Authorisation Centre):***
+		- Functions as an **autonomous body** under the **Department of Space**
+		- Established as part of **Space Sector Reforms (2020)** to enhance **private sector participation**
+		- It strengthens India's space economy through **public-private collaboration**
+		- It manages a dedicated **Venture Capital Fund** for **space startups**, to foster *innovation* and build a *vibrant space ecosystem* over the next 5 years.
+---
