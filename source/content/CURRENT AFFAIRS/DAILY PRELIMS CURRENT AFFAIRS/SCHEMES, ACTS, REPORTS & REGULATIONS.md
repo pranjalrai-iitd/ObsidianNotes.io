@@ -872,7 +872,8 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 - **Other Acts that can address environmental compensation:**
 	- ***Merchant Shipping Act, 1958*** - **ship owners** are liable for **oil pollution damage** in the event of leaks.
 	- ***Environment Protection Act, 1986*** - empowers authorities to take action against polluters
-	- ***NGT*** in **2016** ordered compensation from a **Panama** based company whose **shop sank** causing **oil spills** off the coast of **Mumbai** in **2011**
+	- ***NGT*** in **2016** ordered compensation from a **Panama** based company whose **shop sank** causing **oil spills** off the coast of **Mumbai** in **2011**.
+
 ---
 
 
