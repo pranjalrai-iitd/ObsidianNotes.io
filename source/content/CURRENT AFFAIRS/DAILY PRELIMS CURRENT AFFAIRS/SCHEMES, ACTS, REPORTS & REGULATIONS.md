@@ -848,3 +848,29 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- It is headed by the District Collector
 	- **Objective:** to work for the interest and benefit of persons, and areas **affected by mining related operations** in such a manner as may be **prescribed by the State Government.**
 ---
+### Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017
+#GS3 #DisasterManagement #MaritimeSector #Act 
+- **Kerala government** has sought **compensation** for **environmental damage** under the ***Section 4 of, Admiralty Act, 2017*** for **sinking of a Liberian container ship.**
+	- **Keral HC** ordered a ***"conditional arrest"*** of another Liberian ship operated by the same company, seeking compensation for **environmental pollution** caused by the sinking ship near *Alappuzha*. The sank ship contained **600 containers** containing **plastic pellets, diesel** and **hazardous substances**.
+	- The sinking included the following **costs** and total sought compensation is ***Rs, 9,531 crores:***
+		- **Pollution** and **oil spill**
+		  **Remediation costs**
+		- **Economic loss to fishermen**
+- <b><u>Admiralty Act, 2017:</u></b>
+	- **Application:**
+		- To **every vessel**, ***irrespective*** of the **place of residence or domicile** of the **owner**
+	- **Types of maritime claims covered:**
+		- *Damage to ships*
+		- *Ownership and agreement disputes*
+		- *Loss of life at sea*
+		- *Wage issues for maritime workers*
+		- *Environmental damage*
+	- **Jurisdiction:** should be **vested** in the respective **High Courts**
+		- Inside the  **territorial waters** of their respective jurisdictions i.e, **up to 12 nautical miles** from the nearest point of a low-water line along the coast. This also includes the seabed, subsoil (the layer of soil under the topsoil on the surface), and airspace above it.
+	- It **covers compensation** for ***damage, removal measures, and remediation costs***
+	- It enables ***ship arrest (detention)*** until **claims are settle or security is provided**.
+- **Other Acts that can address environmental compensation:**
+	- ***Merchant Shipping Act, 1958*** - **ship owners** are liable for **oil pollution damage** in the event of leaks.
+	- ***Environment Protection Act, 1986*** - empowers authorities to take action against polluters
+	- ***NGT*** in **2016** ordered compensation from a **Panama** based company whose **shop sank** causing **oil spills** off the coast of **Mumbai** in **2011**
+---
