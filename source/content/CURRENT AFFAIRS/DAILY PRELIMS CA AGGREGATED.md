@@ -4105,7 +4105,7 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 ### Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017
 #GS3 #DisasterManagement #MaritimeSector #Act 
 - **Kerala government** has sought **compensation** for **environmental damage** under the ***Admiralty Act, 2017*** for **sinking of a Liberian container ship.**
-	- **Keral HC** ordered a ***"conditional arrest"*** of the ship over the compensation
+	- **Keral HC** ordered a ***"conditional arrest"*** of another Liberian ship operated by the same company, seeking compensation for **environmental pollution** caused by the sinking ship near *Alappuzha*.
 - **Admiralty Act and Admiralty Suits:**
 	- **Application:**
 		- To **every vessel**, ***irrespective*** of the **place of residence or domicile** of the **owner**
