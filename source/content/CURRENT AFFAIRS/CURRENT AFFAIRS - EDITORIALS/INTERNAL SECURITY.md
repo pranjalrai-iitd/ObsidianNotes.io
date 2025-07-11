@@ -259,19 +259,19 @@
 2. **Lack of formal regulation** leading to serious gaps in **cable governance.**
 
 <b><u>THREATS TO SUBMARINE CABLES?</u></b>
-3. **Accidental damage**
-4. **Sabotage:** recently a **Chinese-owned vessel, *Shunxing-36*, cut  undersea cables near Taiwan's Kee-lung harbour.**
-5. **Tapping of cables** using *splice chambers* and *optical splitters* -  ****Snowden leaks***
+1. **Accidental damage**
+2. **Sabotage:** recently a **Chinese-owned vessel, *Shunxing-36*, cut  undersea cables near Taiwan's Kee-lung harbour.**
+3. **Tapping of cables** using *splice chambers* and *optical splitters* -  ****Snowden leaks***
 
 <b><u>IMPORTANCE FOR INDIA:</u></b>
-2. **India's exploding data needs** it needs undersea cable networks.
-3. **Global strategic shift** redefining undersea cables from *commercial infrastructure* to  **assets critical to sovereignty and global influence**.
+1. **India's exploding data needs** it needs undersea cable networks.
+2. **Global strategic shift** redefining undersea cables from *commercial infrastructure* to  **assets critical to sovereignty and global influence**.
 	- Traditional **US domination**, bur growing **Chinese influence** through **Belt and Road Initiative** - ****Digital Silk Road***
 	- **USA, EU & Japan** pushing for a ***"clean cable" consortium.***
-4. **Pakistan and China axis** as China is connecting Pakistan to West Asia
-5. **China** using **submarine cable attacks** as part of its **gray-zone warfare**.
+3. **Pakistan and China axis** as China is connecting Pakistan to West Asia
+4. **China** using **submarine cable attacks** as part of its **gray-zone warfare**.
     #Eg ***Shunxing-36 and Taiwan***
-6. **Dependence on foreign ships for repair:** there is **Chinese** dominance in **submarine cable repair** sector - China operates now around 6 **undersea cable repair vessels**, with at least one linked to *PLA*. **India has only 1 privately owned submarine cable repair vessel.**
+5. **Dependence on foreign ships for repair:** there is **Chinese** dominance in **submarine cable repair** sector - China operates now around 6 **undersea cable repair vessels**, with at least one linked to *PLA*. **India has only 1 privately owned submarine cable repair vessel.**
 
 <b><u>HOW INDIA CAN FORTIFY IT'S UNDERSEA CABLES:</u></b>
 1. India should **expand its submarine cable repair capacity** through a **public sector shipyard**. This is to enhance **national security** and **counter China** by offering **regional alternative to China**
