@@ -875,5 +875,113 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- ***NGT*** in **2016** ordered compensation from a **Panama** based company whose **shop sank** causing **oil spills** off the coast of **Mumbai** in **2011**.
 
 ---
+### Roadmap for strengthening state S&T Councils Report
+#GS2 #Polity #Federalism #SciTech #Report 
+- **NITI** Aayog released the report titled, **"A Roadmap for strengthening State S&T Councils,"** outlining the issued and challenges along with pathways pertaining the ***State Science and Technology Councils***, aligned with the national vision of *Viksit bharat by 2047*
+- **State S&T Councils:** 
+	- They were established in **1971** under the initiative of the **National Council for Science and Technology Communication (NCSTC)** a **non-statutory** body under **DST**.
+- **Issues and challenges in functioning of State S&T Councils:**
+	- **Inadequate financial resources and utilization issues:** #Eg *uneven funding* and *delayed budgets* limit operation and research sustainability.
+	- **Shortage of skilled manpower:** #Eg unfilled scientific positions and poor world culture reduces research output.
+	- **Weak inter-institutional and industry linkages:** *low global exposure* and *poor technology transfers*.
+	- **Regulatory and administrative bottlenecks:** leading to delays and un-accountabiity
+- **Recommendations of NITI Aayog:**
+	- **Financial support and resources:**
+		- State government should allocate at least ***0.5% of GSDP*** as ***S&T budget***
+		- Shifting from *core-grant by the Central government* to ***project-based and performance based grants***
+	- **Human Resources:**
+		- Maintain a ***70:30 scientific to non-scientific*** staff ratio
+		- Enhance capabilities via ***Faculty and Researcher secondment*** and utilizing ***retired scientists*** from central-level.
+	- **Collaborations and linkages** with industries and **redefine programs** by mapping state resources with institutional partnerships.
+---
+### WASH Progress Tracker 2025
+#GS2 #Governance #Health #Sanitation #Water #Report 
+- **WHO** and **UNICEF** released an updated **tracker for WASH In Health Care Facilities** for more than 100 countries, showing progress on improving ***Water, Sanitation, and Hygiene (WASH)*** across ***8 (eight) spheres***.
+	- It is linked to **2023 UNGA** Resolution on **WASH, waste and electricity in health-care facilities**.
+	- It reveals that **only 17% countries have adequate funding** to improve these services.
+- **WASH and its importance:**
+	- WASH is a collective term for **Water, Sanitation and Hygiene** relating to,
+		- **Access to safe** drinking water
+		- **Improved sanitation facilities**
+		- **Maintaining basic level of hygiene**
+	- **Importance:**
+		- **Sustainable Development Goals (SDGs):** linked to **SDG3** *(Good health and well-being)* and **SDG6** *(Ensuring management of water and sanitation for all)*
+			- WASH is critical for reducing **infections** like *cholera*, ****diarrhoea (3rd leading cause of deaths in children 1-59 months of age)***, *sepsis*, and *neglected tropic diseases* **(NTD)**.
+			- The lack of toilets in schools causes dropouts, especially among girls.
+		- **Protect Human Rights:** Clean water and sanitation are basic human rights recognized by the UN
+- **India and WASH:**
+	- The **Progress Tracker** recognizes India's efforts for WASH in *healthcare facilities standard*, *infrastructure improvements*, and *national monitoring*.
+- **Major WASH Initiatives:**
+	- **National**
+		- **Swachh Bharat Mission (SBM):** to eliminate open defecation
+		- **Jal Jeevan mission (JJM):** to ensure **FTHC** to every rural home
+			- ***80.92% HHs*** are connected with tap water - more than **12 crore** HHs connected to tap water under JJM.
+				- Still, **3.7 crore HHs remain without tap water** connections
+		- **Namami Gange:** focusing on cleaning and conserving the Ganges river
+	- **Global**
+		- **Protocol on Water and Health:** it is the **only international legal agreement** linking **sustainable water management** and the prevention, control and reduction of **water-related diseases** in **Europe**
+			- Jointly supported by **WHO/Europe** and the **UN Economic Commission**
+		- **UN Resolution (2010):** recognized **safe water and sanitation** as **human right**
+		- **WHO WASH Strategy (2018-25):** aiming to improve health through better water, sanitation, and hygiene.
+		- **UNICEF WASH Strategy (2016-30):** supporting **SD6** (Clean water & sanitation for all)
+		- **UN Sanitation and Hygiene Fund (2020):** funds high-burden countries to improve sanitation.
+---
+### Public Gambling Act, 1867
+#GS3 #Economy #MoneyLaundering  #Act 
+- **Enforcement Directorate (ED)** has filed a case **(ECIR)** under the **PMLA, 2002** against several celebrities for promoting **illegal betting apps** and violating the ***Public Gambling Act, 1867***
+	- **PMLA** was enacted to combat **money laundering** and following two authorities has been conferred with **exclusive** and **concurrent** powers to implement the provisions of the Act:
+		- **FIU-IND (Financial intelligence Unit)** under **Do Revenue**
+		- **Enforcement Directorate** under **Do Revenue**
+- **Public Gambling Act, 1867:**
+	- **Betting and gambling** are **strictly prohibited** under the act
+	- **Applicable states:** varies as **gambling a state subject**, some have adopted like **Delhi** and **UP**
+	- **EXEMPTIONS:** ***Games of skill** are allowed
+	- **State control:** ***States*** can **amend** the act as ***gambling is a state subject*** under the 7th schedule
+	- **Betting and gambling** are generally considered **illegal in most regions of the country**.
+---
+### Panch Sankalpa of NEP 202
+#GS2 #Governance #Education #Scheme 
+- Under the NEP2020, the Union Minister of Education introduced, ***"Panch Sankalp (Five Resolutions)"***
+- **About NEP2020:***
+	- It aims to improve the quality of education (school, higher education and technical education) in India
+	- **4 foundational pillars of NEP2020:** ***AEQAA***
+		1. **Access**
+		2. **Equity**
+		3. **Quality**
+		4. **Affordability**
+		5. **Accountability**
+- **Panch Snkalpa:** These will be the guiding principles for **transforming** ***higher education instituyions***
+	1. *Next-Gen Emerging Education*
+	2. *Multidisciplinary Education*
+	3. *Innovative Education*
+	4. *Holsitic Educaiton*
+	5. *Bharatiya Education*
+- **Status of higher Education in India:** #Data 
+	- **Gross Enrollment Ratio (GER):** ***28.4%*** (**50%** target by **2035**)
+	- **Female GER:** ***28.5%*** (*higher than male*)
+	- **Gender Parity Index:** ***1.01***
+	- **Government universities** contribute to ***73.7% of total enrollment***
+---
+### Talash initiative
+#GS1 #Society #Tribals #Scheme 
+- The **National Education Society for Tribal Students (NESTS)** under the **MoTA**, in partnership  with **UNICEF** launched ***TALASH (Tribal Aptitude, Life Skills and Self-Esteem Hub) initiative.***
+- **TALASH:** a digital platform
+	- It is national-program to support the **all-round development (both educational and personal growth)** of students in ***Eklavya Model Residential Schools (EMRS)***
+	- It is an ***innovative digital platform*** which offers:
+		- **Psychometric assessments:** inspired by **NCERT's** ***"Tamanna"*** initiative
+			- **Tamanna:** *Try and Measure Aptitude aNd Natural Abilities)
+		- **Career counselling**
+		- **Life skills** and **Self-esteem modules**
+		- **e-Learning** for **teachers**
 
-
+- ***Eklavya Model Residential Schools (EMRS):***
+	- Is a **central SECTOR scheme** under **MoTA** to provide residential schooling to tribal children in **blocks having more than 50% ST population and at least 20,000 tribal persons**
+	- Total **708 EMRS (2024)** sanctioned in the country - most in **Chattisgarh**
+	- Each school will have a capacity of **480 students** and even **non-tribal students can take admissions**
+		- Provided only **10% seats can be filled by non-ST students**
+---
+### Machine Vision-Based Inspection System (MVIS)
+#GS3 #Economy #Infrastructure #Railway #SciTech 
+- The **Indian Railway** has signed a **MoU** with ***DFCCIL (Dedicated Freight Corridor Cooperation of India Limited)*** to **enhance train safety** with installation of **MVIS inspection system**.
+- It is AI/ML based system that captures high-resolution images of the **under-gear of moving trains** and **automatically detects any hanging, loose, or missing components** and **generates real-time alerts**.
+---

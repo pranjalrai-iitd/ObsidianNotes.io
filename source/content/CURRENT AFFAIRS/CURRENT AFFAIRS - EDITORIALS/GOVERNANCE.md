@@ -32,6 +32,17 @@
 - **Anusandhan National Research Foundation (ANRF):** Established under the **ANRF Act, 2023** to seed, grow and promote R&D and foster a culture of research and innovation throughout the country  
 - **IMPacting Research INnovation and Technology (IMPRINT):** aimed at bridging gap between **scientific knowledge base** created through **fundamental research** and **applied research** and fruitful translation to engineering innovation  
 
+<b><u>STATES ROLE IN SCIENCE AND TECHNOLOGY:</u></b> 
+- **NITI** Aayog recently released the report titled, **"A Roadmap for strengthening State S&T Councils,"** outlining the issues and challenges along with pathways pertaining the ***State Science and Technology Councils***.
+- <b><u>Recommendations of NITI Aayog:</u></b>
+	- **Financial support and resources:**
+		- State government should allocate at least ***0.5% of GSDP*** as ***S&T budget***
+		- Shifting from *core-grant by the Central government* to ***project-based and performance based grants***
+	- **Human Resources:**
+		- Maintain a ***70:30 scientific to non-scientific*** **staff ratio**
+		- Enhance capabilities via ***Faculty and Researcher secondment*** and utilizing ***retired scientists*** from central-level.
+	- **Collaborations and linkages** with industries and **redefine programs** by mapping state resources with institutional partnerships.
+
 ---
 ### **MGNREGS SPENDING CAP**
 #GS2 #GS3 #Scheme #Employment #SocialSecurity

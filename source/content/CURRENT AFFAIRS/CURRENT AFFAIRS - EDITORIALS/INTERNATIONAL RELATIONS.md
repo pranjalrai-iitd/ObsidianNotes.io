@@ -278,3 +278,21 @@
 >***"India and Brazil are two great nations with higher purposes of peace, prosperity, and sustainable development."*** - PM
 
 ---
+### **CHALLENGES WITH WTO**
+#GS2 #IR #WTO #Trade #InternationalOrganizations 
+
+<b><u>NEWS:</u></b>
+- A suggestion was made by *Ursula van der leyen,* the **European Commission chief,** for a **Europe-led trade initiative with Asian countries** to create a **new trade cooperation framework**, as the **WTO remains stalled.**
+
+<b><u>MAIN CHALLENGES WITH WTO:</u></b>
+1. **Dispute settlement paralysis:** since 2016, USA has blocked appointments to the WTO's Appellate Body
+	- This has made the **dispute Settlement system non-functional**, weakening global rule enforcement.
+2. **Inequity in the system:** WTO is often seen as favoring **developed countries**, Developing nations struggle to fully participate in international trade due to high trade barriers, poor infrastructure, and limited resources.
+	- #Eg **Fisheries subsidies** favours *developed countries*
+	- WTO members have **not been able to agree on new rules on agricultural goods** due to such conflicts
+3. **Opaque decision-making:** with **lack of transparency** and limited involvement of developing countries creating *mistrust* and questions the WTO's legitimacy.
+4. **Rise of Regional and Bilateral Trade Blocs:** more countries are forming regional and bilateral trade pacts like, **CPTPP, AfCFTA**
+	- These frameworks weakens the WTO's roles and risks creating fragmented global trade rules.
+5. **US-Chine trade conflicts:** *unilateral actions*  ( #Eg *US tariffs on steel* and aluminum) and ongoing tensions strain WTO operations.
+
+---

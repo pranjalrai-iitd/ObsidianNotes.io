@@ -188,3 +188,21 @@
 - It is equipped with a combination of **Remotely Operated Vehicles** to undertake **Diver Monitoring and Salvage Operations** up to a depth of 1000m
 - ***Nistar*** originates from **Sanskrit** and means ***liberation, rescue or salvation.***
 ---
+### IMO and Maritime Security
+#GS3 #InternalSecurity #MaritimeSector #InternationalOrganizations 
+- India urges **IMO** for **comprehensive investigation** and **global review** of **maritime incidents**. This comes in the backdrop of increased maritime incidents involving **undeclared hazardous cargo on foreign vessels in Indian waters.***
+	- It has led to concerns about the **safety protocols** surrounding **global shipping container operations.**
+	- It also drew IMO's attention towards improving global standards around **packaging, declaration, stowage, and monitoring of lithium-ion batteries and other dangerous goods** categorized under ***International Maritime Dangerous Goods (IMDG) Code***.
+- **IMO:**
+	- Established in 1984 and is **specialized agency of UN**
+	- **174 members** including **India**
+	- HQ - *London*
+	- **Role:** *safety and security of shipping and the prevention of marine and atmospheric pollution by ships*
+- **Role of IMP in Maritime Safety and Environmental Protection:** #convention 
+	- ***International Convention for the Safety of Life at Sea (SOLAS), 1974:*** Established minimum safety standards for ships, fire protection, navigation, operational safety.
+	- ***International Convention for the Prevention of Pollution from Ships (MARPOL), 1973:*** Preventing and minimizing pollution by oils, chemicals, sewage, garbage, etc.
+	- ***International Convention on Oil Pollution Preparedness, Response and Co-operation (OPRC) and OPRC-HNS Protocol , 2000:*** Required countries to develop contingency plans and establish cooperation for oil spill response.
+	- ***International Convention on the Control of Harmful Anti-fouling Systems on Ships (AFS Convention):*** Regulates the use of harmful anti-fouling systems (substances used to prevent marine organisms from attaching to ship's hulls)
+	- ***Ballast Water Management Convention:*** Prevent the spread of harmful aquatic organisms and pathogens and preventing introduction of invasive species into new marine environments.
+	- ***Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships (Hong Kong Convention):*** Ensure that recycled ships do not pose unnecessary risk to human health and safety or to the environment.
+---

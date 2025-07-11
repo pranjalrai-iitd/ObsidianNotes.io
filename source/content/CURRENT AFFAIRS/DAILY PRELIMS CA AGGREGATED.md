@@ -4153,3 +4153,189 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- **Lake Turkana National parks including the lake*** are designated as ***World Heritage Sites (UNESCO WHS)***
 	- **Only perennial tributary:** *Omo river*
 ---
+### Roadmap for strengthening state S&T Councils Report
+#GS2 #Polity #Federalism #SciTech #Report 
+- **NITI** Aayog released the report titled, **"A Roadmap for strengthening State S&T Councils,"** outlining the issued and challenges along with pathways pertaining the ***State Science and Technology Councils***, aligned with the national vision of *Viksit bharat by 2047*
+- **State S&T Councils:** 
+	- They were established in **1971** under the initiative of the **National Council for Science and Technology Communication (NCSTC)** a **non-statutory** body under **DST**.
+- **Issues and challenges in functioning of State S&T Councils:**
+	- **Inadequate financial resources and utilization issues:** #Eg *uneven funding* and *delayed budgets* limit operation and research sustainability.
+	- **Shortage of skilled manpower:** #Eg unfilled scientific positions and poor world culture reduces research output.
+	- **Weak inter-institutional and industry linkages:** *low global exposure* and *poor technology transfers*.
+	- **Regulatory and administrative bottlenecks:** leading to delays and un-accountabiity
+- **Recommendations of NITI Aayog:**
+	- **Financial support and resources:**
+		- State government should allocate at least ***0.5% of GSDP*** as ***S&T budget***
+		- Shifting from *core-grant by the Central government* to ***project-based and performance based grants***
+	- **Human Resources:**
+		- Maintain a ***70:30 scientific to non-scientific*** staff ratio
+		- Enhance capabilities via ***Faculty and Researcher secondment*** and utilizing ***retired scientists*** from central-level.
+	- **Collaborations and linkages** with industries and **redefine programs** by mapping state resources with institutional partnerships.
+---
+### WASH Progress Tracker 2025
+#GS2 #Governance #Health #Sanitation #Water #Report 
+- **WHO** and **UNICEF** released an updated **tracker for WASH In Health Care Facilities** for more than 100 countries, showing progress on improving ***Water, Sanitation, and Hygiene (WASH)*** across ***8 (eight) spheres***.
+	- It is linked to **2023 UNGA** Resolution on **WASH, waste and electricity in health-care facilities**.
+	- It reveals that **only 17% countries have adequate funding** to improve these services.
+- **WASH and its importance:**
+	- WASH is a collective term for **Water, Sanitation and Hygiene** relating to,
+		- **Access to safe** drinking water
+		- **Improved sanitation facilities**
+		- **Maintaining basic level of hygiene**
+	- **Importance:**
+		- **Sustainable Development Goals (SDGs):** linked to **SDG3** *(Good health and well-being)* and **SDG6** *(Ensuring management of water and sanitation for all)*
+			- WASH is critical for reducing **infections** like *cholera*, ****diarrhoea (3rd leading cause of deaths in children 1-59 months of age)***, *sepsis*, and *neglected tropic diseases* **(NTD)**.
+			- The lack of toilets in schools causes dropouts, especially among girls.
+		- **Protect Human Rights:** Clean water and sanitation are basic human rights recognized by the UN
+- **India and WASH:**
+	- The **Progress Tracker** recognizes India's efforts for WASH in *healthcare facilities standard*, *infrastructure improvements*, and *national monitoring*.
+- **Major WASH Initiatives:**
+	- **National**
+		- **Swachh Bharat Mission (SBM):** to eliminate open defecation
+		- **Jal Jeevan mission (JJM):** to ensure **FTHC** to every rural home
+			- ***80.92% HHs*** are connected with tap water - more than **12 crore** HHs connected to tap water under JJM.
+				- Still, **3.7 crore HHs remain without tap water** connections
+		- **Namami Gange:** focusing on cleaning and conserving the Ganges river
+	- **Global**
+		- **Protocol on Water and Health:** it is the **only international legal agreement** linking **sustainable water management** and the prevention, control and reduction of **water-related diseases** in **Europe**
+			- Jointly supported by **WHO/Europe** and the **UN Economic Commission**
+		- **UN Resolution (2010):** recognized **safe water and sanitation** as **human right**
+		- **WHO WASH Strategy (2018-25):** aiming to improve health through better water, sanitation, and hygiene.
+		- **UNICEF WASH Strategy (2016-30):** supporting **SD6** (Clean water & sanitation for all)
+		- **UN Sanitation and Hygiene Fund (2020):** funds high-burden countries to improve sanitation.
+---
+### EC Chief calls for an alternative to WTO
+#GS2 #IR #WTO #Trade #InternationalOrganizations 
+- A suggestion was made by *Ursula van der leyen,* the **European Commission chief,** for a **Europe-led trade initiative with Asian countries** to create a **new trade cooperation framework**, as the **WTO remains stalled.**
+	- The proposed initiative will contain **EU and 11 countries** of the **Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)**
+		- ***INIDA IS NOT A MEMBER OF CPTPP***
+- **Mains challenges with WTO:**
+	- **Dispute settlement paralysis:** since 2016, USA has blocked appointments to the WTO's Appellate Body
+		- This has made the **dispute Settlement system non-functional**, weakening global rule enforcement.
+		- ***WTO DISPUTE SETTLEMENT MECHANISM:*** Two (2) main ways:
+			1. **Mutually Agreed Solution:** particularly during the phase of bilateral consultations
+			2. **Through Adjudication:** 
+				- Ruling by **Dispute Settlement *Panel***
+				- Then possible challenge at **Appellate body**
+					- ***WTO Dispute Appellate Body:**
+						- Apex body for dispute settlements
+						- Composition: ***7 members*** appointed by the **Dispute Settlement Body (DSB)**
+							- ***DSB*** - composed of all WTO members
+	- **Inequity in the system:** WTO is often seen as favoring **developed countries**, Developing nations struggle to fully participate in international trade due to high trade barriers, poor infrastructure, and limited resources.
+		- #Eg **Fisheries subsidies** favours *developed countries*
+		- WTO members have **not been able to agree on new rules on agricultural goods** due to such conflicts
+	- **Opaque decision-making:** with **lack of transparency** and limited involvement of developing countries creating *mistrust* and questions the WTO's legitimacy.
+	- **Rise of Regional and Bilateral Trade Blocs:** more countries are forming regional and bilateral trade pacts like, **CPTPP, AfCFTA**
+		- These frameworks weakens the WTO's roles and risks creating fragmented global trade rules.
+	- **US-Chine trade conflicts:** *unilateral actions*  ( #Eg *US tariffs on steel*) and ongoing tensions strain WTO operations.
+---
+### IMO and Maritime Security
+#GS3 #InternalSecurity #MaritimeSector #InternationalOrganizations 
+- India urges **IMO** for **comprehensive investigation** and **global review** of **maritime incidents**. This comes in the backdrop of increased maritime incidents involving **undeclared hazardous cargo on foreign vessels in Indian waters.***
+	- It has led to concerns about the **safety protocols** surrounding **global shipping container operations.**
+	- It also drew IMO's attention towards improving global standards around **packaging, declaration, stowage, and monitoring of lithium-ion batteries and other dangerous goods** categorized under ***International Maritime Dangerous Goods (IMDG) Code***.
+- **IMO:**
+	- Established in 1984 and is **specialized agency of UN**
+	- **174 members** including **India**
+	- HQ - *London*
+	- **Role:** *safety and security of shipping and the prevention of marine and atmospheric pollution by ships*
+- **Role of IMP in Maritime Safety and Environmental Protection:** #convention 
+	- ***International Convention for the Safety of Life at Sea (SOLAS), 1974:*** Established minimum safety standards for ships, fire protection, navigation, operational safety.
+	- ***International Convention for the Prevention of Pollution from Ships (MARPOL), 1973:*** Preventing and minimizing pollution by oils, chemicals, sewage, garbage, etc.
+	- ***International Convention on Oil Pollution Preparedness, Response and Co-operation (OPRC) and OPRC-HNS Protocol , 2000:*** Required countries to develop contingency plans and establish cooperation for oil spill response.
+	- ***International Convention on the Control of Harmful Anti-fouling Systems on Ships (AFS Convention):*** Regulates the use of harmful anti-fouling systems (substances used to prevent marine organisms from attaching to ship's hulls)
+	- ***Ballast Water Management Convention:*** Prevent the spread of harmful aquatic organisms and pathogens and preventing introduction of invasive species into new marine environments.
+	- ***Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships (Hong Kong Convention):*** Ensure that recycled ships do not pose unnecessary risk to human health and safety or to the environment.
+---
+### Public Gambling Act, 1867
+#GS3 #Economy #MoneyLaundering  #Act 
+- **Enforcement Directorate (ED)** has filed a case **(ECIR)** under the **PMLA, 2002** against several celebrities for promoting **illegal betting apps** and violating the ***Public Gambling Act, 1867***
+	- **PMLA** was enacted to combat **money laundering** and following two authorities has been conferred with **exclusive** and **concurrent** powers to implement the provisions of the Act:
+		- **FIU-IND (Financial intelligence Unit)** under **Do Revenue**
+		- **Enforcement Directorate** under **Do Revenue**
+- **Public Gambling Act, 1867:**
+	- **Betting and gambling** are **strictly prohibited** under the act
+	- **Applicable states:** varies as **gambling a state subject**, some have adopted like **Delhi** and **UP**
+	- **EXEMPTIONS:** ***Games of skill** are allowed
+	- **State control:** ***States*** can **amend** the act as ***gambling is a state subject*** under the 7th schedule
+	- **Betting and gambling** are generally considered **illegal in most regions of the country**.
+---
+### Panch Sankalpa of NEP 202
+#GS2 #Governance #Education #Scheme 
+- Under the NEP2020, the Union Minister of Education introduced, ***"Panch Sankalp (Five Resolutions)"***
+- **About NEP2020:***
+	- It aims to improve the quality of education (school, higher education and technical education) in India
+	- **4 foundational pillars of NEP2020:** ***AEQAA***
+		1. **Access**
+		2. **Equity**
+		3. **Quality**
+		4. **Affordability**
+		5. **Accountability**
+- **Panch Snkalpa:** These will be the guiding principles for **transforming** ***higher education instituyions***
+	1. *Next-Gen Emerging Education*
+	2. *Multidisciplinary Education*
+	3. *Innovative Education*
+	4. *Holsitic Educaiton*
+	5. *Bharatiya Education*
+- **Status of higher Education in India:** #Data 
+	- **Gross Enrollment Ratio (GER):** ***28.4%*** (**50%** target by **2035**)
+	- **Female GER:** ***28.5%*** (*higher than male*)
+	- **Gender Parity Index:** ***1.01***
+	- **Government universities** contribute to ***73.7% of total enrollment***
+---
+### Talash initiative
+#GS1 #Society #Tribals #Scheme 
+- The **National Education Society for Tribal Students (NESTS)** under the **MoTA**, in partnership  with **UNICEF** launched ***TALASH (Tribal Aptitude, Life Skills and Self-Esteem Hub) initiative.***
+- **TALASH:** a digital platform
+	- It is national-program to support the **all-round development (both educational and personal growth)** of students in ***Eklavya Model Residential Schools (EMRS)***
+	- It is an ***innovative digital platform*** which offers:
+		- **Psychometric assessments:** inspired by **NCERT's** ***"Tamanna"*** initiative
+			- **Tamanna:** *Try and Measure Aptitude aNd Natural Abilities)
+		- **Career counselling**
+		- **Life skills** and **Self-esteem modules**
+		- **e-Learning** for **teachers**
+
+- ***Eklavya Model Residential Schools (EMRS):***
+	- Is a **central SECTOR scheme** under **MoTA** to provide residential schooling to tribal children in **blocks having more than 50% ST population and at least 20,000 tribal persons**
+	- Total **708 EMRS (2024)** sanctioned in the country - most in **Chattisgarh**
+	- Each school will have a capacity of **480 students** and even **non-tribal students can take admissions**
+		- Provided only **10% seats can be filled by non-ST students**
+---
+### Autonomous District Councils
+#GS2 #Polity #ScheduleAreas #NorthEast #Federalism #Tribals 
+- **Governor's rule** has been imposed in the ***Chakma Autonomous District Council*** in **Mizoram** under the **Sixth Schedule.**
+	- This was because of frequent leadership changes in the ADC and a non-confidence motion passed last month which ousted **chief executive member (CEM)**.
+- **ADC:**
+	- Are **administrative bodies**, established under the **sixth schedule** of the constitution, to govern tribal areas in **Assam, Meghalaya, Tripura, & Mizoram.**
+	- **Objectives:** ADCs ensure tribal autonomy, preserve their distinct identity, and promote development in tribal-dominated regions
+	- **Functions:**
+		- **Enact laws** on matters like *land, forests, social customs,* etc.
+		- **Manage local governance**, including *education, health,* etc.
+		- **Establish village or district Council courts** to adjudicate disputes based on **customary laws**
+	- **Structure:** 
+		- **Not more than** ***34 members*** (in general), of which ***4 (maximum)*** can be **nominated** by the **Governor**.
+---
+### Island Protection Zone (IPZ)
+#GS3 #Environment #Act 
+- The union Environment ministry has extended the validity of infrastructure projects approved under the ***2011, Islands Protection Zone (IPZ) notification***.
+- **IPZ:***
+	- Notified in **2011** under the ***Environment (Protection) Act, 1986***
+	- IPZ is a **regulatory framework** to safeguard the **ecological integrity** of ***Andaman & Nicobar*** and ***Lakshadweep*** groups of islands.
+		- It is similar to the **Coastal Regulation Zone (CRZ)** except that the **CRZ is notified for the protection of coastal areas of mainland India**.
+	- **IPZ regulation includes:**
+		- ***Island Coastal Regulation Zone (ICRZ)*** for ***4 large A&N islands*** - ***Middle* Andaman, *North* Andaman, *South* Andaman, *Little* Andaman**, etc.
+		- ***Integrated Islands Management Plans (IIMPs)*** applicable to all **other islands of Andaman & Nicobar** and **all islands of Lakshadweep**.
+---
+### Financial Aid under SDRF and NDRF
+#GS3 #DisasterManagement 
+- Central government has released Rs 1000 crore to Assam, Manipur, and Uttarakhand as the central share of the SDRF for flood and landslide relief.
+- As per the **National Policy on Disaster Management**, the primary responsibility for disaster management and on the ground relief lies with the **state governments.**
+- **States** use the **Sate Disaster *Response* Fund (SDRF)** for relief measures, based on **norms approved by the central government**.
+- In case of **Severe disasters**, *extra funds* are provided from the **National Disaster *Response* Fund (NDRF)** after **assessment** by an **Inter-Ministerial Central Team (IMCT)**.
+- It is for **relief only** and **not for compensation** for individual loss.
+---
+### Machine Vision-Based Inspection System (MVIS)
+#GS3 #Economy #Infrastructure #Railway #SciTech 
+- The **Indian Railway** has signed a **MoU** with ***DFCCIL (Dedicated Freight Corridor Cooperation of India Limited)*** to **enhance train safety** with installation of **MVIS inspection system**.
+- It is AI/ML based system that captures high-resolution images of the **under-gear of moving trains** and **automatically detects any hanging, loose, or missing components** and **generates real-time alerts**.
+---

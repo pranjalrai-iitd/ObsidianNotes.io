@@ -33,7 +33,7 @@
 	2. **Censorship** always **incites** a political **economy of mobilization, competitive victim-hood**, tested on the site of speech. This is because community identities are based on benchmarks and taboos. In multicultural societies, every community brings its taboo - so the occasional exception becomes the norms. For instance blasphemy laws protect one religion. They now have to protect every religion or nation.
 - ***"Crisis of speech is crisis of mistrust and cannot be solved by legal censorship".***
 
-> ***"Censorship reflects a society's lack of confidence in itself".***  - Porter Stewart
+> #Quote ***"Censorship reflects a society's lack of confidence in itself".***  - Porter Stewart
 
 ---
 ### **ACCOUNTABILITY IN HIGHER JUDICIARY**

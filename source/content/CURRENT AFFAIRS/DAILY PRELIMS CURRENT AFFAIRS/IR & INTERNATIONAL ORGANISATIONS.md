@@ -350,3 +350,28 @@
 	- ***Protocol on Inland Water Transit and Trade (PIWT&T):*** between **India** and **Bangladesh** allowing inland vessels.cruises of one country to ply on the designated waterway routes of another
 	- ***Bangladesh-Bhutan-India-Nepal (BBIN) Motor Vehicle Agreement:*** an **MoU** for the use of **Chattogram** and **Mongla** ports of **Bangladesh**
 ---
+### EC Chief calls for an alternative to WTO
+#GS2 #IR #WTO #Trade #InternationalOrganizations 
+- A suggestion was made by *Ursula van der leyen,* the **European Commission chief,** for a **Europe-led trade initiative with Asian countries** to create a **new trade cooperation framework**, as the **WTO remains stalled.**
+	- The proposed initiative will contain **EU and 11 countries** of the **Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)**
+		- ***INIDA IS NOT A MEMBER OF CPTPP***
+- **Mains challenges with WTO:**
+	- **Dispute settlement paralysis:** since 2016, USA has blocked appointments to the WTO's Appellate Body
+		- This has made the **dispute Settlement system non-functional**, weakening global rule enforcement.
+		- ***WTO DISPUTE SETTLEMENT MECHANISM:*** Two (2) main ways:
+			1. **Mutually Agreed Solution:** particularly during the phase of bilateral consultations
+			2. **Through Adjudication:** 
+				- Ruling by **Dispute Settlement *Panel***
+				- Then possible challenge at **Appellate body**
+					- ***WTO Dispute Appellate Body:**
+						- Apex body for dispute settlements
+						- Composition: ***7 members*** appointed by the **Dispute Settlement Body (DSB)**
+							- ***DSB*** - composed of all WTO members
+	- **Inequity in the system:** WTO is often seen as favoring **developed countries**, Developing nations struggle to fully participate in international trade due to high trade barriers, poor infrastructure, and limited resources.
+		- #Eg **Fisheries subsidies** favours *developed countries*
+		- WTO members have **not been able to agree on new rules on agricultural goods** due to such conflicts
+	- **Opaque decision-making:** with **lack of transparency** and limited involvement of developing countries creating *mistrust* and questions the WTO's legitimacy.
+	- **Rise of Regional and Bilateral Trade Blocs:** more countries are forming regional and bilateral trade pacts like, **CPTPP, AfCFTA**
+		- These frameworks weakens the WTO's roles and risks creating fragmented global trade rules.
+	- **US-Chine trade conflicts:** *unilateral actions*  ( #Eg *US tariffs on steel*) and ongoing tensions strain WTO operations.
+---

@@ -178,3 +178,11 @@
 >***Nobel Prize-winner Harry Markowitz had famously stated that risk diversification is “truly the only free lunch in finance”.***
 
 ---
+### Financial Aid under SDRF and NDRF
+#GS3 #DisasterManagement 
+- Central government has released Rs 1000 crore to Assam, Manipur, and Uttarakhand as the central share of the SDRF for flood and landslide relief.
+- As per the **National Policy on Disaster Management**, the primary responsibility for disaster management and on the ground relief lies with the **state governments.**
+- **States** use the **Sate Disaster *Response* Fund (SDRF)** for relief measures, based on **norms approved by the central government**.
+- In case of **Severe disasters**, *extra funds* are provided from the **National Disaster *Response* Fund (NDRF)** after **assessment** by an **Inter-Ministerial Central Team (IMCT)**.
+- It is for **relief only** and **not for compensation** for individual loss.
+---

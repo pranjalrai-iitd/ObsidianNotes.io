@@ -132,3 +132,17 @@
 	- Phone tapping orders can only be issued by the **home secretary of the state and central government**
 	- The order, unless renewed, shall cease to have authority **at the end of two months.**
 ---
+### Autonomous District Councils
+#GS2 #Polity #ScheduleAreas #NorthEast #Federalism #Tribals 
+- **Governor's rule** has been imposed in the ***Chakma Autonomous District Council*** in **Mizoram** under the **Sixth Schedule.**
+	- This was because of frequent leadership changes in the ADC and a non-confidence motion passed last month which ousted **chief executive member (CEM)**.
+- **ADC:**
+	- Are **administrative bodies**, established under the **sixth schedule** of the constitution, to govern tribal areas in **Assam, Meghalaya, Tripura, & Mizoram.**
+	- **Objectives:** ADCs ensure tribal autonomy, preserve their distinct identity, and promote development in tribal-dominated regions
+	- **Functions:**
+		- **Enact laws** on matters like *land, forests, social customs,* etc.
+		- **Manage local governance**, including *education, health,* etc.
+		- **Establish village or district Council courts** to adjudicate disputes based on **customary laws**
+	- **Structure:** 
+		- **Not more than** ***34 members*** (in general), of which ***4 (maximum)*** can be **nominated** by the **Governor**.
+---

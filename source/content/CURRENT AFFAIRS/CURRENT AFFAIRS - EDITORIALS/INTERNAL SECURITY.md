@@ -248,3 +248,47 @@
 2. **Coordinated multilateral response:** to address transnational dimension of terrorist-financing - this involves *multilateral designation of terrorist organizations* under *UNSC sanctions.*
 3. **Outreach to sectors not covered under FATF standards:** develop targeted *PPPs* to better understand and address *threats* from *social media* and *messaging platforms.*
 ---
+### **SUBMARINE CABLES**
+#GS2 #GS3 #IR #InternalSecurity 
+
+<b><u>DATA/ INTRO:</u></b>
+- Submarine cables carry **99% of global internet traffic** and drives economic and societal growth. Following their own *Moore's law, **cable capacity doubles every 2-2.5 years*** with **70,000-100,000 Km added annually** and **USD 10 Billions** in **investments**.
+
+<b><u>FEATURE OF THE SUBMARINE CABLES SECTOR AND CHALLENGES:</u></b>
+1. Driven by **private players** and gown in haphazard manner with **extremely vulnerable dense clusters at choke-points** like ***Luzon strait** and the **Strait of Malacca.***
+2. **Lack of formal regulation** leading to serious gaps in **cable governance.**
+
+<b><u>THREATS TO SUBMARINE CABLES?</u></b>
+3. **Accidental damage**
+4. **Sabotage:** recently a **Chinese-owned vessel, *Shunxing-36*, cut  undersea cables near Taiwan's Kee-lung harbour.**
+5. **Tapping of cables** using *splice chambers* and *optical splitters* -  ****Snowden leaks***
+
+<b><u>IMPORTANCE FOR INDIA:</u></b>
+2. **India's exploding data needs** it needs undersea cable networks.
+3. **Global strategic shift** redefining undersea cables from *commercial infrastructure* to  **assets critical to sovereignty and global influence**.
+	- Traditional **US domination**, bur growing **Chinese influence** through **Belt and Road Initiative** - ****Digital Silk Road***
+	- **USA, EU & Japan** pushing for a ***"clean cable" consortium.***
+4. **Pakistan and China axis** as China is connecting Pakistan to West Asia
+5. **China** using **submarine cable attacks** as part of its **gray-zone warfare**.
+    #Eg ***Shunxing-36 and Taiwan***
+6. **Dependence on foreign ships for repair:** there is **Chinese** dominance in **submarine cable repair** sector - China operates now around 6 **undersea cable repair vessels**, with at least one linked to *PLA*. **India has only 1 privately owned submarine cable repair vessel.**
+
+<b><u>HOW INDIA CAN FORTIFY IT'S UNDERSEA CABLES:</u></b>
+1. India should **expand its submarine cable repair capacity** through a **public sector shipyard**. This is to enhance **national security** and **counter China** by offering **regional alternative to China**
+2. **Continuous monitoring on critical routes** is required to address the threat of **tapping**, along with development of **advanced underwater domain awareness** including **sensors and unmanned vehicles**. India must **fast-track procurement** of indigenous technologies already in various stages of **iDEX initiative**.
+3. **Enacting laws** to **protect submarine cables in India's EEZ** on the lines of **USA**
+	- In **USA** laws require entities to obtain **formal permission** to *lay submarine cables, establish no-activity buffer zones,* and *impose penalties* for violations within EEZ.
+4. India still does not has an **international maritime policy**. It must develop such a policy focused on developing its own means to protect submarine cables in high seas. This includes **monitoring suspect vessels** particularly, *Chinese survey ships* - using **space** and **naval assets**
+5. India must work with **private sector** to develop **tamper-proof cables** and must **bury them deeper** and ensure **strong encryption**, with close cooperation in **friendly countries** particularly the **QUAD**.
+6. To prevent **sabotage**, India must build **redundancies and alternative submarine cable routes**. The submarine cables must be **formally designated** as **critical infrastructure** under the **NCIIPC**.
+7. India's **National Marine Security Coordinator** cloud lead the creation of a **National Submarine Cable Security Framework** bringing together all stakeholders - ISRO, Indian Nay, Indian Coast Guards, NCIIPC, and private cable operators.
+
+<b><u>GLOBAL GOVERNANCE OF SUBMARINE CABLES:</u></b>
+1. **UNCLOS** allows all states to lay cabled and requires them to criminalize intentional or negligent damage by their nationals or flagged vessels, and to cooperate in enforcement. But **enforcement is left to flag states**.
+2. **International Telecommunication Union (ITU):** focuses on **technical standards** and **guidance** but **no regulation** for cable laying and safe zones.
+3. **International Cable Protection Committee (ICPC)** under **ITU** provides **best practices** and **criteria** for cable protection zones. But it is **advisory**.
+
+<b><u>CONSLUSION:</u></b>
+> ***In today's world, protecting submarine cables is not just about keeping the internet running - it's about keeping the nation standing. Guarding them isn't just a good policy, it's guarding the backbone of sovereignty and strategy in a connected world.***
+
+---

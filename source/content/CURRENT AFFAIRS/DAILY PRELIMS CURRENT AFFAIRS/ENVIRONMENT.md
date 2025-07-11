@@ -379,3 +379,14 @@
 	2. The **size** of the **population or community**
 	3. The amount of **resource consumption by each individual** within the community
 ---
+### Island Protection Zone (IPZ)
+#GS3 #Environment #Act 
+- The union Environment ministry has extended the validity of infrastructure projects approved under the ***2011, Islands Protection Zone (IPZ) notification***.
+- **IPZ:***
+	- Notified in **2011** under the ***Environment (Protection) Act, 1986***
+	- IPZ is a **regulatory framework** to safeguard the **ecological integrity** of ***Andaman & Nicobar*** and ***Lakshadweep*** groups of islands.
+		- It is similar to the **Coastal Regulation Zone (CRZ)** except that the **CRZ is notified for the protection of coastal areas of mainland India**.
+	- **IPZ regulation includes:**
+		- ***Island Coastal Regulation Zone (ICRZ)*** for ***4 large A&N islands*** - ***Middle* Andaman, *North* Andaman, *South* Andaman, *Little* Andaman**, etc.
+		- ***Integrated Islands Management Plans (IIMPs)*** applicable to all **other islands of Andaman & Nicobar** and **all islands of Lakshadweep**.
+---

@@ -642,3 +642,28 @@
 - **Circularity in construction:** Government of Karnataka is launching a policy that mandated 20% of all construction material used in the state be sustainable.
 
 ---
+### **INDIA'S TRADITIONAL KNOWLEDGE SYSTEM***
+#GS3 #IPR 
+
+<b><u>NEWS:</u></b> 
+- **Vice President** addressed the inaugural **annual conference** of the ***Indian Knowledge System (IKS)*** in **New Delhi**, highlighting that ***"India's rise as a global power must be accompanied by the rise of its intellectual and cultural gravitas"***.
+	>***"Indigenous insights were dismissed as relics of the primitive past. Selective remembrance continued even after independence while western constructs were paraded as universal truths."***  - VP
+
+<b><u>TRADITIONAL INDIAN KNOWLEDGE SYSTEM (IKS):</u></b>
+- It encompasses millennia-old intellectual tradition covering fields like art, music, dance, drama, to mathematics, astronomy, science, technology, etc., hidden in Sanskrit, Prakrit, Tamil, Pali, etc.
+- #Eg *Ayurveda*, *Yoga*, *Natya Shastra*, *Surya SIddhanta*, *Number System (including zero)*
+
+<b><u>NEED FOR SAFEGUARDING IKS:</u></b>
+1. **Decolonization of mind:** to undo the colonial legacy that *undervalued indigenous thought* systems and imposed western epistemologies as universal truths.
+2. **Prevent marginalization of IKS:** dominance of European cultural perspectives hinders India's TKS integration into mainstream academia. #Eg Attempts of **patent application for healing properties of Haldi** in USA
+3. **Limited engagement:** young scholars are discourages from pursuing IKS as a field of study as it is often misunderstood, misrepresented, or regulated to the periphery.
+4. **Soft power:*** IKS can boost **cultural diplomacy** ( #Eg *International Yoga Day*), **academic influence** ( #Eg *revival of Nalanda University*), and **tourism** ( #Eg *WHS* like *Rani ki Vav*)
+
+<b><u>STEPS TAKEN TO PRESERVE IKS:</u></b>
+1. **Traditional Knowledge Digital Library (TKDL):** established in 2001 by the *CSIR* and *Ministry of Ayush* to prevent misappropriation of Indian traditional knowledge (TK) through *intellectual property rights.*
+2. **Indian Knowledge System (IKS) Initiative:** focusing on integrating traditional Indian Knowledge into contemporary education.
+3. **Project "MAUSAM":** seeking to revive and strengthen *ancient historical maritime cultural and economic ties* among countries along the Indian ocean.
+4. **Legal measures:** like **Biological Diversity Act, 2002** and **Indian patents act, 1970** provide legal protection from fraudulent claims on traditional knowledge systems.
+5. **International collaborations:** in the form of ***WIPO GRATK Treaty*** *(WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional knowledge)*, which is a big win for global south countries like India to **combat bio-piracy** based on GR & TK.
+
+---
