@@ -32,6 +32,9 @@
 	1. One is to rely on **social judgement rather than censorship** to hold speech accountable. Understanding the value of speech is much favorable than censorship: *"We can let a few weeds grow if we are confident that weeds shall not destroy the wheat"*.
 	2. **Censorship** always **incites** a political **economy of mobilization, competitive victim-hood**, tested on the site of speech. This is because community identities are based on benchmarks and taboos. In multicultural societies, every community brings its taboo - so the occasional exception becomes the norms. For instance blasphemy laws protect one religion. They now have to protect every religion or nation.
 - ***"Crisis of speech is crisis of mistrust and cannot be solved by legal censorship".***
+
+> ***"Censorship reflects a society's lack of confidence in itself".***  - Porter Stewart
+
 ---
 ### **ACCOUNTABILITY IN HIGHER JUDICIARY**
 #GS2 #Judiciary #MainsValueAddition 
