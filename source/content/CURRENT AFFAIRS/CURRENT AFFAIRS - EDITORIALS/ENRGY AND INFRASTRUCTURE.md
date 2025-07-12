@@ -33,5 +33,41 @@
 3. 100 GWe mission should be seen as a **stepping stone, not a limit**. Nuclear energy in not optional, but central to net zero and development goals. **Multi-agency nuclear deployment** along with **strong R&D focus** on **micro-reactors**.
 4. **International cooperation** with partners like **France**, which is a pioneer in civil nuclear energy with 70% of it's electricity derived from nuclear.
 ---
+### **GEOTHERMAL ENERGY**
+#GS3 #Economy #Energy #Infrastructure 
 
+<b><u>NEWS/ DEFINITION/ DATA:</u></b>
+- **Uttarakhand** approved the ***Uttarakhand Geo-Thermal Energy Policy 2025***, which aims to promote scientific and technological research to explore and develop economically and environmentally viable geothermal resources.
+- #Definition Geothermal energy  refers to the thermal (heat) energy **derived from the Earth's subsurface**. This energy is due to:
+	- Partly **residual heat** generated *during Earth's formation*
+	- Partly from **continuous and spontaneous radioactive decay** or **naturally occurring isotopes** within the Earth's core and mantle
+- #Data **Geothermal Atlas of India 2022** **estimates potential** of ***10.6 GW*** in India
 
+<b><u>MAJOR GEOTHERMAL SPOTS IN INDIA:</u></b>
+1. **NW-SE Himalayan Arc:** *Puga, Manikaran*
+	- ***Puga*** and ***Chumathang*** in **Ladakh** are most promising geothermal fields in India
+2. **West Coast Continental margin:** *Dholera, Ganeshpuri*
+3. **Son-Narmada-Tapi linement:** *Sonata, Surajkand, Godavari Basin*
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/ZgxgjI97iPnVToAt5bvBpvLzA80OIQfUgi5o6fXz.jpg" alt="Geothermal Spots in India" width="500"/></p>
+
+<b><u>EXTRACTING GEOTHERMAL ENERGY:</u></b> It can be **extracted** using ***geothermal technology*** for *heating and cooling, electricity generation* and *energy storage*
+1. **Conventional Geothermal Technologies:** exploit **hydrothermal reservoirs** where geothermal heat is carried to the surface by **naturally occurring subsurface fluids***
+2. **Next-Generation Geothermal technologies:** harvest heat at **greater depths** by **circulating a fluid from the surface** through engineered systems and as **hydrothermal reservoir independent**. These include, 
+	- **Enhance Geothermal Systems (EGSs)**, and
+	- **Close-Loop Geothermal Systems (CLGSs)**
+
+<b><u>BENEFITS AND CHALLENGES OF GEOTHERMAL ENERGY:</u></b>
+
+| **BENEFITS**                                                                                                   | **CHALLENGES**                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| - Around the clock electricity generation<br>- High utilization rate - **over 75% in 2023**<br>- Low emissions | - Relatively high technology cost<br>- Limited R&D<br>- Environmental concerns<br>- Licensing processes, etc. |
+
+<b><u>INDIA'S INITATIVES:</u></b>
+- ***Geothermal Atlas of India, 2022*** mapping geothermal potential
+- ***Constitution of Task Force*** to harness Geothermal Energy in India
+- ***Renewable Energy Research and Technology Development Programme (RE-RTD)*** for research in new geothermal technologies
+- **International cooperation:** with
+	- **Iceland** and **Saudi Arabia**
+	- ***RETAP (Renewable Energy Technology Action Platform)*** with **USA**
+
+---

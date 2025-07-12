@@ -6,6 +6,30 @@
 - In **2024** its status changed from an NGO to an **intergovernmental organization**.
 - ✅ India a member and current Vice President of IALA
 ---
+### Montreal Convention, 1999 (***"MC99"***):
+#GS3 #Aviation #convention 
+- International treaty that governs **airline responsibility for death or injury to passengers, as well as for damage, loss, or delay of baggage and cargo**.
+- As per the treaty, Air India is liable to pay a fixed amount of **1,51,880 SDR per victim** ~ 1.8 Cr ***(NOTE: 1 SDR = 1.36 $)***.
+- It requires airlines to carry **liability insurance** to ensure they can meet their compensation obligations to passengers and cargo owners in the events of accidents, injury, or loss.
+- India signed in 2009 and implemented through **Air (Amendment) Act, 2009**.
+### Cape Town Convention, 2001:
+#GS3 #Aviation #convention 
+- Protects **lessors and creditors** by ensuring legal remedies in case of default
+- India ratified it through **Protection of Interests in Aircraft objects Bill, 2025**
+### Chicago Convention, 1994:
+#GS3 #Aviation #convention 
+- Establishes **ICAO** (International Civil Aviation Organization), a specialized **UN agency (ECOSOC)**.
+- Establishes rules, privileges and obligations for international air transport.
+- Conventions's **technical standards** are overseen by **ICAO**
+- An important feature are the <b><u>Annex 13</u></b> which lays out the **international protocols for investigation aircraft accidents and serious incidents**
+	- <b><u>Chapter 5 of Annex 13</u></b> outlines core **responsibilities** for conducting such investigations. it is based on the principle that ***"air safety is a shared international responsibility"***.
+		- As per, Chapter 5 the responsibility to investigate an aircraft accident lies with the ***"State of Occurrence"***. In addition, **other countries connected** to the aircraft have a **formal right to participate**. The include:
+			- **State of Registry** - where the aircraft is registered
+			- **State of the operator** of the flight
+			- **State of Design**
+			- **State of Manufacture**
+
+---
 ### Schengen Area 
 #GS2 #InternationalGroupings
 - **29 countries** 
@@ -374,4 +398,21 @@
 	- **Rise of Regional and Bilateral Trade Blocs:** more countries are forming regional and bilateral trade pacts like, **CPTPP, AfCFTA**
 		- These frameworks weakens the WTO's roles and risks creating fragmented global trade rules.
 	- **US-Chine trade conflicts:** *unilateral actions*  ( #Eg *US tariffs on steel*) and ongoing tensions strain WTO operations.
+---
+### WHO Pandemic Agreement
+#GS2 #IR #Governance #Health #InternationalOrganizations 
+- **WHO** member states held their **first meeting** of the ***Intergovernmental Working Group (IGWG)*** on the **WHO Pandemic Agreement**
+- **WHO Pandemic Agreement:**
+	- It sets out the **principles, approaches and tools** for better **international coordination** across a range of areas, in order to strengthen the **global health architecture** for **pandemic prevention, preparedness and response.**
+		- This includes **equitable** and **time access** to ***vaccines, therapeutics,*** and ***diagnostics.***
+	- **Mains principles:** Guided by respect for international humanitarian law, equity, solidarity, full respect for the dignity, human rights and fundamental freedoms for all persons.
+---
+### AI Alliance Network (AIANET)
+#GS2 #GS3 #IR #SciTech #AI #IndiaPakistan 
+- The **Digital India Foundation (DIF)**, a founding member of the **AIANET**, has objected to the *membership application of Pakistan's AI Technology Centre (AITeC)* to AIANET.
+- **AIANET:**
+	- It is an **informal voluntary network and community** for its members to exchange views, share information and expertise.
+	- It's aim is to accelerate the development and deployment of AI technologies to enhance sustainable long-term prosperity, social and economic development.
+	- It has *17 members*
+	- It is **administered** by ***AI Alliance Russia***
 ---

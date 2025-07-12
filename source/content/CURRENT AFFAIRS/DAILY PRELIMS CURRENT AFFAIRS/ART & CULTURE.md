@@ -119,3 +119,32 @@
 
 - The temple houses the **Vajrasana (Diamond throne)** and the Sacred **Bodhi tree**. It has many **votive stupas** and has **three protective boudnaries**
 ---
+### Maratha Military Landscapes - UNESCO WHS
+#GS1 #History #ArtCulture #UNESCO 
+- India's **44th UNESCO WHS** site with latest addition being,
+	- ***Maratha Military Landscapes*** - 2025
+	- ***Moidams*** - 2024
+- India ranks **6th globally** and **2nd in Asia Pacific** for the most number of WHS sites
+- **Archaeological Survey of India (ASI)** is the  **nodal agency** for all the **world heritage matters in India**
+- ***Maratha Military Landscapes***
+	- They were added because they show a **living cultural tradition**, have **unique architecture** and technology, and are strongly connected to important historical events and traditions.
+	- **They are network of** ***12 forts*** built around **17th-19th CE** demonstrating strategic military vision, innovation, regional adaptation and architectural ingenuity.
+		- These forts reflect the understanding of **geography** and **strategic defence planning**
+	- **Geographical spread:** across the states of **Maharashtra** and **Tamil Nadu**
+		- **Maharashtra:** *Salher, Shivneri, Lohagad, khanderi, Raigad, Rajgad, Pratapgad, Suvarnadurg, Panhala, Vijaydurg,* and *Sindhudurg*
+		- **Tamil Nadu:** ***Gingee Fort***
+	- **Diverse and strategic locations:** located across a range of **diverse terrains** from *coastal outposts* to *hilltop strongholds*.
+
+| <p align="center"><br><b><i><br><br>MILITARY <br>MARTATHA<br>LANDSCAPES<br></i></b><br></p>                                                                               | ***<p align="center"><img src="https://static.pib.gov.in/WriteReadData/userfiles/image/image0029J77.jpg" alt="Sindhudurg Frst" width="250"/><br><i>Sindhudurg Fort</i></p>***      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **<p align="center"><img src="https://static.pib.gov.in/WriteReadData/userfiles/image/image004FTMR.jpg" alt="Pratapgad Fort" width="250"/><br><i>Pratapgad Fort</i></p>** | **<p align="center"><img src="https://static.pib.gov.in/WriteReadData/userfiles/image/image005HAKQ.jpg" alt="Suvarnadurg Fort" width="250"/><br><i>Suvarnadurg Fort</i></p>**      |
+| ***<p align="center"><img src="https://static.pib.gov.in/WriteReadData/userfiles/image/image0035ENE.jpg" alt="Raigad Fort" width="250"/><br><i>Raigad Fort</i></p>***     | ***<p align="center"><img src="https://static.pib.gov.in/WriteReadData/userfiles/image/image006BQ1A.jpg" alt="Gingee Fort" width="250"/><br><i>Gingee Fort (Tamil Nadu)</i></p>*** |
+
+- ***Criteria for selection of World heritage Sites:***
+	- To be included on the WHS, sites must be of **outstanding universal value and meet at least one of the** ***ten (10)*** **selection criteria**
+	- Only countries that have **signed** the **World Heritage Convention**, can submit nomination proposals for sites on their territory to be considered for inclusion
+	- The nominated site is **independently evaluated** by the ***International Council on Monuments and Sites (ICOMOS)*** and the ***International Union for Conservation of Nature (IUCN)***
+	- Final decision on its inscription is made by the ***World Heritage Committee***
+		- **India** is a member from **2021-25** ***(4 year term)***
+		- It has **21 member states parties**
+---

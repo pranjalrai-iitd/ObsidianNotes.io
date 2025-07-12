@@ -4339,3 +4339,196 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 - The **Indian Railway** has signed a **MoU** with ***DFCCIL (Dedicated Freight Corridor Cooperation of India Limited)*** to **enhance train safety** with installation of **MVIS inspection system**.
 - It is AI/ML based system that captures high-resolution images of the **under-gear of moving trains** and **automatically detects any hanging, loose, or missing components** and **generates real-time alerts**.
 ---
+### Species Recovery Program
+#GS3 #Environment #Biodiversity #Scheme 
+- **Gharial** and **Sloth bear** are recommended by the **Standing Committee of National Board for Wildlife (SC-NBWL)**, to be included under the **Species Recovery program** of the **Centrally SPONSORED Scheme for Integrated Development of Wildlife Habitats (CSS-IDWH)**
+- **NBWL:**
+	- Chaired by **PM** was established by **WLPA, 1972**
+	- **SC-NBWL:** it is the standing committee of NBWL, chaired by the **Environment Minister**
+- <b><u>CSS-IDHW:</u></b> Centrally Sponsored Scheme for Integrated Development of Wildlife Habitats
+	- **Objective:** to provide **financial** and **technical** assistance to states/UT governments for activities aimed at **wildlife conservation**
+	- **Components of CSS-IDWH:**
+		1. **Support to protected areas:** *national parks, wildlife sanctuaries, conservation reserves, and community reserves*
+		2. **Protection of wildlife outside protected area** and **mitigation of Human Wildlife Conflict**
+		3. **Species Recovery Program** for saving **threatened species and habitats:**
+			- So far **22 species** including *Snow Leopard, Asiatic Lion, GIB,* etc. have been identified under the program.
+				- **Two new species recommended by SC-NBWL:**
+					- *Gharial*
+					- *Sloth Bear*
+
+|                          | **GHARIAL**                                                                                                                                                              | **SLOTH BEAR**                                                                                                                                                                                                                                                                 |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                          | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gharial_san_diego.jpg/960px-Gharial_san_diego.jpg" alt="Gharial" alt = "250"/></p> | <p align="center"><img src="https://res.cloudinary.com/roundglass/image/upload/v1615456530/roundglass/daroji-sloth-bear-mother-cub-frontal-akshay-manwani_izkmcz.jpg" alt="Gharial" alt = "200"/></p>                                                                          |
+| **Habitat:**             | **Freshwater rivers** with major population occurring in tributaries of *Ganga:*<br>- ***Chambal*** and ***Girwa*** in **India**<br>- ***Rapti-Narayani*** in **Nepal**  | - **Native to India, Sri Lanka and Nepal**.<br>- It occurs in **5 Bio-geographic zones** in India:<br>1. *Peninsular India*<br>2. *Western Ghats*<br>3. *Deccan Plateau*<br>4. *Gangetic Plain*<br>5. *North East*                                                             |
+| **Characteristics:**     | - Uniquely *thin and elongated snout*<br>- Adult males have a large bulb at the tip of their snout, called the ***"ghara"***<br>- **Most aquatic** of all crocodilians   | - Small bear with a *shaggy coat*<br>- Sloth bears feed predominantly on *termites* and *ants* - ***Myrmecophagus*** (ant eating)<br>- Solitary creatures and **most nocturnal** of all Bear species<br>- Missing front teeth and large canines<br>- They **do NOT hibernate** |
+| **Conservation status:** | - **IUCN:** CR<br>- **WPA:** Schedule I<br>- **CITES:** Appendix I                                                                                                       | - **IUCN:** Vulnerable<br>- **WPA:** Schedule I<br>- **CITES:** Appendix I                                                                                                                                                                                                     |
+
+---
+### Maratha Military Landscapes - UNESCO WHS
+#GS1 #History #ArtCulture #UNESCO 
+- India's **44th UNESCO WHS** site with latest addition being,
+	- ***Maratha Military Landscapes*** - 2025
+	- ***Moidams*** - 2024
+- India ranks **6th globally** and **2nd in Asia Pacific** for the most number of WHS sites
+- **Archaeological Survey of India (ASI)** is the  **nodal agency** for all the **world heritage matters in India**
+- ***Maratha Military Landscapes***
+	- They were added because they show a **living cultural tradition**, have **unique architecture** and technology, and are strongly connected to important historical events and traditions.
+	- **They are network of** ***12 forts*** built around **17th-19th CE** demonstrating strategic military vision, innovation, regional adaptation and architectural ingenuity.
+		- These forts reflect the understanding of **geography** and **strategic defence planning**
+	- **Geographical spread:** across the states of **Maharashtra** and **Tamil Nadu**
+		- **Maharashtra:** *Salher, Shivneri, Lohagad, khanderi, Raigad, Rajgad, Pratapgad, Suvarnadurg, Panhala, Vijaydurg,* and *Sindhudurg*
+		- **Tamil Nadu:** ***Gingee Fort***
+	- **Diverse and strategic locations:** located across a range of **diverse terrains** from *coastal outposts* to *hilltop strongholds*.
+
+| <p align="center"><br><b><i><br><br>MILITARY <br>MARTATHA<br>LANDSCAPES<br></i></b><br></p>                                                                               | ***<p align="center"><img src="https://static.pib.gov.in/WriteReadData/userfiles/image/image0029J77.jpg" alt="Sindhudurg Frst" width="250"/><br><i>Sindhudurg Fort</i></p>***      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **<p align="center"><img src="https://static.pib.gov.in/WriteReadData/userfiles/image/image004FTMR.jpg" alt="Pratapgad Fort" width="250"/><br><i>Pratapgad Fort</i></p>** | **<p align="center"><img src="https://static.pib.gov.in/WriteReadData/userfiles/image/image005HAKQ.jpg" alt="Suvarnadurg Fort" width="250"/><br><i>Suvarnadurg Fort</i></p>**      |
+| ***<p align="center"><img src="https://static.pib.gov.in/WriteReadData/userfiles/image/image0035ENE.jpg" alt="Raigad Fort" width="250"/><br><i>Raigad Fort</i></p>***     | ***<p align="center"><img src="https://static.pib.gov.in/WriteReadData/userfiles/image/image006BQ1A.jpg" alt="Gingee Fort" width="250"/><br><i>Gingee Fort (Tamil Nadu)</i></p>*** |
+
+- ***Criteria for selection of World heritage Sites:***
+	- To be included on the WHS, sites must be of **outstanding universal value and meet at least one of the** ***ten (10)*** **selection criteria**
+	- Only countries that have **signed** the **World Heritage Convention**, can submit nomination proposals for sites on their territory to be considered for inclusion
+	- The nominated site is **independently evaluated** by the ***International Council on Monuments and Sites (ICOMOS)*** and the ***International Union for Conservation of Nature (IUCN)***
+	- Final decision on its inscription is made by the ***World Heritage Committee***
+		- **India** is a member from **2021-25** ***(4 year term)***
+		- It has **21 member states parties**
+---
+### e-Truck Incentive Scheme
+#GS3 #Economy #Environment #ClimateChange #EVs #Scheme 
+- First ever **e-Truck Incentive Scheme** launched in India for **electric trucks** under the ***PM E-DRIVE initiative***
+- **Aim:** to support *deployment of e-trucks, promoting indigenous manufacturing and reducing logistics costs and carbon footprint*
+	- **Diesel trucks** constituting only **3% of total vehicle population**, contribute to **42% of transport-related GHG emissions**
+- **Features:**
+	- The scheme provides **financial incentives** for following categories of *e-Trucks*:
+		- ***N2***  - Gross Vehicle Weight (**GVW**): ***3.5 Tn - 12 Tn***
+		- ***N3***  - Gross Vehicle Weight (**GVW**): ***12 Tn - 55 Tn***
+	- The **maximum incentive** is set at **Rs. 9.6 lakh per vehicle** and will be offered as an **upfront reduction**.
+- <b><u>PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE)</u></b>
+	- By the **Ministry of Heavy Industries (MHI)**
+	- **Focus:** *e-2Ws, e-3Ws, e-ambulances, e-trucks, e-buses, charging infra, EV testing* with **category wise incentives**
+		- ***No e-4Ws (passenger cars)***
+	- **Objective:**
+		- Accelerate adoption of EVs, 
+		- Develop EV charging infrastructure, 
+		- Strengthen domestic EV manufacturing ecosystem, and
+		- Promote sustainable clean and efficient public transport
+	- **PM E-DRIVE is different from FAME:**
+		- **Expands the scope beyond FAME-II:** as it includes **e-trucks, e-ambulances***, and **public charging infrastructure** development
+		- **Scrapping-Linked Incentives:** are **mandatory for e-Trucks** and **preference for e-Bus deployment**
+		- **Testing agencies:** it has provision for testing agencies to upgrade.
+---
+### UNEP Frontiers Report 2025
+#GS3 #Environment #ClimateChange 
+- **UNEP** released, ***Frontiers 2025: The Weight of Time Report*** highlighting emerging environmental issues before they escalate into global or regional crises.
+- **Major environmental issues highlighted in the report:**
+	- **Reactivation of microbes in warming cryosphere:** climate change could reactivate and **remobilize dormant microbes** into new environments potentially,
+		- **Altering microbial communities**,
+		- Introducing pathogens, or causing biodiversity loss
+		> Microbes that thrive under extremely challenging habitats like frozen environments are referred to as ***Psychrophiles***
+		
+	- **River barriers:** all barriers (*dams, wier or low-head dam, barrage, culvers, sluices, etc.*) affect the **river ecosystem**
+		- **Impact of river barriers:** 
+			- Modify water flow and temperature, habitat
+			- Quality and quantity of downstream sediment transport, 
+			- Displace indigenous community and fish movement.
+		- **Report recognizes "barrier removals" as an accepted strategy to restore river health**
+			- **Barrier removal** reduce ***river fragmentation*** and **restore connectivity** in the river ecosystem.
+				- Around **89% of global river volume** are affected by **river fragmentation**
+	- **Demographic challenge:** climate change is exacerbating **environmental risks** such as *heatwaves, air pollution, and floods* which **disproportionately threaten increasing population of older adults**
+	- **Remobilization of legacy pollutants by flood events:** ***Persistant contaminents*** (Heavy metal, Organic compounds, etc.) in water and sediment can,
+		- ***Bioaccumulate:*** Enter and accumulate in plants and animals, and 
+		- ***Biomagnify:*** Subsequently contaminate food chains with increased concentrations in higher trophic levels.
+---
+### Geothermal Energy
+#GS3 #Economy #Energy #Infrastructure 
+- **Uttarakhand** approved the ***Uttarakhand Geo-Thermal Energy Policy 2025***, which aims to promote scientific and technological research to explore and develop economically and environmentally viable geothermal resources.
+- **Major Geothermal spots in India:**
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/ZgxgjI97iPnVToAt5bvBpvLzA80OIQfUgi5o6fXz.jpg" alt="Geothermal Spots in India" width="500"/></p>
+
+- **Geothermal Energy:**
+	- It refers to the thermal (heat) energy **derived from the Earth's subsurface**
+		- This energy is partly **residual heat** generated *during Earth's formation* and partly from **continuous and spontaneous radioactive decay** or **naturally occurring isotopes** within the Earth's core and mantle.
+	- It can be **extracted** using ***geothermal technology*** for *heating and cooling, electricity generation* and *energy storage*
+		- **Conventional Geothermal Technologies:** exploit **hydrothermal reservoirs** where geothermal heat is carried to the surface by **naturally occurring subsurface fluids***
+		- **Next-Generation Geothermal technologies:** harvest heat at **greater depths** by **circulating a fluid from the surface** through engineered systems and as **hydrothermal reservoir independent**
+			- These include, **Enhance Geothermal Systems (EGSs)** and **Close-Loop Geothermal Systems (CLGSs)**
+	- **Potential in India:** As per the **Geothermal Atlas of India 2022** there is an estimated potential of ***10,600 MW = 10.6 GW***
+		- ***Puga*** and ***Chumathang*** in **Ladakh** are most promising geothermal fields in India
+	- **Benefits:** 
+		- Around the clock electricity generation
+		- High utilization rate - **over 75% in 2023**
+		- Low emissions
+	- **Challenges:**
+		- Relatively high technology cost
+		- Limited R&D
+		- Environmental concerns
+		- Licensing processes, etc.
+- **India's Initiatives:**
+	- ***Geothermal Atlas of India, 2022*** mapping geothermal potential
+	- ***Constitution of Task Force*** to harness Geothermal Energy in India
+	- ***Renewable Energy Research and Technology Development Programme (RE-RTD)*** for research in new geothermal technologies
+	- **International cooperation:** with
+		- **Iceland** and **Saudi Arabia**
+		- ***RETAP (Renewable Energy Technology Action Platform)*** with **USA**
+---
+### WHO Pandemic Agreement
+#GS2 #IR #Governance #Health #InternationalOrganizations 
+- **WHO** member states held their **first meeting** of the ***Intergovernmental Working Group (IGWG)*** on the **WHO Pandemic Agreement**
+- **WHO Pandemic Agreement:**
+	- It sets out the **principles, approaches and tools** for better **international coordination** across a range of areas, in order to strengthen the **global health architecture** for **pandemic prevention, preparedness and response.**
+		- This includes **equitable** and **time access** to ***vaccines, therapeutics,*** and ***diagnostics.***
+	- **Mains principles:** Guided by respect for international humanitarian law, equity, solidarity, full respect for the dignity, human rights and fundamental freedoms for all persons.
+---
+### Trans Fats
+#GS3 #SciTech #Health 
+- Experts warn the **UN** over **blanket trans fat ban** as it could undermine **nutrition** in **developing countries**.
+- **Trans Fats:**
+	- They are **unsaturated fatty acids** that can be industrially produced (via **hydrogenetaion**) or **naturally found** in **animal-source foods** (meat and milk)
+		- They are produced by **hydrogenation** of **plant sourced** fats like, Vanaspati, Ghee.
+	- **Health impact:**
+		- **Raises** the level of **bad cholesterol** (***VLDL - very low density lipoproten***) and ***low density lipoprotein-cholesterol (LDL-c)***
+			-  Bad cholesterol can build up in the walls of arteries, making them hard and narrow, it increases the risk of heart attack or stroke
+		- The have been also linked to inflammation, overweight/obesity, high blood pressure, diabetes and some forms of cancers, etc. 
+- **Unsaturated fats** are on the other had **healthy**
+---
+### Astra Missile
+- **DRDO** and the **Indian Air Force** successfully conducted the flight-test of ***"Astra"*** equipped with **indigenous Radio Frequency (RF) seeker** from **Su-30 Mk-I platform**
+- **Astra Missile:**
+	- It is indigenous **Beyond Visual Range Air-to-Air Missile (BVRAAM)**
+	- The missile is designed to engage and destroy **highly maneuvering  supersonic aircraft**
+	- Developed by **DRDO**
+	- It has **all weather day and night capability**
+	- It's range **exceeds 100 Kms** and is equipped with state of the art guidance and navigation systems
+	<p align="center"><img src="https://www.mathrubhumi.com/image/contentid/policy:1.10740966:1752298723/astra%20missile.jpg?$p=16ac0fb&f=16x10&w=852&q=0.8" alt="Astra BVRAAM" width="200"/></p>
+
+---
+### INDIA-EFTA TEPA
+#GS3 #Economy #Trade #InternationalGroupings 
+- Switzerland completed the ratification process of the **TEPA** *(Trade and Economic Partnership Agreement)* signed between India and EFTA
+- **EFTA:** European Free Trade Area - *LINS*
+	- Switzerland
+	- Liechtenstein
+	- Norway
+	- Iceland
+- **TEPA:**
+	- **Binding commitment:** 
+		- ***USD 100 Billion investment*** from EFTA into India in the **next 15 years** creating **1 million direct jobs**
+			- **FPI** are **NOT** covered in these investments
+		- Commitments related to **IPR** are at *TRIPS level*
+---
+### AI Alliance Network (AIANET)
+#GS2 #GS3 #IR #SciTech #AI #IndiaPakistan 
+- The **Digital India Foundation (DIF)**, a founding member of the **AIANET**, has objected to the *membership application of Pakistan's AI Technology Centre (AITeC)* to AIANET.
+- **AIANET:**
+	- It is an **informal voluntary network and community** for its members to exchange views, share information and expertise.
+	- It's aim is to accelerate the development and deployment of AI technologies to enhance sustainable long-term prosperity, social and economic development.
+	- It has *17 members*
+	- It is **administered** by ***AI Alliance Russia***
+---
+### RhoDIS (Rhino DNA Index System) India programme
+#GS3 #Environment #Biodiversity #SciTech 
+- Assam Forest Department has started **DNA profiling** of **Rhino horns** and add it to ***RhoDIS India DNA data library***
+- It was **launched** in **2016**, by the **MoEFCC** in partnership with **WII, Forest departments of Assam, West Bengal, UP, and WWF India**.
+- It is **wildlife forensic tool** that was specially developed for investigating wildlife crime cases.
+- It uses a **DNA indexing system** whereby **genetic sequences** are created to get a **signature unique to each individual rhino.**
+---

@@ -31,3 +31,29 @@
 	- India is a **party**
 
 ---
+### **EMERGING CLIMATE RISKS**
+#GS3 #Environment #ClimateChange 
+
+<b><u>NEWSL</u></b>
+- **UNEP** released, ***Frontiers 2025: The Weight of Time Report*** highlighting emerging environmental issues before they escalate into global or regional crises.
+
+<b><u>MAJOR ENVIRONMENTAL ISSUES HIGHLIGHTED BY UNEP:</u></b>
+1. **Reactivation of microbes in warming cryosphere:** climate change could reactivate and **remobilize dormant microbes** into new environments potentially,
+	- **Altering microbial communities**,
+	- Introducing pathogens, or causing biodiversity loss
+		> Microbes that thrive under extremely challenging habitats like frozen environments are referred to as ***Psychrophiles***
+
+2. **River barriers:** all barriers (*dams, wier or low-head dam, barrage, culvers, sluices, etc.*) affect the **river ecosystem**
+	- **Impact of river barriers:** 
+		- Modify water flow and temperature, habitat
+		- Quality and quantity of downstream sediment transport, 
+		- Displace indigenous community and fish movement.
+	- **Report recognizes "barrier removals" as an accepted strategy to restore river health**
+		- **Barrier removal** reduce ***river fragmentation*** and **restore connectivity** in the river ecosystem.
+			- Around **89% of global river volume** are affected by **river fragmentation**
+3. **Demographic challenge:** climate change is exacerbating **environmental risks** such as *heatwaves, air pollution, and floods* which **disproportionately threaten increasing population of older adults**
+4. **Remobilization of legacy pollutants by flood events:** ***Persistant contaminents*** (Heavy metal, Organic compounds, etc.) in water and sediment can,
+	- ***Bioaccumulate:*** Enter and accumulate in plants and animals, and 
+	- ***Biomagnify:*** Subsequently contaminate food chains with increased concentrations in higher trophic levels.
+
+---

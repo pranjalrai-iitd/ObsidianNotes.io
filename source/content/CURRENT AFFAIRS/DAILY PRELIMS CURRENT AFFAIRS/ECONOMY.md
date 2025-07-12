@@ -15,30 +15,6 @@
 	- Address the increasing issue of **impersonation** in stock markets.
 	- **Enhance investor confidence** in securities market.
 ---
-### Montreal Convention, 1999 (***"MC99"***):
-#GS3 #Aviation #convention 
-- International treaty that governs **airline responsibility for death or injury to passengers, as well as for damage, loss, or delay of baggage and cargo**.
-- As per the treaty, Air India is liable to pay a fixed amount of **1,51,880 SDR per victim** ~ 1.8 Cr ***(NOTE: 1 SDR = 1.36 $)***.
-- It requires airlines to carry **liability insurance** to ensure they can meet their compensation obligations to passengers and cargo owners in the events of accidents, injury, or loss.
-- India signed in 2009 and implemented through **Air (Amendment) Act, 2009**.
-### Cape Town Convention, 2001:
-#GS3 #Aviation #convention 
-- Protects **lessors and creditors** by ensuring legal remedies in case of default
-- India ratified it through **Protection of Interests in Aircraft objects Bill, 2025**
-### Chicago Convention, 1994:
-#GS3 #Aviation #convention 
-- Establishes **ICAO** (International Civil Aviation Organization), a specialized **UN agency (ECOSOC)**.
-- Establishes rules, privileges and obligations for international air transport.
-- Conventions's **technical standards** are overseen by **ICAO**
-- An important feature are the <b><u>Annex 13</u></b> which lays out the **international protocols for investigation aircraft accidents and serious incidents**
-	- <b><u>Chapter 5 of Annex 13</u></b> outlines core **responsibilities** for conducting such investigations. it is based on the principle that ***"air safety is a shared international responsibility"***.
-		- As per, Chapter 5 the responsibility to investigate an aircraft accident lies with the ***"State of Occurrence"***. In addition, **other countries connected** to the aircraft have a **formal right to participate**. The include:
-			- **State of Registry** - where the aircraft is registered
-			- **State of the operator** of the flight
-			- **State of Design**
-			- **State of Manufacture**
----
-
 ### Guidelines for direct release of Central Sector Scheme (CSS) Funds
 #GS3 #Economy #Scheme #Funding
 - Issued by **Finance Ministry**
@@ -430,4 +406,50 @@
 		- Potential for increased systemic rick
 	- **Role:** It plays a significant role in the global financial system by providing **Credit** and **liquidity** to various sectors
 	- #Eg ***Money market Funds, Hedge Funds, Private Equity Funds, Securitization and Asset-backed securities***
+---
+### Geothermal Energy
+#GS3 #Economy #Energy #Infrastructure 
+- **Uttarakhand** approved the ***Uttarakhand Geo-Thermal Energy Policy 2025***, which aims to promote scientific and technological research to explore and develop economically and environmentally viable geothermal resources.
+- **Major Geothermal spots in India:**
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/ZgxgjI97iPnVToAt5bvBpvLzA80OIQfUgi5o6fXz.jpg" alt="Geothermal Spots in India" width="500"/></p>
+
+- **Geothermal Energy:**
+	- It refers to the thermal (heat) energy **derived from the Earth's subsurface**
+		- This energy is partly **residual heat** generated *during Earth's formation* and partly from **continuous and spontaneous radioactive decay** or **naturally occurring isotopes** within the Earth's core and mantle.
+	- It can be **extracted** using ***geothermal technology*** for *heating and cooling, electricity generation* and *energy storage*
+		- **Conventional Geothermal Technologies:** exploit **hydrothermal reservoirs** where geothermal heat is carried to the surface by **naturally occurring subsurface fluids***
+		- **Next-Generation Geothermal technologies:** harvest heat at **greater depths** by **circulating a fluid from the surface** through engineered systems and as **hydrothermal reservoir independent**
+			- These include, **Enhance Geothermal Systems (EGSs)** and **Close-Loop Geothermal Systems (CLGSs)**
+	- **Potential in India:** As per the **Geothermal Atlas of India 2022** there is an estimated potential of ***10,600 MW = 10.6 GW***
+		- ***Puga*** and ***Chumathang*** in **Ladakh** are most promising geothermal fields in India
+	- **Benefits:** 
+		- Around the clock electricity generation
+		- High utilization rate - **over 75% in 2023**
+		- Low emissions
+	- **Challenges:**
+		- Relatively high technology cost
+		- Limited R&D
+		- Environmental concerns
+		- Licensing processes, etc.
+- **India's Initiatives:**
+	- ***Geothermal Atlas of India, 2022*** mapping geothermal potential
+	- ***Constitution of Task Force*** to harness Geothermal Energy in India
+	- ***Renewable Energy Research and Technology Development Programme (RE-RTD)*** for research in new geothermal technologies
+	- **International cooperation:** with
+		- **Iceland** and **Saudi Arabia**
+		- ***RETAP (Renewable Energy Technology Action Platform)*** with **USA**
+---
+### INDIA-EFTA TEPA
+#GS3 #Economy #Trade #InternationalGroupings 
+- Switzerland completed the ratification process of the **TEPA** *(Trade and Economic Partnership Agreement)* signed between India and EFTA
+- **EFTA:** European Free Trade Area - *LINS*
+	- Switzerland
+	- Liechtenstein
+	- Norway
+	- Iceland
+- **TEPA:**
+	- **Binding commitment:** 
+		- ***USD 100 Billion investment*** from EFTA into India in the **next 15 years** creating **1 million direct jobs**
+			- **FPI** are **NOT** covered in these investments
+		- Commitments related to **IPR** are at *TRIPS level*
 ---

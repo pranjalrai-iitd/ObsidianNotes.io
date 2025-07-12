@@ -320,3 +320,15 @@
 		- It strengthens India's space economy through **public-private collaboration**
 		- It manages a dedicated **Venture Capital Fund** for **space startups**, to foster *innovation* and build a *vibrant space ecosystem* over the next 5 years.
 ---
+### Trans Fats
+#GS3 #SciTech #Health 
+- Experts warn the **UN** over **blanket trans fat ban** as it could undermine **nutrition** in **developing countries**.
+- **Trans Fats:**
+	- They are **unsaturated fatty acids** that can be industrially produced (via **hydrogenetaion**) or **naturally found** in **animal-source foods** (meat and milk)
+		- They are produced by **hydrogenation** of **plant sourced** fats like, Vanaspati, Ghee.
+	- **Health impact:**
+		- **Raises** the level of **bad cholesterol** (***VLDL - very low density lipoproten***) and ***low density lipoprotein-cholesterol (LDL-c)***
+			-  Bad cholesterol can build up in the walls of arteries, making them hard and narrow, it increases the risk of heart attack or stroke
+		- The have been also linked to inflammation, overweight/obesity, high blood pressure, diabetes and some forms of cancers, etc. 
+- **Unsaturated fats** are on the other had **healthy**
+---

@@ -72,3 +72,28 @@
 - Fossils of **Nothopegia leaves** found in **Western Ghats** - ***oldest known fossils of genus, Nothopegia***
 - Earlier, was restricted to ***India, Bangladesh, and Sri Lanka*** - got extinct in North East during formation of Himalayas and migrated to Western Ghats.
 ---
+### Species Recovery Program
+#GS3 #Environment #Biodiversity #Scheme 
+- **Gharial** and **Sloth bear** are recommended by the **Standing Committee of National Board for Wildlife (SC-NBWL)**, to be included under the **Species Recovery program** of the **Centrally SPONSORED Scheme for Integrated Development of Wildlife Habitats (CSS-IDWH)**
+- **NBWL:**
+	- Chaired by **PM** was established by **WLPA, 1972**
+	- **SC-NBWL:** it is the standing committee of NBWL, chaired by the **Environment Minister**
+- <b><u>CSS-IDHW:</u></b> Centrally Sponsored Scheme for Integrated Development of Wildlife Habitats
+	- **Objective:** to provide **financial** and **technical** assistance to states/UT governments for activities aimed at **wildlife conservation**
+	- **Components of CSS-IDWH:**
+		1. **Support to protected areas:** *national parks, wildlife sanctuaries, conservation reserves, and community reserves*
+		2. **Protection of wildlife outside protected area** and **mitigation of Human Wildlife Conflict**
+		3. **Species Recovery Program** for saving **threatened species and habitats:**
+			- So far **22 species** including *Snow Leopard, Asiatic Lion, GIB,* etc. have been identified under the program.
+				- **Two new species recommended by SC-NBWL:**
+					- *Gharial*
+					- *Sloth Bear*
+
+|                          | **GHARIAL**                                                                                                                                                              | **SLOTH BEAR**                                                                                                                                                                                                                                                                 |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                          | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gharial_san_diego.jpg/960px-Gharial_san_diego.jpg" alt="Gharial" alt = "250"/></p> | <p align="center"><img src="https://res.cloudinary.com/roundglass/image/upload/v1615456530/roundglass/daroji-sloth-bear-mother-cub-frontal-akshay-manwani_izkmcz.jpg" alt="Gharial" alt = "200"/></p>                                                                          |
+| **Habitat:**             | **Freshwater rivers** with major population occurring in tributaries of *Ganga:*<br>- ***Chambal*** and ***Girwa*** in **India**<br>- ***Rapti-Narayani*** in **Nepal**  | - **Native to India, Sri Lanka and Nepal**.<br>- It occurs in **5 Bio-geographic zones** in India:<br>1. *Peninsular India*<br>2. *Western Ghats*<br>3. *Deccan Plateau*<br>4. *Gangetic Plain*<br>5. *North East*                                                             |
+| **Characteristics:**     | - Uniquely *thin and elongated snout*<br>- Adult males have a large bulb at the tip of their snout, called the ***"ghara"***<br>- **Most aquatic** of all crocodilians   | - Small bear with a *shaggy coat*<br>- Sloth bears feed predominantly on *termites* and *ants* - ***Myrmecophagus*** (ant eating)<br>- Solitary creatures and **most nocturnal** of all Bear species<br>- Missing front teeth and large canines<br>- They **do NOT hibernate** |
+| **Conservation status:** | - **IUCN:** CR<br>- **WPA:** Schedule I<br>- **CITES:** Appendix I                                                                                                       | - **IUCN:** Vulnerable<br>- **WPA:** Schedule I<br>- **CITES:** Appendix I                                                                                                                                                                                                     |
+
+---

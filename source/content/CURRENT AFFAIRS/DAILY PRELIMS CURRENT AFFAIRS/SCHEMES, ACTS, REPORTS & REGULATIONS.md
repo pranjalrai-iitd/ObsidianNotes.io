@@ -985,3 +985,27 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 - The **Indian Railway** has signed a **MoU** with ***DFCCIL (Dedicated Freight Corridor Cooperation of India Limited)*** to **enhance train safety** with installation of **MVIS inspection system**.
 - It is AI/ML based system that captures high-resolution images of the **under-gear of moving trains** and **automatically detects any hanging, loose, or missing components** and **generates real-time alerts**.
 ---
+### e-Truck Incentive Scheme
+#GS3 #Economy #Environment #ClimateChange #EVs #Scheme 
+- First ever **e-Truck Incentive Scheme** launched in India for **electric trucks** under the ***PM E-DRIVE initiative***
+- **Aim:** to support *deployment of e-trucks, promoting indigenous manufacturing and reducing logistics costs and carbon footprint*
+	- **Diesel trucks** constituting only **3% of total vehicle population**, contribute to **42% of transport-related GHG emissions**
+- **Features:**
+	- The scheme provides **financial incentives** for following categories of *e-Trucks*:
+		- ***N2***  - Gross Vehicle Weight (**GVW**): ***3.5 Tn - 12 Tn***
+		- ***N3***  - Gross Vehicle Weight (**GVW**): ***12 Tn - 55 Tn***
+	- The **maximum incentive** is set at **Rs. 9.6 lakh per vehicle** and will be offered as an **upfront reduction**.
+- <b><u>PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE)</u></b>
+	- By the **Ministry of Heavy Industries (MHI)**
+	- **Focus:** *e-2Ws, e-3Ws, e-ambulances, e-trucks, e-buses, charging infra, EV testing* with **category wise incentives**
+		- ***No e-4Ws (passenger cars)***
+	- **Objective:**
+		- Accelerate adoption of EVs, 
+		- Develop EV charging infrastructure, 
+		- Strengthen domestic EV manufacturing ecosystem, and
+		- Promote sustainable clean and efficient public transport
+	- **PM E-DRIVE is different from FAME:**
+		- **Expands the scope beyond FAME-II:** as it includes **e-trucks, e-ambulances***, and **public charging infrastructure** development
+		- **Scrapping-Linked Incentives:** are **mandatory for e-Trucks** and **preference for e-Bus deployment**
+		- **Testing agencies:** it has provision for testing agencies to upgrade.
+---

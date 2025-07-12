@@ -206,3 +206,14 @@
 	- ***Ballast Water Management Convention:*** Prevent the spread of harmful aquatic organisms and pathogens and preventing introduction of invasive species into new marine environments.
 	- ***Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships (Hong Kong Convention):*** Ensure that recycled ships do not pose unnecessary risk to human health and safety or to the environment.
 ---
+### Astra Missile
+- **DRDO** and the **Indian Air Force** successfully conducted the flight-test of ***"Astra"*** equipped with **indigenous Radio Frequency (RF) seeker** from **Su-30 Mk-I platform**
+- **Astra Missile:**
+	- It is indigenous **Beyond Visual Range Air-to-Air Missile (BVRAAM)**
+	- The missile is designed to engage and destroy **highly maneuvering  supersonic aircraft**
+	- Developed by **DRDO**
+	- It has **all weather day and night capability**
+	- It's range **exceeds 100 Kms** and is equipped with state of the art guidance and navigation systems
+	<p align="center"><img src="https://www.mathrubhumi.com/image/contentid/policy:1.10740966:1752298723/astra%20missile.jpg?$p=16ac0fb&f=16x10&w=852&q=0.8" alt="Astra BVRAAM" width="200"/></p>
+
+---
