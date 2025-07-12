@@ -261,16 +261,15 @@
 <b><u>THREATS TO SUBMARINE CABLES?</u></b>
 1. **Accidental damage**
 2. **Sabotage:** recently a **Chinese-owned vessel, *Shunxing-36*, cut  undersea cables near Taiwan's Kee-lung harbour.**
-3. **Tapping of cables** using *splice chambers* and *optical splitters* -  ****Snowden leaks***
+3. **Tapping of cables** using *splice chambers* and *optical splitters* -  **Snowden leaks***
 
 <b><u>IMPORTANCE FOR INDIA:</u></b>
-1. **India's exploding data needs** it needs undersea cable networks.
+1. **India's exploding data needs** require extensive undersea cable networks.
 2. **Global strategic shift** redefining undersea cables from *commercial infrastructure* to  **assets critical to sovereignty and global influence**.
-	- Traditional **US domination**, bur growing **Chinese influence** through **Belt and Road Initiative** - ****Digital Silk Road***
+	- Traditional **US domination**, bur growing **Chinese influence** through **Belt and Road Initiative** - ***Digital Silk Road***
 	- **USA, EU & Japan** pushing for a ***"clean cable" consortium.***
 3. **Pakistan and China axis** as China is connecting Pakistan to West Asia
-4. **China** using **submarine cable attacks** as part of its **gray-zone warfare**.
-    #Eg ***Shunxing-36 and Taiwan***
+4. **China** using **submarine cable attacks** as part of its **gray-zone warfare**: #Eg ***Shunxing-36 and Taiwan***
 5. **Dependence on foreign ships for repair:** there is **Chinese** dominance in **submarine cable repair** sector - China operates now around 6 **undersea cable repair vessels**, with at least one linked to *PLA*. **India has only 1 privately owned submarine cable repair vessel.**
 
 <b><u>HOW INDIA CAN FORTIFY IT'S UNDERSEA CABLES:</u></b>
