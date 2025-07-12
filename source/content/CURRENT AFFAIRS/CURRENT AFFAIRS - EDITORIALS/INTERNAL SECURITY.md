@@ -261,7 +261,7 @@
 <b><u>THREATS TO SUBMARINE CABLES?</u></b>
 1. **Accidental damage**
 2. **Sabotage:** recently a **Chinese-owned vessel, *Shunxing-36*, cut  undersea cables near Taiwan's Kee-lung harbour.**
-3. **Tapping of cables** using *splice chambers* and *optical splitters* -  **Snowden leaks***
+3. **Tapping of cables** using *splice chambers* and *optical splitters* -  ****Snowden leaks***
 
 <b><u>IMPORTANCE FOR INDIA:</u></b>
 1. **India's exploding data needs** require extensive undersea cable networks.
