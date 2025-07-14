@@ -306,6 +306,11 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 - **Biostimulants:** **substances** and/or **microorganisms** whose function when applied to plants or the **rhizosphere** is to **stimulate natural processes** to benefit crop quality independently of its nutrient conent.
 	- **Popular biostimulants:**
 		- *Humic acids, Seaweed extracts, Liquid manure composting, beneficial bacteria* and *fungi*
+
 ---
 
-temp
+
+
+
+
+
