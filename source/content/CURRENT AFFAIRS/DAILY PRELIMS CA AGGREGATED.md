@@ -3863,7 +3863,7 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- **Consumer durables**
 	- **Automobiles equipment**
 ---
-### Japonica Rice
+### Japonica Rice and DAP
 #GS3 #Agriculture #SciTech #Fertilizer
 - Researchers at the **National institute of Plant Genome Research (NIPGR)** have used **CRISPS-Cas9** gene-editing technology to increase the ***phosphate uptake and transport*** in the ***Japonica rice varities.***
 	- **40% higher yield** with the **recommended dose of Phosphate fertilizer**
@@ -3892,6 +3892,12 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 		2. India is shifting to ***20:20:0:13*** OR ***Ammonium Phosphate Sulphate (APS)*** - now it is **India's third most consumed fertilizer***
 			- **APS** has **20% Pohsphorus** and also has **13% Sulphur** which is not present in DAP
 				- ***Silverlining*** as India needs **Sulphur** for **oilseeds and pulses***. Thus, increasing **APS** is good!
+- **Facts about DAP:**
+	- It is **highly soluble** and thus, **dissolves quickly in soil**
+	- **India is the largest agricultural consumer of DAP** in the world
+	- **Additional uses of DAP:**
+		- *Fire retardant*
+		- *Metal finishing*
 ---
 ### Indian Telecom Services Yearly Performance Indicators
 #GS3 #Economy #Services #Telecom #Report #Data
@@ -4531,4 +4537,159 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 - It was **launched** in **2016**, by the **MoEFCC** in partnership with **WII, Forest departments of Assam, West Bengal, UP, and WWF India**.
 - It is **wildlife forensic tool** that was specially developed for investigating wildlife crime cases.
 - It uses a **DNA indexing system** whereby **genetic sequences** are created to get a **signature unique to each individual rhino.**
+---
+### SC-NBWL and ESZ guidelines
+#GS3 #Environment #ESZ
+- **Standing committee of the National Board for Wildlife (SC-NBWL)** has suggested revising the ***Guidelines for declaration of ESZ, 2011*** issued by the **MoEFCC**
+	- SC-NBWL states that a **uniform 10Km ESZ** around **all protected areas** is ***not practical*** due to varying local conditions
+	- #Eg In **Himachal Pradesh**, about **65% land** is already under **forest or protected areas**, and strict ESZ rules may **hinder development** without significant ecological benefits.
+- **ESZ: Eco-Sensitive Zones:**
+	- **Genesis:** introduced in **Wildlife Conservation Strategy, 2002**
+	- #Definition: The ***National Environment Policy 2006*** defines **ESZ** as follows:
+		- Area with identified **environmental resources** having **incomparable values** which require **special attention for their conservation** because they feature landscape, wildlife, biodiversity, historical and scenic qualities.
+	- **Purpose:** 
+		- To create some kind of **"shock absorber"** for the specialized Ecosystem, such as Protected Areas (National Parks or Wildlife Sanctuaries) or other natural sites.
+		- To act as a **transition zone** from areas of high protection to areas involving less protection.
+	- **Demarcation:**
+		- Lands falling **within 10km of the boundaries of Protected areas** should be notified as ESZ under the ***Environment (Protection) ACt, 1986***
+		- In 2023, Supreme Court **allowed states to change the minimum width of ESZs** in ***public interest***
+			- Court also **prohibited mining** within the national park and wildlife sanctuary, and **within area of 1 km from their boundaries**
+- **Planning and Regulation of ESZs:**
+	- **MoEF&CC notifies ESZ** on the **recommendations** of the **State governments**
+	- **State governments** must prepare a ***Zonal Master Plan*** for **each ESZ:**
+		- Zonal master Plan also mandates incorporating ***Tourism Master Plan*** and ***Heritage sites listing***
+		- **No displacement** of people is involved.
+	- **ESZ Guidelines 2011*** provides **Exo-Sensitive Zone Activity Classification:**
+
+| **Prohibited Activities**                                                                                                                                                                                                                                                                    | **Key Regulated Activities**                                                                                                                                                                                                                                                            | **Key Permitted Activities**                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| - Commercial **mining**<br>- Setting of **saw mills**<br>- Setting of **industries causing pollution** (water, air, soil, noise, etc.)<br>- Establishment of **major hydroelectric projects**<br>- **Tourism activities** like *flying-over National Parks*  by *aircraft, hot-air balloons* | - **Felling of trees**<br>- Establishment of **hotels**<br>- Drastic change of **agriculture** systems<br>- Commercial use of **natural water** resources<br>- Erection of **electrical cables**<br>- Movement of **vehicular traffic** at **night**<br>- **Sign boards** and hoardings | - **Ongoing agriculture** and **horticulture** by **local communities**<br>- **Rain water harvesting**<br> |
+
+---
+### AI and Traditional Medicine
+#GS2 #GS3 #Govenance #IR #SciTech #Health 
+- **WHO** has acknowledged India's leadership in **AI** in the **AYUSH system**
+	- This recognition comes through **WHO's first ever technical brief** titled, *"Mapping the Application of Artificial Intelligence in Traditional Medicine"*, which was released **India's proposal** on the topic
+	- The brief is developed under the ***Global Initiative on AI for Health (GI-AI4H)***
+		- ***GI-AI4H:***
+			- Launched by **WHO, ITU (International TelecomMunication Union)** and **WIPO (World Intellectual Property Organisation)**
+- **AYUSH:**
+	- *Ayurveda*
+	- *Yoga*
+	- ***Naturopathy***
+	- *Unani*
+	- *Siddha*
+	- *Homeopathy*
+	- ***Sowa-Rigpa***  - Tibetian Traditional Medicine
+- **Indian initiatives to facilitate AI in TM:**
+	- **Traditional Knowledge Digital Library (TKDL):** digitized TM practices from Ayurveda, Siddha, Sowa-Rigpa, and Yoga
+	- **Ayush Grid:** launched in 2018, is central digital platform for TM, It supports key initiatives like,
+		- **AYUSH Health Management Information System (AHIMS):** *cloud-based* information system used by various clinical establishments
+		- **SAHI Portal:** *Showcase of Ayurvedic Historical Imprints*
+		- **NAMASTE Portal:** for traditional medicine services by standardizing terminology and morbidity codes
+		- **Ayush Research Portal:** centralized research access
+	- **Ayush Sanjivni** mobile app and the **Yoga locator** mobile app
+	- **Gobal Partnership on AI (GPAI) Summit, 2023:** a *multi-stakeholder initiative* which aims to bridge the gap between *theory and practice in AI*.
+---
+### Easing FGD Norms for TPP
+#GS3 #Environment #AirPollution #Rules 
+- **UMoEF&CC** eased **Flue Gas Desulphurisation (FDG) system** norms for **Thermal Power Plants (TPP)**, in line with the **recommendations** of an expert committee constituted by the *Principal Scientific Adviser* to the GoI.
+- **NEW FDG INSTALLATION RULES:**
+	- There are total **600 thermal power units** across around **180 thermal power plants**. The **percentage of units** have now have the following **FDG target:**
+		- ***Category A*** - Around ***11% units*** - ***Mandatory FDG Installation**
+			- Located within ***10 Km*** of:
+				- **National Capital Region** (NCR) OR
+				- **Cities** with ***population $\geq$ 1 million*** (2011 Census)
+			- **Deadline:** ***December 30, 2027***
+		- ***Category B*** - Around ***11% units*** - ***Conditional FDG Installation***
+			- Located near,
+				- **Critically Polluted Areas (CPA)** - Extremely polluted regions/clusters as per **CPCB criteria** OR
+				- **Non-attainment Cities (NAC)** - *131 cities* with worst air quality not meeting *NAAQS* for *5 years*
+			- **Deadline:** ***December 30, 2027***
+		- ***Category C*** - Around ***78% units*** - ***Fully Exempt from FDG Installation***
+			- **No FDG installation** required for majority of units - 78%
+- **Rationale for Ease of FDG systems norms:**
+	- **Ambient SO2 levels** in India range between **10-20 µg/m³** which is well below the **national standard** of **80 µg/m³**
+	- **Indian coal** is naturally **low in Sulphur** (but higher ash content)
+	- **Sulphates** have a **beneficial side-effect:** they may **suppress global warming** by **reflecting solar radiation** and offsetting warming effect of GHG emissions.
+		- ***IPCC*** notes that ***sulphates reduce warming*** - it ***never presents this as entirely positive***
+	- **Other reasons:**
+		- High installation cost - around *Rs. 1.2 crore per 1 MW*
+		- Limited number of qualified vendors
+		- Potential electricity tariff hike
+- **Flue Gas Desulphurization (FDG) Systems:**
+	- FDG is a **scrubbing technique** that uses an ***alkaline reagent*** (typically ***Sodium*** or ***Calcium*** based alkaline reagent) to **remove SO2** from the flue gas.
+	- **Flue Gas:** it is emitted as a byproduct of combustion of fossil fuels. It mainly contains **pollutants** such as **CO2, SO2, NOx, PM**. It may even contain **heavy metals** and **radioactive elements**
+		- **FDG units** specifically target SO2 emissions in flue gas
+		- SO2 is acidic gas, and is treated with an alkaline compound in the FDG unit to neutralise the pollutant
+	- There are **three types** of **FDG systems:**
+		1. ***Dry Sorbent Injection***
+		2. ***Wet Limestone Treatment***
+		3. ***Seawater Treatment***
+- **SO2 as a pollutant has following impacts:**
+	- **Health:** Respiratory problems #Eg Bronchitis
+	- **Environment:** causes Acid rain
+	- **Largest source of SO2:** Burning of **fossil fuel** by power plants and other industrial facilities
+	- **Smaller sources:** industrial processes such as extracting metal from ore, natural sources like volcano, etc.
+	- ***India is largest emitter of SO2*** ~ 21% of global SO2 emissions
+---
+### Weather Derivatives
+#GS3 #Economy #CapitalMarkets
+- India is set to launch its first **weather derivatives**, with the ***National Commodity Derivatives Exchange Ltd (NCDEX)*** partnering with **IMD*** to develop ***rainfall-based derivative products***
+- Unlike traditional derivatives which are based on financial assets, **weather derivatives** utilize **meteorological parameters** such as *rainfall* and *temperature*, as the *underlying asset*, tied to a **predefined** **weather index***
+- ***INCOMPLETE MARKET:***
+	- These *underlying assets* have **no inherent market value** - the **weather derivatives** are considered a part of an ***incomplete market.***
+	- **Incomplete markets** have **limitations on the availability of goods**, thus **assumptions of perfect and complete markets** are **not valid** for incomplete markets.
+	- Globally **over-the-counter (OTC)** trading in such practices began in **1990s** and India now takes its first significant step forward.
+- **Rationale of having "Weather Derivatives":**
+	- These instruments will **help farmers and allied sectors** ***hedge*** against **risks** like **irregular rainfall, heatwaves**, and **unseasonal weather**.
+	- Using **historical and real-time weather data** from IMD, these derivatives will offer **location-specific, seasonal contracts** backed by *statistically verified datasets*.
+---
+### Arboviral Diseases
+#GS3 #SciTech #Health 
+- **WHO** has released its **first integrated guidelines** for managing **arboviral diseases**.
+- **Arboviral diseases** are infections caused by a group of viruses spread to people by the bite of infected *arthropods* like *mosquitoes* and *ticks*.
+	- **Arboviral** = **Ar**thropod-**Bo**rn-**Viral** diseases
+- These include **Dengue, Chikungunya, Zika, Yellow fever** and are mainly spread by **Aedes mosquitoes**
+- As per **WHO**, they are on **rise** due to **climate change, urbanization** and **increased human movement**.
+	- Over **6.5 Billion people are at risk** globally
+- As these diseases often share **similar early symptoms** and may occur **simultaneously** in some areas, **clinical diagnosis is challenging**
+- WHO stresses the need for a **unified clinical approach** as outbreaks are becoming more frequent, severe, and widespread.
+---
+### Super Earth
+#GS3 #SciTech #Space 
+- Super Earths are type of **exoplanets** and they are named so based on their **size and mass**, ***NOT earth like features***
+- They are **larger than Earth** (up to **twice** in size) and **more massive** (up to **10 times Earth's mass**), but ***lighter than Neptune***
+- Their true composition is still unclear
+- The **larger ones** are sometimes called ***sub-Neptunes*** or ***mini-Neptunes***
+---
+### Silent Salt Consumption Epidemic
+#GS3 #SciTech #Health 
+- A per **ICMR's National Institute of Epidemiology (NIE),** India is under grip of a **silent salt epidemic**
+- #Data **Urban Indians** consume around **9.2 grams/day** of salt while **Rural Indians** consume around **5.6 grams/day** - both higher than **WHO recommendation** of less than **5 grams/day**
+- Excessive salt consumption can result into - *increased risk of hypertension, stroke, heart disease, and kidney disorders*
+- **Solutions:**
+	- Use of ***low-sodium salt substitutes*** - where **NaCl** is replaced with **KCl** or **MgCl2**
+- **Initiatives:**
+	- ***"Community-Led Salt Reduction"*** by ICMR
+	- Social media campaign using hashtag ***#PinchForAchange***
+---
+### New Caledonia
+#GS1 #GS2 #Geography #IR #PlacesInNews #Mapping 
+- **France** announces an agreement to give New Caledonia more **autonomy**. The agreement would create the ***"State of New Caledonia"*** within the **French Republic**, that would give the **semi-autonomous territory** more freedoms but *stops short of granting it independence.*
+- It is a **French overseas territory** in the ***Pacific ocean***, **East of Australia**
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/g3cXvG5jk3VgV0qSjg5g67cnYuZh4u74QY1pC5vr.png" alt="New Caledonia" width="300"/></p>
+
+- **History:** During the 1840s, Islanders were kidnapped by European traders as slaves or for forced labour in **sugarcane plantations**, later in **1853** it was **annexed by France.**
+- Presently, there is a deep division between its **indigenous** ***Kanak population*** and **Europeans** over its independence.
+---
+### Nano-fertilizers and Biostimulants
+#GS3 #Agriculture #Fertilizer 
+- The **Union Minister of Agriculture** asked **CMs** to **immediately stop forced sale** and **forced tagging** of **nano-fertilizers** and **biostimulants** to farmers.
+	- Many retailers are not selling conventional fertilizers to farmers unless they buy nano-fertilizers
+- **Nano-fertilizers:** are nutrients that are **encapsulated** or **coated** within **nanomaterial $\leq$ 100 nm** 
+	- Use of nanoparticles helps to control the release of nutrients, making them **efficient**
+- **Biostimulants:** **substances** and/or **microorganisms** whose function when applied to plants or the **rhizosphere** is to **stimulate natural processes** to benefit crop quality independently of its nutrient conent.
+	- **Popular biostimulants:**
+		- *Humic acids, Seaweed extracts, Liquid manure composting, beneficial bacteria* and *fungi*
 ---

@@ -181,6 +181,23 @@
 - **Stringent laws** with **differentiated approach** for **organised and unorganised** sectors
 - **Food safety** must be ***seen as a matter of both Health & awareness****
 - **Food hygiene** are also linked with **caste & class**, addressing the issue in s **differentiated approach** is again required
+
+---
+### **SILENT SALT CONSUMPTION EPIDEMIC**
+#GS3 #SciTech #Health 
+<b><u>NEWS:</u></b>
+- A per **ICMR's National Institute of Epidemiology (NIE),** India is under grip of a **silent salt epidemic**
+- #Data **Urban Indians** consume around **9.2 grams/day** of salt while **Rural Indians** consume around **5.6 grams/day** - both higher than **WHO recommendation** of less than **5 grams/day**
+
+<b><u>RISKS OF EXCESSIVE SALTH CONSUMPTION:</u></b>
+Excessive salt consumption can result into - *increased risk of hypertension, stroke, heart disease, and kidney disorders*
+
+<b><u>WAY FORWARD:</u></b>
+- Use of ***low-sodium salt substitutes*** - where **NaCl** is replaced with **KCl** or **MgCl2**
+- **Initiatives to spread awareness:**
+	- ***"Community-Led Salt Reduction"*** by ICMR
+	- Social media campaign using hashtag ***#PinchForAchange***
+
 ---
 ### **FINTECH SECTOR AND RURAL INDIA**
 #GS3 #Economy #Fintech #Rural

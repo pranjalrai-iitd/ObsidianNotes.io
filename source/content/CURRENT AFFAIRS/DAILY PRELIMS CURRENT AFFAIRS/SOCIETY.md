@@ -194,3 +194,28 @@ A(Social security)-->D(Labor market  programs);
 	- **Anusandhan National Research Foundation (ANRF):** Established under the **ANRF Act, 2023** to seed, grow and promote R&D and foster a culture of research and innovation throughout the country  
 	- **IMPacting Research INnovation and Technology (IMPRINT):** aimed at bridging gap between **scientific knowledge base** created through **fundamental research** and **applied research** and fruitful translation to engineering innovation  
 ---  
+### AI and Traditional Medicine
+#GS2 #GS3 #Govenance #IR #SciTech #Health 
+- **WHO** has acknowledged India's leadership in **AI** in the **AYUSH system**
+	- This recognition comes through **WHO's first ever technical brief** titled, *"Mapping the Application of Artificial Intelligence in Traditional Medicine"*, which was released **India's proposal** on the topic
+	- The brief is developed under the ***Global Initiative on AI for Health (GI-AI4H)***
+		- ***GI-AI4H:***
+			- Launched by **WHO, ITU (International TelecomMunication Union)** and **WIPO (World Intellectual Property Organisation)**
+- **AYUSH:**
+	- *Ayurveda*
+	- *Yoga*
+	- ***Naturopathy***
+	- *Unani*
+	- *Siddha*
+	- *Homeopathy*
+	- ***Sowa-Rigpa***  - Tibetian Traditional Medicine
+- **Indian initiatives to facilitate AI in TM:**
+	- **Traditional Knowledge Digital Library (TKDL):** digitized TM practices from Ayurveda, Siddha, Sowa-Rigpa, and Yoga
+	- **Ayush Grid:** launched in 2018, is central digital platform for TM, It supports key initiatives like,
+		- **AYUSH Health Management Information System (AHIMS):** *cloud-based* information system used by various clinical establishments
+		- **SAHI Portal:** *Showcase of Ayurvedic Historical Imprints*
+		- **NAMASTE Portal:** for traditional medicine services by standardizing terminology and morbidity codes
+		- **Ayush Research Portal:** centralized research access
+	- **Ayush Sanjivni** mobile app and the **Yoga locator** mobile app
+	- **Gobal Partnership on AI (GPAI) Summit, 2023:** a *multi-stakeholder initiative* which aims to bridge the gap between *theory and practice in AI*.
+---

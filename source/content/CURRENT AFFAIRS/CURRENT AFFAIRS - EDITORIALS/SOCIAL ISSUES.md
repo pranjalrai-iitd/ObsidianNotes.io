@@ -407,5 +407,32 @@
 - **Public engagement:** large public campaigns, events, group activities and social prescribing
 
 ---
+### **DIGITAL COLONIALISM**
+#GS1 #GS3 #SocialIssues #SciTech #Data 
 
+<b><u>NEWS/ DEFINITION:</u></b>  Vice Presidents's statement on **Data Colonialism**
+>***"Nations will no longer be compromised or colonized by armies as armies have been replaced by algorithms. Sovereignty will not be lost through invasions, but through dependence on foreign digital infrastructure"*** - VP
+
+<b><u>DIGITAL COLONIALISM:</u></b>
+- #Definition **Data colonialism** refers to a phenomenon where *developed nations and their big tech companies utilize digital platforms to control and profit from less developed nations*.
+	- It is a form of ***neo-colonialism of Global South***
+- **Digital Data** is benefiting **Global North** in the following ways:
+	- Analyzing behavior, resulting in *heightened competitive edge* in **economic and political arenas**
+	- **Advancing AI** with *development* and *hardware* primarily controlled by Global North
+	- **Data Monetization** - people and companies of Global north sell data collected from users of Global South
+- #Eg US-based companies like *Google* and *Amazon* collect data from developing nations to reshape various industries
+
+<b><u>CONCERNS:</u></b>
+1. **Loss of digital sovereignty:** developed nations and tech giants set global digital rules
+	 #Eg In 2024, **WhatsApp** threatened to exit India over traceability clause of the *2021 IT Rules.* 
+2. **Cultural imperialism:** through **social media** and **search engines** often pushing the worldview of developed countries and marginalizing local cultures.
+3. **Surveillance capitalism:** companies collect **vast personal data** without consent, violating privacy and civil rights.
+
+<b><u>WAYS FOR TACKLING DIGITAL COLONIALISM:</u></b>
+1. **Enhance digital sovereignty:** build **indigenous digital systems** like *ONDC* and ***India Stack***
+2. **Enforce data localisation:** India's key initiative in this direction is **boycotting** the ***Osaka Track*** on data flows and enactment of the **DPDP Act, 2023**
+3. **Reduce import dependencies:** focus on local production in critical areas like defence, space and science through initiatives like *Make in India* and ***Chips to Startup (C2S) program***.
+4. **Update policy:** The **UNCTAD 2021** report urged countries to **regularly review data flow policies** to balance economic growth, public interest and connected global digital ecosystem.
+
+---
 

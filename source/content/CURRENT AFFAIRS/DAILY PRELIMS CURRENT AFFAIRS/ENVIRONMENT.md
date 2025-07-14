@@ -419,3 +419,31 @@
 - It is **wildlife forensic tool** that was specially developed for investigating wildlife crime cases.
 - It uses a **DNA indexing system** whereby **genetic sequences** are created to get a **signature unique to each individual rhino.**
 ---
+### SC-NBWL and ESZ guidelines
+#GS3 #Environment #ESZ
+- **Standing committee of the National Board for Wildlife (SC-NBWL)** has suggested revising the ***Guidelines for declaration of ESZ, 2011*** issued by the **MoEFCC**
+	- SC-NBWL states that a **uniform 10Km ESZ** around **all protected areas** is ***not practical*** due to varying local conditions
+	- #Eg In **Himachal Pradesh**, about **65% land** is already under **forest or protected areas**, and strict ESZ rules may **hinder development** without significant ecological benefits.
+- **ESZ: Eco-Sensitive Zones:**
+	- **Genesis:** introduced in **Wildlife Conservation Strategy, 2002**
+	- #Definition: The ***National Environment Policy 2006*** defines **ESZ** as follows:
+		- Area with identified **environmental resources** having **incomparable values** which require **special attention for their conservation** because they feature landscape, wildlife, biodiversity, historical and scenic qualities.
+	- **Purpose:** 
+		- To create some kind of **"shock absorber"** for the specialized Ecosystem, such as Protected Areas (National Parks or Wildlife Sanctuaries) or other natural sites.
+		- To act as a **transition zone** from areas of high protection to areas involving less protection.
+	- **Demarcation:**
+		- Lands falling **within 10km of the boundaries of Protected areas** should be notified as ESZ under the ***Environment (Protection) ACt, 1986***
+		- In 2023, Supreme Court **allowed states to change the minimum width of ESZs** in ***public interest***
+			- Court also **prohibited mining** within the national park and wildlife sanctuary, and **within area of 1 km from their boundaries**
+- **Planning and Regulation of ESZs:**
+	- **MoEF&CC notifies ESZ** on the **recommendations** of the **State governments**
+	- **State governments** must prepare a ***Zonal Master Plan*** for **each ESZ:**
+		- Zonal master Plan also mandates incorporating ***Tourism Master Plan*** and ***Heritage sites listing***
+		- **No displacement** of people is involved.
+	- **ESZ Guidelines 2011*** provides **Exo-Sensitive Zone Activity Classification:**
+
+| **Prohibited Activities**                                                                                                                                                                                                                                                                    | **Key Regulated Activities**                                                                                                                                                                                                                                                            | **Key Permitted Activities**                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| - Commercial **mining**<br>- Setting of **saw mills**<br>- Setting of **industries causing pollution** (water, air, soil, noise, etc.)<br>- Establishment of **major hydroelectric projects**<br>- **Tourism activities** like *flying-over National Parks*  by *aircraft, hot-air balloons* | - **Felling of trees**<br>- Establishment of **hotels**<br>- Drastic change of **agriculture** systems<br>- Commercial use of **natural water** resources<br>- Erection of **electrical cables**<br>- Movement of **vehicular traffic** at **night**<br>- **Sign boards** and hoardings | - **Ongoing agriculture** and **horticulture** by **local communities**<br>- **Rain water harvesting**<br> |
+
+---

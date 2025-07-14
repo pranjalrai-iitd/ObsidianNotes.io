@@ -261,7 +261,7 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 	2. **Madhya Pradesh** - 11.37%
 	3. **Maharashtra** - 10.91%
 ---
-### Japonica Rice
+### Japonica Rice and DAP
 #GS3 #Agriculture #SciTech #Fertilizer
 - Researchers at the **National institute of Plant Genome Research (NIPGR)** have used **CRISPS-Cas9** gene-editing technology to increase the ***phosphate uptake and transport*** in the ***Japonica rice varities.***
 	- **40% higher yield** with the **recommended dose of Phosphate fertilizer**
@@ -290,4 +290,21 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 		2. India is shifting to ***20:20:0:13*** OR ***Ammonium Phosphate Sulphate (APS)*** - now it is **India's third most consumed fertilizer***
 			- **APS** has **20% Pohsphorus** and also has **13% Sulphur** which is not present in DAP
 				- ***Silverlining*** as India needs **Sulphur** for **oilseeds and pulses***. Thus, increasing **APS** is good!
+- **Facts about DAP:**
+	- It is **highly soluble** and thus, **dissolves quickly in soil**
+	- **India is the largest agricultural consumer of DAP** in the world
+	- **Additional uses of DAP:**
+		- *Fire retardant*
+		- *Metal finishing*
 ---
+### Nano-fertilizers and Biostimulants
+#GS3 #Agriculture #Fertilizer 
+- The **Union Minister of Agriculture** asked **CMs** to **immediately stop forced sale** and **forced tagging** of **nano-fertilizers** and **biostimulants** to farmers.
+	- Many retailers are not selling conventional fertilizers to farmers unless they buy nano-fertilizers
+- **Nano-fertilizers:** are nutrients that are **encapsulated** or **coated** within **nanomaterial $\leq$ 100 nm** 
+	- Use of nanoparticles helps to control the release of nutrients, making them **efficient**
+- **Biostimulants:** **substances** and/or **microorganisms** whose function when applied to plants or the **rhizosphere** is to **stimulate natural processes** to benefit crop quality independently of its nutrient conent.
+	- **Popular biostimulants:**
+		- *Humic acids, Seaweed extracts, Liquid manure composting, beneficial bacteria* and *fungi*
+---
+

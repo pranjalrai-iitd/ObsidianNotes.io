@@ -334,3 +334,12 @@
 	- **Lake Turkana National parks including the lake*** are designated as ***World Heritage Sites (UNESCO WHS)***
 	- **Only perennial tributary:** *Omo river*
 ---
+### New Caledonia
+#GS1 #GS2 #Geography #IR #PlacesInNews #Mapping 
+- **France** announces an agreement to give New Caledonia more **autonomy**. The agreement would create the ***"State of New Caledonia"*** within the **French Republic**, that would give the **semi-autonomous territory** more freedoms but *stops short of granting it independence.*
+- It is a **French overseas territory** in the ***Pacific ocean***, **East of Australia**
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/g3cXvG5jk3VgV0qSjg5g67cnYuZh4u74QY1pC5vr.png" alt="New Caledonia" width="300"/></p>
+
+- **History:** During the 1840s, Islanders were kidnapped by European traders as slaves or for forced labour in **sugarcane plantations**, later in **1853** it was **annexed by France.**
+- Presently, there is a deep division between its **indigenous** ***Kanak population*** and **Europeans** over its independence.
+---

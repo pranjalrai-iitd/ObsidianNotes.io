@@ -332,3 +332,32 @@
 		- The have been also linked to inflammation, overweight/obesity, high blood pressure, diabetes and some forms of cancers, etc. 
 - **Unsaturated fats** are on the other had **healthy**
 ---
+### Arboviral Diseases
+#GS3 #SciTech #Health 
+- **WHO** has released its **first integrated guidelines** for managing **arboviral diseases**.
+- **Arboviral diseases** are infections caused by a group of viruses spread to people by the bite of infected *arthropods* like *mosquitoes* and *ticks*.
+	- **Arboviral** = **Ar**thropod-**Bo**rn-**Viral** diseases
+- These include **Dengue, Chikungunya, Zika, Yellow fever** and are mainly spread by **Aedes mosquitoes**
+- As per **WHO**, they are on **rise** due to **climate change, urbanization** and **increased human movement**.
+	- Over **6.5 Billion people are at risk** globally
+- As these diseases often share **similar early symptoms** and may occur **simultaneously** in some areas, **clinical diagnosis is challenging**
+- WHO stresses the need for a **unified clinical approach** as outbreaks are becoming more frequent, severe, and widespread.
+---
+### Super Earth
+#GS3 #SciTech #Space 
+- Super Earths are type of **exoplanets** and they are named so based on their **size and mass**, ***NOT earth like features***
+- They are **larger than Earth** (up to **twice** in size) and **more massive** (up to **10 times Earth's mass**), but ***lighter than Neptune***
+- Their true composition is still unclear
+- The **larger ones** are sometimes called ***sub-Neptunes*** or ***mini-Neptunes***
+---
+### Silent Salt Consumption Epidemic
+#GS3 #SciTech #Health 
+- A per **ICMR's National Institute of Epidemiology (NIE),** India is under grip of a **silent salt epidemic**
+- #Data **Urban Indians** consume around **9.2 grams/day** of salt while **Rural Indians** consume around **5.6 grams/day** - both higher than **WHO recommendation** of less than **5 grams/day**
+- Excessive salt consumption can result into - *increased risk of hypertension, stroke, heart disease, and kidney disorders*
+- **Solutions:**
+	- Use of ***low-sodium salt substitutes*** - where **NaCl** is replaced with **KCl** or **MgCl2**
+- **Initiatives:**
+	- ***"Community-Led Salt Reduction"*** by ICMR
+	- Social media campaign using hashtag ***#PinchForAchange***
+---

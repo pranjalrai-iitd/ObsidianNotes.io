@@ -219,3 +219,31 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 - **Saudi Arabia:** A **50% <b><u>SSB</u></b> (Sugar, Sweet and Beverages) tax** resulted in a **19% decrease** in consumption of SSBs within a year
 
 ---
+### **AI IN TRADITIONAL MEDICINE**
+#GS2 #GS3 #Govenance #IR #SciTech #Health 
+
+<b><u>NEWS:</u></b>
+- **WHO's first ever technical brief** titled, *"Mapping the Application of Artificial Intelligence in Traditional Medicine"*, under the ***Global Initiative on AI for Health (GI-AI4H)*** **praised India's leadership** in integrating **AI** with **Traditional 
+
+<b><u>AI APPLICATIONS IN INDIAN TRADITIONAL MEDICINE:</u></b>
+1. **Smarted diagnosis:** AI combined with traditional techniques like *pulse reading, tongue analysis* and *Prakriti assessment* with deep learning
+2. **Ayurgenomics:** merges **genomics** with **Ayurvedic principles**. AI helps identify **disease risk amrkers** and tailor health advice based on person's Ayurvedic constitution.
+3. **Indentify drug action pathways:** develop **chemical sensors** to assess Ayurvedic concepts like *Rasa, Guna* and *Virya*.
+
+<b><u>CHALLENGES IN INTEGRATING AI WITH TRADITIONAL MEDICINE:</u></b>
+1. **Biopiracy risk:** indigenous knowledge and resources may be misused without consent for profit
+2. **Digital gaps:** poor infrastructure and low digital literacy limits access and usage
+3. **Lack of quality data:** AI needs large, reliable datasets, which are often missing in TM
+4. **Localization Vs. Integration:** hard to balance local relevance of AI tools with global use and standardization
+
+<b><u>INDIAN INITIATIVES FOR AI IN TRADITIONAL MEDICINE:</u></b>
+1. **Traditional Knowledge Digital Library (TKDL):** digitized TM practices from Ayurveda, Siddha, Sowa-Rigpa, and Yoga
+2. **Ayush Grid:** launched in 2018, is central digital platform for TM, It supports key initiatives like,
+	- **AYUSH Health Management Information System (AHIMS):** *cloud-based* information system used by various clinical establishments
+	- **SAHI Portal:** *Showcase of Ayurvedic Historical Imprints*
+	- **NAMASTE Portal:** for traditional medicine services by standardizing terminology and morbidity codes
+	- **Ayush Research Portal:** centralized research access
+3. **Ayush Sanjivni** mobile app and the **Yoga locator** mobile app
+4. **Gobal Partnership on AI (GPAI) Summit, 2023:** a *multi-stakeholder initiative* which aims to bridge the gap between *theory and practice in AI*.
+
+---

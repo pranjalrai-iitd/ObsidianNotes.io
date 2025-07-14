@@ -296,3 +296,17 @@
 5. **US-Chine trade conflicts:** *unilateral actions*  ( #Eg *US tariffs on steel* and aluminum) and ongoing tensions strain WTO operations.
 
 ---
+### **MULTIPOLARITY**
+#GS2 #IR 
+
+> India's policy has shifted from **Non-Alignment** to **Multi-Alignment**.
+
+> India increasingly participating in **Mini-lateral groupings**
+
+> India is seeking **reform** of **UN** and **Brettenwoods Institutions** along with call for **CBDR**
+
+> India increasingly looking for **Internalisation of Rupee**
+
+> #Quote ***"India is non-west not anti-west"*** - EAM
+
+---

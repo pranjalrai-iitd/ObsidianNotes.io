@@ -453,3 +453,15 @@
 			- **FPI** are **NOT** covered in these investments
 		- Commitments related to **IPR** are at *TRIPS level*
 ---
+### Weather Derivatives
+#GS3 #Economy #CapitalMarkets
+- India is set to launch its first **weather derivatives**, with the ***National Commodity Derivatives Exchange Ltd (NCDEX)*** partnering with **IMD*** to develop ***rainfall-based derivative products***
+- Unlike traditional derivatives which are based on financial assets, **weather derivatives** utilize **meteorological parameters** such as *rainfall* and *temperature*, as the *underlying asset*, tied to a **predefined** **weather index***
+- ***INCOMPLETE MARKET:***
+	- These *underlying assets* have **no inherent market value** - the **weather derivatives** are considered a part of an ***incomplete market.***
+	- **Incomplete markets** have **limitations on the availability of goods**, thus **assumptions of perfect and complete markets** are **not valid** for incomplete markets.
+	- Globally **over-the-counter (OTC)** trading in such practices began in **1990s** and India now takes its first significant step forward.
+- **Rationale of having "Weather Derivatives":**
+	- These instruments will **help farmers and allied sectors** ***hedge*** against **risks** like **irregular rainfall, heatwaves**, and **unseasonal weather**.
+	- Using **historical and real-time weather data** from IMD, these derivatives will offer **location-specific, seasonal contracts** backed by *statistically verified datasets*.
+---

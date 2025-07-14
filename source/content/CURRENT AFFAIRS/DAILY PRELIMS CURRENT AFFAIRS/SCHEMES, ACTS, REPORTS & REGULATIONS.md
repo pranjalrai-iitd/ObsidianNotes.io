@@ -1009,3 +1009,45 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 		- **Scrapping-Linked Incentives:** are **mandatory for e-Trucks** and **preference for e-Bus deployment**
 		- **Testing agencies:** it has provision for testing agencies to upgrade.
 ---
+### Easing FGD Norms for TPP
+#GS3 #Environment #AirPollution #Rules 
+- **UMoEF&CC** eased **Flue Gas Desulphurisation (FDG) system** norms for **Thermal Power Plants (TPP)**, in line with the **recommendations** of an expert committee constituted by the *Principal Scientific Adviser* to the GoI.
+- **NEW FDG INSTALLATION RULES:**
+	- There are total **600 thermal power units** across around **180 thermal power plants**. The **percentage of units** have now have the following **FDG target:**
+		- ***Category A*** - Around ***11% units*** - ***Mandatory FDG Installation**
+			- Located within ***10 Km*** of:
+				- **National Capital Region** (NCR) OR
+				- **Cities** with ***population $\geq$ 1 million*** (2011 Census)
+			- **Deadline:** ***December 30, 2027***
+		- ***Category B*** - Around ***11% units*** - ***Conditional FDG Installation***
+			- Located near,
+				- **Critically Polluted Areas (CPA)** - Extremely polluted regions/clusters as per **CPCB criteria** OR
+				- **Non-attainment Cities (NAC)** - *131 cities* with worst air quality not meeting *NAAQS* for *5 years*
+			- **Deadline:** ***December 30, 2027***
+		- ***Category C*** - Around ***78% units*** - ***Fully Exempt from FDG Installation***
+			- **No FDG installation** required for majority of units - 78%
+- **Rationale for Ease of FDG systems norms:**
+	- **Ambient SO2 levels** in India range between **10-20 µg/m³** which is well below the **national standard** of **80 µg/m³**
+	- **Indian coal** is naturally **low in Sulphur** (but higher ash content)
+	- **Sulphates** have a **beneficial side-effect:** they may **suppress global warming** by **reflecting solar radiation** and offsetting warming effect of GHG emissions.
+		- ***IPCC*** notes that ***sulphates reduce warming*** - it ***never presents this as entirely positive***
+	- **Other reasons:**
+		- High installation cost - around *Rs. 1.2 crore per 1 MW*
+		- Limited number of qualified vendors
+		- Potential electricity tariff hike
+- **Flue Gas Desulphurization (FDG) Systems:**
+	- FDG is a **scrubbing technique** that uses an ***alkaline reagent*** (typically ***Sodium*** or ***Calcium*** based alkaline reagent) to **remove SO2** from the flue gas.
+	- **Flue Gas:** it is emitted as a byproduct of combustion of fossil fuels. It mainly contains **pollutants** such as **CO2, SO2, NOx, PM**. It may even contain **heavy metals** and **radioactive elements**
+		- **FDG units** specifically target SO2 emissions in flue gas
+		- SO2 is acidic gas, and is treated with an alkaline compound in the FDG unit to neutralise the pollutant
+	- There are **three types** of **FDG systems:**
+		1. ***Dry Sorbent Injection***
+		2. ***Wet Limestone Treatment***
+		3. ***Seawater Treatment***
+- **SO2 as a pollutant has following impacts:**
+	- **Health:** Respiratory problems #Eg Bronchitis
+	- **Environment:** causes Acid rain
+	- **Largest source of SO2:** Burning of **fossil fuel** by power plants and other industrial facilities
+	- **Smaller sources:** industrial processes such as extracting metal from ore, natural sources like volcano, etc.
+	- ***India is largest emitter of SO2*** ~ 21% of global SO2 emissions
+---
