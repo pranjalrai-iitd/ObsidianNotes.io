@@ -447,3 +447,33 @@
 | - Commercial **mining**<br>- Setting of **saw mills**<br>- Setting of **industries causing pollution** (water, air, soil, noise, etc.)<br>- Establishment of **major hydroelectric projects**<br>- **Tourism activities** like *flying-over National Parks*  by *aircraft, hot-air balloons* | - **Felling of trees**<br>- Establishment of **hotels**<br>- Drastic change of **agriculture** systems<br>- Commercial use of **natural water** resources<br>- Erection of **electrical cables**<br>- Movement of **vehicular traffic** at **night**<br>- **Sign boards** and hoardings | - **Ongoing agriculture** and **horticulture** by **local communities**<br>- **Rain water harvesting**<br> |
 
 ---
+### India's Installed Electricity Capacity and NDC
+#GS #Economy #Environment #Energy #ClimateChange 
+- According to the **MoNRE**, Indias has reached **484.82 GW of total installed electricity capacity**, with **50.08% from non-fossil fuel sources**.
+	- India has achieved the target of 50% non-fossil fuel installed capacity - **five years ahead** of the target set under its **NDC** to the **Paris Agreement**
+- **India's installed capacity:**
+	[INDIA ENERGY DASHBOARD](https://iced.niti.gov.in/energy/electricity/generation)
+	- **Non-fossil fuel based installed capacity:** ***50.8%*** *(CEA)*
+	- **Renewable Energy capacity:** ***38.08%*** *(CEA)*
+		- It contains **Solar, Wind, Small Hydro,** and **Bio-Power**
+
+| **ENERGY SOURCE** | **INSTALLED CAPACITY %** | **GENERATION %** |
+| ----------------- | ------------------------ | ---------------- |
+| Coal              | 46.42%                   | 75.58%           |
+| Solar             | 22.85%                   | 9.61%            |
+| Wind              | 10.81%                   | 3.91%            |
+| Hydro             | 10.14%                   | 6.17%            |
+| Oil & Gas         | 4.39%                    | 2.05%            |
+| Bio Power         | 2.45%                    | 0.33%            |
+| Nuclear           | 1.86%                    | 3.11%            |
+| Small Hydro       | 1.08%                    | 0.24%            |
+
+- **Initiatives behind the rise in India's Renewable Energy Capacity:**
+	- ***PM Surya Ghar Muft Bijli Yojana*** - facilitated around *7 lakh rooftop solar installations*
+	- ***PM-KUSUM:*** provided *solar-powered pumps* to farmers, enabling energy-secure agriculture
+	- ***Manufacturing expansion:*** scaling up of domestic solar PV and wind turbine production through **PLI** schemes
+	- **Transmission Infrastructure Enhancement:** Major investments in inter-state transmission systems to evacuate power from renewable-rich states.
+	- ***Green Energy Open Access Rules 2022:*** promotes renewable energy access for consumers
+	- **Foreign Direct Investment (FDI) Policy:** 100% FDI permitted under automatic route in renewable sector
+	- **Viability Gap Funding (VGF):** VGF scheme for implementation of offshore wind energy projects
+---

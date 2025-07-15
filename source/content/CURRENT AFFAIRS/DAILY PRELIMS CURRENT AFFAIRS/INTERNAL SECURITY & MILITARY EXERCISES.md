@@ -217,3 +217,11 @@
 	<p align="center"><img src="https://www.mathrubhumi.com/image/contentid/policy:1.10740966:1752298723/astra%20missile.jpg?$p=16ac0fb&f=16x10&w=852&q=0.8" alt="Astra BVRAAM" width="200"/></p>
 
 ---
+### Talisman Sabre Exercise
+#GS3 #InternalSecurity #MilitaryExercise 
+- **Australia's largest military exercise,** ***Exercise Talisman Sabre 2025***, officially commenced in **Sydney**
+- It involves **19 nations** and around **35,000 military personnel** across *land, sea, air, space* and *cyberspace*.
+- **Major participants:** ***USA, Canada, France, UK, Germany, India, Indonesia, japan, New Zealand, Norway*** etc.
+	- **Observers:** *Malaysia* and *Vietnam*
+- It involves live-fire exercises, field training activities, amphibious landing, ground force manoeuvres and air combat and maritime operations.
+---

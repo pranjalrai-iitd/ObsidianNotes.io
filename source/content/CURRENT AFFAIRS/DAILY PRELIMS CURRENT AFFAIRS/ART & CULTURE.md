@@ -148,3 +148,11 @@
 		- **India** is a member from **2021-25** ***(4 year term)***
 		- It has **21 member states parties**
 ---
+### Bendeinkhlam Festival
+#GS1 #ArtCulture
+- The sacred **Bendeinkhlam Festival** was celebrated in **Meghalaya**
+- The festival, means ***"driving away the plague"*** and symbolizes **spiritual cleansing** and **community resilience**
+- It is most important **dance festival** of ***Pnars (or Jaintias)*** celebrated **annually** in **July** after the **sowing period**
+- During the festival, young men make a symbolic gesture of *driving away of the evil spirit, plague and disease* by **beating the roof of every house with bamboo poles**
+- **Games** like ***Dat-Lawdor*** (football-like sport played with a **wooden ball**) and ***Iatan-Bhang*** (tug of war) are played.
+---

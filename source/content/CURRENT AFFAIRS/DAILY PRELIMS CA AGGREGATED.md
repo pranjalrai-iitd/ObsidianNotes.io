@@ -4693,3 +4693,93 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- **Popular biostimulants:**
 		- *Humic acids, Seaweed extracts, Liquid manure composting, beneficial bacteria* and *fungi*
 ---
+### PMKVY
+#GS3 #Economy #Skilling #Scheme 
+- **PMKVY** completes **10 years of implementation**. It was launched in **2015** to encourage and promote skill development in India.
+- Presently, PMKVY is in its *fourth phase* - ***PMKVY 4.0*** and it has been made a *key component* of ***Central SECTOR Scheme of Skill India Programme*** along with other two components.
+	- **3 components of** ***Skill India Programmge:*** (CENTRAL **SECTOR** Scheme)
+		1. **PMKVY 4.0**
+		2. ***PM-NAPS:*** **Pradhan Mantri National Apprenticeship Promotion Scheme** which offers financial support for **apprentice stipends**
+		3. ***JSS:*** **Jan Shikshan Sansthan** which offers **vocational skills to non-literates, neo-literates and school-dropouts**
+- **Three types of training under PMKVY:**
+	1. **Short-Term Training (STT) - National Skills Qualification Framework (NSQF)** aligned courses and on-job training
+		- Eligibility age: **15-45** years
+	2. **Recognition of Prior Learning (RPL):** Industry-recognized certification of **existing skills**
+		- Eligibility age: **15-45** years
+	3. **Special Projects: Customized skill training** for marginalized groups, difficult areas and specialized or future job roles.
+		- Eligibility age: **18-59** years
+- **Design principles of PMKVY 4.0:**
+	- *Industry-Connect* and *On-the-Job Training*
+	- *Digitization of Training Ecosystem*
+	- *Focus on Entrepreneurship*
+	- *Creation of National Pool of Assessors and Trainers*
+	- *Focus on New Age Skills*
+- **Key Achievements of PMKVY:**
+	- **Improving access to skill training:** over ***1.63 crore*** youths trained since 2015
+	- **Targeted skilling:** *Bru-tribe (Tripura), prison inmates (in Assan & Manipur)* and **70% women** under the ***PANKH project**.
+	- **Social equity and inclusion:** around **40% women participation** and significant inclusion of SCs, STs, and OBCs.
+	- **Furture ready workforce:** Inclusion of **emerging technologies** like Ai, IoT, Robotics, 5G, Cybersecurity, Drones, Green hydrogen, etc.
+	- **promotion of Traditional crafts:** upskilling projects for artisans and weavers in **Nagaland** and **J&K**
+---
+### India's Installed Electricity Capacity and NDC
+#GS #Economy #Environment #Energy #ClimateChange 
+- According to the **MoNRE**, Indias has reached **484.82 GW of total installed electricity capacity**, with **50.08% from non-fossil fuel sources**.
+	- India has achieved the target of 50% non-fossil fuel installed capacity - **five years ahead** of the target set under its **NDC** to the **Paris Agreement**
+- **India's installed capacity:**
+	[INDIA ENERGY DASHBOARD](https://iced.niti.gov.in/energy/electricity/generation)
+	- **Non-fossil fuel based installed capacity:** ***50.8%*** *(CEA)*
+	- **Renewable Energy capacity:** ***38.08%*** *(CEA)*
+		- It contains **Solar, Wind, Small Hydro,** and **Bio-Power**
+
+| **ENERGY SOURCE** | **INSTALLED CAPACITY %** | **GENERATION %** |
+| ----------------- | ------------------------ | ---------------- |
+| Coal              | 46.42%                   | 75.58%           |
+| Solar             | 22.85%                   | 9.61%            |
+| Wind              | 10.81%                   | 3.91%            |
+| Hydro             | 10.14%                   | 6.17%            |
+| Oil & Gas         | 4.39%                    | 2.05%            |
+| Bio Power         | 2.45%                    | 0.33%            |
+| Nuclear           | 1.86%                    | 3.11%            |
+| Small Hydro       | 1.08%                    | 0.24%            |
+- **Initiatives behind the rise in India's Renewable Energy Capacity:**
+	- ***PM Surya Ghar Muft Bijli Yojana*** - facilitated around *7 lakh rooftop solar installations*
+	- ***PM-KUSUM:*** provided *solar-powered pumps* to farmers, enabling energy-secure agriculture
+	- ***Manufacturing expansion:*** scaling up of domestic solar PV and wind turbine production through **PLI** schemes
+	- **Transmission Infrastructure Enhancement:** Major investments in inter-state transmission systems to evacuate power from renewable-rich states.
+	- ***Green Energy Open Access Rules 2022:*** promotes renewable energy access for consumers
+	- **Foreign Direct Investment (FDI) Policy:** 100% FDI permitted under automatic route in renewable sector
+	- **Viability Gap Funding (VGF):** VGF scheme for implementation of offshore wind energy projects
+---
+### Australia
+#GS1 #GS2 #IR #Geography #PlacesInNews #Mapping 
+- **Australia** and **India** are gearing up to strengthen partnerships across vital sectors with ***2025 Maitri Grants***
+	- ***Maitri Grants:*** administered by **Centre for Australia-India Relations** supports greater exchange and collaboration in cultural, education, research purposes.
+<p align="center"><img src="https://www.worldatlas.com/upload/08/4d/54/au-01.png" alt="Australia" width="600"/></p>
+
+- **Political features:**
+	- **Maritime boundary:** 
+		- **Indian Ocean** - *West*
+		- **South Pacific Ocean** - *East*
+	- It is the **smallest continent** and the **world's sixth largest country**
+- **Geographical features:**
+	- **Highest point:** ***Mount Kosciszko*** *(The Eastern Highlands/The Great Dividing Range)*
+	- The **Great Barrier Reef** - located off the **east coast** of Queensland, is the **greatest mass of coral in the world** and is a **UNESCO WHS** since 1981
+	- **Lake Eyre** is a drying lake
+	- **Major resources:** *Gold, Iron ore, Lead, Nickel, Rutile, Uranium, Zinc,* and *Zircon*
+---
+### Talisman Sabre Exercise
+#GS3 #InternalSecurity #MilitaryExercise 
+- **Australia's largest military exercise,** ***Exercise Talisman Sabre 2025***, officially commenced in **Sydney**
+- It involves **19 nations** and around **35,000 military personnel** across *land, sea, air, space* and *cyberspace*.
+- **Major participants:** ***USA, Canada, France, UK, Germany, India, Indonesia, japan, New Zealand, Norway*** etc.
+	- **Observers:** *Malaysia* and *Vietnam*
+- It involves live-fire exercises, field training activities, amphibious landing, ground force manoeuvres and air combat and maritime operations.
+---
+### National Pharmaceutical Pricing Authority (NPPA)
+#GS3 #Economy #Pharmaceuticals #Organizations 
+- Centre fixes prices of 71 key drug formulations through the **National Pharmaceutical Pricing Authority (NPPA)**
+- **NPPA:**
+	- It is a **non-statutory** body established in 1997 through a Government of India **resolution** as an **attached office** of the ***Department of Pharmaceuticals (DoP)*** under the ***Ministry of Chemicals & Fertilizers***
+	- **Objective:** to serve as **independent regulator for pricing of drugs and to ensure availability and accessibility of medicines** at affordable prices.
+	- **Functions:** fixing and revising drug prices as per the provisions of the ***Drug Prices Control Order (DPCO)*** issued by DoP.
+---

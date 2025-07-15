@@ -165,7 +165,7 @@
 - **The national movement never adopted any picture of the Bharat Mata**. 
 - Neither the **constitution or any law** unlike the **national anthem or national flag or national symbols.***
 - **Meaning of Bharat Mata as per Jawahar Lal Nehru** in ***Discovery of India:***
-	>*"... sometimes as I reached a gathering a great roar of welcome would greet me: Bharat Mata ki Jai - Victory to Mother India. I would ask them unexpectedly what they meant by that cry, who was this Bharat Mata, whose victory they wanted... The mountains and the rivers of India and the forest and the broad fields which gave us food were all dear to us, but what counted ultimately were the people of India, people like them and me who were spread out all over this vast land. ***Bharat Mata, Mother India, was essentially these millions of people and victory to her meant victory to those people***."*
+	>*"... sometimes as I reached a gathering a great roar of welcome would greet me: Bharat Mata ki Jai - Victory to Mother India. I would ask them unexpectedly what they meant by that cry, who was this Bharat Mata, whose victory they wanted... The mountains and the rivers of India and the forest and the broad fields which gave us food were all dear to us, but what counted ultimately were the people of India, people like them and me who were spread out all over this vast land. ***Bharat Mata, Mother India, was essentially these millions of people and victory to her meant victory to those people***."
 ---
 ### **FILMS & FREEDOM OF SPEECH AND EXPRESSION**
 #GS2 #Polity #FundamentalRights #Films
@@ -193,6 +193,11 @@
 - **Hecklin Test:** narrow interpretation on restricting films for display of explicit content in movies
 - **Roth Test:** liberal interpretation where the focus is on message being sent by the film. #Eg Breast Feeding shown to promote child health should not be restricited
 - **Brandenburg Test:** Speech must be restricted only if it incites violence
+
+<b><u>HORIZONTAL APPLICATION OF ARTICLE 19</u></b> was recognized by the Supreme court in #Judgement ***Kaushal Kishore Case (2023)***
+- **Vertical application:** protected against the **state**
+- **Horizontal application:** protected against **another citizens**
+
 ---
 ### **PARLIAMENTARY COMMITTEES**
 #GS2 #Polity #Parliament 

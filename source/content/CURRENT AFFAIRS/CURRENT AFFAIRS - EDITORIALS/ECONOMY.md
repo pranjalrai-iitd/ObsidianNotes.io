@@ -86,12 +86,16 @@
 ### **INFLATION RATE**
 #GS3 #Economy #Data #Inflation
 
-<b><u>Recent MOSPI Data on Inflation for May 2025</u></b>:
-- India's Headline retail inflation - **CPI - 2.82%** compared to **4.8%** in May 2024, to a **75 month low**.
-- Food inflation - **Consumer Food Price Index (CFPI) - 0.99%**
-	- YoY retail prices of vegetables were down by 13.7%
-- **Core inflation: 4.2%**, slight increase due to **"steady demand conditions"**
-
+<b><u>Recent MOSPI Data on Inflation for June 2025</u></b>:
+- India's Headline retail inflation - **CPI - 2.10%** compared to **2.82%** in May 2025, to a **77 month low**.
+- Food inflation - **Consumer Food Price Index (CFPI) : -1.06%** yoy
+	- YoY retail prices of **vegetables** were down by 19%
+	- **Cereal inflation** softened to **3.73%** from **4.77% (May)**
+	- **Tomato, Onion and Potato prices** fell to **31.52%, 25.37%** and **26.62%** respectively.
+- **Core inflation: 4.4%**, slight increase due to **"steady demand conditions"**. It is **highest since September 2023**
+- It indicates increasing **demand** in the economy
+	- Due to increasing prices of **precious metals**. **Gold inflation** for instance rose to **58-month high** of **35.98%** in June.
+- **WPI** - **-0.13%** for June 2025 at **20 month low**
 <b><u>Inflation to decrease even further:</u></b>
 - YoY inflation was down for most of the food items except oil seeds. However, GoI reduced import duty on edible oils.
 - IMD has predicted above-normal monsoon. Though monsoon's spatial and temporal variation may effect the inflation.
@@ -684,3 +688,66 @@ Excessive salt consumption can result into - *increased risk of hypertension, st
 5. **International collaborations:** in the form of ***WIPO GRATK Treaty*** *(WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional knowledge)*, which is a big win for global south countries like India to **combat bio-piracy** based on GR & TK.
 
 ---
+### **US TARIFF REGIME AND INDIAN TRADE**
+#GS2 #GS3 #IR #Trade 
+
+<b><u>NEWS:</u></b> 
+- **NITI Aayog** released a report analyzing the implication of US Tariff on India's trade.
+
+<b><u>IMPLICATIONS OF US TARIFF REGIME ON INDIA:</u></b>
+1. **Market share expansion:** India is positioned to **gain market share** in **61%** of its trade value exports to US
+2. **Competitive advantage:** India gains **tariff edge** over China, Mexico, and Canada in key sectors like **nuclear reactors, iron and steel, textiles, electrical, and vehicles.**
+3. **Disadvantage:** average **tariff disadvantage is only 1%** where India faces slightly high tariff
+4. **Opportunities:** in sectors of **high value** ( #Eg electronics, nuclear reactors) and **labour intensive goods** ( #Eg apparel, textiles)
+
+<b><u>POLICY MEASURES TO BOOST TRADE:</u></b>
+- **For boosting Merchandise Trade:**
+	- **Enhancing export competitiveness:** expand **PLI scheme** to labor-intensive sectors, **rationalize electricity tariffs** by reducing cross-subsidisation.
+	- **Trade Facilitation and Market Access:** improve **Authorised Economic Operator (AEO) Program**, launch **targeted schemes** under **Export Promotion Mission**
+	- **Diversify Trade Partners and Agreements:** Become part of **bigger supply chains**, **India-EU FTA**, **Jan Vishwas 2.0**
+- **For boosting Service Trade:**
+	- **Negotiate Services-Focused FTA:** on lines of building on the model of **India-UK agreement**
+	- **Broaden Mutual Recognition Agreements (MRA):** to expand professional opportunities
+	- **Simplify Licensing and Regulatory Compliance:** such as inconsistent data compliance and **intellectual property** for service exports
+	- **Promote Innovation and Skill Development:** by investing in upskilling and technology #Eg *digital health, fintech, cloud computing, and ed-tech*.
+
+---
+### **GLOBAL CAPABILITY CENTRES (GCC)**
+#GS3 #Economy #Investments #Employment 
+
+<b><u>NEWS:</u></b> 
+- **Finance Minister** urged industry and government to work together to **boost to setup of GSS** and attract more *Fortune 500 companies* which are yer to establish their presence in India.
+- #Data On average, **1 new GCC per week** was setup in **2024**
+
+<b><u>Global Capability Centres (GCC):</u></b>
+- It is also known ass **global in-house centres or captives (GICs)**
+- GCCs are **offshore centres** established by the **global firms** to provide various services to their parent organisations.
+	- #Eg *IT services, R&D centres, Customer support*
+- They operate **within the internal organization structure** of the global corporate organization.
+
+<b><u>STATUS OF GCC IN INDIA:</u></b> #Data 
+- **Global Presence:** India hosts more than **1800 GCCs**, accounting for **50%** of all GCCs worldwide.
+- **Economic contribution:** The **Direct Gross Value Addition (GVA)** is **USD 68 Billion** which is expected to increase to **USD 150-200 Billion** by **2030**
+- **Employment:** GCCs employ **2 Million** people which is expected to reach **2.5-2.8 Million** by **2030**
+- **Growth rate:** at **11% CAGR** over the last 5 years, contributing **1.6% to national GDP**
+
+<b><u>MAJOR DRIVERS OF GCC DEVELOPMENT IN INDIA:</u></b>
+- Cost efficiency
+- Digital and Policy Readiness #Eg Smart Cities, Digital India
+- Talent availability - high skilled and cost-effective workforce with English proficiency
+- Large customer market
+
+<b><u>CHALLENGES IN DEVELOPMENT OF GCC:</u></b>
+- Limited availability of skilled workforce - in Tier II & Tier III cities
+- Infrastructure gaps - both physical and digital connectivity
+- Complex regulatory structures
+- Cybersecurity threats
+
+<b><u>STRATEGIC INTERVENTIONS REQUIRED:</u></b>
+- **Embrace Next-Gen Technologies:** #Eg AI, automation, cloud computing, etc.
+- **Navigate Geopolitical Complexities:** adopt **agile governance models** to respond swiftly to complex geopolitical scenarios and resulting regulatory uncertainty
+- **Redefine workforce strategies:** upskilling of talent, adoption of new-age skills and hybrid work models.
+- **Sustainability:** aligning the GCCs with **ESG goals**
+
+---
+

@@ -343,3 +343,20 @@
 - **History:** During the 1840s, Islanders were kidnapped by European traders as slaves or for forced labour in **sugarcane plantations**, later in **1853** it was **annexed by France.**
 - Presently, there is a deep division between its **indigenous** ***Kanak population*** and **Europeans** over its independence.
 ---
+### Australia
+#GS1 #GS2 #IR #Geography #PlacesInNews #Mapping 
+- **Australia** and **India** are gearing up to strengthen partnerships across vital sectors with ***2025 Maitri Grants***
+	- ***Maitri Grants:*** administered by **Centre for Australia-India Relations** supports greater exchange and collaboration in cultural, education, research purposes.
+<p align="center"><img src="https://www.worldatlas.com/upload/08/4d/54/au-01.png" alt="Australia" width="600"/></p>
+
+- **Political features:**
+	- **Maritime boundary:** 
+		- **Indian Ocean** - *West*
+		- **South Pacific Ocean** - *East*
+	- It is the **smallest continent** and the **world's sixth largest country**
+- **Geographical features:**
+	- **Highest point:** ***Mount Kosciszko*** *(The Eastern Highlands/The Great Dividing Range)*
+	- The **Great Barrier Reef** - located off the **east coast** of Queensland, is the **greatest mass of coral in the world** and is a **UNESCO WHS** since 1981
+	- **Lake Eyre** is a drying lake
+	- **Major resources:** *Gold, Iron ore, Lead, Nickel, Rutile, Uranium, Zinc,* and *Zircon*
+---

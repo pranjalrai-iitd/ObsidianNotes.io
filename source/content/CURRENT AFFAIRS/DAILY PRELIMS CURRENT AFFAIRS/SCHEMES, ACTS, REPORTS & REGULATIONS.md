@@ -1051,3 +1051,31 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- **Smaller sources:** industrial processes such as extracting metal from ore, natural sources like volcano, etc.
 	- ***India is largest emitter of SO2*** ~ 21% of global SO2 emissions
 ---
+### PMKVY
+#GS3 #Economy #Skilling #Scheme 
+- **PMKVY** completes **10 years of implementation**. It was launched in **2015** to encourage and promote skill development in India.
+- Presently, PMKVY is in its *fourth phase* - ***PMKVY 4.0*** and it has been made a *key component* of ***Central SECTOR Scheme of Skill India Programme*** along with other two components.
+	- **3 components of** ***Skill India Programmge:*** (CENTRAL **SECTOR** Scheme)
+		1. **PMKVY 4.0**
+		2. ***PM-NAPS:*** **Pradhan Mantri National Apprenticeship Promotion Scheme** which offers financial support for **apprentice stipends**
+		3. ***JSS:*** **Jan Shikshan Sansthan** which offers **vocational skills to non-literates, neo-literates and school-dropouts**
+- **Three types of training under PMKVY:**
+	1. **Short-Term Training (STT) - National Skills Qualification Framework (NSQF)** aligned courses and on-job training
+		- Eligibility age: **15-45** years
+	2. **Recognition of Prior Learning (RPL):** Industry-recognized certification of **existing skills**
+		- Eligibility age: **15-45** years
+	3. **Special Projects: Customized skill training** for marginalized groups, difficult areas and specialized or future job roles.
+		- Eligibility age: **18-59** years
+- **Design principles of PMKVY 4.0:**
+	- *Industry-Connect* and *On-the-Job Training*
+	- *Digitization of Training Ecosystem*
+	- *Focus on Entrepreneurship*
+	- *Creation of National Pool of Assessors and Trainers*
+	- *Focus on New Age Skills*
+- **Key Achievements of PMKVY:**
+	- **Improving access to skill training:** over ***1.63 crore*** youths trained since 2015
+	- **Targeted skilling:** *Bru-tribe (Tripura), prison inmates (in Assan & Manipur)* and **70% women** under the ***PANKH project**.
+	- **Social equity and inclusion:** around **40% women participation** and significant inclusion of SCs, STs, and OBCs.
+	- **Furture ready workforce:** Inclusion of **emerging technologies** like Ai, IoT, Robotics, 5G, Cybersecurity, Drones, Green hydrogen, etc.
+	- **promotion of Traditional crafts:** upskilling projects for artisans and weavers in **Nagaland** and **J&K**
+---

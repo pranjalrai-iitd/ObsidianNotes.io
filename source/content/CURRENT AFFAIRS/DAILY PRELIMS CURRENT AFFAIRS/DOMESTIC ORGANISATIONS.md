@@ -147,3 +147,19 @@
 		- Meetings of **Drugs Consultative Committee (DCC)*** and **Drugs Technical Advisory Board (DTAB)**
 			- ***Both DCC and DTAB are statutory*** under the ***Drugs and Cosmetics Act, 1950***
 ---
+### National Pharmaceutical Pricing Authority (NPPA)
+#GS3 #Economy #Pharmaceuticals #Organizations 
+- Centre fixes prices of 71 key drug formulations through the **National Pharmaceutical Pricing Authority (NPPA)**
+- **NPPA:**
+	- It is a **non-statutory** body established in 1997 through a Government of India **resolution** as an **attached office** of the ***Department of Pharmaceuticals (DoP)*** under the ***Ministry of Chemicals & Fertilizers***
+	- **Objective:** to serve as **independent regulator for pricing of drugs and to ensure availability and accessibility of medicines** at affordable prices.
+	- **Functions:** fixing and revising drug prices as per the provisions of the ***Drug Prices Control Order (DPCO)*** issued by DoP.
+---
+### Bendeinkhlam Festival
+#GS1 #ArtCulture
+- The sacred **Bendeinkhlam Festival** was celebrated in **Meghalaya**
+- The festival, means ***"driving away the plague"*** and symbolizes **spiritual cleansing** and **community resilience**
+- It is most important **dance festival** of ***Pnars (or Jaintias)*** celebrated **annually** in **July** after the **sowing period**
+- During the festival, young men make a symbolic gesture of *driving away of the evil spirit, plague and disease* by **beating the roof of every house with bamboo poles**
+- **Games** like ***Dat-Lawdor*** (football-like sport played with a **wooden ball**) and ***Iatan-Bhang*** (tug of war) are played.
+---
