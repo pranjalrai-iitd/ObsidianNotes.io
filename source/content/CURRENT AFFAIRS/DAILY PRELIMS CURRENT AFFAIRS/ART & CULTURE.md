@@ -156,3 +156,21 @@
 - During the festival, young men make a symbolic gesture of *driving away of the evil spirit, plague and disease* by **beating the roof of every house with bamboo poles**
 - **Games** like ***Dat-Lawdor*** (football-like sport played with a **wooden ball**) and ***Iatan-Bhang*** (tug of war) are played.
 ---
+### Some lesser known Satyagrahas during the Freedom Struggle
+#GS1 #History #ModernHistory #Gandhi
+- <b><u>Nagpur Flag Satyagraha:</u></b> in **1923**
+	- Hoisting of the ***Swaraj flags*** of the INC as a defiance against **British imposed-restrictions** on **civil freedom**, during the **Non-Cooperation Movement**
+	- Initiated by **Sardar Vallabhbhai Patel**
+	- Also occurred in **Jabalpur**
+	- **K. Kamrak** also participated 
+- <b><u>Sword Satyagraha:</u></b> in **1878**
+	- The **Indian Arms Act, 1878** was a British law enacted by **Lord Lytton** that restricted Indian from possessing firearms without a license, **while exempting Europeans**.
+	- Sword Satyagraha was a from of civil disobedience specifically in **Tamil Nadu**, where Indians protested against the **British Arms Act of 1878**
+	- **K. Kamrak** spearheaded the movement
+- <b><u>Neil Statue Stayagraha:</u></b> in **1927**
+	- Took place in **Madaras presidency** during **1927** demanding the removal of the statue of **Colones James Neil** situated at the *Mount Road* in Madras.
+		- **James Neil** played a major role in putting down the **Indian Rebellion of 1857**. he was killed during the **Siege of Lucknow** as was reviled as the **"Butcher of Allahabad"** by the Indians.
+	- **INC, Madras** passed a resolution against the statue
+	- **Mahatama Gandhi** also visited Madras and gave his **support to the agitation**
+	- **K. Kamrak** also participated 
+---

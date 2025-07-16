@@ -2719,6 +2719,30 @@ A(Social security)-->D(Labor market  programs);
 	- **Village Health and Nutrition Days (VHNDs):** community-level immunization and outreach
 	- **U-WIN** portal for tracking of immunization status
 ---
+### WHO/UNICEF 2024 Estimates on Immunization in India
+#GS1 #GS2 #Governance #Health #Data #Report #MainsValueAddition 
+- The data provides **immunization trends against 14 diseases**
+- **Key Findings:** #Data 
+	- **Global:** In 2024, **89%** of infants globally receive at least one dose of the **DPT** containing vaccine
+	- **India:** It reduced it number of **zero-dose children** by **43% in 2024**, from *1.6 Mn in 2023* to **0.9 Mn in 2024**
+		- **Zero-dose children** are those who have not received a single vaccine
+- <b><u>UNIVERSAL IMMUNIZATION PROGRAMME (UIP) OF INDIA:</u></b>
+	- **Genesis:** Initially launched in 1978 as the *Extended Programme on Immunization,* it was rebranded as UIP in **1985**
+	- **Coverage:** Provides **free immunization** against ***12 diseases***
+		- ***Nationwide - 9 diseases:** *Diptheria, Pertussis, Tetanus, Polio, Measles, Rubella, Childhood Tuberculosis, Hepatitis B,* and *Meningitis & Pneumonia*
+		- ***Region-specific - 3 diseases:*** 
+			- *Rotavirus dirrhoea*
+			- *Pnuemococcal Pneumonia*
+			- *Japanese Encephalitis*
+	- Under the **NRHM (National Rural Health Mission)**, the **UIP** has become a **central component** of **India'a public health efforts**
+	  Under **UIP**, a child is considered **fully immunized** after receiving **all vaccinations** as per the **national schedule** within the **first year of life**
+	- **Achievements:**
+		- *Polio free India since 2014*
+		- *Neonatal Tetanus eliminated in 2025*
+	- **Key initiatives:** 
+		- **Intensified Mission Indradhanush 5.0 (IMI 5.0)** campaign with special focus on improvement of **Measles** and **Rubella** vaccination coverage
+		- **U-WIN portal**
+---
 ### Rules to promote Agroforestry
 #GS3 #Environment #Agriculture #AgroForestry #Rules
 - Government released **model rules** for ***"Felling of Trees in Agricultural Land"*** to **promote Agroforestry**
@@ -2914,6 +2938,10 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 	- Structural vulnerabilities
 	- Limited fiscal space
 	- Delayed capital support by high-income countries to support Multilateral Development Banks
+- Only **35% global SDG targets** are on **track** or **making progress** - **UN SDG Report 2025
+- **SDR 2025** and **SDG Report 2025** are different!
+	- **Sustainable Development Report 2025** is by ***Sustainable Development Solutions Network (SDSN)***, a initiative under **UN**
+	- **Sustainable Development Goals Report 2025** is by the ***United Nations*** forwarded by the Secretary General
 ---
 ### SDG-NIF Progress Report 2025
 #GS3 #Economy #SustainableDevelopment #Report 
@@ -4505,7 +4533,7 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- Developed by **DRDO**
 	- It has **all weather day and night capability**
 	- It's range **exceeds 100 Kms** and is equipped with state of the art guidance and navigation systems
-	<p align="center"><img src="https://www.mathrubhumi.com/image/contentid/policy:1.10740966:1752298723/astra%20missile.jpg?$p=16ac0fb&f=16x10&w=852&q=0.8" alt="Astra BVRAAM" width="200"/></p>
+	<p align="center"><img src="https://www.mathrubhumi.com/image/contentid/policy:1.10740966:1752298723/astra%20missile.jpg?$p=16ac0fb&f=16x10&w=852&q=0.8" alt="Astra BVRAAM" width="200"/><br><i>Astra BVRAA Missile</i></p>
 
 ---
 ### INDIA-EFTA TEPA
@@ -4696,11 +4724,21 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 ### PMKVY
 #GS3 #Economy #Skilling #Scheme 
 - **PMKVY** completes **10 years of implementation**. It was launched in **2015** to encourage and promote skill development in India.
-- Presently, PMKVY is in its *fourth phase* - ***PMKVY 4.0*** and it has been made a *key component* of ***Central SECTOR Scheme of Skill India Programme*** along with other two components.
+- Presently, PMKVY is in its *fourth phase* - ***PMKVY 4.0*** and it has been made a *key component* of ***Central SECTOR Scheme*** of <b><u><i>Skill India Programme</i></u></b> along with other two components.
 	- **3 components of** ***Skill India Programmge:*** (CENTRAL **SECTOR** Scheme)
-		1. **PMKVY 4.0**
+		1. **PMKVY 4.0**: providing **short-duration skill training** and **skill certification** to youth
+			- **1.6 crore youths** trained across 38 sectors since 2015, with **45% being women**
 		2. ***PM-NAPS:*** **Pradhan Mantri National Apprenticeship Promotion Scheme** which offers financial support for **apprentice stipends**
+			- Provides **25% of the stipend**, up to **Rs. 1,500 per month** per apprentice through **DBT** to **both apprentice** and the **establishment**
+			- **Age group:** ***14-35***
+			- Around **2.6 lakh** apprentices have completed training in FY24
 		3. ***JSS:*** **Jan Shikshan Sansthan** which offers **vocational skills to non-literates, neo-literates and school-dropouts**
+			- Trained**2.45 lakh beneficiaries** with **298 JSS**
+		- ***Deed Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)***
+			- Part of the **NRLM** and adds diversity to income of rural poor families and cater to career aspirations of rural youth
+			- **65%** candidates have obtained gainful employment after their training
+	- It is under the **Mininstry of Skill Development and Entrepreneurship** and aimed to train **40 crore** people by 2022
+-  **NAVYA** initiative was in news and is related to PMKVY 4.0
 - **Three types of training under PMKVY:**
 	1. **Short-Term Training (STT) - National Skills Qualification Framework (NSQF)** aligned courses and on-job training
 		- Eligibility age: **15-45** years
@@ -4782,4 +4820,166 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- It is a **non-statutory** body established in 1997 through a Government of India **resolution** as an **attached office** of the ***Department of Pharmaceuticals (DoP)*** under the ***Ministry of Chemicals & Fertilizers***
 	- **Objective:** to serve as **independent regulator for pricing of drugs and to ensure availability and accessibility of medicines** at affordable prices.
 	- **Functions:** fixing and revising drug prices as per the provisions of the ***Drug Prices Control Order (DPCO)*** issued by DoP.
+---
+### ADEETIE Scheme
+#GS3 #Economy #MSMEs #Scheme 
+- **Asssitance in Deploying Energy Efficient Technologies in Industries and Establishments (ADEETIE)** scheme was launched to help **MSMEs** to ***reduce energy consumption by 30-50%, improve power-to-product ratio,*** and ***support creation of green corridors***
+- **MINISTRY:** 
+	- ***Ministry of power (MoP)***
+- **ELIGIBLE ENTERPRISES:**
+	- **MSMEs** with ***Udyam ID***
+	- Entities must **demonstrate 10% energy savings** of the implemented technologies
+- **IMPLEMENTATION:**
+	- By ***Bureau of Energy Efficiency (BEE)***
+- The scheme duration is *3 years (FY 2025-26 to FY 2027-28)* with a**budgetary outlay** of ***Rs. 1000 crore***
+- **TARGET SECTORS:**
+	- Covers **14 energy intensive** sectors like *Brass, bricks, Ceramics, Chemical, Fishery, Food Processing,* etc.
+- **IMPLEMENTATION APPROACH:** Phased roll-out
+	- First phase with **60 industrial clusters**
+	- Second phase with additional **100 clusters**
+- **SCHEME COMPONENTS:**
+	1. **Interest subvention:** on **loans**
+		- **5%** for **Micro** and **Small** Enterprises
+		- **3%** for **Medium** Enterprises
+	2. **Streamlined project implementation:** support for **investment grade energy audits** and preparation of **Detailed Project Reports**, etc.
+	3. **Support provided:** for *technical hand-holding, financial incentives, assistance in conducting investment grade energy audits,* etc.
+- **Other initiatives for promoting energy efficiency in MSMEs by** ***BEE:***
+	- ***BEE-SME* Program:** Enhance energy efficiency in MSMEs
+	- ***National Programme on Energy Efficiency and Technology Upgradation of MSMEs***
+	- ***SIDHIEE portal* (Simplified Digital Hands-on Information on Energy Efficiency in MSMEs)**
+---
+### Supreme Court Directions on DNA Evidences
+#GS2 #Polity #Judiciary #FundamentalRights 
+- While pronouncing judgement in a criminal appeal, the Supreme Court of India issued **Directions in handling of DNA evidences** to ensure **uniformity in procedures and sensitivity** which aid the sanctity of the evidence
+- **Issues with management of DNA Evidences in India:**
+	- **Collection and preservation:** Inadequate training of the investigating personnel, breakdown of **chain of custody**, etc.
+	- **Limited forensic capacity:** Shortage of DNA labs and regional disparity, delays in analysis due to under-staffing, etc.
+	- **Lack of uniform SOPs:** because **"Police"** and **"Public Order"** are subjects mentioned in **State List** of the seventh schedule of the constitution.
+- **Highlights of the Supreme Court Direction:**
+	- **Collection of DNA samples:**
+		- **Proper documentation** of the collected DNA samples with details of **section** and **statue** involved, details of **Police station**, etc.
+	- **Transportation:**
+		- **Investigating officer** to **ensure** **samples reach** the **Forensic lab** in any case ***not later than 48-hours*** from the **time of collection**
+	- **Chain of custody register:** to be maintained right from the **point of collection** to the **logical end**, i.e, **conviction or acquittal** of the accused, to record **each and every movement of the evidence**
+- **Admissibility of DNA Evidence in Courts in India:
+	- ***Kunhiraman Vs. Maoj Case (1991):*** **DNA technology** was deployed for the first time to adjudicate a **paternity test**
+	- ***Sharda vs. Dharmapal Case (2003):*** Supreme court **approved** the **application of DNA technology** in **civil** and **matrimonial disputes**
+		- Court held that application of DNA technology would **not be in violation** of the **Article 21** *(Right to Personal Liberty)* or **Article 20(3)** *(Right against self-incrimination)*
+	- ***Bharatiya Nagarik Suraksha Sanhita, 2023:*** the **Section 51** allows medical inspection of apprehended individuals, including DNA profiling and any other tests that registered medical practitioner deems necessary
+	- ***Criminal Procedure (Identification) Act, 2022:*** Empowers the **NCRB** and **other competent authority** to collect and store measurements, including **biological samples** of convicts.
+---
+### Gravitational Wave Detection Network
+#GS3 #SciTech #Space 
+- Biggest ever **merger** of two black holes was detected by the **Gravitational Wave Detection Network**
+- **GRAVITATIONAL WAVE DETECTION NETWORK:**
+	- **Laser Interferometer Gravitational-wave Observatory-** ***LIGO:*** wholly supported by **UN National Science Foundation (NSF)**
+		- Currently **LIGO** has **two detectors** in
+			1. *Hanford,* **Washington**
+			2. *Livingstone,* **Louisiana**
+		- **LIGO-India** is to be developed in ***Hingoli, Maharashtra*** in collaboration with **NSF**
+	- **VIRGO** in **Pisa, Italy:** hosted by the **European Gravitational Observatory (EGO)**, a collaboration of **Italy** and **France**
+	- **KAGRA, Japan:** Located inside the **Kamioka mine** and is **underground**
+---
+### Some lesser known Satyagrahas during the Freedom Struggle
+#GS1 #History #ModernHistory #Gandhi
+- <b><u>Nagpur Flag Satyagraha:</u></b> in **1923**
+	- Hoisting of the ***Swaraj flags*** of the INC as a defiance against **British imposed-restrictions** on **civil freedom**, during the **Non-Cooperation Movement**
+	- Initiated by **Sardar Vallabhbhai Patel**
+	- Also occurred in **Jabalpur**
+	- **K. Kamrak** also participated 
+- <b><u>Sword Satyagraha:</u></b> in **1878**
+	- The **Indian Arms Act, 1878** was a British law enacted by **Lord Lytton** that restricted Indian from possessing firearms without a license, **while exempting Europeans**.
+	- Sword Satyagraha was a from of civil disobedience specifically in **Tamil Nadu**, where Indians protested against the **British Arms Act of 1878**
+	- **K. Kamrak** spearheaded the movement
+- <b><u>Neil Statue Stayagraha:</u></b> in **1927**
+	- Took place in **Madaras presidency** during **1927** demanding the removal of the statue of **Colones James Neil** situated at the *Mount Road* in Madras.
+		- **James Neil** played a major role in putting down the **Indian Rebellion of 1857**. he was killed during the **Siege of Lucknow** as was reviled as the **"Butcher of Allahabad"** by the Indians.
+	- **INC, Madras** passed a resolution against the statue
+	- **Mahatama Gandhi** also visited Madras and gave his **support to the agitation**
+	- **K. Kamrak** also participated 
+---
+### CAFE Norms
+#GS3 #Environment #AirPollution 
+- Several automobile manufacturers are advocating for less stringent emission limits that those prescribed under **CAFE-III norms**
+- CAFE Norms stands for **Corporate Average Fuel Efficiency Norms**.
+- CAFE norms were first notified in **2017** under the ***Energy Conservation Act, 2001***
+- **Objective:** to mitigate **fuel consumption** by **lowering CO2 emissions**, aiming to reduce **oil dependency** and **air pollution**
+- It is estimated by **average of the standard fuel consumption of all vehicles sold each year**
+- **Applicability:**
+	- For **petrol, diesel, LPG, CNG, Hybrid** and **Electric passenger vehicles** with **Gross Vehicle Weight (GVW) < 3,500 Kgs**
+- **CAFE-III norms** have been notified for the **5 year period** during **2027-2032**
+---
+### BIMSTEC
+#GS2 #IR #InternationalGroupings 
+- **2nd edition** of the **BIMSTEC Ports Conclave** was inaugurated by the **Union Minister of Ports, Shipping & Waterwayd (MoPSW)**
+- **BIMSTEC:**
+	- *Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation*
+	- It was established in **1997** with the signing of the ***Bangkok Declaration***
+	- **Members:** BBIN-SMT
+		- Bhutan, Bangladesh, India, Nepal and Sri Lanaka, Myanmar, and Thaliand
+			- *Myanmar* and *Thailand* are two ***ASEAN*** countries in *BIMSTEC*
+	- **Secretariat:** ***Dhaka, Bangladesh***
+---
+### Protection of Civil Rights Act, 1955
+#GS2 #Polity #FundamentalRights #VulnerableSections 
+- Union government's **2022 Annual Report** shows the number of **criminal cases registered under the PCR, 1955 Act** ***declined***
+- **PCR Act, 1955:**
+	- Previously known as ***Untouchability (Offences) Act, 1955,*** it was **renamed** as the ***Protection of Civil Rights Act, 1955** through an **amendment in 1976**
+	- **Objective:** to prescribe **punishment** for the preaching and practice of untouchability
+	- It **defines** various **manifestations of untouchability,** including in social and religious spheres, and prescribes penalties.
+	- It **mandated annual review report** with inputs from States and UTs, covering aspects such as case registration, pendency in police and courts, among others.
+---
+### Radiation Monitoring System (RMS)
+#GS3 #InternalSecurity #Defence 
+- **DRDO** handed over **6 indigenous RMS** to the **Indian Navy**. These include:
+	- ***Gamma Radiation Aerial Surveillance System***
+	- ***Environmental Surveillance Vehicle**
+	- ***Vehicle Contamination Monitoring System***, etc.
+- **RMS:**
+	- It measures **radiation fields** in the vicinity of a **radiation source, measurement of surface contamination**, and **airborne radioactivity**
+	- **Instruments involved:**
+		- **Radiation survey meters** also called **Geiger counters** or **Geiger-Mueller meters**
+		- **Newer, portable and compact radiation monitor** with digital readouts and alarm system measures alpha, beta, and/or gamma radiation.
+---
+### LCA Mark-1A
+#GS3 #InternalSecurity #Defence 
+- India received the **second** ***GE-F404*** engine from the USA for the **LCA Mark-1A** fighter jet programme.
+<p align="center"><img src="https://th-i.thgim.com/public/incoming/1kt70r/article69816272.ece/alternates/LANDSCAPE_1200/_DSC3525.JPG" alt="LCA Mark-1A" width="300"/><br><i>LCA Tejas Mark-1A</i></p>
+
+- **Light Combat Aircraft (LCA) Mark-1A:**
+	- It is the **most advanced version of LCA Tejas**
+		- **LCA Tejas** is a **4.5 generation,** all weather and multi-role fighter aircraft capable of offensive air support, close combat, ground attack and Ground Maritime Operations
+	- It is equipped with **AESA Radar, EW suite** consisting of **radar warning** and **self projection jamming**, **Digital map Generator (DMG)** and **smart multi-function displays (SMFD),** etc.
+---
+### PM Professorships
+#GS2 #Govenance #Education #HigherEducation #Scheme 
+- **Anusandhan National Research Foundation (ANRF)** announced the **Prime Minister Professorships**
+- **Objective:** Leveraging expertise of **active, eminent** and **superannuated/retired** scientists in **Engineering, Science** and **Technology**
+- **Eligibility:** 
+	- **Retired scientists** including **overseas scientists**
+	- **Non-Resident Indians**
+	- **Persons of Indian Origin**
+	- **Overseas Citizens of India**
+		- **Eligible host institutions** are **state universities** which have been qualified as **spoke institutions** in ***Category-A*** of **Partnerships for Accelerated Innovation and Research** <b>(<u><i>PAIR</i></u>)</b> **initiative of** ***ANRF***
+- **Funding support:** Annual fellowships of **Rs. 30 Lakhs,** along with **Rs. 24 Lakhs** as a **research grants** and **overhead of Rs. 1 Lakh**.
+- **Duration:** 5 years
+---
+### Cabo Delgado
+#GS1 #Geography #PlacesInNews #Mapping 
+- Study finds that **four Liquefied Natural Gas (LNG)** projects in **Cabo Delgado** regions of **Mozambique** could sue at least **17% of world's remaining carbon budget**
+- **Cabo Delgado** has been the site of **insurgency** since **2017**
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*EYgWDuG6deL-3fPUX62ryw.png" alt="Cabo Delgado" width="500"/></p>
+
+- It is the **northernmost province** of **Mozambique**.
+	- It lies on the **Eastern coast of Africa** on the **Indian Ocean**
+	- **Cabo Delgado** borders **Tanzania**
+	- The ***Rovuma river*** forms the **border with Tanzania** in the North
+	- **Countries bordering Mozambique:**
+		- *South Africa, Eswatini, Zimbabwe, Zambia, Malawi,* and *Tanzania*
+- **Population:** ***Women*** forms **51%** of the population
+- **Cultural composition:**
+	- ***Makonde ethnic group*** having natural talent for **wood** and **ivory** carving
+- Houses the ***Quirimba Archipelago*** and ***Quirimbas National Park*** which was centre for slave trafficking in the past.
+<p align="center"><img src="Quirimba.png" alt="Quirimba Archipelago" width="600"/></p>
+
 ---

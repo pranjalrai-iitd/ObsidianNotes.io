@@ -214,7 +214,7 @@
 	- Developed by **DRDO**
 	- It has **all weather day and night capability**
 	- It's range **exceeds 100 Kms** and is equipped with state of the art guidance and navigation systems
-	<p align="center"><img src="https://www.mathrubhumi.com/image/contentid/policy:1.10740966:1752298723/astra%20missile.jpg?$p=16ac0fb&f=16x10&w=852&q=0.8" alt="Astra BVRAAM" width="200"/></p>
+	<p align="center"><img src="https://www.mathrubhumi.com/image/contentid/policy:1.10740966:1752298723/astra%20missile.jpg?$p=16ac0fb&f=16x10&w=852&q=0.8" alt="Astra BVRAAM" width="200"/><br><i>Astra BVRAA Missile</i></p>
 
 ---
 ### Talisman Sabre Exercise
@@ -224,4 +224,26 @@
 - **Major participants:** ***USA, Canada, France, UK, Germany, India, Indonesia, japan, New Zealand, Norway*** etc.
 	- **Observers:** *Malaysia* and *Vietnam*
 - It involves live-fire exercises, field training activities, amphibious landing, ground force manoeuvres and air combat and maritime operations.
+---
+### Radiation Monitoring System (RMS)
+#GS3 #InternalSecurity #Defence 
+- **DRDO** handed over **6 indigenous RMS** to the **Indian Navy**. These include:
+	- ***Gamma Radiation Aerial Surveillance System***
+	- ***Environmental Surveillance Vehicle**
+	- ***Vehicle Contamination Monitoring System***, etc.
+- **RMS:**
+	- It measures **radiation fields** in the vicinity of a **radiation source, measurement of surface contamination**, and **airborne radioactivity**
+	- **Instruments involved:**
+		- **Radiation survey meters** also called **Geiger counters** or **Geiger-Mueller meters**
+		- **Newer, portable and compact radiation monitor** with digital readouts and alarm system measures alpha, beta, and/or gamma radiation.
+---
+### LCA Mark-1A
+#GS3 #InternalSecurity #Defence 
+- India received the **second** ***GE-F404*** engine from the USA for the **LCA Mark-1A** fighter jet programme.
+<p align="center"><img src="https://th-i.thgim.com/public/incoming/1kt70r/article69816272.ece/alternates/LANDSCAPE_1200/_DSC3525.JPG" alt="LCA Mark-1A" width="300"/><br><i>LCA Tejas Mark-1A</i></p>
+
+- **Light Combat Aircraft (LCA) Mark-1A:**
+	- It is the **most advanced version of LCA Tejas**
+		- **LCA Tejas** is a **4.5 generation,** all weather and multi-role fighter aircraft capable of offensive air support, close combat, ground attack and Ground Maritime Operations
+	- It is equipped with **AESA Radar, EW suite** consisting of **radar warning** and **self projection jamming**, **Digital map Generator (DMG)** and **smart multi-function displays (SMFD),** etc.
 ---

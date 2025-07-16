@@ -146,3 +146,23 @@
 	- **Structure:** 
 		- **Not more than** ***34 members*** (in general), of which ***4 (maximum)*** can be **nominated** by the **Governor**.
 ---
+### Supreme Court Directions on DNA Evidences
+#GS2 #Polity #Judiciary #FundamentalRights 
+- While pronouncing judgement in a criminal appeal, the Supreme Court of India issued **Directions in handling of DNA evidences** to ensure **uniformity in procedures and sensitivity** which aid the sanctity of the evidence
+- **Issues with management of DNA Evidences in India:**
+	- **Collection and preservation:** Inadequate training of the investigating personnel, breakdown of **chain of custody**, etc.
+	- **Limited forensic capacity:** Shortage of DNA labs and regional disparity, delays in analysis due to under-staffing, etc.
+	- **Lack of uniform SOPs:** because **"Police"** and **"Public Order"** are subjects mentioned in **State List** of the seventh schedule of the constitution.
+- **Highlights of the Supreme Court Direction:**
+	- **Collection of DNA samples:**
+		- **Proper documentation** of the collected DNA samples with details of **section** and **statue** involved, details of **Police station**, etc.
+	- **Transportation:**
+		- **Investigating officer** to **ensure** **samples reach** the **Forensic lab** in any case ***not later than 48-hours*** from the **time of collection**
+	- **Chain of custody register:** to be maintained right from the **point of collection** to the **logical end**, i.e, **conviction or acquittal** of the accused, to record **each and every movement of the evidence**
+- **Admissibility of DNA Evidence in Courts in India:
+	- ***Kunhiraman Vs. Maoj Case (1991):*** **DNA technology** was deployed for the first time to adjudicate a **paternity test**
+	- ***Sharda vs. Dharmapal Case (2003):*** Supreme court **approved** the **application of DNA technology** in **civil** and **matrimonial disputes**
+		- Court held that application of DNA technology would **not be in violation** of the **Article 21** *(Right to Personal Liberty)* or **Article 20(3)** *(Right against self-incrimination)*
+	- ***Bharatiya Nagarik Suraksha Sanhita, 2023:*** the **Section 51** allows medical inspection of apprehended individuals, including DNA profiling and any other tests that registered medical practitioner deems necessary
+	- ***Criminal Procedure (Identification) Act, 2022:*** Empowers the **NCRB** and **other competent authority** to collect and store measurements, including **biological samples** of convicts.
+---

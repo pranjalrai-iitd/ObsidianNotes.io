@@ -361,3 +361,15 @@
 	- ***"Community-Led Salt Reduction"*** by ICMR
 	- Social media campaign using hashtag ***#PinchForAchange***
 ---
+### Gravitational Wave Detection Network
+#GS3 #SciTech #Space 
+- Biggest ever **merger** of two black holes was detected by the **Gravitational Wave Detection Network**
+- **GRAVITATIONAL WAVE DETECTION NETWORK:**
+	- **Laser Interferometer Gravitational-wave Observatory-** ***LIGO:*** wholly supported by **UN National Science Foundation (NSF)**
+		- Currently **LIGO** has **two detectors** in
+			1. *Hanford,* **Washington**
+			2. *Livingstone,* **Louisiana**
+		- **LIGO-India** is to be developed in ***Hingoli, Maharashtra*** in collaboration with **NSF**
+	- **VIRGO** in **Pisa, Italy:** hosted by the **European Gravitational Observatory (EGO)**, a collaboration of **Italy** and **France**
+	- **KAGRA, Japan:** Located inside the **Kamioka mine** and is **underground**
+---

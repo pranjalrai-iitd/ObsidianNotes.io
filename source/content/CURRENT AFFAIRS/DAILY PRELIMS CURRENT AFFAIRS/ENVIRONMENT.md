@@ -477,3 +477,14 @@
 	- **Foreign Direct Investment (FDI) Policy:** 100% FDI permitted under automatic route in renewable sector
 	- **Viability Gap Funding (VGF):** VGF scheme for implementation of offshore wind energy projects
 ---
+### CAFE Norms
+#GS3 #Environment #AirPollution 
+- Several automobile manufacturers are advocating for less stringent emission limits that those prescribed under **CAFE-III norms**
+- CAFE Norms stands for **Corporate Average Fuel Efficiency Norms**.
+- CAFE norms were first notified in **2017** under the ***Energy Conservation Act, 2001***
+- **Objective:** to mitigate **fuel consumption** by **lowering CO2 emissions**, aiming to reduce **oil dependency** and **air pollution**
+- It is estimated by **average of the standard fuel consumption of all vehicles sold each year**
+- **Applicability:**
+	- For **petrol, diesel, LPG, CNG, Hybrid** and **Electric passenger vehicles** with **Gross Vehicle Weight (GVW) < 3,500 Kgs**
+- **CAFE-III norms** have been notified for the **5 year period** during **2027-2032**
+---

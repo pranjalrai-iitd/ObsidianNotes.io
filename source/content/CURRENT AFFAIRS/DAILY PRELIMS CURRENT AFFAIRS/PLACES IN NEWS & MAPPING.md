@@ -360,3 +360,22 @@
 	- **Lake Eyre** is a drying lake
 	- **Major resources:** *Gold, Iron ore, Lead, Nickel, Rutile, Uranium, Zinc,* and *Zircon*
 ---
+### Cabo Delgado
+#GS1 #Geography #PlacesInNews #Mapping 
+- Study finds that **four Liquefied Natural Gas (LNG)** projects in **Cabo Delgado** regions of **Mozambique** could sue at least **17% of world's remaining carbon budget**
+- **Cabo Delgado** has been the site of **insurgency** since **2017**
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*EYgWDuG6deL-3fPUX62ryw.png" alt="Cabo Delgado" width="500"/></p>
+
+- It is the **northernmost province** of **Mozambique**.
+	- It lies on the **Eastern coast of Africa** on the **Indian Ocean**
+	- **Cabo Delgado** borders **Tanzania**
+	- The ***Rovuma river*** forms the **border with Tanzania** in the North
+	- **Countries bordering Mozambique:**
+		- *South Africa, Eswatini, Zimbabwe, Zambia, Malawi,* and *Tanzania*
+- **Population:** ***Women*** forms **51%** of the population
+- **Cultural composition:**
+	- ***Makonde ethnic group*** having natural talent for **wood** and **ivory** carving
+- Houses the ***Quirimba Archipelago*** and ***Quirimbas National Park*** which was centre for slave trafficking in the past.
+<p align="center"><img src="Quirimba.png" alt="Quirimba Archipelago" width="600"/></p>
+
+---

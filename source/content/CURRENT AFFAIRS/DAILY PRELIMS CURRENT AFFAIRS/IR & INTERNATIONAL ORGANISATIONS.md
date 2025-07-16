@@ -416,3 +416,14 @@
 	- It has *17 members*
 	- It is **administered** by ***AI Alliance Russia***
 ---
+### BIMSTEC
+#GS2 #IR #InternationalGroupings 
+- **2nd edition** of the **BIMSTEC Ports Conclave** was inaugurated by the **Union Minister of Ports, Shipping & Waterwayd (MoPSW)**
+- **BIMSTEC:**
+	- *Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation*
+	- It was established in **1997** with the signing of the ***Bangkok Declaration***
+	- **Members:** BBIN-SMT
+		- Bhutan, Bangladesh, India, Nepal and Sri Lanaka, Myanmar, and Thaliand
+			- *Myanmar* and *Thailand* are two ***ASEAN*** countries in *BIMSTEC*
+	- **Secretariat:** ***Dhaka, Bangladesh***
+---

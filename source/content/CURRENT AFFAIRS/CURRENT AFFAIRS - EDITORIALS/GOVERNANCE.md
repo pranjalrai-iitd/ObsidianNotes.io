@@ -144,6 +144,7 @@
 <b><u>ACHIEVEMENTS OF INDIA:</u></b>
 - **Decline in *"zero-dose children"*:** Reduced from *0.11% (2023)* to <b><u>0.06%</u> (2024)</b> of total population
 	- "<b><u><i>Zero-dose children</i></u></b>" are those who did not receive their first dose on **DPT** *(Diptheria-Tetanus-Pertussis)* vaccine
+	- #Data As per ***WHO/UNICEF Report*** the number of **zero-dose children** reduced by **43% in 2024**, from *1.6 Mn in 2023* to **0.9 Mn in 2024
 - **Polio-Free Status:** maintained since *2014* through **National Immunization Days**
 - **Reduction in mortality indicators:**
 

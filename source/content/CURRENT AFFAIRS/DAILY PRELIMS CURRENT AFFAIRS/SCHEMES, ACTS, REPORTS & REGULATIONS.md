@@ -175,6 +175,10 @@
 	- Structural vulnerabilities
 	- Limited fiscal space
 	- Delayed capital support by high-income countries to support Multilateral Development Banks
+- Only **35% global SDG targets** are on **track** or **making progress** - **UN SDG Report 2025
+- **SDR 2025** and **SDG Report 2025** are different!
+	- **Sustainable Development Report 2025** is by ***Sustainable Development Solutions Network (SDSN)***, a initiative under **UN**
+	- **Sustainable Development Goals Report 2025** is by the ***United Nations*** forwarded by the Secretary General
 ---
 ### NAVYA Initiative
 #GS3 #Economy #Skilling #Scheme 
@@ -406,6 +410,30 @@
 	- **Mission Indradhanush:** vaccinated **5.5 crore children** and **1.32 crore pregnant women** in 2017
 	- **Village Health and Nutrition Days (VHNDs):** community-level immunization and outreach
 	- **U-WIN** portal for tracking of immunization status
+---
+### WHO/UNICEF 2024 Estimates on Immunization in India
+#GS1 #GS2 #Governance #Health #Data #Report #MainsValueAddition 
+- The data provides **immunization trends against 14 diseases**
+- **Key Findings:** #Data 
+	- **Global:** In 2024, **89%** of infants globally receive at least one dose of the **DPT** containing vaccine
+	- **India:** It reduced it number of **zero-dose children** by **43% in 2024**, from *1.6 Mn in 2023* to **0.9 Mn in 2024**
+		- **Zero-dose children** are those who have not received a single vaccine
+- <b><u>UNIVERSAL IMMUNIZATION PROGRAMME (UIP) OF INDIA:</u></b>
+	- **Genesis:** Initially launched in 1978 as the *Extended Programme on Immunization,* it was rebranded as UIP in **1985**
+	- **Coverage:** Provides **free immunization** against ***12 diseases***
+		- ***Nationwide - 9 diseases:** *Diptheria, Pertussis, Tetanus, Polio, Measles, Rubella, Childhood Tuberculosis, Hepatitis B,* and *Meningitis & Pneumonia*
+		- ***Region-specific - 3 diseases:*** 
+			- *Rotavirus dirrhoea*
+			- *Pnuemococcal Pneumonia*
+			- *Japanese Encephalitis*
+	- Under the **NRHM (National Rural Health Mission)**, the **UIP** has become a **central component** of **India'a public health efforts**
+	  Under **UIP**, a child is considered **fully immunized** after receiving **all vaccinations** as per the **national schedule** within the **first year of life**
+	- **Achievements:**
+		- *Polio free India since 2014*
+		- *Neonatal Tetanus eliminated in 2025*
+	- **Key initiatives:** 
+		- **Intensified Mission Indradhanush 5.0 (IMI 5.0)** campaign with special focus on improvement of **Measles** and **Rubella** vaccination coverage
+		- **U-WIN portal**
 ---
 ### RBI's Financial Stability Report (FSR)
 #GS3 #Economy #RBI #Data #Report #MainsValueAddition 
@@ -1054,11 +1082,21 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 ### PMKVY
 #GS3 #Economy #Skilling #Scheme 
 - **PMKVY** completes **10 years of implementation**. It was launched in **2015** to encourage and promote skill development in India.
-- Presently, PMKVY is in its *fourth phase* - ***PMKVY 4.0*** and it has been made a *key component* of ***Central SECTOR Scheme of Skill India Programme*** along with other two components.
+- Presently, PMKVY is in its *fourth phase* - ***PMKVY 4.0*** and it has been made a *key component* of ***Central SECTOR Scheme*** of <b><u><i>Skill India Programme</i></u></b> along with other two components.
 	- **3 components of** ***Skill India Programmge:*** (CENTRAL **SECTOR** Scheme)
-		1. **PMKVY 4.0**
+		1. **PMKVY 4.0**: providing **short-duration skill training** and **skill certification** to youth
+			- **1.6 crore youths** trained across 38 sectors since 2015, with **45% being women**
 		2. ***PM-NAPS:*** **Pradhan Mantri National Apprenticeship Promotion Scheme** which offers financial support for **apprentice stipends**
+			- Provides **25% of the stipend**, up to **Rs. 1,500 per month** per apprentice through **DBT** to **both apprentice** and the **establishment**
+			- **Age group:** ***14-35***
+			- Around **2.6 lakh** apprentices have completed training in FY24
 		3. ***JSS:*** **Jan Shikshan Sansthan** which offers **vocational skills to non-literates, neo-literates and school-dropouts**
+			- Trained**2.45 lakh beneficiaries** with **298 JSS**
+		- ***Deed Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)***
+			- Part of the **NRLM** and adds diversity to income of rural poor families and cater to career aspirations of rural youth
+			- **65%** candidates have obtained gainful employment after their training
+	- It is under the **Mininstry of Skill Development and Entrepreneurship** and aimed to train **40 crore** people by 2022
+- **NAVYA** initiative was in news and is related to PMKVY 4.0
 - **Three types of training under PMKVY:**
 	1. **Short-Term Training (STT) - National Skills Qualification Framework (NSQF)** aligned courses and on-job training
 		- Eligibility age: **15-45** years
@@ -1078,4 +1116,53 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- **Social equity and inclusion:** around **40% women participation** and significant inclusion of SCs, STs, and OBCs.
 	- **Furture ready workforce:** Inclusion of **emerging technologies** like Ai, IoT, Robotics, 5G, Cybersecurity, Drones, Green hydrogen, etc.
 	- **promotion of Traditional crafts:** upskilling projects for artisans and weavers in **Nagaland** and **J&K**
+---
+### ADEETIE Scheme
+#GS3 #Economy #MSMEs #Scheme 
+- **Asssitance in Deploying Energy Efficient Technologies in Industries and Establishments (ADEETIE)** scheme was launched to help **MSMEs** to ***reduce energy consumption by 30-50%, improve power-to-product ratio,*** and ***support creation of green corridors***
+- **MINISTRY:** 
+	- ***Ministry of power (MoP)***
+- **ELIGIBLE ENTERPRISES:**
+	- **MSMEs** with ***Udyam ID***
+	- Entities must **demonstrate 10% energy savings** of the implemented technologies
+- **IMPLEMENTATION:**
+	- By ***Bureau of Energy Efficiency (BEE)***
+- The scheme duration is *3 years (FY 2025-26 to FY 2027-28)* with a**budgetary outlay** of ***Rs. 1000 crore***
+- **TARGET SECTORS:**
+	- Covers **14 energy intensive** sectors like *Brass, bricks, Ceramics, Chemical, Fishery, Food Processing,* etc.
+- **IMPLEMENTATION APPROACH:** Phased roll-out
+	- First phase with **60 industrial clusters**
+	- Second phase with additional **100 clusters**
+- **SCHEME COMPONENTS:**
+	1. **Interest subvention:** on **loans**
+		- **5%** for **Micro** and **Small** Enterprises
+		- **3%** for **Medium** Enterprises
+	2. **Streamlined project implementation:** support for **investment grade energy audits** and preparation of **Detailed Project Reports**, etc.
+	3. **Support provided:** for *technical hand-holding, financial incentives, assistance in conducting investment grade energy audits,* etc.
+- **Other initiatives for promoting energy efficiency in MSMEs by** ***BEE:***
+	- ***BEE-SME* Program:** Enhance energy efficiency in MSMEs
+	- ***National Programme on Energy Efficiency and Technology Upgradation of MSMEs***
+	- ***SIDHIEE portal* (Simplified Digital Hands-on Information on Energy Efficiency in MSMEs)**
+---
+### Protection of Civil Rights Act, 1955
+#GS2 #Polity #FundamentalRights #VulnerableSections 
+- Union government's **2022 Annual Report** shows the number of **criminal cases registered under the PCR, 1955 Act** ***declined***
+- **PCR Act, 1955:**
+	- Previously known as ***Untouchability (Offences) Act, 1955,*** it was **renamed** as the ***Protection of Civil Rights Act, 1955** through an **amendment in 1976**
+	- **Objective:** to prescribe **punishment** for the preaching and practice of untouchability
+	- It **defines** various **manifestations of untouchability,** including in social and religious spheres, and prescribes penalties.
+	- It **mandated annual review report** with inputs from States and UTs, covering aspects such as case registration, pendency in police and courts, among others.
+---
+### PM Professorships
+#GS2 #Govenance #Education #HigherEducation #Scheme 
+- **Anusandhan National Research Foundation (ANRF)** announced the **Prime Minister Professorships**
+- **Objective:** Leveraging expertise of **active, eminent** and **superannuated/retired** scientists in **Engineering, Science** and **Technology**
+- **Eligibility:** 
+	- **Retired scientists** including **overseas scientists**
+	- **Non-Resident Indians**
+	- **Persons of Indian Origin**
+	- **Overseas Citizens of India**
+		- **Eligible host institutions** are **state universities** which have been qualified as **spoke institutions** in ***Category-A*** of **Partnerships for Accelerated Innovation and Research** <b>(<u><i>PAIR</i></u>)</b> **initiative of** ***ANRF***
+- **Funding support:** Annual fellowships of **Rs. 30 Lakhs,** along with **Rs. 24 Lakhs** as a **research grants** and **overhead of Rs. 1 Lakh**.
+- **Duration:** 5 years
 ---
