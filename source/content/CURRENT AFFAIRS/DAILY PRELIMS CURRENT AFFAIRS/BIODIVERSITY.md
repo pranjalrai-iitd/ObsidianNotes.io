@@ -97,3 +97,18 @@
 | **Conservation status:** | - **IUCN:** CR<br>- **WPA:** Schedule I<br>- **CITES:** Appendix I                                                                                                       | - **IUCN:** Vulnerable<br>- **WPA:** Schedule I<br>- **CITES:** Appendix I                                                                                                                                                                                                     |
 
 ---
+### Project Cheetah and Relocation
+#GS3 #Environment #Biodiversity 
+- **Cheetahs** were introduced at the ***Kuno National Park*** in **Madhya Pradesh** from **Namibia** and **South Africa**
+	- **Project Cheetah** was launched in **2022** for the **translocation**
+		- It was **first inter-continental reintroduction** of a wild, large carnivore species
+		- **NTCA** is the **implementing agency** of the **Project Cheetah**
+			- ***Cheetah Project Steering Committee*** was established by **NTCA** to oversee, evaluate and advise on implementation of the Project Cheetah
+- They were further relocated to ***Gandhi Sagar Sanctuary*** of **Madhya Pradesh**
+- Now the **Gujarat forest department** is preparing for Cheetah relocation to **Banni Grasslands** by **increasing the prey base** in the region
+- **Banni Grasslands:**
+	- Located in the **Kutch** district of Gujarat
+	- Unique **salt-tolerant grassland** ecosystem
+	- **Asia's largest tropical grassland** which has emerged from the sea due to tectonic activity
+	- Inhabited by various **pastoral communities** such as ***Maldharis, Rabaris, Mutwas*** and ***Meghwals***
+---

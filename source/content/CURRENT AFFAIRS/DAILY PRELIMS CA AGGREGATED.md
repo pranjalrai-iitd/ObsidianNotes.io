@@ -4983,3 +4983,153 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 <p align="center"><img src="Quirimba.png" alt="Quirimba Archipelago" width="600"/></p>
 
 ---
+### PM Dhan-Dhaanya Krishi Yojana (PMDDKY)
+#GS3 #Agriculture #Scheme 
+- Cabinet approved **PMDDKY** scheme, which was announced in the **Budget**
+- It takes inspiration from **NITI Aayog's Aspirational District Programme (ADP)**
+- **Features:**
+	- **Duration:** ***6 years***
+	- **Coverage:** Targets ***100 districts***
+	- **Sectors of focus:** exclusively designed to **enhance agricultural** and **allied sectors** in **under-performing districts**
+- **Implementation strategy:**
+	- **Convergence:** Around *36 existing schemes* across *11 departments,* other *state schemes* and *local partnerships* with *private sector*
+	- **Identification of Districts:** is based on
+		- ***Low productivity***
+		- ***Low cropping intensity***
+		- ***Less credit disbursement***
+	- The **number of districts in each state/UT** will be based on the **share of** ***Net Cropped Area*** and ***Operational holdings***
+		- A ***minimum 1*** district will be selected from each state
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/1ps0iJ4i4yWydQ4u64g3b2jp0k96BRZXDCvyNXIp.jpg" alt="PMDDKY" width="650"/></p>
+
+- **Governance and Monitoring of PMDDKY:**
+	- **Committees** will be formed at **district, state** and **national** level for effective *planning, implementation and monitoring*
+	- **Each district** will have a **dedicated plan** developed by the ***District Dhan-Dhaanya Samiti*** which will **include** ***progressive farmers***
+		- The **District Plans** will align with national goals of *crop-diversification, water and soil conservation, self-sufficiency* in agriculture, and the expansion of *natural & organic farming*
+	- **Progress** of the scheme in each *Dhan-Dhaanya District* will be monitored on ***117 KPIs*** and **NITI Aayog** will **review and guide** the district plans
+---
+### UGS's Setting up and Operation of Campuses of Foreign Higher Educational Institutions in India Regulations 2023
+#GS2 #Governance #Education #HigherEducation #Scheme 
+- **University of Southampton** became **first global university** to open campus in India under the **new UGC rules**
+- **Indian campuses of Foreign universities:**
+	1. **Australia's** ***Deakin*** University at **GIFT city** ***(NOT UGC rules)*** - **IFSCA approved**
+	2. **Australia's** ***Wollongong*** University at **GIFT city** ***(NOT UGC rules)*** - **IFSCA approved**
+	3. **UK's** ***Southampton*** University at **Gurugram** under ***new UGC rules***
+- **UGC's (Setting up and Operation of Campuses of Foreign Higher Educational Institutions in India) Regulations 2023:**
+	- **Objective:** to facilitate the entry of Foreign Higher Educational Institutions in India, in line with the **National Education Policy 2020**
+	- **Eligibility:** 
+		- Top ***500 global universities*** in **overall** or **subject-wise** rankings  ***(OR)***
+		- Possess **outstanding expertise** in a **particular area**
+	- **Does NOT allow online or distance learning:** However, **lectures in online mode** ***not exceeding 10% of the programme requirements*** are allowed
+
+| **BENEFITS OF FHEIs IN INDIA**                                                                                                                                                                                                                                                                                                    | **CHALLENGES WITH FHEIs IN INDIA**                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - **Local access to global degrees** helping stop the ***brain drain***<br><br>- **Collaborative research and innovation:** collaborating Indian institutions can improve research capabilities<br><br>- **Contributing to skill development and employability:** by offering programs aligned with **global industry standards** | - **Cultural and operational differences:** adapting to India's socio-cultural context requires a deep understanding of local values<br><br>- **Financial viability:** balancing costs with the need to offer affordable tuition fees<br><br>- **Legal uncertainties:** related to *land acquisition, labour laws,* and *intellectual property rights* |
+
+---
+### Agricultural Outlook 2025-2034 Report
+#GS3 #Agriculture #Report 
+- Released by **OECD** and **FAO**, providing comprehensive assessment of the ten-year prospects for **agricultural commodities (including fish)** and their **markets** at *national, regional* and *global levels*.
+- **Global Market Trends (2024) as per the report:**
+	- **Biofuels:** Its demand is projected to **grow at 0.9% annually,** led by India, Brazil and Indonesia
+	- **Cotton:**
+		- Increased global use
+		- **India** set to **overtake China** as the top producer
+- **Agricultural marketing in India:**
+	- It encompasses **all activities and organizations** engaged in the flow of farm-produced goods, raw materials, and derivatives, such as textiles, from farms to customers
+	- **Issues pertaining to Agricultural Markets in India:**
+		- **Weak Infrastructure:** Inadequate **cold storage** and transport lead to **Rs. 92,000 crore** in **post harvest losses** as per **CIPHET**
+		- **Lack of a national Integrated market:** the **Agricultural Produce Market Committee (APMC) markets** are **fragmented**
+			- **Agricultural marketing falls in under state list** and is regulated by APMCs established by state governments under the respective *APMC Acts*
+		- **Limited market access:** small farmers in remote and rural areas lack access to markets or are dependent on local traders who offer low prices
+	- **Steps taken by government to improve Agri-Marketing:**
+		- **National Agriculture Market (e-NAM):** enables farmers to sell produce online to buyers across multiple markets, ensuring price transparency and wider reach
+		- **10,000 FPOs scheme:** strengthen market linkages, especially for small and marginal farmers
+		- **Agriculture Infrastructure Fund:** supports post-harvest infrastructure like warehouses, cold chains, and community assets with interest subvention and financial aid
+		- **Agricultural Marketing Infrastructure (AMI):** enhances rural storage capacity through construction of godowns/warehouses.
+---
+### Project Cheetah and Relocation
+#GS3 #Environment #Biodiversity 
+- **Cheetahs** were introduced at the ***Kuno National Park*** in **Madhya Pradesh** from **Namibia** and **South Africa**
+	- **Project Cheetah** was launched in **2022** for the **translocation**
+		- It was **first inter-continental reintroduction** of a wild, large carnivore species
+		- **NTCA** is the **implementing agency** of the **Project Cheetah**
+			- ***Cheetah Project Steering Committee*** was established by **NTCA** to oversee, evaluate and advise on implementation of the Project Cheetah
+- They were further relocated to ***Gandhi Sagar Sanctuary*** of **Madhya Pradesh**
+- Now the **Gujarat forest department** is preparing for Cheetah relocation to **Banni Grasslands** by **increasing the prey base** in the region
+- **Banni Grasslands:**
+	- Located in the **Kutch** district of Gujarat
+	- Unique **salt-tolerant grassland** ecosystem
+	- **Asia's largest tropical grassland** which has emerged from the sea due to tectonic activity
+	- Inhabited by various **pastoral communities** such as ***Maldharis, Rabaris, Mutwas*** and ***Meghwals***
+---
+### Rising water level in Glacial lakes in India
+#GS3 #DisasterManagement #GLOF #Floods 
+- **Central Water Commission (CWC)** report submitted to **NGT** states that ***out of the 100 glacial lakes over 10 Ha in size in India***, there was an ***increasing trend in water spread area*** in ***34 lakes***, ***decreasing trend in 20 lakes*** and ***no-change trend in 44 lakes.*** 
+	- **CWC** monitors ***902 glacial lakes*** and water bodies and transboundary areas using **remote sensing**
+		- **90 GLOF project-based studies** are approved under the ***National GLOF Risk Mitigation Program (2021-2026)***
+	- ***National GLOF Risk Mitigation program*** is being implemented in ***4 states***
+		1. *Arunachal Pradesh*
+		2. *Himachal Pradesh*
+		3. *Sikkim*
+		4. *Uttarakhand*
+- **GLACIAL LAKE OUTBURST FLOODS:**
+	- **Glacial lakes** is water formed by melting glaciers, usually at or near the glacier's base.
+	- **GLOF** is a flood resulting from the sudden and rapid release of water from a glacial lake, often caused by the failure of a moraine dam or ice dam
+	- **Example of GLOF:** *2023 South Lhonak GLOF* that damaged *Teesta III Dam* in *Sikkim*
+	- **Triggering mechanism:** primary trigger for a GLOF is the collapse or breach of a **moraine dam** or **ice dam** holding back water in a glacial lake
+	- **Major causes of GLOFS:**
+		- **Glacial surging:** it is rapid, short-term advance of a glacier, unlike its usual slow movement #Eg ***Gilkey Glacier, Alaska***
+		- **Moraine dam failure:** collapse of unstable loose debris #Eg ***South Lhonak Lake, Sikkim***
+		- **Seismic activity:** earthquake destabilize glacier structures
+		- **Human activity:** unplanned development, mining, deforestation, and emissions disrupt drainage and slopes
+	- **Management of GLOFs:**
+		- **Monitoring** using **Remote sensing**
+		- **Siphoning-off** to reduce the water level if at high risk of moraine collapse
+		- **Early detection and warning** to the downstream areas
+
+---
+### Group of Friends (GoF)
+#GS2 #IR #InternationalGroupings #UN
+- India has reiterated its commitment to ensure **justice for crimes committed against UN peacekeepers** at the meeting of the **Group of Friends (GoF)**
+- **Group of Friends (GOF):**
+	- It is **India led** and seeks to facilitate the **promotion of accountability for all acts of violence against UN peacekeepers**
+	- It was launched in **2022**
+	- The group is a **driving force** of ***United Nations Alliance of Civilizations (UNAOC)*** and plays a vital role in **UNAOC's strategic planing and implementation process**
+---
+### Tribal Genome Project Initiative
+#GS2 #GS3 #SocialIssues #VulnerableSections #Tribals #SciTech #Biotech 
+- **Gujarat** launched **India's first** ***Tribal Genome Project*** to tackle **inherited diseases**
+- **Tribal Genome Sequencing Project:**
+	- **Objective:** to identify **genetic health risks** and enable **precision healthcare** for **tribal populations**
+	- **Focus:** on early detection and targeted treatment of genetic disorders such as *sickle cell anaemia, thalassaemia,* and *certain hereditary cancers*.
+	- **Scope:** it will **sequence the genomes** of ***2,000 individuals*** from tribal communities across **17 districts of Gujarat**
+	- **Implemented** by the ***Gujarat Biotechnology Research Centre (GBRC)***
+---
+### Right to Rehabilitation
+#GS2 #Polity #FundamentalRights 
+- In a recent #Judgement ***Estate Officer, Haryana Urban Development Authority Vs. landowners 2025***, the Supreme Court claimed that ***Rehabilitation is not a fundamental right***
+- **Highlights of the Judgement:**
+	- **Article 21 limitation:** *Deprivation of livelihood* under **Article 21** is ***not a sustainable ground in land acquisition cases***
+	- **Compensation vs Rehabilitation:** Fair monetary **compensation is constitutionally guaranteed,** but ***rehabilitation beyond legal provisions is not mandatory***
+- **Limited scope of Right to Rehabilitation:**
+	- #Judgement ***Amarjit Singh Vs. State of Punjab (2010):*** Rehabilitation is ***not a constitutionally recognized right*** under the **Land Acquisition Act**
+	- #Judgement ***State of MP Vs. Narmada Bachao Andolan (2011):*** the state **cannot be compelled** to provide **alternate accommodation**
+---
+### Common Service Centres (CSC)
+#GS2 #Governance #e-Governance #Scheme 
+- **CSC e-Governance Services India Limited (CSC SPV)** celebrated the 10 years of Digital India and the Union Minister of Electronics and IT announced **Free AI training** for **10 lakh individuals** with priority for all **Village Level Entrepreneurs**
+- **CSC** was established in **2006** under the **Ministry of Electronics and Information Technology (MeiTY)**
+- **CSC Network in India:** #Data 
+	- From *83,000 CSCs* in *2014* to over **5.5 lakh CSCs** across India today
+	- It has reached **90% villages** of the country
+- **CSC e-Governance Services India Limited** is a **Special Purpose Vehicle (SPV)** for implementing the CSCs
+- **Key services offered at CSC:**
+	- Aadhar enrollment and updates
+	- PAN card and passport services
+	- Banking and Insurance
+	- Tele-medicine and Educational services
+	- Skill development and Legal aid through **Tele-law**
+	- Agricultural services, **Gramees eStore (B2B)**, unitility bill payments, and more
+- **Village Level Entrepreneur (VLE):** 
+	- Each **CSC** is **operated** by a **VLE**, a local change-maker who provides citizen-centric services.
+---

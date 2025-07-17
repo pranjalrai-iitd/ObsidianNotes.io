@@ -99,3 +99,30 @@
 >***Nobel Prize-winner Harry Markowitz had famously stated that risk diversification is “truly the only free lunch in finance”.***
 
 ---
+### **GLACIAL LAKE OUTBURST FLOODS (GLOF)**
+#GS3 #DisasterManagement #GLOF #Floods 
+
+<b><u>NEWS:</u></b>
+- **Report by Cental Water Commission:** #Data 
+	- **Central Water Commission (CWC)** report submitted to **NGT** states that ***out of the 100 glacial lakes over 10 Ha in size in India***, there was an 
+		- ***Increasing trend*** in water spread area in ***34 lakes***
+		- ***Decreasing trend*** in ***20 lakes***
+		- ***No-change trend*** in ***44 lakes.*** 
+
+<b><u>GLACIAL LAKE OUTBURST FLOODS:</u></b>
+- #Definition **Glacial lakes** is water formed by melting glaciers, usually at or near the glacier's base.
+- #Definition **GLOF** is a flood resulting from the sudden and rapid release of water from a glacial lake, often caused by the failure of a moraine dam or ice dam
+	- **Triggering mechanism of a GLOF:** primary trigger for a GLOF is the collapse or breach of a **moraine dam** or **ice dam** holding back water in a glacial lake
+
+<b><u>MAJOR CAUSES OF GLOF:</u></b>
+1. **Glacial surging:** it is rapid, short-term advance of a glacier, unlike its usual slow movement #Eg ***Gilkey Glacier, Alaska***
+2. **Moraine dam failure:** collapse of unstable loose debris #Eg ***South Lhonak Lake, Sikkim***
+3. **Seismic activity:** earthquake destabilize glacier structures
+4. **Human activity:** unplanned development, mining, deforestation, and emissions disrupt drainage and slopes
+
+<b><u>MANAGEMENT OF GLOFS:</u></b>
+- **Monitoring** using **Remote sensing**
+- **Siphoning-off** to reduce the water level if at high risk of moraine collapse
+- **Early detection and warning** to the downstream areas
+
+---

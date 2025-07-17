@@ -211,4 +211,28 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 
 
 ---
+### **AGRICULTURAL MARKETING**
+#GS3 #Agriculture #Report 
 
+<b><u>NEWS/DATA:</u></b>
+- **Agricultural Outlook 2025-2034 Report** released by **OECD** and **FAO**, providing comprehensive assessment of the ten-year prospects for **agricultural commodities (including fish)** and their **markets** at *national, regional* and *global levels*.
+- #Definition **Agricultural marketing** encompasses **all activities and organizations** engaged in the flow of farm-produced goods, raw materials, and derivatives, such as textiles, from farms to customers
+- #Data**Global Market Trends (2024) as per the report:**
+	- **Biofuels:** Its demand is projected to **grow at 0.9% annually,** led by India, Brazil and Indonesia
+	- **Cotton:**
+		- Increased global use
+		- **India** set to **overtake China** as the top producer
+
+<b><u>ISSUES WITH AGRICULTURAL MARKETING IN INDIA:</u></b>
+1. **Weak Infrastructure:** Inadequate **cold storage** and transport lead to **Rs. 92,000 crore** in **post harvest losses** as per **CIPHET**
+2. **Lack of a national Integrated market:** the **Agricultural Produce Market Committee (APMC) markets** are **fragmented**
+	- **Agricultural marketing falls in under state list** and is regulated by APMCs established by state governments under the respective *APMC Acts*
+3. **Limited market access:** small farmers in remote and rural areas lack access to markets or are dependent on local traders who offer low prices
+
+<b><u>INITIATIVES TO INCREASE AGRI-MARKETING IN INDIA:</u></b>
+1. **National Agriculture Market (e-NAM):** enables farmers to sell produce online to buyers across multiple markets, ensuring price transparency and wider reach
+2. **10,000 FPOs scheme:** strengthen market linkages, especially for small and marginal farmers
+3. **Agriculture Infrastructure Fund:** supports post-harvest infrastructure like warehouses, cold chains, and community assets with interest subvention and financial aid
+4. **Agricultural Marketing Infrastructure (AMI):** enhances rural storage capacity through construction of godowns/warehouses.
+
+---

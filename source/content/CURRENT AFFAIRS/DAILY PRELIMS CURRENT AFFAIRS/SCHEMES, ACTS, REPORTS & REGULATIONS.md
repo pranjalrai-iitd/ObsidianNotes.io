@@ -1166,3 +1166,41 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 - **Funding support:** Annual fellowships of **Rs. 30 Lakhs,** along with **Rs. 24 Lakhs** as a **research grants** and **overhead of Rs. 1 Lakh**.
 - **Duration:** 5 years
 ---
+### UGS's Setting up and Operation of Campuses of Foreign Higher Educational Institutions in India Regulations 2023
+#GS2 #Governance #Education #HigherEducation #Scheme 
+- **University of Southampton** became **first global university** to open campus in India under the **new UGC rules**
+- **Indian campuses of Foreign universities:**
+	1. **Australia's** ***Deakin*** University at **GIFT city** ***(NOT UGC rules)*** - **IFSCA approved**
+	2. **Australia's** ***Wollongong*** University at **GIFT city** ***(NOT UGC rules)*** - **IFSCA approved**
+	3. **UK's** ***Southampton*** University at **Gurugram** under ***new UGC rules***
+- **UGC's (Setting up and Operation of Campuses of Foreign Higher Educational Institutions in India) Regulations 2023:**
+	- **Objective:** to facilitate the entry of Foreign Higher Educational Institutions in India, in line with the **National Education Policy 2020**
+	- **Eligibility:** 
+		- Top ***500 global universities*** in **overall** or **subject-wise** rankings  ***(OR)***
+		- Possess **outstanding expertise** in a **particular area**
+	- **Does NOT allow online or distance learning:** However, **lectures in online mode** ***not exceeding 10% of the programme requirements*** are allowed
+
+| **BENEFITS OF FHEIs IN INDIA**                                                                                                                                                                                                                                                                                                    | **CHALLENGES WITH FHEIs IN INDIA**                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - **Local access to global degrees** helping stop the ***brain drain***<br><br>- **Collaborative research and innovation:** collaborating Indian institutions can improve research capabilities<br><br>- **Contributing to skill development and employability:** by offering programs aligned with **global industry standards** | - **Cultural and operational differences:** adapting to India's socio-cultural context requires a deep understanding of local values<br><br>- **Financial viability:** balancing costs with the need to offer affordable tuition fees<br><br>- **Legal uncertainties:** related to *land acquisition, labour laws,* and *intellectual property rights* |
+
+---
+### Common Service Centres (CSC)
+#GS2 #Governance #e-Governance #Scheme 
+- **CSC e-Governance Services India Limited (CSC SPV)** celebrated the 10 years of Digital India and the Union Minister of Electronics and IT announced **Free AI training** for **10 lakh individuals** with priority for all **Village Level Entrepreneurs**
+- **CSC** was established in **2006** under the **Ministry of Electronics and Information Technology (MeiTY)**
+- **CSC Network in India:** #Data 
+	- From *83,000 CSCs* in *2014* to over **5.5 lakh CSCs** across India today
+	- It has reached **90% villages** of the country
+- **CSC e-Governance Services India Limited** is a **Special Purpose Vehicle (SPV)** for implementing the CSCs
+- **Key services offered at CSC:**
+	- Aadhar enrollment and updates
+	- PAN card and passport services
+	- Banking and Insurance
+	- Tele-medicine and Educational services
+	- Skill development and Legal aid through **Tele-law**
+	- Agricultural services, **Gramees eStore (B2B)**, unitility bill payments, and more
+- **Village Level Entrepreneur (VLE):** 
+	- Each **CSC** is **operated** by a **VLE**, a local change-maker who provides citizen-centric services.
+---
+

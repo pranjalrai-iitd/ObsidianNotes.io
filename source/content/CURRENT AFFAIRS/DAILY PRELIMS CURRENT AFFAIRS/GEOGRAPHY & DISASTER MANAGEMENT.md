@@ -186,3 +186,29 @@
 - In case of **Severe disasters**, *extra funds* are provided from the **National Disaster *Response* Fund (NDRF)** after **assessment** by an **Inter-Ministerial Central Team (IMCT)**.
 - It is for **relief only** and **not for compensation** for individual loss.
 ---
+### Rising water level in Glacial lakes in India
+#GS3 #DisasterManagement #GLOF #Floods 
+- **Central Water Commission (CWC)** report submitted to **NGT** states that ***out of the 100 glacial lakes over 10 Ha in size in India***, there was an ***increasing trend in water spread area*** in ***34 lakes***, ***decreasing trend in 20 lakes*** and ***no-change trend in 44 lakes.*** 
+	- **CWC** monitors ***902 glacial lakes*** and water bodies and transboundary areas using **remote sensing**
+		- **90 GLOF project-based studies** are approved under the ***National GLOF Risk Mitigation Program (2021-2026)***
+	- ***National GLOF Risk Mitigation program*** is being implemented in ***4 states***
+		1. *Arunachal Pradesh*
+		2. *Himachal Pradesh*
+		3. *Sikkim*
+		4. *Uttarakhand*
+- **GLACIAL LAKE OUTBURST FLOODS:**
+	- **Glacial lakes** is water formed by melting glaciers, usually at or near the glacier's base.
+	- **GLOF** is a flood resulting from the sudden and rapid release of water from a glacial lake, often caused by the failure of a moraine dam or ice dam
+	- **Example of GLOF:** *2023 South Lhonak GLOF* that damaged *Teesta III Dam* in *Sikkim*
+	- **Triggering mechanism:** primary trigger for a GLOF is the collapse or breach of a **moraine dam** or **ice dam** holding back water in a glacial lake
+	- **Major causes of GLOFS:**
+		- **Glacial surging:** it is rapid, short-term advance of a glacier, unlike its usual slow movement #Eg ***Gilkey Glacier, Alaska***
+		- **Moraine dam failure:** collapse of unstable loose debris #Eg ***South Lhonak Lake, Sikkim***
+		- **Seismic activity:** earthquake destabilize glacier structures
+		- **Human activity:** unplanned development, mining, deforestation, and emissions disrupt drainage and slopes
+	- **Management of GLOFs:**
+		- **Monitoring** using **Remote sensing**
+		- **Siphoning-off** to reduce the water level if at high risk of moraine collapse
+		- **Early detection and warning** to the downstream areas
+
+---

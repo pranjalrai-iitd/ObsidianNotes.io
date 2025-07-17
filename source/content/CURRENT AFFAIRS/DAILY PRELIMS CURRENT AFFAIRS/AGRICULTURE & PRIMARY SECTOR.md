@@ -308,9 +308,48 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 		- *Humic acids, Seaweed extracts, Liquid manure composting, beneficial bacteria* and *fungi*
 
 ---
+### PM Dhan-Dhaanya Krishi Yojana (PMDDKY)
+#GS3 #Agriculture #Scheme 
+- Cabinet approved **PMDDKY** scheme, which was announced in the **Budget**
+- It takes inspiration from **NITI Aayog's Aspirational District Programme (ADP)**
+- **Features:**
+	- **Duration:** ***6 years***
+	- **Coverage:** Targets ***100 districts***
+	- **Sectors of focus:** exclusively designed to **enhance agricultural** and **allied sectors** in **under-performing districts**
+- **Implementation strategy:**
+	- **Convergence:** Around *36 existing schemes* across *11 departments,* other *state schemes* and *local partnerships* with *private sector*
+	- **Identification of Districts:** is based on
+		- ***Low productivity***
+		- ***Low cropping intensity***
+		- ***Less credit disbursement***
+	- The **number of districts in each state/UT** will be based on the **share of** ***Net Cropped Area*** and ***Operational holdings***
+		- A ***minimum 1*** district will be selected from each state
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/1ps0iJ4i4yWydQ4u64g3b2jp0k96BRZXDCvyNXIp.jpg" alt="PMDDKY" width="650"/></p>
 
-
-
-
-
-
+- **Governance and Monitoring of PMDDKY:**
+	- **Committees** will be formed at **district, state** and **national** level for effective *planning, implementation and monitoring*
+	- **Each district** will have a **dedicated plan** developed by the ***District Dhan-Dhaanya Samiti*** which will **include** ***progressive farmers***
+		- The **District Plans** will align with national goals of *crop-diversification, water and soil conservation, self-sufficiency* in agriculture, and the expansion of *natural & organic farming*
+	- **Progress** of the scheme in each *Dhan-Dhaanya District* will be monitored on ***117 KPIs*** and **NITI Aayog** will **review and guide** the district plans
+---
+### Agricultural Outlook 2025-2034 Report
+#GS3 #Agriculture #Report 
+- Released by **OECD** and **FAO**, providing comprehensive assessment of the ten-year prospects for **agricultural commodities (including fish)** and their **markets** at *national, regional* and *global levels*.
+- **Global Market Trends (2024) as per the report:**
+	- **Biofuels:** Its demand is projected to **grow at 0.9% annually,** led by India, Brazil and Indonesia
+	- **Cotton:**
+		- Increased global use
+		- **India** set to **overtake China** as the top producer
+- **Agricultural marketing in India:**
+	- It encompasses **all activities and organizations** engaged in the flow of farm-produced goods, raw materials, and derivatives, such as textiles, from farms to customers
+	- **Issues pertaining to Agricultural Markets in India:**
+		- **Weak Infrastructure:** Inadequate **cold storage** and transport lead to **Rs. 92,000 crore** in **post harvest losses** as per **CIPHET**
+		- **Lack of a national Integrated market:** the **Agricultural Produce Market Committee (APMC) markets** are **fragmented**
+			- **Agricultural marketing falls in under state list** and is regulated by APMCs established by state governments under the respective *APMC Acts*
+		- **Limited market access:** small farmers in remote and rural areas lack access to markets or are dependent on local traders who offer low prices
+	- **Steps taken by government to improve Agri-Marketing:**
+		- **National Agriculture Market (e-NAM):** enables farmers to sell produce online to buyers across multiple markets, ensuring price transparency and wider reach
+		- **10,000 FPOs scheme:** strengthen market linkages, especially for small and marginal farmers
+		- **Agriculture Infrastructure Fund:** supports post-harvest infrastructure like warehouses, cold chains, and community assets with interest subvention and financial aid
+		- **Agricultural Marketing Infrastructure (AMI):** enhances rural storage capacity through construction of godowns/warehouses.
+---

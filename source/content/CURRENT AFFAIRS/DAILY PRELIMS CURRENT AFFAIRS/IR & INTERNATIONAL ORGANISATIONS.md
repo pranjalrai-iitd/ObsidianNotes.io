@@ -427,3 +427,11 @@
 			- *Myanmar* and *Thailand* are two ***ASEAN*** countries in *BIMSTEC*
 	- **Secretariat:** ***Dhaka, Bangladesh***
 ---
+### Group of Friends (GoF)
+#GS2 #IR #InternationalGroupings #UN
+- India has reiterated its commitment to ensure **justice for crimes committed against UN peacekeepers** at the meeting of the **Group of Friends (GoF)**
+- **Group of Friends (GOF):**
+	- It is **India led** and seeks to facilitate the **promotion of accountability for all acts of violence against UN peacekeepers**
+	- It was launched in **2022**
+	- The group is a **driving force** of ***United Nations Alliance of Civilizations (UNAOC)*** and plays a vital role in **UNAOC's strategic planing and implementation process**
+---

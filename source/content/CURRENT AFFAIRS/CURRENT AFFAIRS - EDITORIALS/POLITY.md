@@ -336,3 +336,17 @@
 - ***Criminal Procedure (Identification) Act, 2022:*** Empowers the **NCRB** and **other competent authority** to collect and store measurements, including **biological samples** of convicts.
 
 ---
+### **RIGHT TO REHABILITATION**
+#GS2 #Polity #FundamentalRights 
+
+<b><u>RECENT JUDGEMENT:</u></b> #Judgement 
+- <b><u><i>Estate Officer, Haryana Urban Development Authority Vs. landowners 2025</i></b></u>
+	- Supreme Court claimed that ***Rehabilitation is not a fundamental right***
+	- **Article 21 limitation:** *Deprivation of livelihood* under **Article 21** is ***not a sustainable ground in land acquisition cases***
+	- **Compensation vs Rehabilitation:** Fair monetary **compensation is constitutionally guaranteed,** but ***rehabilitation beyond legal provisions is not mandatory***
+
+<b><u>OTHER JUDGEMENTS ON LIMITED SCOPE OF RIGHT TO REHABILITATION:</u></b>
+- #Judgement <b><u><i>Amarjit Singh Vs. State of Punjab (2010)</i></u></b>: Rehabilitation is ***not a constitutionally recognized right*** under the **Land Acquisition Act**
+- #Judgement <b><u><i>State of MP Vs. Narmada Bachao Andolan (2011)</i></u></b>: the state **cannot be compelled** to provide **alternate accommodation**
+
+---

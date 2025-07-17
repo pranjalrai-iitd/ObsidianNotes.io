@@ -373,3 +373,12 @@
 	- **VIRGO** in **Pisa, Italy:** hosted by the **European Gravitational Observatory (EGO)**, a collaboration of **Italy** and **France**
 	- **KAGRA, Japan:** Located inside the **Kamioka mine** and is **underground**
 ---
+### Tribal Genome Project Initiative
+#GS2 #GS3 #SocialIssues #VulnerableSections #Tribals #SciTech #Biotech 
+- **Gujarat** launched **India's first** ***Tribal Genome Project*** to tackle **inherited diseases**
+- **Tribal Genome Sequencing Project:**
+	- **Objective:** to identify **genetic health risks** and enable **precision healthcare** for **tribal populations**
+	-  **Focus:** on early detection and targeted treatment of genetic disorders such as *sickle cell anaemia, thalassaemia,* and *certain hereditary cancers*
+	- **Scope:** it will **sequence the genomes** of ***2,000 individuals*** from tribal communities across **17 districts of Gujarat**
+	- **Implemented** by the ***Gujarat Biotechnology Research Centre (GBRC)***
+---

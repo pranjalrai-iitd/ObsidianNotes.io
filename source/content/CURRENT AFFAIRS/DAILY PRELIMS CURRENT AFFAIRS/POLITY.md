@@ -166,3 +166,13 @@
 	- ***Bharatiya Nagarik Suraksha Sanhita, 2023:*** the **Section 51** allows medical inspection of apprehended individuals, including DNA profiling and any other tests that registered medical practitioner deems necessary
 	- ***Criminal Procedure (Identification) Act, 2022:*** Empowers the **NCRB** and **other competent authority** to collect and store measurements, including **biological samples** of convicts.
 ---
+### Right to Rehabilitation
+#GS2 #Polity #FundamentalRights 
+- In a recent #Judgement ***Estate Officer, Haryana Urban Development Authority Vs. landowners 2025***, the Supreme Court claimed that ***Rehabilitation is not a fundamental right***
+- **Highlights of the Judgement:**
+	- **Article 21 limitation:** *Deprivation of livelihood* under **Article 21** is ***not a sustainable ground in land acquisition cases***
+	- **Compensation vs Rehabilitation:** Fair monetary **compensation is constitutionally guaranteed,** but ***rehabilitation beyond legal provisions is not mandatory***
+- **Limited scope of Right to Rehabilitation:**
+	- #Judgement ***Amarjit Singh Vs. State of Punjab (2010):*** Rehabilitation is ***not a constitutionally recognized right*** under the **Land Acquisition Act**
+	- #Judgement ***State of MP Vs. Narmada Bachao Andolan (2011):*** the state **cannot be compelled** to provide **alternate accommodation**
+---
