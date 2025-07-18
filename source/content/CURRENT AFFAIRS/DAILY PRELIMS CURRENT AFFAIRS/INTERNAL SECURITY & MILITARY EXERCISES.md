@@ -247,3 +247,19 @@
 		- **LCA Tejas** is a **4.5 generation,** all weather and multi-role fighter aircraft capable of offensive air support, close combat, ground attack and Ground Maritime Operations
 	- It is equipped with **AESA Radar, EW suite** consisting of **radar warning** and **self projection jamming**, **Digital map Generator (DMG)** and **smart multi-function displays (SMFD),** etc.
 ---
+### Akash Prime
+#GS3 #InternalSecurity #Defence 
+- India has successfully destroyed two *Aerial High Speed Unmanned Targets* at *High Altitude* in **Ladakh** by **Akash Prime**
+<p align="center"><img src="https://alphadefense.in/wp-content/uploads/2025/07/image-35-1024x576.png" alt="Akash Prime" width="250" /></p>
+
+- It is developed by **DRDO** and is a rugged version of the **indigenous** ***Akash Surface-to-Air Missile (SAM)***
+- The missile is designed to operate in **very extreme weather** in **cold areas, high altitude (above 4500m)** and **low-oxygen environments**
+---
+### SIMBEX Exercise
+#GS3 #InternalSecurity #MilitaryExercise 
+- **Indian Navy** will participate in the **32nd Singapore India Maritime Bilateral Exercise (SIMBEX)** exercise in Singapore
+- It vegan as ***Exercise Lion King*** in **1994**
+- It is an **annual exercise** held between the **Indian Navy** and the **Republic of Singapore** ***Navy***
+	- One of the **longest uninterrupted maritime drills** in India
+	- It aligns with India's vision of **SAGAR** and **Act East Policy**
+---

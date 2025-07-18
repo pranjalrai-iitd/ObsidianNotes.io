@@ -379,3 +379,17 @@
 <p align="center"><img src="Quirimba.png" alt="Quirimba Archipelago" width="600"/></p>
 
 ---
+### Plurinational State of Bolivia
+#GS1 #Geography #PlacesInNews #Mapping 
+- India has sent 3 lakh **Measles-Rubella Vaccine** doses to Bolivia amid an outbreak
+<p align="center"><img src="https://www.worldatlas.com/r/w960-q80/upload/9f/bb/67/bo-01.png" alt="Bolivia" width="500"/></p>
+
+- It is located in **West-central South America** and it called a **Plurinational state** as there are many **local peoples and spoken languages**
+- It has **two capitals** - ***Sucre**** and ***La Paz*** 
+- It is **landlocked** and is bordered by the following countries:
+	- ***Brazil, Paraguay, Argentina, Chile, Peru***
+- **Geographical features:**
+	- Dominated by the **Andes Mountains** - the ***Cordillera Ranges***
+	- ***Lake Poopo*** - a **saline lake** and a mining centre for *Silver* and *Tin* and due to this it has **dried up considerably
+	- ***Lake Titicaca*** - a **freshwater lake** on the border with Peru and is **world's highest navigable lake**
+---

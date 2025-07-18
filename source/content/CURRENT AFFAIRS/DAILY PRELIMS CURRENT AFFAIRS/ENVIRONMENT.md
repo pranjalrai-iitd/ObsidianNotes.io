@@ -488,3 +488,43 @@
 	- For **petrol, diesel, LPG, CNG, Hybrid** and **Electric passenger vehicles** with **Gross Vehicle Weight (GVW) < 3,500 Kgs**
 - **CAFE-III norms** have been notified for the **5 year period** during **2027-2032**
 ---
+### Global Wetland Outlook 2025
+#GS3 #Environment #Werlands #Water #Report 
+- Released by the **Secretariat** of the **Ramsar Convention**
+- **Highlights of the Report**
+	- **Coverage:** over **1,800 Mn Ha**
+		- *Inland freshwater*
+		- *Coastal*
+		- *Marine wetland*
+	- **Wetland degradation:** Around **22%** of the **world's wetlands** have been **lost** since 1970
+	- **More wetlands** are reported as being in **poor condition** for **lower income/lower middle income countries (LIC/LMIC)**
+		- ***Africa's wetlands are among the most degraded globally***
+	- The **Ramsar Convention's strategic goals** align with the **Kunming-Montreal Global Biodiversity Framework (KM-GBF)** targets
+	- Threats faced by wetlands include **unplanned urbanization, rapid industrial and infrastructure development**
+- **Best case studies:**
+	- ***Regional Flyway Initiative*** - a **USD 3 Billion** partnership **across** ***Asia***, is restoring more than **140 wetlands** critical to **migratory birds** and nearly **200 million people**
+	- ***Seychelles*** issued world's **first** sovereign ***'blue bond"***
+- **Way forward:**
+	- **Integrating wetlands into national planning:** embedding wetlands into **goof natural capital accounting**
+	- Recognizing their central role in the **global hydrological cycle**
+	- **Embedding and prioritising wetlands in innovative financial solutions:** like ***Debt instruments*** like *green bonds, blue bonds* and ***results-based financing***
+- **Ramsar Convention, 1971:**
+	- **Intergovernmental treaty** that provides the framework for the **conservation and wise use of wetlands** and their resources.
+	- India ratified it in **1982**
+- ***"Wise Use"*** principle under **Ramsar Convention:**
+	- It emphasizes that **human use of wetlands on sustainable basis is entirely compatible** with wetland conservation. The principle ensures that **wetland continue to support biological diversity as well as human-well being**
+		- **Adoption of national wetland policies:** involving review of *local registration and institutional arrangements* to deal with wetland matters
+		- **Development of programs** of *wetland inventory, monitoring, research, training, education,* etc.
+		- **Take action at wetland sites:** involving the *development of integrated management plans* covering every aspect of the wetlands ad their relationships.
+---
+### Urban Wind Stilling Effect
+#GS3 #Environment #AirPollution 
+- A study has found that **Urban Stilling Effect** creates **Urban Aerosol Clean Islands** in **North India**
+	- **43% cities** in **Northwest and northern Indo-Gengetic plain** had **lower aerosol levels** that nearby **rural areas**!
+		- These cities are terms as ***"Urban Aerosol Clean Islands"***
+- **Aerosols** are **colloids** where **liquid or solids are dispersed** in a **gaseous dispersing medium**
+	- #Eg *Fog, Cloud, Smoke,* etc.
+- **Urban Wind Stilling Effect:** is caused by
+	- **Weakened surface winds** due to **urban structures**
+	- **Creates invisible barriers** that slow long-range dust and pollutant entry
+---

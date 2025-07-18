@@ -155,11 +155,15 @@
 	- **Objective:** to serve as **independent regulator for pricing of drugs and to ensure availability and accessibility of medicines** at affordable prices.
 	- **Functions:** fixing and revising drug prices as per the provisions of the ***Drug Prices Control Order (DPCO)*** issued by DoP.
 ---
-### Bendeinkhlam Festival
-#GS1 #ArtCulture
-- The sacred **Bendeinkhlam Festival** was celebrated in **Meghalaya**
-- The festival, means ***"driving away the plague"*** and symbolizes **spiritual cleansing** and **community resilience**
-- It is most important **dance festival** of ***Pnars (or Jaintias)*** celebrated **annually** in **July** after the **sowing period**
-- During the festival, young men make a symbolic gesture of *driving away of the evil spirit, plague and disease* by **beating the roof of every house with bamboo poles**
-- **Games** like ***Dat-Lawdor*** (football-like sport played with a **wooden ball**) and ***Iatan-Bhang*** (tug of war) are played.
+### National Financial Reporting Authority (NFRA)
+#GS3 #Economy #CorporateGovernance #Organizations 
+- New Chief of NFRA was appointed by the ***Appointments Committee of the Cabinet***
+- **NFRA:**
+	- NFRA was constituted in **2018** by the **Government of India** and is a **statutory body** under the ***Companies Act, 2013***
+	- **HQ:** New Delhi
+	- **Functions an Duties:**
+		- Recommend **accounting and auditing policies** and standards to be adopted by the companies
+		- **Monitor and enforce compliance with accounting standards** and auditing standards
+		- Oversee the **quality of service of the professions associate** and suggests **measure to improve the quality**
+		- **Perform such other functions and duties** as may be necessary or incidental to the aforesaid functions and duties.
 ---

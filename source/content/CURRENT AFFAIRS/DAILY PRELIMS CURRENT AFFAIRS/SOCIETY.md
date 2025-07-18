@@ -133,6 +133,14 @@ A(Social security)-->D(Labor market  programs);
 		4. **Coding system:** The **Registrar General of India**, has introduced a new coding system to make data collection more accurate.
 		5. **New questions in 2027 Census questionnaire** for higher granularity of the collected data
 
+---
+### Economic Census
+#GS3 #Economy #Census 
+- **MosPI** urges integration of the ***8th Economic Census Preliminary work*** with the ***16th Population Census***
+- The **Economic Census** is conducted by the **Ministry of Statistics and Programme Implementation (MoSPI)**
+- **Objective:** Complete ***enumeration** of **entrepreneurial activities operating within India at a given point of time*** 
+- **Census provides disaggregated data on:** *Ownership patterns, Number of persons engaged, Geographical spreas of economic activites,* etc.
+- **Previously conducted Economic Census (7 times):** in *1977, 1980, 1990, 1998, 2005, 2013, 2017*
 
 ---
 ### Manosphere
@@ -218,4 +226,26 @@ A(Social security)-->D(Labor market  programs);
 		- **Ayush Research Portal:** centralized research access
 	- **Ayush Sanjivni** mobile app and the **Yoga locator** mobile app
 	- **Gobal Partnership on AI (GPAI) Summit, 2023:** a *multi-stakeholder initiative* which aims to bridge the gap between *theory and practice in AI*.
+---
+### CARA Directions
+#GS1 #SocialIssues #VulnerableSections #Children 
+- **CARA** issued direction to **State Adoption Resource Agencies (SARAs)** under the ***Junevile Justice (Care and Protection of Children) Act, 2015** (amended 2021)* and in line with the ***Adoption Regulations, 2022***
+- **Key Directions to SARAs:**
+	- Reinforce **psychosocial support framework** for all stakeholders i.e, **prospective adoptive parents (PAPs)**, **adopted children** and **biological parents**
+	- SARA instructed to **designate/ empanel wualified counselors** at District and State levels
+	- Provisions for **psychosocial intervention** in **any other circumstances** as assessed by **SARA** or **District Child Protection Units (DCPU)**
+- **Child Adoption In India:**
+	- **Nodal Ministry:** *Ministry of Women and Child Development*
+	- **Primary legislation:** Adoption in India is governed by the ***Hindu Adoption and Maintenance Act of 1956*** and the ***Juvenile Justice (Care and Protection of Children) Act 2015***
+	- **Nodal Central Agency:** CARA established under the JJ Act regulated both **domestic** and **inter-country adoptions**
+	- <b><u>Hague Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption (1993)</u></b> #convention ensures *ethical, legal and transparent international adoptions* while preventing child trafficking
+	- **Responsibility of States/UTs:** States and UTs implement the JJ Act through institutions like
+		- **SARA**
+		- **Local Child Welfare Committees**
+		- **District Child Protection Units (DCPU)**
+- <b><u>Central Adoption Resource Authority (CARA)</u></b>
+	- It is **statutory body** formed under the **Juvenile Justice Act 2015**
+	- It monitors the **in-country (domestic)** and **inter-country (international)** adoptions
+	- It is **designated as Central Authority** to deal with **inter-country adoptions** in accordance with the provisions of the **Hague Convention on Inter-Country Adoption 1993**
+		- India ratified it in **2003**
 ---

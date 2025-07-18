@@ -5133,3 +5133,206 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 - **Village Level Entrepreneur (VLE):** 
 	- Each **CSC** is **operated** by a **VLE**, a local change-maker who provides citizen-centric services.
 ---
+### Global Wetland Outlook 2025
+#GS3 #Environment #Werlands #Water #Report 
+- Released by the **Secretariat** of the **Ramsar Convention**
+- **Highlights of the Report**
+	- **Coverage:** over **1,800 Mn Ha**
+		- *Inland freshwater*
+		- *Coastal*
+		- *Marine wetland*
+	- **Wetland degradation:** Around **22%** of the **world's wetlands** have been **lost** since 1970
+	- **More wetlands** are reported as being in **poor condition** for **lower income/lower middle income countries (LIC/LMIC)**
+		- ***Africa's wetlands are among the most degraded globally***
+	- The **Ramsar Convention's strategic goals** align with the **Kunming-Montreal Global Biodiversity Framework (KM-GBF)** targets
+	- Threats faced by wetlands include **unplanned urbanization, rapid industrial and infrastructure development**
+- **Best case studies:**
+	- ***Regional Flyway Initiative*** - a **USD 3 Billion** partnership **across** ***Asia***, is restoring more than **140 wetlands** critical to **migratory birds** and nearly **200 million people**
+	- ***Seychelles*** issued world's **first** sovereign ***'blue bond"***
+- **Way forward:**
+	- **Integrating wetlands into national planning:** embedding wetlands into **goof natural capital accounting**
+	- Recognizing their central role in the **global hydrological cycle**
+	- **Embedding and prioritising wetlands in innovative financial solutions:** like ***Debt instruments*** like *green bonds, blue bonds* and ***results-based financing***
+- **Ramsar Convention, 1971:**
+	- **Intergovernmental treaty** that provides the framework for the **conservation and wise use of wetlands** and their resources.
+	- India ratified it in **1982**
+- ***"Wise Use"*** principle under **Ramsar Convention:**
+	- It emphasizes that **human use of wetlands on sustainable basis is entirely compatible** with wetland conservation. The principle ensures that **wetland continue to support biological diversity as well as human-well being**
+		- **Adoption of national wetland policies:** involving review of *local registration and institutional arrangements* to deal with wetland matters
+		- **Development of programs** of *wetland inventory, monitoring, research, training, education,* etc.
+		- **Take action at wetland sites:** involving the *development of integrated management plans* covering every aspect of the wetlands ad their relationships.
+---
+### Swachh Survekshan Awards 2024-25
+#GS3 #Environment #Economy #CircularEconomy #Scheme 
+- **President of India** conferred the ***Swachh Survekshan awards*** for the year 2024-25, marking the **9th Annual edition** of the **world's largest urban cleanliness survey**
+- **Theme of 2024-25:** *Reduce-Reuse-Recycle*
+- **Swachh Survekshan:**
+	- **Launched:** in 2016 under the ambit of the **Swach Bharat Mission (Urban)**
+	- **Institutions involved:** survey is conducted **annually** by the **MoHUA (Housing and Urban Affairs Ministry)**
+		- **Final assessment** of the data submitted by the ULBs will be verified by the **third party agency**
+	- **Objective:** to encourage large-scale citizen participation and create awareness about the importance of making towns and cities a better place to live.
+	- **Components:**
+		- **Swachh Survekshan** - Data provided by **ULBs, Documents assessments** and **Field assessment** with **80% weightage**
+		- **Certification** based on *ODF+/ODF++/Water+ status* with **20% weightage**
+- **Highlights of Swachh Survekshan Awards 2024-25:**
+	- **Five tier population classification:**
+		- *Million Plus cities* : >10 lakh
+		- *Big cities* : 3-10 lakh
+		- *Medium cities* : 50K-3 lakh 
+		- *Small cities* : 20K-50K
+		- *Very small cities* : <20K
+	- **Awards:** total **78 awards** were presented across **4 categories:**
+		1. **Super Swachh League Cities** *(New Category Introduced)*: Cities that demonstrate extraordinary performance, based on their *previous* Swachh Survekshan Ranking
+			- ***Indore, Surat, Navi Mumbai*** enter this league
+		2. **Top 3 cities in five their population categories:** ***Ahmedabad, Bhopal*** and ***Lucknow*** emerged as a ***top Swachh Shehar***
+		3. **Special Categories:** **Ganga towns, Cantonment boards, SafaiMitra Suraksha, Mahakumbh**
+		4. **State level awards:** **Promising Clean Cities Awards to 34 cities** of States/UTs
+	- **New initiatives launched at Awards Ceremony:**
+		- ***Swachh City Partnership:*** 78 top performing cities will adopt and mentor 1 poor performing city from their respective states
+		- ***Accelerated Dumpsite Remediation Program:*** One year special program to remediate legacy waste and boost scientific waste processing capacity
+---
+### Polavaram Dam
+#GS1 #Geography #PlacesInNews #Mapping 
+- Centre has decided to constitute a **high-level technical committee** to examine concerns around **pending inter-state water issues** between **Telangana** and **Andhra Pradesh**
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/cdAnaIUZBmOQN0qQ1zELlYIcnhKfJp7O1mP7FunI.jpg" alt="Polavarm Dam" width="500"/></p>
+
+- The Polavaram project is on the ***Godavari river*** near the *Ramayyapeta village* of the *Polavaram mandal* of ***Andhra Pradesh***
+- **Objective:** Development of **irrigation, hydro power, drinking water supply** and **diversion of water to** ***Krishna*** river basin to provide relief to the drought-prone ***Rayalseema region***
+- **Issues with the project:** Telangana has accused Andhra of violating the *inter-state river water sharing agreement* agreed to in the *Andhra Pradesh Reorganisation Act, 2014*
+---
+### Equal Succession Rights for Tribal Women
+#GS2 #Polity #Judgement #FundamentalRights #Tribals #Women 
+- In the recent <b><u><i>Ram Charan & Ors. Vs. Sukhram & Ors.</i></u></b> #Judgement the **Supreme Court** allowed ***tribal women equal succession rights as men***
+- **Highlights of the judgement:**
+	- Exclusion of tribal women from inheritance **violated** ***Article 14 and 15*** of the Constitution.
+		- Read together with **Article 38 and 46**, they point to the **collective ethos of the constitution** in ensuring that there is **no discrimination against women**
+	- Even though the ***Hindu Succession Act 1956*** **DOES NOT** applies to **Schedule Tribes**, it doesn't imply automatic exclusion of tribal women from succession.
+	- In the **absence** of a **proven customary bar**, courts must apply **principle of justice, equity** and **good conscience**
+- **Precedents cited:**
+	-  #Judgement <b><u><i>Mst. Sarwango Vs. Mst. Urchamahin (2013):</i></u></b> directed **inheritance to daughters** based on **equity**
+	- #Judgement <b><u><i>Tirith Kumar Vs. Daduram (2024):</i></u></b> upheld **female inheritance in tribal property**
+- **Customs can be recognized as a binding law** but it must fulfill the criteria of ***reasonableness*** and ***morality***
+---
+### CARA Directions
+#GS1 #SocialIssues #VulnerableSections #Children 
+- **CARA** issued direction to **State Adoption Resource Agencies (SARAs)** under the ***Junevile Justice (Care and Protection of Children) Act, 2015** (amended 2021)* and in line with the ***Adoption Regulations, 2022***
+- **Key Directions to SARAs:**
+	- Reinforce **psychosocial support framework** for all stakeholders i.e, **prospective adoptive parents (PAPs)**, **adopted children** and **biological parents**
+	- SARA instructed to **designate/ empanel wualified counselors** at District and State levels
+	- Provisions for **psychosocial intervention** in **any other circumstances** as assessed by **SARA** or **District Child Protection Units (DCPU)**
+- **Child Adoption In India:**
+	- **Nodal Ministry:** *Ministry of Women and Child Development*
+	- **Primary legislation:** Adoption in India is governed by the ***Hindu Adoption and Maintenance Act of 1956*** and the ***Juvenile Justice (Care and Protection of Children) Act 2015***
+	- **Nodal Central Agency:** CARA established under the JJ Act regulated both **domestic** and **inter-country adoptions**
+	- <b><u>Hague Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption (1993)</u></b> #convention ensures *ethical, legal and transparent international adoptions* while preventing child trafficking
+	- **Responsibility of States/UTs:** States and UTs implement the JJ Act through institutions like
+		- **SARA**
+		- **Local Child Welfare Committees**
+		- **District Child Protection Units (DCPU)**
+- <b><u>Central Adoption Resource Authority (CARA)</u></b>
+	- It is **statutory body** formed under the **Juvenile Justice Act 2015**
+	- It monitors the **in-country (domestic)** and **inter-country (international)** adoptions
+	- It is **designated as Central Authority** to deal with **inter-country adoptions** in accordance with the provisions of the **Hague Convention on Inter-Country Adoption 1993**
+		- India ratified it in **2003**
+---
+### Plurinational State of Bolivia
+#GS1 #Geography #PlacesInNews #Mapping 
+- India has sent 3 lakh **Measles-Rubella Vaccine** doses to Bolivia amid an outbreak
+<p align="center"><img src="https://www.worldatlas.com/r/w960-q80/upload/9f/bb/67/bo-01.png" alt="Bolivia" width="500"/></p>
+
+- It is located in **West-central South America** and it called a **Plurinational state** as there are many **local peoples and spoken languages**
+- It has **two capitals** - ***Sucre**** and ***La Paz*** 
+- It is **landlocked** and is bordered by the following countries:
+	- ***Brazil, Paraguay, Argentina, Chile, Peru***
+- **Geographical features:**
+	- Dominated by the **Andes Mountains** - the ***Cordillera Ranges***
+	- ***Lake Poopo*** - a **saline lake** and a mining centre for *Silver* and *Tin* and due to this it has **dried up considerably
+	- ***Lake Titicaca*** - a **freshwater lake** on the border with Peru and is **world's highest navigable lake**
+---
+### Global Findex 2025
+#GS3 #Economy #Fintech #Report 
+- The **World Bank** released a report titled ***"Global Findex 2025"*** reflecting achievements in **digital and financial inclusion**
+- **India specific highlights from the Global Findex 2025:**
+	- India has **account ownership** at or close to **90%**
+	- **16% of the account owners** do **not** have an **active account,** the *average* for all other low- and middle-income countries in *4%*
+	- The **share of both women and men** with only inactive accounts **decreased** between 2021 and 2024
+	- The **primary barrier to mobile phone ownership** is the **cost of device** and **lack of reliable mobile network** coverage
+---
+### Matter-Antimatter Asymmetry
+#GS3 #SciTech #Space 
+- CERN's researchers have observed **CP Violation in baryons** for the **first time**
+- **Matter-Antimatter Asymmetry:**
+	- It refers to observed imbalance between matter and antimatter in the universe
+	- According to Modern Physics, the Big bang should have *produce equal amounts of matter and antimatter,* yet the observable universe consists almost entirely of matter, with antimatter nearly absent
+- **CP Violation:**
+	- ***C (Charge conjugation):*** swapping particles with their antiparticles
+	- ***P (Parity):*** flipping **spatial coordinates** ***(mirror image)***
+	- ***CP symmetry:*** 
+		>Implies laws of Physics should remain unchanged if particles are swapped with their antiparticles and viewed in a mirror.
+	
+	- ***CP violation:*** Matter and antimatter behave **differently**, violating the CP symmetry.
+---
+### Akash Prime
+#GS3 #InternalSecurity #Defence 
+- India has successfully destroyed two *Aerial High Speed Unmanned Targets* at *High Altitude* in **Ladakh** by **Akash Prime**
+<p align="center"><img src="https://alphadefense.in/wp-content/uploads/2025/07/image-35-1024x576.png" alt="Akash Prime" width="250" /></p>
+
+- It is developed by **DRDO** and is a rugged version of the **indigenous** ***Akash Surface-to-Air Missile (SAM)***
+- The missile is designed to operate in **very extreme weather** in **cold areas, high altitude (above 4500m)** and **low-oxygen environments**
+---
+### SIMBEX Exercise
+#GS3 #InternalSecurity #MilitaryExercise 
+- **Indian Navy** will participate in the **32nd Singapore India Maritime Bilateral Exercise (SIMBEX)** exercise in Singapore
+- It vegan as ***Exercise Lion King*** in **1994**
+- It is an **annual exercise** held between the **Indian Navy** and the **Republic of Singapore** ***Navy***
+	- One of the **longest uninterrupted maritime drills** in India
+	- It aligns with India's vision of **SAGAR** and **Act East Policy**
+---
+### Pradhan Mantri Virasat Ka Samvardhan (PM-VIKAS)
+#GS3 #Economy #Employment #Skilling #VulnerableSections  #Scheme 
+- **Skill Training and *Women* Entrepreneurship Development project** launched under **PM VIKAS**
+	- Projects have been launched at **IIIT Kottayam** for the **training** of **minority candidates**
+- **PM VIKAS:**
+	- **Ministry:** ***Ministry of Minority Affairs***
+	- It is a **Central SECTOR Scheme**
+	- It converges **5 erstwhile schemes:**
+		1. *Seekho aur Kamao*
+		2. *Nai Manzil*
+		3. *Nai Roshni*
+		4. *USTTAD*
+		5. *Hamari Dharohar*
+	- **Objective:** is the **upliftment of six (6) notified minority communities** through skill-development, entrepreneurship and leadership of **minority women** and education support for school dropouts.
+		- **6 notified minorities are:** *Muslims, Christians, Sikhs, Buddhists, Jains* and *Zoroastrians*
+	- **Implementation** in *convergence* with the ***Skill India Mission***
+---
+### Economic Census
+#GS3 #Economy #Census 
+- **MosPI** urges integration of the ***8th Economic Census Preliminary work*** with the ***16th Population Census***
+- The **Economic Census** is conducted by the **Ministry of Statistics and Programme Implementation (MoSPI)**
+- **Objective:** Complete ***enumeration** of **entrepreneurial activities operating within India at a given point of time*** 
+- **Census provides disaggregated data on:** *Ownership patterns, Number of persons engaged, Geographical spreas of economic activites,* etc.
+- **Previously conducted Economic Census (7 times):** in *1977, 1980, 1990, 1998, 2005, 2013, 2017*
+---
+### Urban Wind Stilling Effect
+#GS3 #Environment #AirPollution 
+- A study has found that **Urban Stilling Effect** creates **Urban Aerosol Clean Islands** in **North India**
+	- **43% cities** in **Northwest and northern Indo-Gengetic plain** had **lower aerosol levels** that nearby **rural areas**!
+		- These cities are terms as ***"Urban Aerosol Clean Islands"***
+- **Aerosols** are **colloids** where **liquid or solids are dispersed** in a **gaseous dispersing medium**
+	- #Eg *Fog, Cloud, Smoke,* etc.
+- **Urban Wind Stilling Effect:** is caused by
+	- **Weakened surface winds** due to **urban structures**
+	- **Creates invisible barriers** that slow long-range dust and pollutant entry
+---
+### National Financial Reporting Authority (NFRA)
+#GS3 #Economy #CorporateGovernance #Organizations 
+- New Chief of NFRA was appointed by the ***Appointments Committee of the Cabinet***
+- **NFRA:**
+	- NFRA was constituted in **2018** by the **Government of India** and is a **statutory body** under the ***Companies Act, 2013***
+	- **HQ:** New Delhi
+	- **Functions an Duties:**
+		- Recommend **accounting and auditing policies** and standards to be adopted by the companies
+		- **Monitor and enforce compliance with accounting standards** and auditing standards
+		- Oversee the **quality of service of the professions associate** and suggests **measure to improve the quality**
+		- **Perform such other functions and duties** as may be necessary or incidental to the aforesaid functions and duties.
+---

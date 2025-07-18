@@ -382,3 +382,17 @@
 	- **Scope:** it will **sequence the genomes** of ***2,000 individuals*** from tribal communities across **17 districts of Gujarat**
 	- **Implemented** by the ***Gujarat Biotechnology Research Centre (GBRC)***
 ---
+### Matter-Antimatter Asymmetry
+#GS3 #SciTech #Space 
+- CERN's researchers have observed **CP Violation in baryons** for the **first time**
+- **Matter-Antimatter Asymmetry:**
+	- It refers to observed imbalance between matter and antimatter in the universe
+	- According to Modern Physics, the Big bang should have *produce equal amounts of matter and antimatter,* yet the observable universe consists almost entirely of matter, with antimatter nearly absent
+- **CP Violation:**
+	- ***C (Charge conjugation):*** swapping particles with their antiparticles
+	- ***P (Parity):*** flipping **spatial coordinates** ***(mirror image)***
+	- ***CP symmetry:*** 
+		>Implies laws of Physics should remain unchanged if particles are swapped with their antiparticles and viewed in a mirror.
+	
+	- ***CP violation:*** Matter and antimatter behave **differently**, violating the CP symmetry.
+---

@@ -1203,4 +1203,58 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 - **Village Level Entrepreneur (VLE):** 
 	- Each **CSC** is **operated** by a **VLE**, a local change-maker who provides citizen-centric services.
 ---
-
+### Swachh Survekshan Awards 2024-25
+#GS3 #Environment #Economy #CircularEconomy #Scheme 
+- **President of India** conferred the ***Swachh Survekshan awards*** for the year 2024-25, marking the **9th Annual edition** of the **world's largest urban cleanliness survey**
+- **Theme of 2024-25:** *Reduce-Reuse-Recycle*
+- **Swachh Survekshan:**
+	- **Launched:** in 2016 under the ambit of the **Swach Bharat Mission (Urban)**
+	- **Institutions involved:** survey is conducted **annually** by the **MoHUA (Housing and Urban Affairs Ministry)**
+		- **Final assessment** of the data submitted by the ULBs will be verified by the **third party agency**
+	- **Objective:** to encourage large-scale citizen participation and create awareness about the importance of making towns and cities a better place to live.
+	- **Components:**
+		- **Swachh Survekshan** - Data provided by **ULBs, Documents assessments** and **Field assessment** with **80% weightage**
+		- **Certification** based on *ODF+/ODF++/Water+ status* with **20% weightage**
+- **Highlights of Swachh Survekshan Awards 2024-25:**
+	- **Five tier population classification:**
+		- *Million Plus cities* : >10 lakh
+		- *Big cities* : 3-10 lakh
+		- *Medium cities* : 50K-3 lakh 
+		- *Small cities* : 20K-50K
+		- *Very small cities* : <20K
+	- **Awards:** total **78 awards** were presented across **4 categories:**
+		1. **Super Swachh League Cities** *(New Category Introduced)*: Cities that demonstrate extraordinary performance, based on their *previous* Swachh Survekshan Ranking
+			- ***Indore, Surat, Navi Mumbai*** enter this league
+		2. **Top 3 cities in five their population categories:** ***Ahmedabad, Bhopal*** and ***Lucknow*** emerged as a ***top Swachh Shehar***
+		3. **Special Categories:** **Ganga towns, Cantonment boards, SafaiMitra Suraksha, Mahakumbh**
+		4. **State level awards:** **Promising Clean Cities Awards to 34 cities** of States/UTs
+	- **New initiatives launched at Awards Ceremony:**
+		- ***Swachh City Partnership:*** 78 top performing cities will adopt and mentor 1 poor performing city from their respective states
+		- ***Accelerated Dumpsite Remediation Program:*** One year special program to remediate legacy waste and boost scientific waste processing capacity
+---
+### Global Findex 2025
+#GS3 #Economy #Fintech #Report 
+- The **World Bank** released a report titled ***"Global Findex 2025"*** reflecting achievements in **digital and financial inclusion**
+- **India specific highlights from the Global Findex 2025:**
+	- India has **account ownership** at or close to **90%**
+	- **16% of the account owners** do **not** have an **active account,** the *average* for all other low- and middle-income countries in *4%*
+	- The **share of both women and men** with only inactive accounts **decreased** between 2021 and 2024
+	- The **primary barrier to mobile phone ownership** is the **cost of device** and **lack of reliable mobile network** coverage
+---
+### Pradhan Mantri Virasat Ka Samvardhan (PM-VIKAS)
+#GS3 #Economy #Employment #Skilling #VulnerableSections  #Scheme 
+- **Skill Training and *Women* Entrepreneurship Development project** launched under **PM VIKAS**
+	- Projects have been launched at **IIIT Kottayam** for the **training** of **minority candidates**
+- **PM VIKAS:**
+	- **Ministry:** ***Ministry of Minority Affairs***
+	- It is a **Central SECTOR Scheme**
+	- It converges **5 erstwhile schemes:**
+		1. *Seekho aur Kamao*
+		2. *Nai Manzil*
+		3. *Nai Roshni*
+		4. *USTTAD*
+		5. *Hamari Dharohar*
+	- **Objective:** is the **upliftment of six (6) notified minority communities** through skill-development, entrepreneurship and leadership of **minority women** and education support for school dropouts.
+		- **6 notified minorities are:** *Muslims, Christians, Sikhs, Buddhists, Jains* and *Zoroastrians*
+	- **Implementation** in *convergence* with the ***Skill India Mission***
+---

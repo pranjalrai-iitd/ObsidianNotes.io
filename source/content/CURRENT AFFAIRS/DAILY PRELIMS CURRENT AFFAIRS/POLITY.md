@@ -176,3 +176,16 @@
 	- #Judgement ***Amarjit Singh Vs. State of Punjab (2010):*** Rehabilitation is ***not a constitutionally recognized right*** under the **Land Acquisition Act**
 	- #Judgement ***State of MP Vs. Narmada Bachao Andolan (2011):*** the state **cannot be compelled** to provide **alternate accommodation**
 ---
+### Equal Succession Rights for Tribal Women
+#GS2 #Polity #Judgement #FundamentalRights #Tribals #Women 
+- In the recent <b><u><i>Ram Charan & Ors. Vs. Sukhram & Ors.</i></u></b> #Judgement the **Supreme Court** allowed ***tribal women equal succession rights as men***
+- **Highlights of the judgement:**
+	- Exclusion of tribal women from inheritance **violated** ***Article 14 and 15*** of the Constitution.
+		- Read together with **Article 38 and 46**, they point to the **collective ethos of the constitution** in ensuring that there is **no discrimination against women**
+	- Even though the ***Hindu Succession Act 1956*** **DOES NOT** applies to **Schedule Tribes**, it doesn't imply automatic exclusion of tribal women from succession.
+	- In the **absence** of a **proven customary bar**, courts must apply **principle of justice, equity** and **good conscience**
+- **Precedents cited:**
+	-  #Judgement <b><u><i>Mst. Sarwango Vs. Mst. Urchamahin (2013):</i></u></b> directed **inheritance to daughters** based on **equity**
+	- #Judgement <b><u><i>Tirith Kumar Vs. Daduram (2024):</i></u></b> upheld **female inheritance in tribal property**
+- **Customs can be recognized as a binding law** but it must fulfill the criteria of ***reasonableness*** and ***morality***
+---

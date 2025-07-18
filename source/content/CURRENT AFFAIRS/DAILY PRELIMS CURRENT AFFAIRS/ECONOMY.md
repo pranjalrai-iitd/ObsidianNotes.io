@@ -465,3 +465,12 @@
 	- These instruments will **help farmers and allied sectors** ***hedge*** against **risks** like **irregular rainfall, heatwaves**, and **unseasonal weather**.
 	- Using **historical and real-time weather data** from IMD, these derivatives will offer **location-specific, seasonal contracts** backed by *statistically verified datasets*.
 ---
+### Economic Census
+#GS3 #Economy #Census 
+- **MosPI** urges integration of the ***8th Economic Census Preliminary work*** with the ***16th Population Census***
+- The **Economic Census** is conducted by the **Ministry of Statistics and Programme Implementation (MoSPI)**
+- **Objective:** Complete ***enumeration** of **entrepreneurial activities operating within India at a given point of time*** 
+- **Census provides disaggregated data on:** *Ownership patterns, Number of persons engaged, Geographical spreas of economic activites,* etc.
+- **Previously conducted Economic Census (7 times):** in *1977, 1980, 1990, 1998, 2005, 2013, 2017*
+---
+

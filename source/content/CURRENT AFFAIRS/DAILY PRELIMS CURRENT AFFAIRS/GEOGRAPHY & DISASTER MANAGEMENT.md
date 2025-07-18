@@ -212,3 +212,12 @@
 		- **Early detection and warning** to the downstream areas
 
 ---
+### Polavaram Dam
+#GS1 #Geography #PlacesInNews #Mapping 
+- Centre has decided to constitute a **high-level technical committee** to examine concerns around **pending inter-state water issues** between **Telangana** and **Andhra Pradesh**
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/cdAnaIUZBmOQN0qQ1zELlYIcnhKfJp7O1mP7FunI.jpg" alt="Polavarm Dam" width="500"/></p>
+
+- The Polavaram project is on the ***Godavari river*** near the *Ramayyapeta village* of the *Polavaram mandal* of ***Andhra Pradesh***
+- **Objective:** Development of **irrigation, hydro power, drinking water supply** and **diversion of water to** ***Krishna*** river basin to provide relief to the drought-prone ***Rayalseema region***
+- **Issues with the project:** Telangana has accused Andhra of violating the *inter-state river water sharing agreement* agreed to in the *Andhra Pradesh Reorganisation Act, 2014*
+---
