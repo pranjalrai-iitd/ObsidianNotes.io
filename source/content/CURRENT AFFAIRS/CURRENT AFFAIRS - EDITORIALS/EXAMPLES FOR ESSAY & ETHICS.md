@@ -24,3 +24,6 @@
 > ***"Language lies at the root of human identity, and to tamper with that is either poetry or treason.”*** —Terry Eagleton
 
 ---
+### **POVERTY/ HUNGER**
+#Poverty #Hunger
+> ***"There are people in this world so hungry that god cannot appear to them except in the form of bread"*** - Mahatama Gandhi
