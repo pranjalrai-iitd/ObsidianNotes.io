@@ -396,3 +396,33 @@
 	
 	- ***CP violation:*** Matter and antimatter behave **differently**, violating the CP symmetry.
 ---
+### Quantum Cryptography
+#GS3 #SciTech #QuantumTechnology
+- A whitepaper titled, ***"Transitioning to Quantum Cyber Readiness"*** has been unveiled by the **MeitY, CERT-In** and the cybersecurity firm *SISA*
+- **QUANTUM CYBERSECURITY:** It encompasses two primary approaches:
+	- ***PQC (Post-quantum Cryptography):*** it involves developing encryption methods that can withstand attacks from quantum computers while remaining compatible with classical systems
+	- ***Quantum Cryptography/ Quantum Encryption:*** utilizes quantum mechanics principles such as **Quantum Key Distribution (QKD)** to create theoretically unbreakable encryption techniques
+- **NEED of QUANTUM CUBER READINESS:**
+	- ***Harvest Now,  Decrypt Later (HNDL) attacks:*** involves **storing encrypted data now** to **decrypt it in future** using **quantum technologies**
+		- It involves **data breaches** related to digital certificates, blockchains, cryptocurrencies, etc.
+	- ***Encryption algorithms:*** like the **Rivest-Shamir-Adleman (RSA)** that are foundational to today's digital security, are expected to be rendered obsolete within the next few years
+- **ROADMAP FOR QUANTUM CYBER READINESS:**
+	- **Foundational Assessment & Strategic Planning:** #Eg *Identification of Quantum Vulnerable Assets*
+	- **Technology Readiness & Capacity Building:** #Eg *Infrastructure Evaluation & Upgrade Planning*
+	- **Phased Organizational Rollout:** Suggest *multi-phase transformation* that must be aligned with an organizations's architecture, strategic priorities, resource availability and risk appetite
+	- **Resilience, Monitoring & Future proofing:** #Eg *implementation of QKD*
+---
+### INVICTUS
+#GS2 #IR #Space 
+- The **European Space Agency (ESA)** and the UK-based **Frazer-Nash** have kicked off **INVICTUS** to develop **hypersonic technologies**
+- It is a **fully reusable experimental aerospace vehicle** capable of flying at **Mach 5**
+- **Funding:** 
+	- **ESA's General Support Technology Programme (GSTP)**
+	- **ESA's Technology Development Element (TDE)**
+- **Key Features:**
+	- Sustained hypersonic flight in the atmosphere
+	- Upgradable, allowing for the exchange of materials, software and propulsion systems between flight test campaigns
+- **Significance:** prove suitability of a **hydrogen-fulled pre-cooled air-breathing propulsion system** for **horizontal take-off** and **hypersonic flight** in **reusable vehicles**
+<p align="center"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/invictus_europe_s_new_hypersonic_test_platform/26799804-1-eng-GB/INVICTUS_Europe_s_new_hypersonic_test_platform_pillars.png" alt="INVICTUS" width="200"><br><i>ESA's INVICTUS</i></p>
+
+---

@@ -263,3 +263,48 @@
 	- One of the **longest uninterrupted maritime drills** in India
 	- It aligns with India's vision of **SAGAR** and **Act East Policy**
 ---
+### Digital Arrest
+#GS3 #InternalSecurity #CyberSecurity
+- **West Bengal** delivered **first conviction** in **Digital Arrest Scam** under various sections of IPC and **Section 66C (impersonation), 66D (cheating by impersonation)** of the **IT Act 2000**
+	- The convicts were a part of a gang that scammed >Rs.100 crore from more than 100 people through **"digital arrests"**
+- **Digital Arrest:**
+	- Is a scam designed to **extort money** from victims using **fear, deceit** and **intimidation** by **impersonating** as a **law enforcement official**
+	- **Methods:** 
+		- **Messages about being under investigation:** Victims receive a *phone call, email or message* claiming they are under *investigation for illegal activities* such as *identity theft* or *money laundering*.
+		- **Threats and Pressure:** of arrest to create *panic and *prevent victims* from thinking rationally
+		- **Demands for payment:** victims are tricked into transferring large amounts to fake accounts under the pretense of *clearing their names* or *providing refundable security deposits*.
+- **Administrative aspects:**
+	- **"Police"** is a state subject and therefore States are responsible for investigating and convictions
+	- **Centre** supplements the initiatives of the states through **advisories** and **financial assistance** under various schemes
+- **Steps/Initiatives to curb digital arrest:**
+	- ***I4C (Indian Cyber Crime Coordination Centre)*** Established by the **Ministry of Home Affairs** as the **central coordinating body for all cyber-crimes**
+		- **Cyber Fraud Mitigation Centre (CFMC):** established at **I4C** where **banks, telecom providers** and **law enforcement** works together
+	- ***Samanvaya Platform:*** acts as a **data repository** and **coordination system** for **interstate crime linkages**
+	- ***Suspect Registry:*** launched in collaboration with **banks** to track **cybercriminal identifiers**
+	- ***Report and Check Suspect:*** a new feature on the ***cybercrime.gov.in*** allowing citizens to search criminal databases
+	- ***CERT-IN guidelines:***
+		- Verify caller's identity
+		- Do not panic or transfer money under pressure - take a moment to assess the situation calmly
+		- Avoid sharing personal information
+		- Do not share your device with strangers
+---
+### Javelin ATGM
+#GS3 #InternalSecurity #Defence 
+- India has submitted a **letter of request** to the **USA** for the **co-production of Javelin ATGMs**
+- **Javelin Anti-Tank Guided Missiles** are premier **single man-portable medium-range anti-tank weapon system**
+- The missile automatically guides itself to the target after the launch based on the **fire-and-forget-principle**
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZ81xGWpxrUCjCgTqnMVWu9XEZUzwUcfsgw&s" alt="Javelin ATGM" width="200"><br><i>Javelin ATGM</i></p>
+
+---
+### Netra MkII
+#GS3 #InternalSecurity #DisasterManagement #Defence 
+- The government has approved the **production** of the **next generation Airborne Early Warning and Control System (AWACS) India Programme** referred to as the ***Netra MkII***
+- It will be **mounted** on the **Airbus A321 platform**
+- **Features:**
+	- **Detect, track** and **monitor threats** across vast distances
+	- Much more than an aircraft as it is a **flying command centre** which will extend our **national vigilance**
+	- it has **Active Electronically Scanned Array (AESA) radars** and **mission control systems**
+<p align="center"><img src="https://static.toiimg.com/thumb/msid-122651177,imgsize-462174,width-400,resizemode-4/122651177.jpg" alt="Netra MkII AWACS on Airbus A321" width="200"/><br><i>Netra MkII AWACS on Airbus A321</i></p>
+
+---
+

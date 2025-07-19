@@ -248,3 +248,29 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 4. **Gobal Partnership on AI (GPAI) Summit, 2023:** a *multi-stakeholder initiative* which aims to bridge the gap between *theory and practice in AI*.
 
 ---
+### **SOCIAL ORGANIZATIONS**
+#GS2 #Governance #NGOs 
+
+<b><u>NEWS:</u></b> 
+- ***Lok Sabha Speaker Shri Om Birla*** emphasized the role of social organisations in holistic development of Nation and Society
+- #Definition **Social organization** refers to the way individuals and groups are structured and interact within a society. It can be **formal** or **informal**
+	- **Formal Social Organizations:** #Eg *Religious institutions, Educational Organisations, Labour Unions*
+	- **Informal Social Organizations:** #Eg *Family, Friends, Per Groups*
+
+<b><u>ROLE OF VARIOUS SOCIAL ORGANIZATIONS IN NATION BUILDING:</u></b>
+1. **Family:** 
+	- Primary conduit of **social norms** and **values**, transfer good **moral behaviors**, helps in creating a more **harmonious** and **inclusive society**
+2. **Religious Institutions:**
+	- Provides **moral framework** and strengthen values like **compassion, forgiveness** and **charity,** promotes **social order** and **communal cohesion** along with promoting **welfare activities** that can help **alleviate poverty**
+3. **Educational Institutions:**
+	- Transmission of **knowledge and skills**, promotion of values such as **hard work, discipline, team work**, prepare individuals for various roles and responsibilities
+4. **Non Governmental Organizations:**
+	- **Policy advocacy and influence:** #Eg *Mazdor Kisan Shakti Sangathan* played a role in influencing the *RTI Act*
+	- **Awareness and capacity-building:** #Eg Role of *SEWA* (trade union of Self Employed Women) in *gender related issues*
+	- **Improved service delivery** and **last mile delivery:** #EG Role of *Pratham* in *education sector*
+	- **Strengthening of democracy:** #Eg Role of *ADR* in *decriminalization of politics*
+
+<b><u>CONCLUSION:</u></b> 
+- Recognizing and understanding the significance of social organizations/institutions is crucial for building sustainable, inclusive, and resilient societies capable of adapting to future challenges
+
+---

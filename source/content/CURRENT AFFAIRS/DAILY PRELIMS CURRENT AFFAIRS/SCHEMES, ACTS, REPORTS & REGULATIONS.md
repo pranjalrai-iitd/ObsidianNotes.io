@@ -1258,3 +1258,26 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 		- **6 notified minorities are:** *Muslims, Christians, Sikhs, Buddhists, Jains* and *Zoroastrians*
 	- **Implementation** in *convergence* with the ***Skill India Mission***
 ---
+### National Mobile Monitoring System (NMMS)
+#GS3 #Economy #Employment #DPI #Scheme 
+- **Ministry of Rural Development (MoRD)** has highlighted instances of **misuse or manipulation of NMMSS** raising concerns about **transparency & accountability** in the implementation of **MGNREGA**
+- **NMMS App:**
+	- **Launched by:** *MoRD*
+	- **Use:** to capture **attendance of MGNREGA workers** with **geo-tagged** and **time-stamped photographs** of the worker in a day
+	- **Objective:** to reduce instances of **fake attendance** and **ghost beneficiaries**
+	- **Languages:** available in **English, Hindi, Tamil, Telugu,** and **Malaylam** etc.
+- **Concerns:**
+	- **Accountability and potential financial irregularities:** *irrelevant photo uploads* and *repeated worker photos*
+	- **Internet connectivity and software glitches** resulting into **Exclusion**
+---
+### NSCSTI 2.0
+#GS2 #Governance #CivilServices #CapacityBuilding #Skilling 
+- Union Minister unveiled ***National Standards for Civil Service Training Institutes 2.0  (NSCSTI 2.0) Framework***
+- It is **developed** by **Capacity Building Commission**
+- **Objective:** to build future-ready civil services Training Institutes
+- **Key features:**
+	- Streamlined evaluation metrics, Inclusive design, Digitally aligned with hybrid learning models, etc.
+- **Capacity Building Commission (2021):**
+	- It plays a key role in implementing the **National Programme for Civil Services Capacity Building (NPCSCB)** also known as **Mission karmayogi**
+	- It works as an **independent body** with **full executive power**
+---

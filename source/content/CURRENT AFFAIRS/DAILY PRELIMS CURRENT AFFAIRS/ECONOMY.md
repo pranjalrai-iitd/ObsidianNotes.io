@@ -473,4 +473,33 @@
 - **Census provides disaggregated data on:** *Ownership patterns, Number of persons engaged, Geographical spreas of economic activites,* etc.
 - **Previously conducted Economic Census (7 times):** in *1977, 1980, 1990, 1998, 2005, 2013, 2017*
 ---
-
+### Stablecoins
+#GS3 #Economy #DPI #Cryptocurrencies
+- USA enacted the **GENIUS Act** to regulate **Stablecoins**
+	- It stands for **Guiding and Establishing National Innovation for U.S. Stablecoins Act**
+- **Stablecoins** are type of **cryptocurrency** whose **value is linked to another currency, commodity or financial instrument**
+	- #Eg ***Tether (USDT)*** is pegged to the **USD**
+	- They have the potential to bring *efficiencies to payments*
+- **Features of Stablecoins:
+	- **Linked to an underlying asset:**  due to which they can maintain a **steadier value** making them **more reliable medium of exchange** that other **volative currencies** like cryptocurrencies.
+		- The **underlying assets** are backed by an **identifiable issuer** unlike many unbacked crypto assets
+		- **Issuers** could be **banks, non-bank financial entities** and **large technology conglomerates**
+	- **Regulation:** Decisions for stable coin arrangements are usually taken by a **governance body**
+- **Regulation of Cryptocurrency or Crypto Assets in India:**
+	- Currently, **crypto assets** are **unregulated** in India
+	- However, Government through **Finance Act 2022** brought a **comprehensive taxation regime** for the **transfer of Virtual Digital Assets (VDA)**
+		- It imposed a **30% capital gains tax** from VDAs
+		- Along with **1% TDS** on **transfer of VDAs**
+	- **Income Tax Act 1961** defines **VDA** as any **information or code or number or token**, **generated** through **cryptographic** means or otherwise, transferred, stored, or traded electronically. #Eg Cryptocurrencies, NFTs, etc.
+	- In 2023, **VDAs** were brought under the purview of the **PMLA 2002** Act.
+---
+### Base Year Revision for CPI AL/RL
+#GS3 #Economy #Inflation 
+- The **Labour Bureau** has revised the **base year** of the **Consumer Price Index Numbers** for **Agricultural Labourers** and **Rural Labourers** to ***2019=100***
+- ***CPI – AL & RL series (Base: 2019=100)*** **replaces** the CPI – **AL/RL (Base: 1986-87=100)** series
+	- **CPI-AL:** ***1.42%***
+	- **CPI-RL:** ***1.73%***
+- **Agricultural Labourer:** a person is treated as an **agricultural labourer** if he or she **follows one or more of the agricultural occupations in the capacity of a labourer on hire,** weather paid in cash or *kind* or partly in cash or partly in kind
+- **Rural Labourer:** is defined as **one who does manual work in rural areas in agricultural and non-agricultural occupations** in return for wages in cash or king, or partly in cash and partly in kind.
+- **NOTE:** The **CPI-IW (Industrial Worker)(Base: 2016)** is also released by the **Labour Bureau** and is used to estimate the **Dearness Allowance**
+---

@@ -435,3 +435,19 @@
 	- It was launched in **2022**
 	- The group is a **driving force** of ***United Nations Alliance of Civilizations (UNAOC)*** and plays a vital role in **UNAOC's strategic planing and implementation process**
 ---
+### Pact for Future
+#GS2 #GS3 #IR #UN #SustainableDevelopment 
+- India reaffirms commitment to the ***"Pact for Future"*** at the **UN dialogue**
+- It was adopted at the ***Summit of the Future 2024***
+- The **Pact for Future** includes:
+	- ***Global Digital Compact:*** It is **1st comprehensive global framework for digital cooperation**
+	- ***Declaration on Future Generations***
+- **Feature:** It makes **clear commitments** and achieves **concrete deliverables** on a range of issues, with **strong attention to human rights, gender** and **sustainable development**
+- **Pact for Future** formulates **various commitments** in the areas of:
+	- *Sustainable development and financing for development*
+	- *International peace and security*
+	- *Science, technology, and innovation and digital cooperation*
+	- *Youth and future generations*
+	- *Transforming global governance*
+- The **Pact for Future** will guide the world post 2030 post the **target date for UN Sustainable Development Goals**
+---

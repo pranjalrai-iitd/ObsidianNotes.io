@@ -141,3 +141,41 @@
 - India's REE reserves are mainly found in **monazite sand** which also contains **Thorium**
 - **Coastal states** have the most **rare earth deposits** namely, **Tamil Nadu, Kerala, Andhra Pradesh** and **Odisha**
 ---
+### Offshore Areas Minerals Operating Right Rules 2025
+#GS3 #Resources #Minerals #Act 
+- The **rules** are notified under the provisions of the ***Offshore Areas Mineral (Development and Regulation) Act, 2002***
+	- **Objective:** to regulate **exploration** and **mining** of ***Atomic minerals*** like **Uranium** and **Thorium**
+	- Rules will **only apply** if the **concentration** of atomic minerals is above a **certain minimum threshold**
+	- Under the rules, **entities nominated** by the **government** can be granted **exploration licenses** or **production leases**
+	- In case of **foreign entities** undertaking exploration operations, **prior approval** shall be obtained from the **Government authorities**
+- **Key Atomic Minerals in India:**
+	- **URANIUM:**
+		- **Key Reserves:** 
+			- **Jharkhand** - *Singhbum Shear Zone*
+			- **Andhra Pradesh** - *South Cuddapah Basin*
+			- **Telangana** - *North Cuddapah Basin*
+			- **Meghalaya** - *Mahadek Basin*
+			- **Rajasthan** - *North Delhi Fold Belt*
+			- **Karnataka:** - *Bhima Basin*
+				- **Jaduguda** (Jharkhand) is the **first mine** in the country to produce Uranium ore on a commercial scale
+				- **Other mines:** **Lambapur-Peddagattu** (Andhra Pradesh), **Bagjata mine** (Jharkhand)
+		- Most of the Uranium deposits in India are **small** and of far **lower grade** compared to those in leading Uranium-producing countries in the world.
+		- **GLOBAL URANIUM RESERVES:**
+
+| **Uranium DEPOSITS**                                                                                             | **Uranium PRODUCTION** (2022)                                                           | **State wise in INDIA**                                            |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 1. Australia<br>2. Kazakhstan<br>3. Canada<br>4. Russia<br>5. Namibia<br>6. South Africa<br>7. Niger<br>8. India | 1. Kazakhstan - 43%<br>2. Canada - 15%<br>3. Namibia - 11%<br>4. Australia<br>5. Russia | 1. Andhra Pradesh - 49%<br>2. Jharkhand - 26%<br>3. Meghalaya - 9% |
+
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/BdPT2aiv2mmIGyiDOUq8NMtcO79h5YL7638OwCRR.jpg" alt="Uranium Deposits in India" width="600"/></p>
+
+- **THORIUM**
+	- India has a limited resource of Uranium but a large resource of Thorium
+	- **Monazite** contains **8-10% Thorium**
+	- The beach sands of **Kerala** and **Odisha** have rich reserves of Monazite
+	- **GLOBAL THORIUM RESERVES:**
+
+| **Thorium DEPOSITS**                                         | **State wise MONAZITE in INDIA**                                                                                                                |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. India<br>2. Brazil<br>3. Australia<br>4. USA<br>5. Turkey | 1. Andhra Pradesh - 31.18%<br>2. Tamil Nadu - 20.6%<br>3. Odisha - 20.2%<br>4. Kerala - 15.9%<br>5. West Bengal - 10.22%<br>6. Jharkhand - 1.8% |
+
+---

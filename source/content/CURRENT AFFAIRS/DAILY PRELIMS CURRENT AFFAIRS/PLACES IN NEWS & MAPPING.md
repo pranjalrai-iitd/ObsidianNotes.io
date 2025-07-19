@@ -393,3 +393,17 @@
 	- ***Lake Poopo*** - a **saline lake** and a mining centre for *Silver* and *Tin* and due to this it has **dried up considerably
 	- ***Lake Titicaca*** - a **freshwater lake** on the border with Peru and is **world's highest navigable lake**
 ---
+### Sudan
+#GS1 #Geography #PlacesInNews #Mapping 
+- Recently numerous people lost their lives in clashes between rival military factions in **Sudan's** ***Kordofan*** region
+<p align="center"><img src="https://www.worldatlas.com/r/w960-q80/upload/61/00/fd/sd-01.jpg" alt="Sudan" width="450"/></p>
+
+- Located at the **crossroads** of **Sub-Saharan Africa** and **Middle East** facing the ***Red Sea***
+- **Land borders:** ***Egypt, Eritrea, Ethiopia, South Sudan, Central African Republic (CAR), Chad*** and ***Libya***
+- **Geographic features:**
+	- **Highest peak:** ***Jebel Marra*** also known as the ***Marrah Mountain*** in the **West**
+	- The **White Nile** and the **Blue Nile** **converse at** ***Khartoum*** to form the **Nile river**
+	- **Darfur** region
+	- **Nuba Mountains** in the **South**
+	- **Red Sea Hills** in the **East**
+---

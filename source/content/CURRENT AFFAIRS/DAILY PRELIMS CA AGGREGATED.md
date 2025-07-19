@@ -5336,3 +5336,198 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 		- Oversee the **quality of service of the professions associate** and suggests **measure to improve the quality**
 		- **Perform such other functions and duties** as may be necessary or incidental to the aforesaid functions and duties.
 ---
+### Digital Arrest
+#GS3 #InternalSecurity #CyberSecurity
+- **West Bengal** delivered **first conviction** in **Digital Arrest Scam** under various sections of IPC and **Section 66C (impersonation), 66D (cheating by impersonation)** of the **IT Act 2000**
+	- The convicts were a part of a gang that scammed >Rs.100 crore from more than 100 people through **"digital arrests"**
+- **Digital Arrest:**
+	- Is a scam designed to **extort money** from victims using **fear, deceit** and **intimidation** by **impersonating** as a **law enforcement official**
+	- **Methods:** 
+		- **Messages about being under investigation:** Victims receive a *phone call, email or message* claiming they are under *investigation for illegal activities* such as *identity theft* or *money laundering*.
+		- **Threats and Pressure:** of arrest to create *panic and *prevent victims* from thinking rationally
+		- **Demands for payment:** victims are tricked into transferring large amounts to fake accounts under the pretense of *clearing their names* or *providing refundable security deposits*.
+- **Administrative aspects:**
+	- **"Police"** is a state subject and therefore States are responsible for investigating and convictions
+	- **Centre** supplements the initiatives of the states through **advisories** and **financial assistance** under various schemes
+- **Steps/Initiatives to curb digital arrest:**
+	- ***I4C (Indian Cyber Crime Coordination Centre)*** Established by the **Ministry of Home Affairs** as the **central coordinating body for all cyber-crimes**
+		- **Cyber Fraud Mitigation Centre (CFMC):** established at **I4C** where **banks, telecom providers** and **law enforcement** works together
+	- ***Samanvaya Platform:*** acts as a **data repository** and **coordination system** for **interstate crime linkages**
+	- ***Suspect Registry:*** launched in collaboration with **banks** to track **cybercriminal identifiers**
+	- ***Report and Check Suspect:*** a new feature on the ***cybercrime.gov.in*** allowing citizens to search criminal databases
+	- ***CERT-IN guidelines:***
+		- Verify caller's identity
+		- Do not panic or transfer money under pressure - take a moment to assess the situation calmly
+		- Avoid sharing personal information
+		- Do not share your device with strangers
+---
+### Offshore Areas Minerals Operating Right Rules 2025
+#GS3 #Resources #Minerals #Act 
+- The **rules** are notified under the provisions of the ***Offshore Areas Mineral (Development and Regulation) Act, 2002***
+	- **Objective:** to regulate **exploration** and **mining** of ***Atomic minerals*** like **Uranium** and **Thorium**
+	- Rules will **only apply** if the **concentration** of atomic minerals is above a **certain minimum threshold**
+	- Under the rules, **entities nominated** by the **government** can be granted **exploration licenses** or **production leases**
+	- In case of **foreign entities** undertaking exploration operations, **prior approval** shall be obtained from the **Government authorities**
+- **Key Atomic Minerals in India:**
+	- **URANIUM:**
+		- **Key Reserves:** 
+			- **Jharkhand** - *Singhbum Shear Zone*
+			- **Andhra Pradesh** - *South Cuddapah Basin*
+			- **Telangana** - *North Cuddapah Basin*
+			- **Meghalaya** - *Mahadek Basin*
+			- **Rajasthan** - *North Delhi Fold Belt*
+			- **Karnataka:** - *Bhima Basin*
+				- **Jaduguda** (Jharkhand) is the **first mine** in the country to produce Uranium ore on a commercial scale
+				- **Other mines:** **Lambapur-Peddagattu** (Andhra Pradesh), **Bagjata mine** (Jharkhand)
+		- Most of the Uranium deposits in India are **small** and of far **lower grade** compared to those in leading Uranium-producing countries in the world.
+		- **GLOBAL URANIUM RESERVES:**
+
+| **Uranium DEPOSITS**                                                                                             | **Uranium PRODUCTION** (2022)                                                           | **State wise in INDIA**                                            |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 1. Australia<br>2. Kazakhstan<br>3. Canada<br>4. Russia<br>5. Namibia<br>6. South Africa<br>7. Niger<br>8. India | 1. Kazakhstan - 43%<br>2. Canada - 15%<br>3. Namibia - 11%<br>4. Australia<br>5. Russia | 1. Andhra Pradesh - 49%<br>2. Jharkhand - 26%<br>3. Meghalaya - 9% |
+
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/BdPT2aiv2mmIGyiDOUq8NMtcO79h5YL7638OwCRR.jpg" alt="Uranium Deposits in India" width="600"/></p>
+
+- **THORIUM**
+	- India has a limited resource of Uranium but a large resource of Thorium
+	- **Monazite** contains **8-10% Thorium**
+	- The beach sands of **Kerala** and **Odisha** have rich reserves of Monazite
+	- **GLOBAL THORIUM RESERVES:**
+
+| **Thorium DEPOSITS**                                         | **State wise MONAZITE in INDIA**                                                                                                                |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. India<br>2. Brazil<br>3. Australia<br>4. USA<br>5. Turkey | 1. Andhra Pradesh - 31.18%<br>2. Tamil Nadu - 20.6%<br>3. Odisha - 20.2%<br>4. Kerala - 15.9%<br>5. West Bengal - 10.22%<br>6. Jharkhand - 1.8% |
+
+---
+### Quantum Cryptography
+#GS3 #SciTech #QuantumTechnology
+- A whitepaper titled, ***"Transitioning to Quantum Cyber Readiness"*** has been unveiled by the **MeitY, CERT-In** and the cybersecurity firm *SISA*
+- **QUANTUM CYBERSECURITY:** It encompasses two primary approaches:
+	- ***PQC (Post-quantum Cryptography):*** it involves developing encryption methods that can withstand attacks from quantum computers while remaining compatible with classical systems
+	- ***Quantum Cryptography/ Quantum Encryption:*** utilizes quantum mechanics principles such as **Quantum Key Distribution (QKD)** to create theoretically unbreakable encryption techniques
+- **NEED of QUANTUM CUBER READINESS:**
+	- ***Harvest Now,  Decrypt Later (HNDL) attacks:*** involves **storing encrypted data now** to **decrypt it in future** using **quantum technologies**
+		- It involves **data breaches** related to digital certificates, blockchains, cryptocurrencies, etc.
+	- ***Encryption algorithms:*** like the **Rivest-Shamir-Adleman (RSA)** that are foundational to today's digital security, are expected to be rendered obsolete within the next few years
+- **ROADMAP FOR QUANTUM CYBER READINESS:**
+	- **Foundational Assessment & Strategic Planning:** #Eg *Identification of Quantum Vulnerable Assets*
+	- **Technology Readiness & Capacity Building:** #Eg *Infrastructure Evaluation & Upgrade Planning*
+	- **Phased Organizational Rollout:** Suggest *multi-phase transformation* that must be aligned with an organizations's architecture, strategic priorities, resource availability and risk appetite
+	- **Resilience, Monitoring & Future proofing:** #Eg *implementation of QKD*
+---
+### Sudan
+#GS1 #Geography #PlacesInNews #Mapping 
+- Recently numerous people lost their lives in clashes between rival military factions in **Sudan's** ***Kordofan*** region
+<p align="center"><img src="https://www.worldatlas.com/r/w960-q80/upload/61/00/fd/sd-01.jpg" alt="Sudan" width="450"/></p>
+
+- Located at the **crossroads** of **Sub-Saharan Africa** and **Middle East** facing the ***Red Sea***
+- **Land borders:** ***Egypt, Eritrea, Ethiopia, South Sudan, Central African Republic (CAR), Chad*** and ***Libya***
+- **Geographic features:**
+	- **Highest peak:** ***Jebel Marra*** also known as the ***Marrah Mountain*** in the **West**
+	- The **White Nile** and the **Blue Nile** **converse at** ***Khartoum*** to form the **Nile river**
+	- **Darfur** region
+	- **Nuba Mountains** in the **South**
+	- **Red Sea Hills** in the **East**
+---
+### Stablecoins
+#GS3 #Economy #DPI #Cryptocurrencies
+- USA enacted the **GENIUS Act** to regulate **Stablecoins**
+	- It stands for **Guiding and Establishing National Innovation for U.S. Stablecoins Act**
+- **Stablecoins** are type of **cryptocurrency** whose **value is linked to another currency, commodity or financial instrument**
+	- #Eg ***Tether (USDT)*** is pegged to the **USD**
+	- They have the potential to bring *efficiencies to payments*
+- **Features of Stablecoins:
+	- **Linked to an underlying asset:**  due to which they can maintain a **steadier value** making them **more reliable medium of exchange** that other **volative currencies** like cryptocurrencies.
+		- The **underlying assets** are backed by an **identifiable issuer** unlike many unbacked crypto assets
+		- **Issuers** could be **banks, non-bank financial entities** and **large technology conglomerates**
+	- **Regulation:** Decisions for stable coin arrangements are usually taken by a **governance body**
+- **Regulation of Cryptocurrency or Crypto Assets in India:**
+	- Currently, **crypto assets** are **unregulated** in India
+	- However, Government through **Finance Act 2022** brought a **comprehensive taxation regime** for the **transfer of Virtual Digital Assets (VDA)**
+		- It imposed a **30% capital gains tax** from VDAs
+		- Along with **1% TDS** on **transfer of VDAs**
+	- **Income Tax Act 1961** defines **VDA** as any **information or code or number or token**, **generated** through **cryptographic** means or otherwise, transferred, stored, or traded electronically. #Eg Cryptocurrencies, NFTs, etc.
+	- In 2023, **VDAs** were brought under the purview of the **PMLA 2002** Act.
+---
+### National Mobile Monitoring System (NMMS)
+#GS3 #Economy #Employment #DPI #Scheme 
+- **Ministry of Rural Development (MoRD)** has highlighted instances of **misuse or manipulation of NMMSS** raising concerns about **transparency & accountability** in the implementation of **MGNREGA**
+- **NMMS App:**
+	- **Launched by:** *MoRD*
+	- **Use:** to capture **attendance of MGNREGA workers** with **geo-tagged** and **time-stamped photographs** of the worker in a day
+	- **Objective:** to reduce instances of **fake attendance** and **ghost beneficiaries**
+	- **Languages:** available in **English, Hindi, Tamil, Telugu,** and **Malaylam** etc.
+- **Concerns:**
+	- **Accountability and potential financial irregularities:** *irrelevant photo uploads* and *repeated worker photos*
+	- **Internet connectivity and software glitches** resulting into **Exclusion**
+---
+### INVICTUS
+#GS2 #IR #Space 
+- The **European Space Agency (ESA)** and the UK-based **Frazer-Nash** have kicked off **INVICTUS** to develop **hypersonic technologies**
+- It is a **fully reusable experimental aerospace vehicle** capable of flying at **Mach 5**
+- **Funding:** 
+	- **ESA's General Support Technology Programme (GSTP)**
+	- **ESA's Technology Development Element (TDE)**
+- **Key Features:**
+	- Sustained hypersonic flight in the atmosphere
+	- Upgradable, allowing for the exchange of materials, software and propulsion systems between flight test campaigns
+- **Significance:** prove suitability of a **hydrogen-fulled pre-cooled air-breathing propulsion system** for **horizontal take-off** and **hypersonic flight** in **reusable vehicles**
+<p align="center"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/invictus_europe_s_new_hypersonic_test_platform/26799804-1-eng-GB/INVICTUS_Europe_s_new_hypersonic_test_platform_pillars.png" alt="INVICTUS" width="200"><br><i>ESA's INVICTUS</i></p>
+
+---
+### Base Year Revision for CPI AL/RL
+#GS3 #Economy #Inflation 
+- The **Labour Bureau** has revised the **base year** of the **Consumer Price Index Numbers** for **Agricultural Labourers** and **Rural Labourers** to ***2019=100***
+- ***CPI – AL & RL series (Base: 2019=100)*** **replaces** the CPI – **AL/RL (Base: 1986-87=100)** series
+	- **CPI-AL:** ***1.42%***
+	- **CPI-RL:** ***1.73%***
+- **Agricultural Labourer:** a person is treated as an **agricultural labourer** if he or she **follows one or more of the agricultural occupations in the capacity of a labourer on hire,** weather paid in cash or *kind* or partly in cash or partly in kind
+- **Rural Labourer:** is defined as **one who does manual work in rural areas in agricultural and non-agricultural occupations** in return for wages in cash or king, or partly in cash and partly in kind.
+- **NOTE:** The **CPI-IW (Industrial Worker)(Base: 2016)** is also released by the **Labour Bureau** and is used to estimate the **Dearness Allowance**
+---
+### NSCSTI 2.0
+#GS2 #Governance #CivilServices #CapacityBuilding #Skilling 
+- Union Minister unveiled ***National Standards for Civil Service Training Institutes 2.0  (NSCSTI 2.0) Framework***
+- It is **developed** by **Capacity Building Commission**
+- **Objective:** to build future-ready civil services Training Institutes
+- **Key features:**
+	- Streamlined evaluation metrics, Inclusive design, Digitally aligned with hybrid learning models, etc.
+- **Capacity Building Commission (2021):**
+	- It plays a key role in implementing the **National Programme for Civil Services Capacity Building (NPCSCB)** also known as **Mission karmayogi**
+	- It works as an **independent body** with **full executive power**
+---
+### Javelin ATGM
+#GS3 #InternalSecurity #Defence 
+- India has submitted a **letter of request** to the **USA** for the **co-production of Javelin ATGMs**
+- **Javelin Anti-Tank Guided Missiles** are premier **single man-portable medium-range anti-tank weapon system**
+- The missile automatically guides itself to the target after the launch based on the **fire-and-forget-principle**
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZ81xGWpxrUCjCgTqnMVWu9XEZUzwUcfsgw&s" alt="Javelin ATGM" width="200"><br><i>Javelin ATGM</i></p>
+
+---
+### Netra MkII
+#GS3 #InternalSecurity #DisasterManagement #Defence 
+- The government has approved the **production** of the **next generation Airborne Early Warning and Control System (AWACS) India Programme** referred to as the ***Netra MkII***
+- It will be **mounted** on the **Airbus A321 platform**
+- **Features:**
+	- **Detect, track** and **monitor threats** across vast distances
+	- Much more than an aircraft as it is a **flying command centre** which will extend our **national vigilance**
+	- it has **Active Electronically Scanned Array (AESA) radars** and **mission control systems**
+<p align="center"><img src="https://static.toiimg.com/thumb/msid-122651177,imgsize-462174,width-400,resizemode-4/122651177.jpg" alt="Netra MkII AWACS on Airbus A321" width="200"/><br><i>Netra MkII AWACS on Airbus A321</i></p>
+
+---
+### Pact for Future
+#GS2 #GS3 #IR #UN #SustainableDevelopment 
+- India reaffirms commitment to the ***"Pact for Future"*** at the **UN dialogue**
+- It was adopted at the ***Summit of the Future 2024***
+- The **Pact for Future** includes:
+	- ***Global Digital Compact:*** It is **1st comprehensive global framework for digital cooperation**
+	- ***Declaration on Future Generations***
+- **Feature:** It makes **clear commitments** and achieves **concrete deliverables** on a range of issues, with **strong attention to human rights, gender** and **sustainable development**
+- **Pact for Future** formulates **various commitments** in the areas of:
+	- *Sustainable development and financing for development*
+	- *International peace and security*
+	- *Science, technology, and innovation and digital cooperation*
+	- *Youth and future generations*
+	- *Transforming global governance*
+- The **Pact for Future** will guide the world post 2030 post the **target date for UN Sustainable Development Goals**
+---
