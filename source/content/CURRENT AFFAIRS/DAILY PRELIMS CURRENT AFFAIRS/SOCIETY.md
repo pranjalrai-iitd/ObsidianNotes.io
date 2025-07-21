@@ -249,3 +249,37 @@ A(Social security)-->D(Labor market  programs);
 	- It is **designated as Central Authority** to deal with **inter-country adoptions** in accordance with the provisions of the **Hague Convention on Inter-Country Adoption 1993**
 		- India ratified it in **2003**
 ---
+### Kashi Declaration for Drug Free India
+#GS1 #SocialIssues #VulnerableSections #Youth 
+- **Kashi Declaration** was adopted in the **Youth Spiritual Summit** for **Drug Free India** as apart of the broader **Mera Yuva (MY) Bharat Framework**.
+	- **MY Bharat** is an **autonomous body** set up by the **Government of India** to provide an institutional mechanism powered by **technology** for **youth development** and **youth-led development**
+- **Kashi Declaration:**
+	- Sets a **5 year roadmap** for **De-Addiction Movement**
+	- Affirms a **national consensus** to treat substance abuse as a **multi-faceted public health** and **societal challenge**
+	- It proposes **institutional mechanisms** for **multi-ministerial coordination,** including the formation of a **joint National Committee, annual progress reporting,** and a **national platform** for linking affected individuals to support services.
+	- **Integration** of spiritual, cultural, educational, and technological efforts to prevent addiction
+- **Other initiatives taken to reduce Drug Abuse:**
+	- The **Narcotic Drugs and Psychotropic Substances Act, 1985**
+	- The **Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Act, 1988**
+	- **National Action Plan for Drug Demand Reduction (NAPDDR), 2018-25**
+	- **Nasha Mukt Bharat Abhiyan (NMBA), 2020**
+- **Status of Drug-abuse in India** as per ***National Survey on Substance Abuse, 2019:***
+	- **Prevalence of alcohol use:** ***14.6%*** between the **age of 10 - 75 years** are current users of alcohol
+	- **Cannabis** and **Opiods** ( #Eg Heroin) are the **next commonly** used substances in India
+- **Driving factors behind Drug Abuse:**
+	- **Social factors:** #Eg Peer pressure, family conflicts and social inclusion
+	- **Economic factors:** #Eg Unemployment and poverty
+	- **Psychological factors:** #Eg Mental health issues like anxiety and depression
+	- **Academic/ Work stress:** #Eg High pressure in education and jobs increases risk, especially among youth
+	- **Easy drug availability:** India is located between the *Golden Crescent* and *Golden Triangle*
+---
+### Hatti Tribe
+#GS1 #Society #VulnerableSections #Tribals #Marriage
+- Recently, a traditional **polyandrous marriage** known as ***"Jada"*** was performed among the **Hatti tribe** in **Himachal Pradesh**
+	- Revenue laws recognize this practice as ***"Jodidara"***
+	- **Polyandry** is a form of polygamy where a woman marries more than one man at the same time
+	- **Reasons for polyandry:** ensuring **ancestral land** is **not divided**, **promoting brotherhood** and **joint family**, etc.
+- **Hatti Tribes:**
+	- It is a **close-knit community** in **Trans-Giri region (near Giri and Tons rivers)** of **Himachal Pradesh** and **Uttarakhand**
+	- The tribe is named after their **traditional occupation** - selling **homegrown produce, meat, etc. at small markets called** ***Haats.***
+---

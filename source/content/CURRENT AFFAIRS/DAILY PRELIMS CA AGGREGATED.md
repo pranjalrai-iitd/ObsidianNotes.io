@@ -1,4 +1,4 @@
-## TOPICS
+ ## TOPICS
 - **[[AGRICULTURE & PRIMARY SECTOR]]**
 - **[[ART & CULTURE]]**
 - **[[BIODIVERSITY]]**
@@ -4538,17 +4538,31 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 ---
 ### INDIA-EFTA TEPA
 #GS3 #Economy #Trade #InternationalGroupings 
-- Switzerland completed the ratification process of the **TEPA** *(Trade and Economic Partnership Agreement)* signed between India and EFTA
+- Switzerland completed the ratification process of the **TEPA** *(Trade and Economic Partnership Agreement)* signed between India and EFTA. It will **come into effect from October 1, 2025**
 - **EFTA:** European Free Trade Area - *LINS*
-	- Switzerland
-	- Liechtenstein
-	- Norway
-	- Iceland
-- **TEPA:**
-	- **Binding commitment:** 
-		- ***USD 100 Billion investment*** from EFTA into India in the **next 15 years** creating **1 million direct jobs**
-			- **FPI** are **NOT** covered in these investments
-		- Commitments related to **IPR** are at *TRIPS level*
+	- It is an **intergovernmental organization** for the promotion for **free trade and economic integration** of its members
+	- **Member states:**
+		- Switzerland
+		- Liechtenstein
+		- Norway
+		- Iceland
+	- **NOT** as **Customs Union** **NOR** a part of the **EU**
+	- **Founded** by the ***Stockholm Convention 1960*** as an alternative trade block for countries unwilling to join the *European Economic Community* with **7 founding members** - ***Austria, Denmark, Great Britain, Norway, Portugal, Sweden and Switzerland***
+		- Now only **2 founding members remain** - ***Norway*** and ***Switzerland***
+- **Provisions of TEPA:**
+	- **Binding commitment:** It is **1st FTA** making a **binding commitment** of **USD 100 Billion investment (FDI)** and **1 Million direct jobs** in India in the **next 15 years**
+		- **FPI** is **NOT** covered
+		- **USD 50 Billion** in first 10 years and another **USD 50 Billion** in the next 5 years
+		- In return, **India** will allow several products like *Swiss watches, chocolates, and cut-polished diamonds* at **lower or zero duties**
+	- **Market access:** EFTA's market access offer (for India) covers **100% of non-agri products** and **tariff concessions** on **Processed Agricultural products (PAP)**
+		- Sectors such as **dairy, soya, coal** and **sensitive products** are kept in the **exclusion list**
+	- **Tariff reduction:** EFTA will eliminate or reduce import tariffs on **99.6% of India's exports**. India will eliminate or reduce import tariffs on **95.3% of exports** to EFTA nations.
+	- **IPR commitments****
+	- **Mutual Recognition Agreements** in **Professional Services** like Nursing
+- **India-EFTA Trade Relations:**
+	- In **FY25** the bilateral trade totaled ***USD 24.4 Billion*** with India facing a **large trade deficit**, particularly due to **gold imports from Switzerland**
+		- **Gold imports** from EFTA form over **80% import** from **EFTA**
+	- Among EFTA countries, **Switzerland** is India's largest trading partner followed by **Norway**
 ---
 ### AI Alliance Network (AIANET)
 #GS2 #GS3 #IR #SciTech #AI #IndiaPakistan 
@@ -5530,4 +5544,156 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- *Youth and future generations*
 	- *Transforming global governance*
 - The **Pact for Future** will guide the world post 2030 post the **target date for UN Sustainable Development Goals**
+---
+### World's largest Dam by China on Brahmaputra
+#GS2 #IR #China #WaterDiplomacy 
+- China has began construction of world's largest dam on Brahmaputra *(Yarlung Tsangpo)*
+	- The dam is being built across a **huge gorge** in the Himalayas where the river makes a **U-turn** near India's border
+	- Once completed the dam will **surpass** the scale of **China's** ***Three Gorges Dam*** on the **Yangtze River** (presently largest)
+	- **Brahmaputra** flows across the *Tibetan Plateau*, carving out the ***deepest canyon on Earth***
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/0Nk9jTaXLQkku5TZ3J3348eejMeo08MQ6M3xOJpl.jpg" alt="Chinese Dam on Brahmaputra" width="500"/></p>
+
+- **Concerns:**
+	- **Disaster risk:** this increases the treats related to **earthquakes**. The Tibetan plateau frequently experiences earthquakes. #Eg **1950 Assam-Tibet Earthquake**
+	- **Environmental challenges:** It may cause **disruption to local ecology** and downstream **water flow** affecting **biodiversity** and **agriculture**
+	- **Geopolitical challenges:** Chin can potentially **weaponize** the dam during conflicts by causing **floods** (***water bomb***)
+	- **Cultural challenges:** the project threatens **tribes** like the **Adi tribe** in **Siang valley** of **Arunachal Pradesh**
+	- **No hydrological data being shared by China** despite an **established Expert Level Mechanism (ELM) in 2006 to address trans boundary rivers**
+	- Both **India** and **China** are **not signatories** to the ***United national Convention of the Law of the Non-Navigational Uses of International Watercourses, 1977***
+- India is planning to build ***Upper Siang Multipurpose Project*** to counter China
+---
+### AdFalciVax
+#GS3 #SciTech #Health 
+- The multi-stage vaccine named ***"AdFalciVax"*** is being developed through **ICMR's Regional Medical Research Centre, Bhubneshwar** and **National Institute of Malaria Research** in partnership with **Department of Biotechnology - National Institute of Immunology**
+- **AdFlaciVax Vaccine:**
+	- **Dual-stage targeting of "Plasmodium Falciparum" (deadliest malaria parasite species)** unlike existing vaccines that target only one life stage, it targets two critical stages in parasite's lifecycle i.e,
+		- **Pre-erythrocytic (liver) stage**
+		- **Transmission (sexual) stage**
+	- **Recombinant Chimeric Vaccine:** a ***"chimeric"*** vaccine refers to vaccine that **combines antigens from different stages of a parasite's life cycle** into a **single** ***immunogen.***
+		- Recombinant DNA technology is a process where **DNA molecules from different sources are combined** to create a new DNA sequence
+	- **Indigenous Development:** it marks India's entry into the global league of advances malaria vaccine R&D
+- **Advantages over existing Malaria vaccines:**
+	- **Broader protection:** unlike existing WHO-recommended vaccines like ***RTS, S/AS01 (Mosquirix), R21/Matrix-M***, the new vaccine ***AdFalciVax*** offers **dual-stage protection**
+	- **Lower risk of immune evasion** and potential for better long-term immunity
+	- **Extended thermal stability** with functionality maintained for over **nine months at room temperature**
+	- **Cost-effective manufacturing:** produced in a safe and sclable **bacterial system** i.e, ***Lactococcus lactis***
+- **Malaria:**
+	- A life threatening disease caused by **Plasmodium parasites** and **does not spread from person to person**. It spreads mostly through **bites** of some **infected female Anopheles mosquitoes**
+	- It is mostly found in **Tropical countries**. However, ****Malaria is NOT a Neglected Tropical Disease (NTD)***
+	- **Five Plasmodium species cause malaria in humans:**
+		- *P. Falciparum, P. Vivax, P. Malariae, P. Ovale,* and *P. Knowlesi*
+---
+### Kashi Declaration for Drug Free India
+#GS1 #SocialIssues #VulnerableSections #Youth 
+- **Kashi Declaration** was adopted in the **Youth Spiritual Summit** for **Drug Free India** as apart of the broader **Mera Yuva (MY) Bharat Framework**.
+	- **MY Bharat** is an **autonomous body** set up by the **Government of India** to provide an institutional mechanism powered by **technology** for **youth development** and **youth-led development**
+- **Kashi Declaration:**
+	- Sets a **5 year roadmap** for **De-Addiction Movement**
+	- Affirms a **national consensus** to treat substance abuse as a **multi-faceted public health** and **societal challenge**
+	- It proposes **institutional mechanisms** for **multi-ministerial coordination,** including the formation of a **joint National Committee, annual progress reporting,** and a **national platform** for linking affected individuals to support services.
+	- **Integration** of spiritual, cultural, educational, and technological efforts to prevent addiction
+- **Other initiatives taken to reduce Drug Abuse:**
+	- The **Narcotic Drugs and Psychotropic Substances Act, 1985**
+	- The **Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Act, 1988**
+	- **National Action Plan for Drug Demand Reduction (NAPDDR), 2018-25**
+	- **Nasha Mukt Bharat Abhiyan (NMBA), 2020**
+- **Status of Drug-abuse in India** as per ***National Survey on Substance Abuse, 2019:***
+	- **Prevalence of alcohol use:** ***14.6%*** between the **age of 10 - 75 years** are current users of alcohol
+	- **Cannabis** and **Opiods** ( #Eg Heroin) are the **next commonly** used substances in India
+- **Driving factors behind Drug Abuse:**
+	- **Social factors:** #Eg Peer pressure, family conflicts and social inclusion
+	- **Economic factors:** #Eg Unemployment and poverty
+	- **Psychological factors:** #Eg Mental health issues like anxiety and depression
+	- **Academic/ Work stress:** #Eg High pressure in education and jobs increases risk, especially among youth
+	- **Easy drug availability:** India is located between the *Golden Crescent* and *Golden Triangle*
+---
+### National Sample Survey 
+#GS3 #Economy #Organizations 
+- **National Sample Survey (NSS)** completes **75 years**. it was established in **1950** by **P.C. Mahalanobis** to collect economic and social information from the whole country on the basis of random sampling
+- It is under the **National Statistics Office (NSO)**
+- **Ministry:** *Ministry of Statistics and Programme Implementation (MoSPI)* 
+- It is headed by a **Director General** responsible for conduct of large scale sample surveys on All India basis
+- **Coverage:**
+	- **Household surveys on socio-economic subjects:** #Eg surveys on population, birth, death, migration, fertility, family planning etc.
+	- **Surveys on land holding, livestock and agriculture**
+	- **Establishment surveys and enterprise surveys:** #Eg non-agricultural enterprises in unorganized sector and collection of rural prices in rural areas
+	- **Village surveys:** formation on availability of infrastructure facilities in Indian villages
+- **Four Divisions of NSS:**
+	1. **Survey Design and Research Division (SDRD):** located at *Kolkata*. it is responsible for technical planning of surveys, formulation of concepts and definitions, sampling design, etc.
+	2. **Field Operations Division (EOD):** with its HQ at *Delhi/Faridabad* is responsible for the collection for primary data.
+	3. **Data Processing Division (DPD):** HQ at *Kolkata* is responsible for sample selection, software development, processing, validation and tabulation of data
+	4. **Survey Coordination Division (SCD):** located at *New Delhi*, coordinates all the activities of different divisions of NSS
+- **Major surveys of NSS:**
+	- **Urban Frame Survey (Phase 2022-27):** to establish and update a reliable sampling frame for urban areas, crucial for conducting socio-economic surveys
+	- **Annual Survey of Industries (ASI):** to assess ans evaluate changes in the growth, composition and structure of organized manufacturing sector
+	- **Periodic Labour Force Survey (PLFS):** conducted from 2017 has been the primary source of statistics on labour force
+	- **Price Survey:** the **CPI-Urban & Rural**
+---
+### Bitra Island
+#GS1 #Geography #PlacesInNews #Mapping 
+- **Lakshadweep** administration is considering **acquisition** of **Bitra island** for **defence purposes**. The **military installations** in the island will help India keep a **watch on the busy sea lanes** and to **counter  illegal activities** and to quickly respond to **maritime threats** 
+- It is the **smallest inhabited island** in the territory of the **lakshadweep** having a land area of **0.105 sq km** with around **105 families** residing on the island. The **locals are protesting** against the same.
+- **Location:** near the **Agatti Island** in the Arabian Sea
+- **Climate:** Categorized as **"Aw"** i.e, **tropical savannah** according to the Koppen-Geiger classification
+- Average **rainfall** is **1600 mm/year**
+<p align="center"><img src="https://www.researchgate.net/profile/Anita_George2/publication/261177725/figure/fig2/AS:614353699082259@1523484744751/Map-showing-Lakshadweep-islands-and-Minicoy-Atoll.png" alt="Bitra Island" width="400"/></p>
+
+---
+### Invitro bioTransformation (ivBT)
+#GS3 #SciTech #Biotech 
+- **Chinese** researchers have developed an ***in-vitro biotransformation (ivBT)*** system that **synthesizes sucrose from methanol**
+	- While **Methanol** was derived from i**ndustrial waste** or **CO2**
+	- This **artificial conversion of CO2** into **food and chemicals** can address environmental and population related challenges
+- **ivBT system:**
+	- **Biotransformation** is the process by which a **substance is chemically altered** by metabolic activity of **biological agents, mainly enzymes**
+	- When this process is carried **outside the body (in-vitro)** using **isolated cells or enzymes**, it is termed **in-vitro biotransformation (ivBT)**
+---
+### Biomolecular Emulator (BioEmu)
+#GS3 #SciTech #AI #Biotech 
+- A new **deep learning system,** ***BioEmu-1*** has been developed to accurately predict **protein structures** and their dynamic conformations
+- It is developed by **Microsoft** and the researchers at the **Rice University, US** and the **Freie Universitat, Germany**
+- It predicts the **full-range of shapes a protein naturally explores** under biological conditions
+- Allows **high-resolution protein flexibility modelling**
+	- Database of **AlphaFold** (AI model developed by **Google DeepMind**) has been **used for it's training**
+- **Benefits:** it is **faster and cheaper** enabling **large-scale predictions**
+	- It can generated thousands of protein structures per hour on a single GPU. 
+	- Also it is **open-source**
+---
+### Mangarh Massacre, 1913
+#GS1 #History #ModernHistory #Society #Regionalism
+- **Tribal communities** from *Rajasthan, Madhya Pradesh, Gujarat,* and *Maharashtra* gathered at **Mangarh Dham** to reiterate their demand for a **separate Bhil Pradesh**
+	- **Mangarh Dham** is the site of the **Mangarh massacre of 1913** also called the **Jallianwala Bagh of Rajasthan**
+- The massacre happened in **1913** when **Bhils** assembled under the leadership of ***Guru Govindgiri*** to demand **higher wages from their landlords** at the **Mangarh hill**
+- Rumors spread that the tribals were planning to revolt against the rulers and the British government
+- Thus, **British forces** used **bombs** and **fired directly** into the crowds of assembled tribals killing approximately 1000-1500 tribal Bhils
+---
+### Hatti Tribe
+#GS1 #Society #VulnerableSections #Tribals #Marriage
+- Recently, a traditional **polyandrous marriage** known as ***"Jada"*** was performed among the **Hatti tribe** in **Himachal Pradesh**
+	- Revenue laws recognize this practice as ***"Jodidara"***
+	- **Polyandry** is a form of polygamy where a woman marries more than one man at the same time
+	- **Reasons for polyandry:** ensuring **ancestral land** is **not divided**, **promoting brotherhood** and **joint family**, etc.
+- **Hatti Tribes:**
+	- It is a **close-knit community** in **Trans-Giri region (near Giri and Tons rivers)** of **Himachal Pradesh** and **Uttarakhand**
+	- The tribe is named after their **traditional occupation** - selling **homegrown produce, meat, etc. at small markets called** ***Haats.***
+---
+### M23 Rebels
+#GS2 #IR #Africa 
+- **Democratic Republic of Congo (DRC)** and the **Rawanda-backed M23 rebels** have committed to a **permanent ceasefire** in **Eastern Congo**
+<p align="center"><img src="https://ichef.bbci.co.uk/news/1024/cpsprodpb/bdf8/live/ea6fbe00-fcd5-11ef-8c03-7dfdbeeb2526.png.webp" alt="M23" wdith="400"/></p>
+
+- **M23 Rebels:**
+	- The **March 23 Movement** primarily consisting of the **ethnic** ***Tutsis*** is a major armed group fighting **Congolese forces** in the **mineral-rich eastern DRC**
+	- It is named after the date in **2009** of the signing of an **accord** beteen the **CNDP, a Tutsi-led rebel group,** and the **Congolese government** to end a revolt led by the Tutsi people
+	- CNDP members formed the M23 movement in **2012** to protest the **failed implementation of the 2009 accord** for protecting minorities and distributing resources evenly.
+---
+### Codex Alimentarius Commission (CAC)
+#GS2 #IR #InternationalOrganizations 
+- India's leadership in standards development for **Millets** gained recognition at the **88th Session** of the **Executive Committee** of the **CAC** at the **Food and Agricultural Organization (FAO) Headquarters** in Rome, Italy.
+- **Codex Alimentarius Commission:**
+	- It is an **international food standards body** established jointly by the **FAO** and the **WHO** in 1963
+	- It is responsible for the **implementation** of the **Joint FAO/WHO Food Standards Programme**
+	- **Codex Alimentarius** are **international food standards** and codes of practices that contribute to the safety, quality and fairness of the **international food trade**
+	- **Members:** ***189***
+		- 188 member countries + **EU**
 ---

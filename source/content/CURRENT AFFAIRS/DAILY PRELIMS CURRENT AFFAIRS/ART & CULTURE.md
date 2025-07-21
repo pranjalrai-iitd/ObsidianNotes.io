@@ -182,3 +182,11 @@
 - During the festival, young men make a symbolic gesture of *driving away of the evil spirit, plague and disease* by **beating the roof of every house with bamboo poles**
 - **Games** like ***Dat-Lawdor*** (football-like sport played with a **wooden ball**) and ***Iatan-Bhang*** (tug of war) are played.
 ---
+### Mangarh Massacre, 1913
+#GS1 #History #ModernHistory #Society #Regionalism
+- **Tribal communities** from *Rajasthan, Madhya Pradesh, Gujarat,* and *Maharashtra* gathered at **Mangarh Dham** to reiterate their demand for a **separate Bhil Pradesh**
+	- **Mangarh Dham** is the site of the **Mangarh massacre of 1913** also called the **Jallianwala Bagh of Rajasthan**
+- The massacre happened in **1913** when **Bhils** assembled under the leadership of ***Guru Govindgiri*** to demand **higher wages from their landlords** at the **Mangarh hill**
+- Rumors spread that the tribals were planning to revolt against the rulers and the British government
+- Thus, **British forces** used **bombs** and **fired directly** into the crowds of assembled tribals killing approximately 1000-1500 tribal Bhils
+---

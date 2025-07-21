@@ -426,3 +426,44 @@
 <p align="center"><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/invictus_europe_s_new_hypersonic_test_platform/26799804-1-eng-GB/INVICTUS_Europe_s_new_hypersonic_test_platform_pillars.png" alt="INVICTUS" width="200"><br><i>ESA's INVICTUS</i></p>
 
 ---
+### AdFalciVax
+#GS3 #SciTech #Health 
+- The multi-stage vaccine named ***"AdFalciVax"*** is being developed through **ICMR's Regional Medical Research Centre, Bhubneshwar** and **National Institute of Malaria Research** in partnership with **Department of Biotechnology - National Institute of Immunology**
+- **AdFlaciVax Vaccine:**
+	- **Dual-stage targeting of "Plasmodium Falciparum" (deadliest malaria parasite species)** unlike existing vaccines that target only one life stage, it targets two critical stages in parasite's lifecycle i.e,
+		- **Pre-erythrocytic (liver) stage**
+		- **Transmission (sexual) stage**
+	- **Recombinant Chimeric Vaccine:** a ***"chimeric"*** vaccine refers to vaccine that **combines antigens from different stages of a parasite's life cycle** into a **single** ***immunogen.***
+		- Recombinant DNA technology is a process where **DNA molecules from different sources are combined** to create a new DNA sequence
+	- **Indigenous Development:** it marks India's entry into the global league of advances malaria vaccine R&D
+- **Advantages over existing Malaria vaccines:**
+	- **Broader protection:** unlike existing WHO-recommended vaccines like ***RTS, S/AS01 (Mosquirix), R21/Matrix-M***, the new vaccine ***AdFalciVax*** offers **dual-stage protection**
+	- **Lower risk of immune evasion** and potential for better long-term immunity
+	- **Extended thermal stability** with functionality maintained for over **nine months at room temperature**
+	- **Cost-effective manufacturing:** produced in a safe and sclable **bacterial system** i.e, ***Lactococcus lactis***
+- **Malaria:**
+	- A life threatening disease caused by **Plasmodium parasites** and **does not spread from person to person**. It spreads mostly through **bites** of some **infected female Anopheles mosquitoes**
+	- It is mostly found in **Tropical countries**. However, ****Malaria is NOT a Neglected Tropical Disease (NTD)***
+	- **Five Plasmodium species cause malaria in humans:**
+		- *P. Falciparum, P. Vivax, P. Malariae, P. Ovale,* and *P. Knowlesi*
+---
+### Invitro bioTransformation (ivBT)
+#GS3 #SciTech #Biotech 
+- **Chinese** researchers have developed an ***in-vitro biotransformation (ivBT)*** system that **synthesizes sucrose from methanol**
+	- While **Methanol** was derived from i**ndustrial waste** or **CO2**
+	- This **artificial conversion of CO2** into **food and chemicals** can address environmental and population related challenges
+- **ivBT system:**
+	- **Biotransformation** is the process by which a **substance is chemically altered** by metabolic activity of **biological agents, mainly enzymes**
+	- When this process is carried **outside the body (in-vitro)** using **isolated cells or enzymes**, it is termed **in-vitro biotransformation (ivBT)**
+---
+### Biomolecular Emulator (BioEmu)
+#GS3 #SciTech #AI #Biotech 
+- A new **deep learning system,** ***BioEmu-1*** has been developed to accurately predict **protein structures** and their dynamic conformations
+- It is developed by **Microsoft** and the researchers at the **Rice University, US** and the **Freie Universitat, Germany**
+- It predicts the **full-range of shapes a protein naturally explores** under biological conditions
+- Allows **high-resolution protein flexibility modelling**
+	- Database of **AlphaFold** (AI model developed by **Google DeepMind**) has been **used for it's training**
+- **Benefits:** it is **faster and cheaper** enabling **large-scale predictions**
+	- It can generated thousands of protein structures per hour on a single GPU. 
+	- Also it is **open-source**
+---

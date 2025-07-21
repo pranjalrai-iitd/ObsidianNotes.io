@@ -441,17 +441,31 @@
 ---
 ### INDIA-EFTA TEPA
 #GS3 #Economy #Trade #InternationalGroupings 
-- Switzerland completed the ratification process of the **TEPA** *(Trade and Economic Partnership Agreement)* signed between India and EFTA
+- Switzerland completed the ratification process of the **TEPA** *(Trade and Economic Partnership Agreement)* signed between India and EFTA. It will **come into effect from October 1, 2025**
 - **EFTA:** European Free Trade Area - *LINS*
-	- Switzerland
-	- Liechtenstein
-	- Norway
-	- Iceland
-- **TEPA:**
-	- **Binding commitment:** 
-		- ***USD 100 Billion investment*** from EFTA into India in the **next 15 years** creating **1 million direct jobs**
-			- **FPI** are **NOT** covered in these investments
-		- Commitments related to **IPR** are at *TRIPS level*
+	- It is an **intergovernmental organization** for the promotion for **free trade and economic integration** of its members
+	- **Member states:**
+		- Switzerland
+		- Liechtenstein
+		- Norway
+		- Iceland
+	- **NOT** as **Customs Union** **NOR** a part of the **EU**
+	- **Founded** by the ***Stockholm Convention 1960*** as an alternative trade block for countries unwilling to join the *European Economic Community* with **7 founding members** - ***Austria, Denmark, Great Britain, Norway, Portugal, Sweden and Switzerland***
+		- Now only **2 founding members remain** - ***Norway*** and ***Switzerland***
+- **Provisions of TEPA:**
+	- **Binding commitment:** It is **1st FTA** making a **binding commitment** of **USD 100 Billion investment (FDI)** and **1 Million direct jobs** in India in the **next 15 years**
+		- **FPI** is **NOT** covered
+		- **USD 50 Billion** in first 10 years and another **USD 50 Billion** in the next 5 years
+		- In return, **India** will allow several products like *Swiss watches, chocolates, and cut-polished diamonds* at **lower or zero duties**
+	- **Market access:** EFTA's market access offer (for India) covers **100% of non-agri products** and **tariff concessions** on **Processed Agricultural products (PAP)**
+		- Sectors such as **dairy, soya, coal** and **sensitive products** are kept in the **exclusion list**
+	- **Tariff reduction:** EFTA will eliminate or reduce import tariffs on **99.6% of India's exports**. India will eliminate or reduce import tariffs on **95.3% of exports** to EFTA nations.
+	- **IPR commitments****
+	- **Mutual Recognition Agreements** in **Professional Services** like Nursing
+- **India-EFTA Trade Relations:**
+	- In **FY25** the bilateral trade totaled ***USD 24.4 Billion*** with India facing a **large trade deficit**, particularly due to **gold imports from Switzerland**
+		- **Gold imports** from EFTA form over **80% import** from **EFTA**
+	- Among EFTA countries, **Switzerland** is India's largest trading partner followed by **Norway**
 ---
 ### Weather Derivatives
 #GS3 #Economy #CapitalMarkets

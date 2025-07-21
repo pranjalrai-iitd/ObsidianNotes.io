@@ -167,3 +167,25 @@
 		- Oversee the **quality of service of the professions associate** and suggests **measure to improve the quality**
 		- **Perform such other functions and duties** as may be necessary or incidental to the aforesaid functions and duties.
 ---
+### National Sample Survey 
+#GS3 #Economy #Organizations 
+- **National Sample Survey (NSS)** completes **75 years**. it was established in **1950** by **P.C. Mahalanobis** to collect economic and social information from the whole country on the basis of random sampling
+- It is under the **National Statistics Office (NSO)**
+- **Ministry:** *Ministry of Statistics and Programme Implementation (MoSPI)* 
+- It is headed by a **Director General** responsible for conduct of large scale sample surveys on All India basis
+- **Coverage:**
+	- **Household surveys on socio-economic subjects:** #Eg surveys on population, birth, death, migration, fertility, family planning etc.
+	- **Surveys on land holding, livestock and agriculture**
+	- **Establishment surveys and enterprise surveys:** #Eg non-agricultural enterprises in unorganized sector and collection of rural prices in rural areas
+	- **Village surveys:** formation on availability of infrastructure facilities in Indian villages
+- **Four Divisions of NSS:**
+	1. **Survey Design and Research Division (SDRD):** located at *Kolkata*. it is responsible for technical planning of surveys, formulation of concepts and definitions, sampling design, etc.
+	2. **Field Operations Division (EOD):** with its HQ at *Delhi/Faridabad* is responsible for the collection for primary data.
+	3. **Data Processing Division (DPD):** HQ at *Kolkata* is responsible for sample selection, software development, processing, validation and tabulation of data
+	4. **Survey Coordination Division (SCD):** located at *New Delhi*, coordinates all the activities of different divisions of NSS
+- **Major surveys of NSS:**
+	- **Urban Frame Survey (Phase 2022-27):** to establish and update a reliable sampling frame for urban areas, crucial for conducting socio-economic surveys
+	- **Annual Survey of Industries (ASI):** to assess ans evaluate changes in the growth, composition and structure of organized manufacturing sector
+	- **Periodic Labour Force Survey (PLFS):** conducted from 2017 has been the primary source of statistics on labour force
+	- **Price Survey:** the **CPI-Urban & Rural**
+---

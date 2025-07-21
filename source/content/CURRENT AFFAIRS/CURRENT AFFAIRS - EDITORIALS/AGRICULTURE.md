@@ -236,3 +236,27 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 4. **Agricultural Marketing Infrastructure (AMI):** enhances rural storage capacity through construction of godowns/warehouses.
 
 ---
+### **SOIL HEALTH**
+#GS3 #Agriculture #Soil 
+
+<b><u>STATUS OF INDIAN SOILS - FROM SOIL HEALTH CARDS (2024)</u></b> #Data 
+- **Data on various Macronutrients:**
+	- **Sufficient Nitrogen:** In **5%** soil samples
+	- **Sufficient Phosphate:** In **40%** soil samples
+	- **Sufficient Potash:** In **32%** soil samples
+	- **Sufficient Soil Organic Carbon (SOC):** In **20%** soil samples
+- **Skewed use of Nitrogen:** 
+	- In **Punjab** and **Telangana** the **Nitrogen use exceeds** the recommendations by **61%** and **54%**. However, in the same states **Potash use is short** by **89%** and **82%** respectively
+- **Granular urea** results into only **35-40%** of the **Nitrogen being absorbed** by the crops, rest is released into atmosphere as **N2O (GHG)** or **leaches into groundwater** 
+<p align="center"><img src="https://indianexpress.com/wp-content/uploads/2025/07/indian-soil.jpg" alt="Soil Heath in India" width="700"/></p>
+
+<b><u>IMPORTANCE OF SOIL HEALTH:</u></b>
+- Decline crop **productivity** with poor soil health
+- Degrade **nutritional quality** of crops - as crops growing on nutrient-deficient soils often mirror those deficiencies. #Eg low Zinc content in soil results into low Zinc content in wheat.
+- Importance of **Soil Organic Carbon (SOC)** is in defining the physical, chemical and biological properties of soil - governing holding capacity and nutrient use efficiency
+
+<b><u>WAY FORWARD:</u></b>
+- Tailored and science-based soil nutrition management with **precise and customized fertilization strategies**
+- **Region-specific, data-driven soil nutrition solutions**
+
+---

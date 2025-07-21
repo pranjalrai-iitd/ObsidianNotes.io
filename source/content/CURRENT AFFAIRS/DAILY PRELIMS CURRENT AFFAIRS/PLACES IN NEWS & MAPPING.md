@@ -407,3 +407,14 @@
 	- **Nuba Mountains** in the **South**
 	- **Red Sea Hills** in the **East**
 ---
+### Bitra Island
+#GS1 #Geography #PlacesInNews #Mapping 
+- **Lakshadweep** administration is considering **acquisition** of **Bitra island** for **defence purposes**. The **military installations** in the island will help India keep a **watch on the busy sea lanes** and to **counter  illegal activities** and to quickly respond to **maritime threats** 
+- It is the **smallest inhabited island** in the territory of the **lakshadweep** having a land area of **0.105 sq km** with around **105 families** residing on the island. The **locals are protesting** against the same.
+- **Location:** near the **Agatti Island** in the Arabian Sea
+- **Climate:** Categorized as **"Aw"** i.e, **tropical savannah** according to the Koppen-Geiger classification
+- Average **rainfall** is **1600 mm/year**
+<p align="center"><img src="https://www.researchgate.net/profile/Anita_George2/publication/261177725/figure/fig2/AS:614353699082259@1523484744751/Map-showing-Lakshadweep-islands-and-Minicoy-Atoll.png" alt="Bitra Island" width="400"/></p>
+
+---
+

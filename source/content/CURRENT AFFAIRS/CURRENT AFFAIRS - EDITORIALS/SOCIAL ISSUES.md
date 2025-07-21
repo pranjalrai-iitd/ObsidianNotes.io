@@ -436,3 +436,37 @@
 
 ---
 
+### **SUBSTANCE ABUSE IN INDIA**
+#GS1 #SocialIssues #VulnerableSections #Youth 
+
+<b><u>NEWS/ DATA:</u></b>
+- **Kashi Declaration** was adopted in the **Youth Spiritual Summit** for **Drug Free India** as apart of the broader **Mera Yuva (MY) Bharat Framework**.
+- **Status of Drug-abuse in India** as per ***National Survey on Substance Abuse, 2019:*** #Data 
+	- **Prevalence of alcohol use:** ***14.6%*** between the **age of 10 - 75 years** are current users of alcohol
+	- **Cannabis** and **Opiods** ( #Eg Heroin) are the **next commonly** used substances in India
+
+<b><u>DRIVING FACTORS BEHIND DRUG ABUSE IN INDIA:</u></b>
+1. **Social factors:** #Eg Peer pressure, family conflicts and social inclusion
+2. **Economic factors:** #Eg Unemployment and poverty
+3. **Psychological factors:** #Eg Mental health issues like anxiety and depression
+4. **Academic/ Work stress:** #Eg High pressure in education and jobs increases risk, especially among youth
+5. **Easy drug availability:** India is located between the *Golden Crescent* and *Golden Triangle*
+
+<b><u>INITIATIVES TO TACKLE DRUG ABUSE IN INDIA:</u></b>
+- **Narcotic Drugs and Psychotropic Substances Act, 1985**
+- **Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Act, 1988**
+- **National Action Plan for Drug Demand Reduction (NAPDDR), 2018-25:** 
+	- Financial assistance to voluntary organizations for prevention of alcoholism and drug abuse
+	- Grants-in-aid programme for financing social defence
+- **Nasha Mukt Bharat Abhiyan (NMBA), 2020**
+	- Integrated Rehabilitation Centre for Addicts (IRACAs)
+	- Community Peer Led Intervention
+	- Outreach and Drop in Centres
+
+<b><u>WAY FORWARD AND KASHI DECLARATION:</u></b>
+- Sets a **5 year roadmap** for **De-Addiction Movement**
+- Affirms a **national consensus** to treat substance abuse as a **multi-faceted public health** and **societal challenge**
+- It proposes **institutional mechanisms** for **multi-ministerial coordination,** including the formation of a **joint National Committee, annual progress reporting,** and a **national platform** for linking affected individuals to support services.
+- **Integration** of spiritual, cultural, educational, and technological efforts to prevent addiction
+
+---

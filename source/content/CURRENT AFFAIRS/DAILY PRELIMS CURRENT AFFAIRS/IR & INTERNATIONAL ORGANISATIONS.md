@@ -451,3 +451,40 @@
 	- *Transforming global governance*
 - The **Pact for Future** will guide the world post 2030 post the **target date for UN Sustainable Development Goals**
 ---
+### World's largest Dam by China on Brahmaputra
+#GS2 #IR #China #WaterDiplomacy 
+- China has began construction of world's largest dam on Brahmaputra *(Yarlung Tsangpo)*
+	- The dam is being built across a **huge gorge** in the Himalayas where the river makes a **U-turn** near India's border
+	- Once completed the dam will **surpass** the scale of **China's** ***Three Gorges Dam*** on the **Yangtze River** (presently largest)
+	- **Brahmaputra** flows across the *Tibetan Plateau*, carving out the ***deepest canyon on Earth***
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/0Nk9jTaXLQkku5TZ3J3348eejMeo08MQ6M3xOJpl.jpg" alt="Chinese Dam on Brahmaputra" width="500"/></p>
+
+- **Concerns:**
+	- **Disaster risk:** this increases the treats related to **earthquakes**. The Tibetan plateau frequently experiences earthquakes. #Eg **1950 Assam-Tibet Earthquake**
+	- **Environmental challenges:** It may cause **disruption to local ecology** and downstream **water flow** affecting **biodiversity** and **agriculture**
+	- **Geopolitical challenges:** Chin can potentially **weaponize** the dam during conflicts by causing **floods** (***water bomb***)
+	- **Cultural challenges:** the project threatens **tribes** like the **Adi tribe** in **Siang valley** of **Arunachal Pradesh**
+	- **No hydrological data being shared by China** despite an **established Expert Level Mechanism (ELM) in 2006 to address trans boundary rivers**
+	- Both **India** and **China** are **not signatories** to the ***United national Convention of the Law of the Non-Navigational Uses of International Watercourses, 1977***
+- India is planning to build ***Upper Siang Multipurpose Project*** to counter China
+---
+### M23 Rebels
+#GS2 #IR #Africa 
+- **Democratic Republic of Congo (DRC)** and the **Rawanda-backed M23 rebels** have committed to a **permanent ceasefire** in **Eastern Congo**
+<p align="center"><img src="https://ichef.bbci.co.uk/news/1024/cpsprodpb/bdf8/live/ea6fbe00-fcd5-11ef-8c03-7dfdbeeb2526.png.webp" alt="M23" wdith="400"/></p>
+
+- **M23 Rebels:**
+	- The **March 23 Movement** primarily consisting of the **ethnic** ***Tutsis*** is a major armed group fighting **Congolese forces** in the **mineral-rich eastern DRC**
+	- It is named after the date in **2009** of the signing of an **accord** beteen the **CNDP, a Tutsi-led rebel group,** and the **Congolese government** to end a revolt led by the Tutsi people
+	- CNDP members formed the M23 movement in **2012** to protest the **failed implementation of the 2009 accord** for protecting minorities and distributing resources evenly.
+---
+### Codex Alimentarius Commission (CAC)
+#GS2 #IR #InternationalOrganizations 
+- India's leadership in standards development for **Millets** gained recognition at the **88th Session** of the **Executive Committee** of the **CAC** at the **Food and Agricultural Organization (FAO) Headquarters** in Rome, Italy.
+- **Codex Alimentarius Commission:**
+	- It is an **international food standards body** established jointly by the **FAO** and the **WHO** in 1963
+	- It is responsible for the **implementation** of the **Joint FAO/WHO Food Standards Programme**
+	- **Codex Alimentarius** are **international food standards** and codes of practices that contribute to the safety, quality and fairness of the **international food trade**
+	- **Members:** ***189***
+		- 188 member countries + **EU**
+---
