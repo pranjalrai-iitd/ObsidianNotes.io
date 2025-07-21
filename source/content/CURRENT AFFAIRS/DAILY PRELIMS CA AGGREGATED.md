@@ -3279,9 +3279,8 @@ A(Three Vision Areas under <br><b>Digital India Mission</b>)-->D(<b>Digital Empo
 #Gs1 #Geography #Mapping #PlacesInNews 
 - Indian PM on a state visit to Ghana and was conferred with Ghana's highest civilian honour, *"Officer of the Order of the Star of Ghana"*
 
-| <img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/o41eFxTnZHxbRu9SZh7LP1PnQpKFrpGsuGC0Yrj8.jpg" alt="Ghana" width="450"/> |
-| ------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://www.worldatlas.com/r/w960-q80/upload/d2/cd/62/gh-01.jpg" alt="Ghana" width="450"/>                            |
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/o41eFxTnZHxbRu9SZh7LP1PnQpKFrpGsuGC0Yrj8.jpg" alt="Ghana" width="450"/><br><img src="https://www.worldatlas.com/r/w960-q80/upload/d2/cd/62/gh-01.jpg" alt="Ghana" width="450"/></p>
+
 
 - Capital - *Accra*
 - Ghana is located in **Western Africa** and is situated on the coast of the ***Gulf of Guinea**

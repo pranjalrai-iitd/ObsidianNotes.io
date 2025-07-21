@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1013c4d1b76456b",
+        "id": "5c9f5d8d340af5f3",
         "type": "tabs",
         "children": [
           {
-            "id": "c30a6ad8b0d04ab2",
+            "id": "aa19714d03fa50c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,11 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c30a6ad8b0d04ab2",
+  "active": "aa19714d03fa50c3",
   "lastOpenFiles": [
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/IR & INTERNATIONAL ORGANISATIONS.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CA AGGREGATED.md",
     "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/PLACES IN NEWS & MAPPING.md",
+    "CURRENT AFFAIRS/DAILY PRELIMS CA AGGREGATED.md",
+    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/IR & INTERNATIONAL ORGANISATIONS.md",
     "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/AGRICULTURE.md",
     "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/SOCIETY.md",
     "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/ART & CULTURE.md",
