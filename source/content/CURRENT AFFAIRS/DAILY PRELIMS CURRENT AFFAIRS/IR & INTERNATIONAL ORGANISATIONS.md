@@ -471,7 +471,7 @@
 ### M23 Rebels
 #GS2 #IR #Africa 
 - **Democratic Republic of Congo (DRC)** and the **Rawanda-backed M23 rebels** have committed to a **permanent ceasefire** in **Eastern Congo**
-<p align="center"><img src="https://ichef.bbci.co.uk/news/1024/cpsprodpb/bdf8/live/ea6fbe00-fcd5-11ef-8c03-7dfdbeeb2526.png.webp" alt="M23" wdith="400"/></p>
+<p align="center"><img src="M23.png" alt="M23" width="450"/></p>
 
 - **M23 Rebels:**
 	- The **March 23 Movement** primarily consisting of the **ethnic** ***Tutsis*** is a major armed group fighting **Congolese forces** in the **mineral-rich eastern DRC**
