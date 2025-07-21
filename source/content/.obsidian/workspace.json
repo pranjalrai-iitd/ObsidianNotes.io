@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "1e1d0afa5b5082ea",
+    "id": "be59b68bae6edd90",
     "type": "split",
     "children": [
       {
-        "id": "85083792f8d5e218",
+        "id": "b1013c4d1b76456b",
         "type": "tabs",
         "children": [
           {
-            "id": "9b57eef35a04704e",
+            "id": "c30a6ad8b0d04ab2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ce9633628d36dcfd",
+    "id": "e9a1a77fc520aafa",
     "type": "split",
     "children": [
       {
-        "id": "7b8bd033141deb1e",
+        "id": "c65fb15bd53e6dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "5da6a686c752b496",
+            "id": "671fdf5d85aed37b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "586d6b8aeeff9bed",
+            "id": "13164c159c6f7424",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "f1b50194393e5535",
+            "id": "67706652774aba6f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 300
   },
   "right": {
-    "id": "9cbccf89f823b2f4",
+    "id": "18fc04f510d65600",
     "type": "split",
     "children": [
       {
-        "id": "ae5e65321b81ddb5",
+        "id": "05c917d442eb75ea",
         "type": "tabs",
         "children": [
           {
-            "id": "aeb284e2813bdc8c",
+            "id": "b4e8d0e98636610e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PRELIMS CURRENT AFFAIRS/PRELIMS CURRENT AFFAIRS.md",
+                "file": "CURRENT AFFAIRS/DAILY PRELIMS CA AGGREGATED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PRELIMS CURRENT AFFAIRS"
+              "title": "Backlinks for DAILY PRELIMS CA AGGREGATED"
             }
           },
           {
-            "id": "a6b95ce7b089d3ef",
+            "id": "ce5e0f420bc4c75a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PRELIMS CURRENT AFFAIRS/PRELIMS CURRENT AFFAIRS.md",
+                "file": "CURRENT AFFAIRS/DAILY PRELIMS CA AGGREGATED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PRELIMS CURRENT AFFAIRS"
+              "title": "Outgoing links from DAILY PRELIMS CA AGGREGATED"
             }
           },
           {
-            "id": "c6ca084bff217ef6",
+            "id": "0834052a2d60e38a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "f458fcb5b5910f5a",
+            "id": "416df360c1e4e083",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -168,68 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b57eef35a04704e",
+  "active": "c30a6ad8b0d04ab2",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/EXAMPLES FOR ESSAY & ETHICS.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CA AGGREGATED.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/ART & CULTURE.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/DOMESTIC ORGANISATIONS.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/ENVIRONMENT.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/ECONOMY.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/SOCIETY.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/SCHEMES, ACTS, REPORTS & REGULATIONS.md",
-=======
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/IR & INTERNATIONAL ORGANISATIONS.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CA AGGREGATED.md",
->>>>>>> Stashed changes
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/INTERNAL SECURITY & MILITARY EXERCISES.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/SCHEMES, ACTS, REPORTS & REGULATIONS.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/ECONOMY.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/SCIENCE & TECHNOLOGY.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/PLACES IN NEWS & MAPPING.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/MINERALS.md",
-    "CURRENT AFFAIRS/LEVELUP/GS3/RESOURCES.md",
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/GOVERNANCE.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/ART & CULTURE.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/DOMESTIC ORGANISATIONS.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/ENVIRONMENT.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/SOCIETY.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/POLITY.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/GEOGRAPHY & DISASTER MANAGEMENT.md",
-<<<<<<< Updated upstream
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/GOVERNANCE.md",
-=======
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/EXAMPLES FOR ESSAY & ETHICS.md",
->>>>>>> Stashed changes
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/POLITY.md",
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/DISASTER MANAGEMENT.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/BIODIVERSITY.md",
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/AGRICULTURE.md",
-    "CURRENT AFFAIRS/DAILY PRELIMS CURRENT AFFAIRS/AGRICULTURE & PRIMARY SECTOR.md",
-    "Attachments/Quirimba.png",
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/SOCIAL ISSUES.md",
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/ECONOMY.md",
-    "CURRENT AFFAIRS/CURRENT AFFAIRS - EDITORIALS/INTERNATIONAL RELATIONS.md",
-    "CURRENT AFFAIRS/LEVELUP/GS2/PARLIAMENT & LEGISLATURE.md",
-    "Attachments/CircularEconomy.jpg",
-    "Attachments/Unconfirmed 866364.crdownload",
-    "Attachments/KMTTP.png",
-    "Attachments/Pasted image 20250628141940.png",
-    "Attachments/Pasted image 20250628142225.png",
-    "Attachments/AgricultureGVAData.jpg",
-    "Attachments/AgricultureGVAData.jpg.crdownload",
-    "Attachments/NetFDIData.jpeg",
-    "Attachments/NetFDIData.jpeg.crdownload",
-    "Attachments/Pasted image 20250628142358.png",
-    "Attachments/Pasted image 20250628142338.png",
-    "Attachments",
-    "attachments",
-    "Pasted image 20250628141019.png",
-    "GS3",
-    "GS2",
-    "GS1",
-    "CURRENT AFFAIRS",
-    "GS4"
+    "PRELIMS TESTS - LEARNINGS.md",
+    "Prelims Test Learnings"
   ]
 }
