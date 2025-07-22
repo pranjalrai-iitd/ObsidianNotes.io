@@ -1281,3 +1281,11 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- It plays a key role in implementing the **National Programme for Civil Services Capacity Building (NPCSCB)** also known as **Mission karmayogi**
 	- It works as an **independent body** with **full executive power**
 ---
+### Bills of Landing Bill 2025
+#GS3 #Economy #Infrastructure #Shipping #Act 
+- Parliament has **passed** the **Bills of Landing Bill 2025**
+- It aims to **update and simplify the legal framework** for **shipping documents**
+- It will replace the **Indian Bills of Landing Act 1856**
+- A **bill of landing** refers to a **document** issued by a **freight carrier to a shipper**
+	- It contains details including the *type, quantity, condition,* and *destination of goods* being carrier
+---

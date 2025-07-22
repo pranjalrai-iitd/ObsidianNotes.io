@@ -353,3 +353,12 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 		- **Agriculture Infrastructure Fund:** supports post-harvest infrastructure like warehouses, cold chains, and community assets with interest subvention and financial aid
 		- **Agricultural Marketing Infrastructure (AMI):** enhances rural storage capacity through construction of godowns/warehouses.
 ---
+### Mission Organic Value Chain Development for North Eastern Region (MOVCDNER)
+#GS3 #Agriculture #OrganicFarming #Scheme 
+- The Union Minister announced the extension of **MOVCDNER** by **one year** for **Assam**
+- It was launched during **2015-16**
+- **Aim:** to harness the immense potential of organic farming in the North Eastern States of India
+- **Implementation:** across **Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim,** and **Tripura**
+- **Objective:** develop certified organic production in a value chain mode, ensuring a seamless connection between organic growers and consumers
+- **Coverage:** this program **covers everything from providing organic seeds and certification** to setting up facilities for collecting, processing, and marketing organic products
+---

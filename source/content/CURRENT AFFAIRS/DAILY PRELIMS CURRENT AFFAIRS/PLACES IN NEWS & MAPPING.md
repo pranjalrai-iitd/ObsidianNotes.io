@@ -415,3 +415,23 @@
 
 ---
 
+### LESOTHO
+#GS1 #Geography #PlacesInNews #Mapping 
+- India and Lesotho set to deepen bilateral cooperation during the visit of Indian Minister of State for External Affairs
+<p align="center"><img src="https://www.worldatlas.com/r/w960-q80/upload/b1/cf/b1/ls-01.jpg" alt="Lesotho" width="400"/></p>
+
+- **Lesotho** is **landlocked** and is **entirely surrounded by South Africa** with **Maseru** as it's capital
+- **Geographical features:**
+	- Known as the ***"Kingdom in the Sky"*** due tot high elevation, as the ***only country in the world entirely above 1,000 m in elevation***
+	- **Mountains:** cover **two-thirds (2/3)** of the country
+		- **Highest peak:** ***Thabana Ntlenyana***
+		- **Ranges:**
+			- ***Drakensberg Mountains*** (Eastern boundary)
+			- ***Maluti/Maloti Mountains*** (North-South spurs)
+	- **Rivers:**
+		- **Caledon river**
+		- **Orange river**
+		- **Madibamatso river**
+		- **Sinqu river**
+	- ***White Gold:*** Lesotho's major natural resource is **water**, often referred to as ***"white gold"***
+---

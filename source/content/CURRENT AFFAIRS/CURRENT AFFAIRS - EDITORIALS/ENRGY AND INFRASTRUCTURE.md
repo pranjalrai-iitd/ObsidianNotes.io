@@ -71,3 +71,29 @@
 	- ***RETAP (Renewable Energy Technology Action Platform)*** with **USA**
 
 ---
+### **SUSTAINABILITY AND COMPETITIVENESS IN THE COAL SECTOR**
+#GS3 #Economy #Energy #Coal 
+
+<b><u>DATA:</u></b>
+- India has the **world's 5th largest coal reserves** and coal accounts for **55% of the country's energy needs** making India the **2nd  largest coal consumer**. 
+- India is **adopting a multi-pronged strategy** to modernise the sector, enhance environmental compliance, and reduce dependence on imports
+- **Coal import** declined to **21%** in FY24 (2023-2024)
+
+<b><u>SUSTAINABILITY INITIATIVES IN THE COAL SECTOR:</u></b>
+- **Greening and Bio-Reclamation:** **Afforestation** of mined-out areas. Coal and Lignite PSU's participation in **MOEFCC's Green Credit Programme**
+- **Treated Mine Water Utilization:** for **community supply** like irrigation, **industrial uses** (dust suppression, fire-fighting) and **environmental services** (recharge, fish farming)
+- **Extracting sand from over burden:** for construction and stowing materials supports sustainable development and the **riverine ecosystem revival**
+- **Blast-Free Mining Technology:** use of **surface miners, continuous miners, rippers** to avoid drilling/blasting
+- **Clean coal and Renewable Energy Initiatives:** focus on **coal gasification, coal bed methane (CBM)**, etc.
+
+<b><u>IMPORT REDUCTION MEASURES:</u></b>
+- **Enhancing domestic production and consumption:** coal blocks allocation, private sector participation and faster clearance. The *Inter-Ministerial Committee (IMC)* was constituted for coal import substitution
+- **Evacuation and supply chain improvement:** new **railway lines**, upgraded **coal transportation systems**, and **first mile connectivity** projects
+- **Fiscal support under the** ***SHAKTI*** **policy:** imported coal-based plants can now procure **domestic coal** more easily
+	- **SHAKTI:** *Scheme for Harnessing and Allocating Koyala Transparency in India*
+- **Coking coal mission:** launched to boost domestic coking coal supply for the steel sector
+- **RECLAIM** initiative by the **Coal Controller's Organization of India** for sustainable rehabilitation of the staff of the closed up coal mines
+
+---
+
+

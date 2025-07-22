@@ -470,3 +470,30 @@
 - **Integration** of spiritual, cultural, educational, and technological efforts to prevent addiction
 
 ---
+### **STUDENT SUICIDES IN INDIA**
+#GS1 #SocialIssues #VulnerableSections #Children 
+
+<b><u>NEWS:</u></b> Following tragic incidents of student suicides in India's top institution, the apex court has stepped in suo-moto, highlighting the urgent need for systematic reforms
+
+<b><u>DATA:</u></b>
+- **7.6% of the total suicides** in India were by **students** - **NCRB 2022**
+- **Gender-wise:** *Male student* suicides are *higher* than *Female students*
+- **Most affected 3 states:** *Maharashtra, Tamil Nadu* and *Madhya Pradesh*
+
+<b><u>REASONS:</u></b>
+- **Academic reasons:** Academic dissatisfaction, stress & failure, negative school environment 
+	- #Eg lack of positive relationships with pees/teachers, harassment, humiliation, isolation
+- **Institutional reasons:** Bullying, caste discrimination, ragging, and toxic institutional culture, peer-pressure
+- **Family issues:** #Eg Family conflicts and instability like parental neglect, loss of a loved one, financial hardships, etc.
+- **Mental health:** History of depression or other mental illnesses, adverse childhood experiences, addiction to social media
+- **Social hurdle:** like stigma associated with help seeking
+
+<b><u>INITIATIVES TAKEN TO AVOID STUDENT SUICIDES:</u></b>
+- **MANODARPAN:** a **Ministry of Education's** programme has reached lakhs of students through **counselling helplines** and **live interactive sessions**
+- **National Tele Mental Health Programme:** It aims to improve access to quality mental health counselling and care services in the country
+- **National Task Force constituted by Supreme Court:** It aims to discuss and deliberate on issues related to mental health concerns among students, preventing of suicides in educational institutions, and to recommend preventive measures
+- **District Mental Health Programme:** by the **Ministry of Health and Family Welfare** covering 767 districts with suicide prevention services and life skills training in schools and colleges
+- **Malaviya Mission Teacher Training Programme:** IITs conducting workshops on stress management and resilience
+- **UGC Advisory:** to higher educations institutions to prioritize physical fitness, sports, student welfare, and emotional well-being
+
+---

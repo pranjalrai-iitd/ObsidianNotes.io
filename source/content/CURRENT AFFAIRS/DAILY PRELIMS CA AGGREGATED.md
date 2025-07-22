@@ -5696,3 +5696,92 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 	- **Members:** ***189***
 		- 188 member countries + **EU**
 ---
+### UPI - 1st in Real Time Payments
+#GS3 #Economy #DPI #UPI 
+- As per **IMF**, India's **Unified Payment Index (UPI)** has **surpassed Visa** and it has become **number one real-time payment system** in the world
+- **Unified Payment Index (UPI):**
+	- It is an instant payment system developed by the **NPCI**, an RBI regulated entity
+	- It is built over the **Immediate Payment Service (IMPS)** infrastructure of **NPCI**
+	- **Digital foundation behind UPI:**
+		- ***Pradan mantri Jan Dhan Yojana:*** >55 crore *bank accounts*
+		- ***Aadhar*** and ***Jan Dhan Yojana:*** secure and *digital authentication*
+		- ***Connectivity & 5G Revolution:*** made *digital services* possible
+- **UPI and the changing payment landscape:**
+	- Act as a **Digital Public Infrastructure (DPI):** it is based on open-source technology and leads to *lower cost of on-boarding* and *integration* unlike earlier *closed loop systems (CLS)*
+		- **CLS: Closed Loop Systems:** is a type of *payment network* in which **all participants** *(payer, payee, and system facilitating the transaction)* operate within a **single, unified network**
+	- **Easy Integration:** the **existing systems (legacy & new)** can be easily integrated supporting both real timer and batch settlement functionality
+	- **Interoperability:** It increases users *"freedom to choose"* and also facilitated easy entry of new providers
+	- **Cross border settlement:** for multiple countries on a platform-based approach
+	- **Global expansion:** operations in *Singapore, UAE, Bhutan, Nepal, Sri Lanka, Mauritius, France* and *Namibia*
+	- It facilitates **payments in regional Indian languages**
+---
+### Removal of Judges
+#GS2 #Polity #Judiciary 
+- A total of 145 members of Lok Sabha and more than 50 in Rajya Sabha, have signed and submitted a motion in the Parliament, under **Articles 124, 217 and 218** of the constitution, to remove Justice Yashwant Varma
+- **Constitutional provisions regarding removal of Judges:**
+	- **Article 124(4):** It deals with the **removal of judges** of the **Supreme Court**
+		- **Grounds** for removal: ***Proven misbehavior*** and **incapacity***
+	- **Article 124(5):** It deals with the **power of Parliament** to **regulate the procedure** for the **presentation of an address** and for the **investigation and proof of the misbehavior** or **incapacity of Judges**
+	- The **Procedure** is regulated by the ***Judges Enquiry Act (1968)*** enacted under the **Article 124(5)**
+	- **Article 217(1)(b):** It deals with the removal of a **Judge of a High Court**
+		- It states that a High  court judge may be removed from his office by the **President** in the manner provided in **Article 124(4)** for the removal of **judge of the Supreme Court**
+	- **Article 218:** extends the applicability of **Article 214(4) and 214(5)** to the **High courts**
+- **Steps in removal process:** as per the ***Judges Enquiry Act, 1968***
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/OrtFnwYuX57bftrGzRo9zSAXwNLlrUHvrM4mIdtI.jpg" alt="Removal of Judges" width="700"/></p>
+
+---
+### LESOTHO
+#GS1 #Geography #PlacesInNews #Mapping 
+- India and Lesotho set to deepen bilateral cooperation during the visit of Indian Minister of State for External Affairs
+<p align="center"><img src="https://www.worldatlas.com/r/w960-q80/upload/b1/cf/b1/ls-01.jpg" alt="Lesotho" width="400"/></p>
+
+- **Lesotho** is **landlocked** and is **entirely surrounded by South Africa** with **Maseru** as it's capital
+- **Geographical features:**
+	- Known as the ***"Kingdom in the Sky"*** due tot high elevation, as the ***only country in the world entirely above 1,000 m in elevation***
+	- **Mountains:** cover **two-thirds (2/3)** of the country
+		- **Highest peak:** ***Thabana Ntlenyana***
+		- **Ranges:**
+			- ***Drakensberg Mountains*** (Eastern boundary)
+			- ***Maluti/Maloti Mountains*** (North-South spurs)
+	- **Rivers:**
+		- **Caledon river**
+		- **Orange river**
+		- **Madibamatso river**
+		- **Sinqu river**
+	- ***White Gold:*** Lesotho's major natural resource is **water**, often referred to as ***"white gold"***
+---
+### Bharat NCX
+#GS3 #InternalSecurity #CyberSecurity 
+- **Bharat NCX:** National Cybersecurity Exercise was officially inaugurated
+- Conducted by **National Security Council Secretariat (NSCS)** in collaboration with **Rashtriya Rakhsha University (RRU)**
+- **Objectives:** strengthen national cuber resilience and readiness, Simulate real-world cybersttacks
+- **Key features:** Live-Fire Cyber Simulations, AI-Integrated Cuber Defence Training
+---
+### Mission Organic Value Chain Development for North Eastern Region (MOVCDNER)
+#GS3 #Agriculture #OrganicFarming #Scheme 
+- The Union Minister announced the extension of **MOVCDNER** by **one year** for **Assam**
+- It was launched during **2015-16**
+- **Aim:** to harness the immense potential of organic farming in the North Eastern States of India
+- **Implementation:** across **Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim,** and **Tripura**
+- **Objective:** develop certified organic production in a value chain mode, ensuring a seamless connection between organic growers and consumers
+- **Coverage:** this program **covers everything from providing organic seeds and certification** to setting up facilities for collecting, processing, and marketing organic products
+---
+### National List of Essential Diagnostics
+#GS3 #SciTech #Health 
+- **ICMR** has **updated** the **National List of Essential Diagnostics (NLED)**
+- The **first NLED** was released by **ICMR** in **2019** with the purpose of enumerating **minimum essential diagnostic tests** that should be **available** at various levels of health facilities such as **village level, sub-health centres/ Ayushman Arogya Mandirs, PHCs,** etc.
+- **Revised NLED:** includes **rapid diagnostic tests** for:
+	- **Sickel cell anaemia**
+	- **Thalassaemia**
+	- **Hepatitis B**
+	- **Syphilis**
+	- It also recommends **collecting samples for Dengue testing** at the sub-centre level
+---
+### Bills of Landing Bill 2025
+#GS3 #Economy #Infrastructure #Shipping #Act 
+- Parliament has **passed** the **Bills of Landing Bill 2025**
+- It aims to **update and simplify the legal framework** for **shipping documents**
+- It will replace the **Indian Bills of Landing Act 1856**
+- A **bill of landing** refers to a **document** issued by a **freight carrier to a shipper**
+	- It contains details including the *type, quantity, condition,* and *destination of goods* being carrier
+---

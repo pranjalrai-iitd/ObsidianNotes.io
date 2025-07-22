@@ -517,3 +517,22 @@
 - **Rural Labourer:** is defined as **one who does manual work in rural areas in agricultural and non-agricultural occupations** in return for wages in cash or king, or partly in cash and partly in kind.
 - **NOTE:** The **CPI-IW (Industrial Worker)(Base: 2016)** is also released by the **Labour Bureau** and is used to estimate the **Dearness Allowance**
 ---
+### UPI - 1st in Real Time Payments
+#GS3 #Economy #DPI #UPI 
+- As per **IMF**, India's **Unified Payment Index (UPI)** has **surpassed Visa** and it has become **number one real-time payment system** in the world
+- **Unified Payment Index (UPI):**
+	- It is an instant payment system developed by the **NPCI**, an RBI regulated entity
+	- It is built over the **Immediate Payment Service (IMPS)** infrastructure of **NPCI**
+	- **Digital foundation behind UPI:**
+		- ***Pradan mantri Jan Dhan Yojana:*** >55 crore *bank accounts*
+		- ***Aadhar*** and ***Jan Dhan Yojana:*** secure and *digital authentication*
+		- ***Connectivity & 5G Revolution:*** made *digital services* possible
+- **UPI and the changing payment landscape:**
+	- Act as a **Digital Public Infrastructure (DPI):** it is based on open-source technology and leads to *lower cost of on-boarding* and *integration* unlike earlier *closed loop systems (CLS)*
+		- **CLS: Closed Loop Systems:** is a type of *payment network* in which **all participants** *(payer, payee, and system facilitating the transaction)* operate within a **single, unified network**
+	- **Easy Integration:** the **existing systems (legacy & new)** can be easily integrated supporting both real timer and batch settlement functionality
+	- **Interoperability:** It increases users *"freedom to choose"* and also facilitated easy entry of new providers
+	- **Cross border settlement:** for multiple countries on a platform-based approach
+	- **Global expansion:** operations in *Singapore, UAE, Bhutan, Nepal, Sri Lanka, Mauritius, France* and *Namibia*
+	- It facilitates **payments in regional Indian languages**
+---

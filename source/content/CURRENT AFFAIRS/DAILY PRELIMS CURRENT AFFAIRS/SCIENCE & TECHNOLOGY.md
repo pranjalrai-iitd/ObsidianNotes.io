@@ -467,3 +467,14 @@
 	- It can generated thousands of protein structures per hour on a single GPU. 
 	- Also it is **open-source**
 ---
+### National List of Essential Diagnostics
+#GS3 #SciTech #Health 
+- **ICMR** has **updated** the **National List of Essential Diagnostics (NLED)**
+- The **first NLED** was released by **ICMR** in **2019** with the purpose of enumerating **minimum essential diagnostic tests** that should be **available** at various levels of health facilities such as **village level, sub-health centres/ Ayushman Arogya Mandirs, PHCs,** etc.
+- **Revised NLED:** includes **rapid diagnostic tests** for:
+	- **Sickel cell anaemia**
+	- **Thalassaemia**
+	- **Hepatitis B**
+	- **Syphilis**
+	- It also recommends **collecting samples for Dengue testing** at the sub-centre level
+---

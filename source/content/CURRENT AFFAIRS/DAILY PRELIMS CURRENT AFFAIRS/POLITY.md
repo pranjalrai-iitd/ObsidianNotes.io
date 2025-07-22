@@ -189,3 +189,18 @@
 	- #Judgement <b><u><i>Tirith Kumar Vs. Daduram (2024):</i></u></b> upheld **female inheritance in tribal property**
 - **Customs can be recognized as a binding law** but it must fulfill the criteria of ***reasonableness*** and ***morality***
 ---
+### Removal of Judges
+#GS2 #Polity #Judiciary 
+- A total of 145 members of Lok Sabha and more than 50 in Rajya Sabha, have signed and submitted a motion in the Parliament, under **Articles 124, 217 and 218** of the constitution, to remove Justice Yashwant Varma
+- **Constitutional provisions regarding removal of Judges:**
+	- **Article 124(4):** It deals with the **removal of judges** of the **Supreme Court**
+		- **Grounds** for removal: ***Proven misbehavior*** and **incapacity***
+	- **Article 124(5):** It deals with the **power of Parliament** to **regulate the procedure** for the **presentation of an address** and for the **investigation and proof of the misbehavior** or **incapacity of Judges**
+	- The **Procedure** is regulated by the ***Judges Enquiry Act (1968)*** enacted under the **Article 124(5)**
+	- **Article 217(1)(b):** It deals with the removal of a **Judge of a High Court**
+		- It states that a High  court judge may be removed from his office by the **President** in the manner provided in **Article 124(4)** for the removal of **judge of the Supreme Court**
+	- **Article 218:** extends the applicability of **Article 214(4) and 214(5)** to the **High courts**
+- **Steps in removal process:** as per the ***Judges Enquiry Act, 1968***
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/OrtFnwYuX57bftrGzRo9zSAXwNLlrUHvrM4mIdtI.jpg" alt="Removal of Judges" width="700"/></p>
+
+---

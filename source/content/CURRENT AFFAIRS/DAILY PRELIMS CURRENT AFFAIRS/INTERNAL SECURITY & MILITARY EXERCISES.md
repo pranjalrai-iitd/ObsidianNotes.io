@@ -307,4 +307,10 @@
 <p align="center"><img src="https://static.toiimg.com/thumb/msid-122651177,imgsize-462174,width-400,resizemode-4/122651177.jpg" alt="Netra MkII AWACS on Airbus A321" width="200"/><br><i>Netra MkII AWACS on Airbus A321</i></p>
 
 ---
-
+### Bharat NCX
+#GS3 #InternalSecurity #CyberSecurity 
+- **Bharat NCX:** National Cybersecurity Exercise was officially inaugurated
+- Conducted by **National Security Council Secretariat (NSCS)** in collaboration with **Rashtriya Rakhsha University (RRU)**
+- **Objectives:** strengthen national cuber resilience and readiness, Simulate real-world cybersttacks
+- **Key features:** Live-Fire Cyber Simulations, AI-Integrated Cuber Defence Training
+---
