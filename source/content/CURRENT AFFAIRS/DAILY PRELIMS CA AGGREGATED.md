@@ -5785,3 +5785,135 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 - A **bill of landing** refers to a **document** issued by a **freight carrier to a shipper**
 	- It contains details including the *type, quantity, condition,* and *destination of goods* being carrier
 ---
+### UNESCO
+#GS2 #UNESCO #InternationalOrganizations 
+- **USA** withdrew from **UNESCO** citing the agency's support for **woke** and **divisive causes** and **anti-Israel** bias. This marks the **third exit** of USA from UNECSO and the second under the current leadership
+- Additionally USA has withdrawn from **WHO** and has taken steps to withdraw from other UN bodies and has sufficiently reduced **UNRAW funding**
+- **Impact of US withdrawal:**
+	- **Budgetary impact:** USA contributed nearly **8%** of **UNESCO budget**
+	- **Geopolitical impact:** withdrawal may create space for increased influence by other powers, particularly **China**
+	- **Impact of multilateralism:** exiting a UN body may **weaken trust in multilateral institutions** and signal a retreat from global cooperation
+- **UNESCO:**
+	- It is a **specialized agency** of the **United Nations**
+	- **Purpose:** to contribute to peace and security by promoting collaboration among the nations through education, science and culture
+	- It **HQ** is in **Paris**
+	- It has **194 members** and **12 associate members**
+- **Reports by UNESCO:**
+	- ***Global Education Monitoring Report***
+	- ***World Trends in Freedom of Expression and Media Development***
+	- ***UNESCO World Heritage Sites***
+	- ***Man and Biosphere (MAB) Programme***
+---
+### Intellectual Property Filings
+#GS3 #IPR #Data 
+- The **Minister of Commerce and Industry** informed the **Lok Sabha** that **Intellectual Property filings** in India **surged by 44%** in the last 5 years.
+- The **highest growth was observed in** ***Geographical Indications (GI)*** with a **380% increase** followed by ***Designs, Patents, Copyright,*** and ***Trademarks***
+- This surge is largely driven by **strategic reforms** to **enhance Intellectual Property (IP)** activities and foster innovation and boost IP filing in India
+- **Government Initiatives to foster IP activities:**
+	- **Procedural reforms:** fixing of timelines for grant of patents, reduction of number of forms (from 74 to 8) for registration of Trademarks, etc.
+	- **Fee concessions:** **80%** fee reduction in **Patents** for Startups, MSMEs, and Educational Institutions; and **75%** free reduction in **Designs** for Startups, and MSMEs, etc.
+	- **Digitalization:** ***IP Dashboard*** to provide real-time comprehensive data on IP applications, AI-powered Trademark Search Technology for a more efficient and accurate examination of Trade Mark applications, etc.
+	- **Programmes and schemes:** 
+		- *National Intellectual Property Awareness Mission (NIPAM)*
+		- *IPR Internship Programme*
+		- *Start-Ups Intelelctual Property Protection (SIPP) Scheme*
+		- *National Intelelctual Proterty (IP) Awards*
+	- **International standards:** adoption of international classification under ***Locarno Agreement*** for Industrial Designs
+		- **Locarno agreement** is an international agreement under the **World Intellectual Property Organization (WIPO)** signed in 1968
+---
+### Arctic Amplification
+#GS1 #GS3 #Geography #Environment #ClimateChange 
+- In **February 2025**, ***exceptionally high air temperatures and rainfall*** over **Svalbard** (an archipelago in the Arctic) triggered widespread **snow-melt** and **pooling of melt-water**
+- **Human caused global warming** is particularly amplified in the Arctic, causing the climate in the Arctic to **warm more quickly than the rest of the Earth**, in a phenomenon known as ***Arctic Amplification***
+- **Factors for Arctic Amplification:**
+	- **Reduced Albedo:** when temperature rise, reflective layer of ice and snow cover in Arctic is gradually replaced by darker ocean water and exposed land, both of which absorb more solar energy
+		- This absorption accelerated warming, resulting in additional ice and snow loss - constituting a **feedback loop**
+	- **Lapse rate feedback:** In Arctic, warming from greenhouse gases is **most pronounced near the surface** while in the Tropics, extra heat spreads vertically due to convection
+	- **Water vapor triple effect:** water vapor creates more cloud cover contributing to heating, release heat during condensation into water and acts as a greenhouse gas
+	- **Atmospheric heat transport:** a larger **increase in moisture in the tropics** increases the rate of hear transport from the tropics to the Arctic
+- **Impact of Arctic Amplification:**
+	- **Accelerates global warming:** permafrost thawing releases CO2 and Methane fro stored organic carbon
+	- **Ecological change:** winter warming and rain remove insulating snow, exposing tundra and microbes to harsher temperature differences
+	- **Impact on India:**
+		- **Disruption of Indian monsoon:** declining Arctic sea is linked to **stronger monsoons** leading to **extreme rainfall events**
+		- **Sea level rise:** it threatens coastal cities, risks salinization of agricultural areas, etc.
+		- **Increase economic and social risks** due to agricultural losses, health impacts and infrastructural damages, etc.
+---
+### Vanatu
+#GS1 #Geography #PlacesInNews #Mapping 
+- Pacific nation of Vanatu has approached the **International Court of Justice** to classify **environmental destruction** as ***"Ecocide"***
+- Earlier, **Belgium** became the **first European** country to recognize ecocide as international level crime
+<p align="center">
+<img src="https://cdn.britannica.com/57/126157-050-7F6512BB/Culture-areas-Pacific-Islands.jpg" alt="Vanatu" width="450"/>
+<br>
+<img src="https://www.worldatlas.com/r/w960-q80/upload/35/ac/d2/vu-01.png" alt="Pacific Islands" width="500"/>
+</p>
+
+- **Vanatu** is an **archipelago** which was colonized by **Scotland** and was earlier known as **"New Hebrides archipelago"**. It is a part of the **Melanasia** and has **Port Vila** as it's capital
+- It is situated, **East of Northern-Australia** and **West of Fiji**
+- It is of **volcanic origin** and features a *mountainous terrains* and *coastal plains*
+- **Major islands:**
+	- *Espiritu Santo*
+	- *Banks islands*
+	- *Malakula*
+	- *Efate*
+---
+### Mhadei/ Mahadayi River
+#GS1 #Geography #PlacesInNews #Mapping 
+- **Goa** is considering approaching the Supreme Court on the **Mhadei river water dispute** against **Karnataka's Kalasa-Banduri project**
+	- **Kalasa-Banduri Project** involves building barrages across *Kalasa* and *Banduri* (tributaries of Mhadei) to divert water to **Malaprabha river** (in Karnataka)
+<p align="center"><img src="https://www.drishtiias.com/images/uploads/1574065952_image4.png" alt="Mhadei River" width="300"/></p>
+
+- **Madei River:**
+	- Originated in **Jamboti Ghat** in **Karnataka (Western Ghats)** and flows into the Eastern **Arabian Sea**
+	- It flows through **Goa, Karnataka,** and **Maharashtra**
+---
+### Chola Gangam Lake
+#GS1 #Geography #PlacesInNews #Mapping 
+- **Tamil Nadu** government announced to develop the **Chola Gangam lake**
+- It is also called ***Ponneri (Golden) lake,*** and it was built by **Rajendra Chola I** in **Gangaikondacholapuram**
+	- **Gangaikondacholapuram** was created as the **capital** of the Cholas by **Rajendra Chola I,** to commemorate his **victorious northern campaign** and conquest of the Gangetic plains
+- According to the ***Tiruvalangadu Copper Plates,*** the lake was the **liquid pillar of victory** established by the King
+---
+### Financial Inclusion Index
+#GS3 #Economy #FinancialInclusion #Data 
+- **RBI's financial inclusion index** shows growth across all segments in FY25
+- It increased to ***67* (F25)** from ***64.2* (FY24)** largely due to increased usage and better quality, reflecting deepening financial inclusion, and sustained financial literacy initiatives
+- **Financial Inclusion Index:**
+	- **Overview:** first introduced in **2021** and is published **annually** in July
+	- **Comprehensive index:** including details of *banking, investments, insurance, postal* and *pension sector*
+	- **Aim:** to measure the **Extent of financial inclusion** in India
+	- **Index range:** 0(complete exclusion) to 100(full inclusion)
+	- **Parameters:**
+		- **Usage** - ***45%*** 
+		- **Access** - ***35%***
+		- **Quality** - ***20%***
+	- **No base year:** the index is constructed without any base year
+---
+### Winter Fog Experiment - WiFEX
+#GS1 #Geography #Climatology 
+- **Winter Fog Experiment (WiFEX)** completes 10 years of dedicated research into **North India's dense winter fog** and its impact
+- It is **one of the world's few long-term open-field experiments** focused **solely on fog**
+- **Institutions:** Led by **Indian Institute of Tropical Meteorology (IITM)** under the **Ministry of Earth Sciences (MoES)**
+- **Objective:** to develop better **now-casting (next 6 hours)** and **forecasting** of **winter fog**
+---
+### Great Ruaha River
+#GS1 #Geography #PlacesInNews #Mapping 
+- **Great Ruaha River** in **Tanzania** is **drying up** due to **climate change** and **mismanagement** driven by increasing human activities
+- It is one of **Tanzania's major rivers** and an important **tributary of Rufiji River (largest river basin in Tanzania)**
+- It is the **main water source** for the **Ruaha National Park**
+---
+### Biostimulant
+#GS3 #Agriculture #Fertilizer 
+- **Union Agriculture Minister** urges states to **halt mandatory tagging** of **Biostimulant** with **Fertilizers**
+- #Definition 
+	- Any substance that stimulates physiological processes in plants and helps enhance the yield from a harvest.
+	- The are **substances** and/or **microorganisms** whose function when applied to plants or the **rhizosphere** is to **stimulate natural processes** to benefit crop quality independently of its nutrient content.
+- It is **regulated** under ***Fertiliser (Inorganic, Organic or Mixed) (Control) Order, 1985***
+- **Biostimulants** can improve:
+	- *Nutritional availability and use efficiency*
+	- *Tolerance to stress*
+	- *Crop quality*
+- **Popular biostimulants:**
+	- *Humic acids, Seaweed extracts, Liquid manure composting, beneficial bacteria* and *fungi*
+---

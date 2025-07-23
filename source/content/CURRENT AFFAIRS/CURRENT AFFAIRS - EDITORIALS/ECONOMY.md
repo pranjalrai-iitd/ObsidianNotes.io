@@ -750,4 +750,39 @@ Excessive salt consumption can result into - *increased risk of hypertension, st
 - **Sustainability:** aligning the GCCs with **ESG goals**
 
 ---
+### **INTELLECTUAL PROPERTY FILINGS**
+#GS3 #IPR #Data 
 
+<b><u>NEWS/ DATA:</u></b>
+- The **Minister of Commerce and Industry** informed the **Lok Sabha** that **Intellectual Property filings** in India **surged by 44%** in the last 5 years.
+- The **highest growth was observed in** ***Geographical Indications (GI)*** with a **380% increase** followed by ***Designs, Patents, Copyright,*** and ***Trademarks***
+- This surge is largely driven by **strategic reforms** to **enhance Intellectual Property (IP)** activities and foster innovation and boost IP filing in India
+
+<b><u>GOVERNMENT INITIATIVES TO FOSTER IP ACTIVITIES:</u></b>
+1. **Procedural reforms:** fixing of timelines for grant of patents, reduction of number of forms (from 74 to 8) for registration of Trademarks, etc.
+2. **Fee concessions:** **80%** fee reduction in **Patents** for Startups, MSMEs, and Educational Institutions; and **75%** free reduction in **Designs** for Startups, and MSMEs, etc.
+3. **Digitalization:** ***IP Dashboard*** to provide real-time comprehensive data on IP applications, AI-powered Trademark Search Technology for a more efficient and accurate examination of Trade Mark applications, etc.
+4. **Programmes and schemes:** 
+	- *National Intellectual Property Awareness Mission (NIPAM)*
+	- *IPR Internship Programme*
+	- *Start-Ups Intelelctual Property Protection (SIPP) Scheme*
+	- *National Intelelctual Proterty (IP) Awards*
+5. **International standards:** adoption of international classification under ***Locarno Agreement*** for Industrial Designs
+	- **Locarno agreement** is an international agreement under the **World Intellectual Property Organization (WIPO)** signed in 1968
+
+---
+### **FINANCIAL INCLUSION INDEX**
+#GS3 #Economy #FinancialInclusion #Data 
+- **RBI's financial inclusion index** shows growth across all segments in FY25
+- It increased to ***67* (F25)** from ***64.2* (FY24)** largely due to increased usage and better quality, reflecting deepening financial inclusion, and sustained financial literacy initiatives
+- **Financial Inclusion Index:**
+	- **Overview:** first introduced in **2021** and is published **annually** in July
+	- **Comprehensive index:** including details of *banking, investments, insurance, postal* and *pension sector*
+	- **Aim:** to measure the **Extent of financial inclusion** in India
+	- **Index range:** 0(complete exclusion) to 100(full inclusion)
+	- **Parameters:**
+		- **Usage** - ***45%*** 
+		- **Access** - ***35%***
+		- **Quality** - ***20%***
+	- **No base year:** the index is constructed without any base year
+---

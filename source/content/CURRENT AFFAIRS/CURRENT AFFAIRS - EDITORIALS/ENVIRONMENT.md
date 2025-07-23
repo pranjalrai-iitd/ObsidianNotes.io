@@ -57,3 +57,27 @@
 	- ***Biomagnify:*** Subsequently contaminate food chains with increased concentrations in higher trophic levels.
 
 ---
+### **SUSTAINABLE AND CLIMATE RESILIENT URBAN DEVELOPMENT**
+#GS3 #GS1 #Environment #Society #Urbanisation #ClimateChange 
+
+<b><u>NEWS:</u></b>
+- **World Bank** released a report titled, ***"Towards Resilient and Prosperous Cities in India"*** and estimated that **total investment needs** for **new resilient and green urban infrastructure** and services are ***USD 2.4 Trillion by 2050***
+
+<b><u>INDIA'S URBAN LANDSCAPE:</u></b>
+1. **Urban population:** In 2020, cities hosted over **one-third (1/3rd)** of the **national population** - around **480 Million**
+2. **Expansion in unsafe areas:** between *1985 and 2015*, settlement extent in **high flood-risk areas** grew by **102%**
+3. **Future projections:** Urban population is likely to **double** to **951 Million** by 2050
+
+<b><u>CLIMATE RISKS TO INDIAN CITIES:</u></b>
+1. **Flooding:** forecast increase in risk of **3.6 to 7 times** of **pluvial flooding (surface water floods)** by **2070** due to increasingly **uncertain and intense rainfall** associated with **climate change** and increase in area of **impervious surfaces**
+2. **Extreme heat:** around **1/5th of working hours** in **major cities** could be under **high heat stress conditions** by 2050
+
+<b><u>CITY CLIMATE ACTION PLAN FOR CLIMATE RESILIENT URBAN DEVELOPMENT:</u></b>
+- **Climate and disaster risk assessment:** develop local hazard specific investment plan, integrate disaster risk information in land use plan, etc.
+- **Prioritize more vulnerable including urban poor:** develop and strengthen local programs to support informal settlements, identify high-risk residents based on climate and disaster risk mapping, etc.
+- **Invest in green city expansion:** enable compact city through **transit-oriented development,** promote LED and other energy efficient technologies for street lighting, forbid construction in risk-prone areas, etc.
+- **Efficient, resilient and green municipal services:** city-level analysis of water sector to improve energy efficiency, invest in efficient and low-carbon solid waste management, etc.
+- **Others:** climate-sensitive new urban development, facilitate the private sector's role in risk transfer and resilience, etc.
+
+---
+

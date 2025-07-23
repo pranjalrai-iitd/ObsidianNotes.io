@@ -435,3 +435,45 @@
 		- **Sinqu river**
 	- ***White Gold:*** Lesotho's major natural resource is **water**, often referred to as ***"white gold"***
 ---
+### Vanatu
+#GS1 #Geography #PlacesInNews #Mapping 
+- Pacific nation of Vanatu has approached the **International Court of Justice** to classify **environmental destruction** as ***"Ecocide"***
+- Earlier, **Belgium** became the **first European** country to recognize ecocide as international level crime
+<p align="center">
+<img src="https://cdn.britannica.com/57/126157-050-7F6512BB/Culture-areas-Pacific-Islands.jpg" alt="Vanatu" width="450"/>
+<br>
+<img src="https://www.worldatlas.com/r/w960-q80/upload/35/ac/d2/vu-01.png" alt="Pacific Islands" width="500"/>
+</p>
+
+- **Vanatu** is an **archipelago** which was colonized by **Scotland** and was earlier known as **"New Hebrides archipelago"**. It is a part of the **Melanasia** and has **Port Vila** as it's capital
+- It is situated, **East of Northern-Australia** and **West of Fiji**
+- It is of **volcanic origin** and features a *mountainous terrains* and *coastal plains*
+- **Major islands:**
+	- *Espiritu Santo*
+	- *Banks islands*
+	- *Malakula*
+	- *Efate*
+---
+### Mhadei/ Mahadayi River
+#GS1 #Geography #PlacesInNews #Mapping 
+- **Goa** is considering approaching the Supreme Court on the **Mhadei river water dispute** against **Karnataka's Kalasa-Banduri project**
+	- **Kalasa-Banduri Project** involves building barrages across *Kalasa* and *Banduri* (tributaries of Mhadei) to divert water to **Malaprabha river** (in Karnataka)
+<p align="center"><img src="https://www.drishtiias.com/images/uploads/1574065952_image4.png" alt="Mhadei River" width="300"/></p>
+
+- **Madei River:**
+	- Originated in **Jamboti Ghat** in **Karnataka (Western Ghats)** and flows into the Eastern **Arabian Sea**
+	- It flows through **Goa, Karnataka,** and **Maharashtra**
+---
+### Chola Gangam Lake
+#GS1 #Geography #PlacesInNews #Mapping 
+- **Tamil Nadu** government announced to develop the **Chola Gangam lake**
+- It is also called ***Ponneri (Golden) lake,*** and it was built by **Rajendra Chola I** in **Gangaikondacholapuram**
+	- **Gangaikondacholapuram** was created as the **capital** of the Cholas by **Rajendra Chola I,** to commemorate his **victorious northern campaign** and conquest of the Gangetic plains
+- According to the ***Tiruvalangadu Copper Plates,*** the lake was the **liquid pillar of victory** established by the King
+---
+### Great Ruaha River
+#GS1 #Geography #PlacesInNews #Mapping 
+- **Great Ruaha River** in **Tanzania** is **drying up** due to **climate change** and **mismanagement** driven by increasing human activities
+- It is one of **Tanzania's major rivers** and an important **tributary of Rufiji River (largest river basin in Tanzania)**
+- It is the **main water source** for the **Ruaha National Park**
+---

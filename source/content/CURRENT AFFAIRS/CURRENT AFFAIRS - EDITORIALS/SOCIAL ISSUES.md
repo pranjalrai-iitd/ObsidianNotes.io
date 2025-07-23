@@ -497,3 +497,27 @@
 - **UGC Advisory:** to higher educations institutions to prioritize physical fitness, sports, student welfare, and emotional well-being
 
 ---
+### **ISSUES SURROUNDING STRAY GODS**
+#GS1 #GS2 #Society #Judgement #StrayDogs
+
+<b><u>NEWS:</u></b>
+- **Supreme Court** gave its observations on **balancing protection of stray dogs** with **concerns of citizens**. 
+	- The court observed that citizens who wished to **feed stray dogs** should consider doing so **inside their own homes**, highlighting the **ethical divide over stray dogs**
+	- The court also observed that **law warrant the protection of street dogs,** but the authorities will have to bear in mind the **concern of common man,** such that their **movement on streets are not hampered by dog attacks**
+- #Data According to **NCDC,** more than **37 lakh dog bite cases** were ported in 2024
+
+<b><u>ETHICAL ISSUES CONCERNING STRAY DOGS:</u></b>
+1. **Compassion Vs. Public Order:** citizens have compassion towards feeding stray dogs but others argue that it encourages territorial aggression and public nuisance
+2. **Animal Welfare Vs. Public Safety:** stray dogs have **right to life and dignity** yet communities also have the **right to safety** from dog bites and rabies
+3. **Ecological carrying capacity Vs. Population control:** humans are increasing capacity for stray dog population bu **feeding them** and by **littering waste** and on the other hand are adopting **unethical animal control methods**
+4. **Utilitarianism Vs. Deontological approach** - ***Abandonment Vs. Responsibility:*** utilitarian component in human-dog bond has weakened significantly resulting in abandonment of pets while deontological approach prioritized fulfilling responsibilities towards stray dogs
+
+<b><u>PROVISIONS REGARDING STRAY DOGS IN INDIA:</u></b>
+- **Constitutional provisions:**
+	- ***Article 243(W):*** mandated **municipalities** to control stray dog population
+	- ***Article 51A(g):*** places a **fundamental duty** on citizens to have **compassion for living creatures**
+- **Rules:**
+	- ***Animal Birth Control (ABC) Rules, 2023:*** under the ***Prevention of Cruelty to Animals Act, 1960*** seek to **control stray fog populations** through **sterilization,** and to curb the spread of rabies by **vaccination**
+		- Rules addresses **feeding of community animals by assigning responsibility** to the **Resident Welfare Associations (RWAs)** or **Local bodies**
+	- #Judgement In the ***Jallikattu Case, 2014,*** Supreme court interpreted the **right to life and liberty (Article 21)** as **extending to animals as well**
+---

@@ -79,7 +79,7 @@
 - Transposons are also called **Jumping Genes** which are DNA sequences that move from one location to another on the genome, affecting the expression of genes
 	- They can do so by either **physically cutting and pasting** themselves or by **copying** themselves to new locations
 	- They may **increase or decrease the amount of DNA** and **may cause mutations** int he cell genome
-- In human beings -> ***more than 50% of the genome** is composed of transposable elements
+- In human beings -> ***more than 50% of the genome** is composed of transposable elements*
 ---
 ### E-Rakt Kosh
 #GS3 #SciTech #Health 
@@ -477,4 +477,21 @@
 	- **Hepatitis B**
 	- **Syphilis**
 	- It also recommends **collecting samples for Dengue testing** at the sub-centre level
+---
+### Intellectual Property Filings
+#GS3 #IPR #Data 
+- The **Minister of Commerce and Industry** informed the **Lok Sabha** that **Intellectual Property filings** in India **surged by 44%** in the last 5 years.
+- The **highest growth was observed in** ***Geographical Indications (GI)*** with a **380% increase** followed by ***Designs, Patents, Copyright,*** and ***Trademarks***
+- This surge is largely driven by **strategic reforms** to **enhance Intellectual Property (IP)** activities and foster innovation and boost IP filing in India
+- **Government Initiatives to foster IP activities:**
+	- **Procedural reforms:** fixing of timelines for grant of patents, reduction of number of forms (from 74 to 8) for registration of Trademarks, etc.
+	- **Fee concessions:** **80%** fee reduction in **Patents** for Startups, MSMEs, and Educational Institutions; and **75%** free reduction in **Designs** for Startups, and MSMEs, etc.
+	- **Digitalization:** ***IP Dashboard*** to provide real-time comprehensive data on IP applications, AI-powered Trademark Search Technology for a more efficient and accurate examination of Trade Mark applications, etc.
+	- **Programmes and schemes:** 
+		- *National Intellectual Property Awareness Mission (NIPAM)*
+		- *IPR Internship Programme*
+		- *Start-Ups Intelelctual Property Protection (SIPP) Scheme*
+		- *National Intelelctual Proterty (IP) Awards*
+	- **International standards:** adoption of international classification under ***Locarno Agreement*** for Industrial Designs
+		- **Locarno agreement** is an international agreement under the **World Intellectual Property Organization (WIPO)** signed in 1968
 ---

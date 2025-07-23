@@ -306,6 +306,20 @@ A(Types of<br><b>Agroforestry</b>)-->D(<b>Agrosilvopastoral:</b><br>Trees<br>+<b
 - **Biostimulants:** **substances** and/or **microorganisms** whose function when applied to plants or the **rhizosphere** is to **stimulate natural processes** to benefit crop quality independently of its nutrient conent.
 	- **Popular biostimulants:**
 		- *Humic acids, Seaweed extracts, Liquid manure composting, beneficial bacteria* and *fungi*
+---
+### Biostimulant
+#GS3 #Agriculture #Fertilizer 
+- **Union Agriculture Minister** urges states to **halt mandatory tagging** of **Biostimulant** with **Fertilizers**
+- #Definition 
+	- Any substance that stimulates physiological processes in plants and helps enhance the yield from a harvest.
+	- The are **substances** and/or **microorganisms** whose function when applied to plants or the **rhizosphere** is to **stimulate natural processes** to benefit crop quality independently of its nutrient content.
+- It is **regulated** under ***Fertiliser (Inorganic, Organic or Mixed) (Control) Order, 1985***
+- **Biostimulants** can improve:
+	- *Nutritional availability and use efficiency*
+	- *Tolerance to stress*
+	- *Crop quality*
+- **Popular biostimulants:**
+	- *Humic acids, Seaweed extracts, Liquid manure composting, beneficial bacteria* and *fungi*
 
 ---
 ### PM Dhan-Dhaanya Krishi Yojana (PMDDKY)

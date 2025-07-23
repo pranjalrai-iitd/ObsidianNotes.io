@@ -221,3 +221,28 @@
 - **Objective:** Development of **irrigation, hydro power, drinking water supply** and **diversion of water to** ***Krishna*** river basin to provide relief to the drought-prone ***Rayalseema region***
 - **Issues with the project:** Telangana has accused Andhra of violating the *inter-state river water sharing agreement* agreed to in the *Andhra Pradesh Reorganisation Act, 2014*
 ---
+### Arctic Amplification
+#GS1 #GS3 #Geography #Environment #ClimateChange 
+- In **February 2025**, ***exceptionally high air temperatures and rainfall*** over **Svalbard** (an archipelago in the Arctic) triggered widespread **snow-melt** and **pooling of melt-water**
+- **Human caused global warming** is particularly amplified in the Arctic, causing the climate in the Arctic to **warm more quickly than the rest of the Earth**, in a phenomenon known as ***Arctic Amplification***
+- **Factors for Arctic Amplification:**
+	- **Reduced Albedo:** when temperature rise, reflective layer of ice and snow cover in Arctic is gradually replaced by darker ocean water and exposed land, both of which absorb more solar energy
+		- This absorption accelerated warming, resulting in additional ice and snow loss - constituting a **feedback loop**
+	- **Lapse rate feedback:** In Arctic, warming from greenhouse gases is **most pronounced near the surface** while in the Tropics, extra heat spreads vertically due to convection
+	- **Water vapor triple effect:** water vapor creates more cloud cover contributing to heating, release heat during condensation into water and acts as a greenhouse gas
+	- **Atmospheric heat transport:** a larger **increase in moisture in the tropics** increases the rate of hear transport from the tropics to the Arctic
+- **Impact of Arctic Amplification:**
+	- **Accelerates global warming:** permafrost thawing releases CO2 and Methane fro stored organic carbon
+	- **Ecological change:** winter warming and rain remove insulating snow, exposing tundra and microbes to harsher temperature differences
+	- **Impact on India:**
+		- **Disruption of Indian monsoon:** declining Arctic sea is linked to **stronger monsoons** leading to **extreme rainfall events**
+		- **Sea level rise:** it threatens coastal cities, risks salinization of agricultural areas, etc.
+		- **Increase economic and social risks** due to agricultural losses, health impacts and infrastructural damages, etc.
+---
+### Winter Fog Experiment - WiFEX
+#GS1 #Geography #Climatology 
+- **Winter Fog Experiment (WiFEX)** completes 10 years of dedicated research into **North India's dense winter fog** and its impact
+- It is **one of the world's few long-term open-field experiments** focused **solely on fog**
+- **Institutions:** Led by **Indian Institute of Tropical Meteorology (IITM)** under the **Ministry of Earth Sciences (MoES)**
+- **Objective:** to develop better **now-casting (next 6 hours)** and **forecasting** of **winter fog**
+---

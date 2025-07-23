@@ -314,3 +314,22 @@
 - **Objectives:** strengthen national cuber resilience and readiness, Simulate real-world cybersttacks
 - **Key features:** Live-Fire Cyber Simulations, AI-Integrated Cuber Defence Training
 ---
+### UNESCO
+#GS2 #UNESCO #InternationalOrganizations 
+- **USA** withdrew from **UNESCO** citing the agency's support for **woke** and **divisive causes** and **anti-Israel** bias. This marks the **third exit** of USA from UNECSO and the second under the current leadership
+- Additionally USA has withdrawn from **WHO** and has taken steps to withdraw from other UN bodies and has sufficiently reduced **UNRAW funding**
+- **Impact of US withdrawal:**
+	- **Budgetary impact:** USA contributed nearly **8%** of **UNESCO budget**
+	- **Geopolitical impact:** withdrawal may create space for increased influence by other powers, particularly **China**
+	- **Impact of multilateralism:** exiting a UN body may **weaken trust in multilateral institutions** and signal a retreat from global cooperation
+- **UNESCO:**
+	- It is a **specialized agency** of the **United Nations**
+	- **Purpose:** to contribute to peace and security by promoting collaboration among the nations through education, science and culture
+	- It **HQ** is in **Paris**
+	- It has **194 members** and **12 associate members**
+- **Reports by UNESCO:**
+	- ***Global Education Monitoring Report***
+	- ***World Trends in Freedom of Expression and Media Development***
+	- ***UNESCO World Heritage Sites***
+	- ***Man and Biosphere (MAB) Programme***
+---

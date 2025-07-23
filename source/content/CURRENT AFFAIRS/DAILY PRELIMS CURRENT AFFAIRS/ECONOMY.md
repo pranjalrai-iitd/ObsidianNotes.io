@@ -536,3 +536,18 @@
 	- **Global expansion:** operations in *Singapore, UAE, Bhutan, Nepal, Sri Lanka, Mauritius, France* and *Namibia*
 	- It facilitates **payments in regional Indian languages**
 ---
+### Financial Inclusion Index
+#GS3 #Economy #FinancialInclusion #Data 
+- **RBI's financial inclusion index** shows growth across all segments in FY25
+- It increased to ***67* (F25)** from ***64.2* (FY24)** largely due to increased usage and better quality, reflecting deepening financial inclusion, and sustained financial literacy initiatives
+- **Financial Inclusion Index:**
+	- **Overview:** first introduced in **2021** and is published **annually** in July
+	- **Comprehensive index:** including details of *banking, investments, insurance, postal* and *pension sector*
+	- **Aim:** to measure the **Extent of financial inclusion** in India
+	- **Index range:** 0(complete exclusion) to 100(full inclusion)
+	- **Parameters:**
+		- **Usage** - ***45%*** 
+		- **Access** - ***35%***
+		- **Quality** - ***20%***
+	- **No base year:** the index is constructed without any base year
+---
