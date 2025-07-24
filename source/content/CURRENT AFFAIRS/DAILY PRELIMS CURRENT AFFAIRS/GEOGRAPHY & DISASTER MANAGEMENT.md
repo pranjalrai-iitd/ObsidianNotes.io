@@ -246,3 +246,14 @@
 - **Institutions:** Led by **Indian Institute of Tropical Meteorology (IITM)** under the **Ministry of Earth Sciences (MoES)**
 - **Objective:** to develop better **now-casting (next 6 hours)** and **forecasting** of **winter fog**
 ---
+### National Crisis Management Committee (NCMC)
+#GS3 #DisasterManagement 
+- The Ministry of Home Affairs Notified the **Disaster Management National Crisis Management Committee (Procedure) Rules**, 2025.
+- **About NCMC**
+	- **Background**: The Disaster Management Act (Amendment) Act, 2025, **granted statutory status to NCMC.**
+	- **Composition**: Headed by the **Cabinet Secretar**y, with members including the Home Secretary, Defence Secretary, etc.
+	- **Powers and Functions**
+	    - Act as the **nodal body** to deal with the major disasters which have serious or national ramifications.
+	    - Can evaluate **preparedness** for any disaster or emergency situation.
+	    - **Coordinates and monitors** national disaster response efforts.
+---

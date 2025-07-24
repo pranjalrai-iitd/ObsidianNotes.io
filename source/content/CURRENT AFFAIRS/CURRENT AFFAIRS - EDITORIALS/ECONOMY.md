@@ -786,3 +786,24 @@ Excessive salt consumption can result into - *increased risk of hypertension, st
 		- **Quality** - ***20%***
 	- **No base year:** the index is constructed without any base year
 ---
+### **GST**
+#GS3 #Economy #Taxation #EarlyWarningSystem 
+
+<b><u>NEWS/ DATA:</u></b>  
+- **National Institute of Public Finance and Policy (NIPFP)** Study calls **GST Regime Progressive**
+- In India, **consumption taxes make up over 62%** of total tax revenue (more than income and property taxes) and **GST contributes half** of this, understanding its burden is crucial.
+- **Monthly GST collection** stands at **INR 1.85 Lakh Crore** for *June 2025*
+- **Annual GST collection** stands at **INR 22 Lakh Crore** for *FY25 (2024-25)*
+
+<b><u>FINDINGS OF THE NIPFP REPORT ON GST:</u></b>
+- **GST is Progressive:** Higher-income groups pay a larger share, reducing post-tax inequality. GST Burden:
+    - **Rural:** Bottom 50% pay 31%, **top 20% pay 37%**
+    - **Urban:** Bottom 50% pay 29%, **top 20% pay 41%**
+    - This c**ontradicts the 2023 Oxfam report,** which claimed the **poor paid two-thirds** of GST.
+- **Multiple Slabs Help:** Essential goods and services are taxed at lower rates (e.g., health, education) or are exempt (e.g., food), making GST fairer.
+    - The paper warned that **increasing the tax rate on items in the 5-12 per cent bucket** may increase the tax burden on those in lower consumption classes. 
+        - For simplifying GST regime, there is a proposal for removal of the 12%GST rate by shifting some items to the 5%slab and others to the 18%.
+
+<b><u>CONCLUSION:</u></b> Changes in GST rate structure can **impact consumer groups differently**, depending on what goods and services they consume. Policymakers should consider these **distributional effects** while revising GST rates.
+
+---

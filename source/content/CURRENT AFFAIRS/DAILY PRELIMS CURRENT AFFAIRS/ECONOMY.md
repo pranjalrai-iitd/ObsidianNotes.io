@@ -551,3 +551,30 @@
 		- **Quality** - ***20%***
 	- **No base year:** the index is constructed without any base year
 ---
+### India Skills Accelerator initiative
+#GS3 #Economy #Skilling 
+- The Ministry of Skill Development and Entrepreneurship **(MSDE)**, in collaboration with the **World Economic Forum (WEF), deliberated on the “India Skills Accelerator”**
+- **About the Skills Accelerator initiative**
+	- **Key Objectives**
+	    - Enable **agile career transitions**
+	    - Promote **scalable training**
+	    - Align **education with industry needs**, particularly in sectors such as **AI, robotics, advanced manufacturing**, and **clean energy.** 
+	- **Platform Structure:** A public-private collaboration platform for cross-sector innovation
+- **Part of the WEF’s Reskilling Revolution:** It **incentivises governments** to provide upskilling and **reskilling to all workers,** regardless of education levels or employment status.
+---
+### Financial Conditions Index (FCI)
+#GS3 #Economy #FinancialSector
+- A study of **RBI** has proposed the **construction of a FCI** for India to track market trends with daily frequency.
+- **About Financial Conditions Index (FCI)**
+	- It assesses the **degree of relatively tight o**r easy financial market conditions with reference to its historical average **since 2012.** 
+	- The chosen indicators represent five market segments: **money market, G-sec market, corporate bond market, forex market,** and equity market.
+	-  **A higher positive value** of the FCI indicates **tighter financial conditions.**
+---
+### Power Market Coupling
+#GS3 #Economy #Infrastructure #PowerSector #Energy 
+- **Central Electricity Regulatory Commission** directed that **Power market coupling** will begin with the **Day-Ahead Market (DAM)** from January 2026.
+- **DAM is a physical electricit**y **trading market** which allows market participants to b**uy and sell electricity for the next day.** 
+- **About Power Market Coupling**
+	- **Market coupling** refers to the process where **orders** **from all power exchanges are aggregated** and then matched to determine a **uniform market-clearing** price.
+	- Market coupling **helps achieve price convergence** between different electricity markets.
+---

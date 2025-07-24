@@ -488,3 +488,12 @@
 	- **Members:** ***189***
 		- 188 member countries + **EU**
 ---
+### Henley Passport Index 2025
+#GS2 #IR #Index
+- India’s ranking in **Henley Passport Index** jumps from **85 (2024) to 77 (2025).**
+- Indian citizens can now travel to **59 destinations** without **needing to secure a visa beforehand.**
+- **About Henley Passport Index** 
+	- It is the **original, authoritative ranking** of all the world’s passports according to the number of destinations their holders can access without a **prior visa.** 
+	- **It is based** on exclusive data from the **International Air Transport Association (IATA).**
+	- **Singapore** holds the top spot in the Index.
+---

@@ -5917,3 +5917,151 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 - **Popular biostimulants:**
 	- *Humic acids, Seaweed extracts, Liquid manure composting, beneficial bacteria* and *fungi*
 ---
+### Aadi Thiruvathirai Festival
+#GS1 #ArtCulture #Cholas
+- **Ministry of Culture** is celebrating the **Aadi Thiruvathirai Festival** to mark the **1,000th anniversary** of **Rajendra Chola I's maritime expedition to Southeast Asia**
+- The festival honors the **Tamil Shaiva Bhakti tradition** especially the **63 Nayanar** saint-pets supported by the **Chola dynasty**
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/6agCgdWDFhuV4QTf5gPq6Xclcbt0ycqHgOEk7H3s.jpg" alt="Chola's Maritime Expedition" width="600"/></p>
+
+- **Rajendra Chola I (1014 - 1044 CE)**
+	- He was the son of **Rajaraja I** - the most powerful Chola ruler who became a king in 985 CE
+	- He conquered the **Ganga valley** earning the title ***Gangaikonda Cholam***
+		- To commemorate this victory, he founded a new capital named **Gangaikondacholapuram** and also built a **temple** of the same name
+	- He led successful naval expeditions against **Sri Lanka** and the powerful **Srivijaya Empire** in Southeast Asia
+		- The name **Sri Vijaya Puram** for the **Andaman and Nicobar Islands's capital** is inspired by this victory
+		- **Srivijaya** was a dominant maritime power in Southeast Asia by the 7th century
+- **Chola Empire:**
+	- **Beginnings:**  Started as minor **chiefs in Uraiyur** under **Pallava**, the Cholas rose to power in the 9th century under **Vijayalaya Chola.** 
+	- **Local Governance:** Irrigation helped **ur (settlements of peasants) prosper.** Groups of such villages formed **nadu,** which handled **justice, and tax collection.** 
+	- **Tax System:** Common ones include **Vetti** (forced labour), and **Kadamai** (land revenue). 
+	- **Key inscription**: **Uttaramerur inscriptions** that detail the Chola administrative system and elections.
+	- **Cultural Marvels**
+	    - **Splendid Temples:** The **Great Living Chola Temples (**Gangaikonda Cholapuram, Airavatesvara, and Brihadeeswara) are **UNESCO World Heritage Sites.**
+	    - **Bronzes**: Known for exquisite bronze sculptures, especially the iconic **Nataraja.**
+---
+### National Sport Governance Bill
+#GS1 #Society #Sports #Act 
+- The **Sports Governance Bill** was introduced in Lok Sabha. The bill envisages bringing in a comprehensive legislation to improve the governance of the sports bodies and achieve a better results in sports and reduce the disputes and litigation, involving sports federations.
+- **KEY FEATURES OF THE BILL:**
+	- **Establishment of the National Sports Bodies (NSBs):** for their respective recognized sports organisations:
+		- **National Olympic Committee (NOC):** sole governing for Olympic sports in India
+		- **National Paralympic Committee (NPC):** sole governing body for paralympic sports
+		- **Other Bodies: National Sports Federation (NSF)** & **Regional Sports Federation (RSF)**
+	- **National Sports Board**: It will have power to grant recognition to any sports organisation as a National Sports Body (See box).
+	- **National Sports Election Panel**: It will oversee free and fair elections for Executive and Athletes Committees of NSBs.
+	- **National Sports Tribunal:** Consist of a Chairperson (Supreme Court Judge or Chief Justice of a High Court) and two members with expertise in sports, public administration, and law.
+	    - **It** will formulate its **own procedure**, ensuring speedy resolution of sports-related disputes and expenses will be covered by the **Consolidated Fund of India.**
+	    - Civil courts have **no jurisdiction over matters** under **the Tribunal’s purview.**
+	- **Code of Ethics**: Every National Sports Body is required to formulate a Code of Ethics in line with international best practices.
+	- **Safe Sports Policy and Grievance Redressal**: Ensuring the protection of vulnerable groups like women and minor athletes.
+- **NATIONAL SPORTS BOARD:**
+	- **Appointment of Chairperson and Members**:
+	    - The Chairperson and Members will be appointed by the Central Government.
+	    - They must have special knowledge or practical experience in **public administration**, **sports governance**, **sports law**, or related fields.
+	- **Key Functions:**
+	    - Maintain a register of National Sports Bodies.
+	    - **Constitute ad hoc administrative bodies**, or direct National Sports Bodies.
+	    - **Collaborate with International Sports Bodies** and **National Sports Bodies** to develop sports and promote the welfare of athletes.
+	    - **Issue guidelines for ensuring compliance** with international standards and best practices of the Olympic and sports movement.
+---
+### ICJ Advisory Opinion on Tackling Climate Change
+#GS2 #GS3 #IR #UN #Environment #ClimateChange #Judgement 
+- The case on **global responsibilities toward climate action**, especially to **protect vulnerable Small Island States (SIDs) was led by the Pacific Island nation of Vanuatu** and supported by more than 130 countries.
+- In **2023**, the **UN General Assembly** adopted a resolution requesting the ICJ to issue an advisory opinion on:
+    - States’ **obligations under international law** to protect the environment
+    - **Legal consequences** for failing to meet these obligations
+-  **Key Highlights of ICJ Ruling** 
+	- **Clean, Healthy, and Sustainable Environment is Human Rights:**  States are bound by treaties like the Universal Declaration of Human Rights and must act on climate change to protect these rights.
+	- **States Obliged to Limit Emissions**:  States must prevent harm from greenhouse gas (GHG) emissions, and **ensure meeting the Paris Agreement targe**t of limiting global warming to 1.5°C above pre-industrial levels. 
+	    - Global temperatures have already increased by 1.3°C since pre-industrial times.
+	- **Consequences for Non-Compliance:** If states fail to meet obligations, they:
+	    - **Incur legal responsibility** and may be required to cease the wrongful conduct, and
+	    - **May be required to offer guarantees** of non-repetition, and m**ake full reparation** depending on the circumstances.
+- Some countries, like the US and Russia, have opposed any court-mandated emission cuts. But ICJ’s opinion adds growing legal pressure.
+- **INTERNATIONAL COURT OF JUSTICE (ICJ):**
+	- **Genesis:** **Established**: In 1945 as the **main judicial body of the UN.** 
+	- **Headquarter:** Peace Palace, Hague, Netherlands.
+	- **Key Function**
+	    - **Settling disputes** between countries.
+	    - **Provides advisory opinions** on legal questions that have been referred to it by other authorised UN organs.
+	- **Limitation:** Can only hear cases **when requested by states**
+	- **Composition**
+	    - **15 judges** elected for **9-year terms** by the UN General Assembly and Security Council
+	    - Judges act **independently**, not as government representatives
+	- **Relevance:**  Known as the **"World Court", ICJ is the only international court** for resolving disputes among **193 UN member states**
+---
+### Ethanol Blending
+#GS3 #Environment #EnergyTransition #Biofuels
+- India Achieves **20% Ethanol Blending** in **Petrol** *Five Years Ahead of Schedule*
+	- **Ethanol (C2H5OH)** or **ethyl alcohol** is a renewable fuel made from **various plant materials** collectively known as **"biomass”** (e.g., sugarcane, maize, wheat, and other crops with high starch content).
+	- **It is naturally** produced by the **fermentation of sugars by yeasts** or via **petrochemical processes** such as **ethylene hydration.**
+- **Ethanol Blended Petrol (EBP) Programme**
+	- **Genesis:** Launched in **2003** to promote **blending of ethanol in petrol.**
+	- **Target:** National Policy on Biofuels (2018), as amended in 2022, advanced the target of **20%** blending of ethanol in petrol to **2025-26** from **2030.**
+	    - **The Policy allowed use of**: Sugarcane Juice, Sugar Beet, Cassava, Damaged food grains, Rotten Potatoes, unfit for human consumption for ethanol production.
+	    - **The policy allowed**: Surplus food grains to be used for ethanol production and blending with petrol, ensuring fair prices for farmers during surplus phases.
+	- **Achievements:**
+	    - **Ethanol production**: Surged from 38 crore litres in 2014 to **over 660 crore litres in 2025.**
+	    - **Saved ₹1.36 lakh** crore in forex**; Paid approx. ₹1.2 lakh crore** to farmers; **Cut approx. 700 lakh tonnes** of CO₂ emissions.
+- **Measures taken to boost Ethanol Blending Programme**
+	- I**nterest Subvention Scheme t**o improve and increase ethanol production capacity in the Country (2018).
+	- **GST on Ethanol lowered from 18% to 5% (2018).**
+	- **New sources**, sugar and sugar syrup, introduced for ethanol production at f**ixed remunerative price (2019).**
+	- **Industries (Development and Regulation) or IDR Act** amended in 2016 to clarify on the roles of Central and State Government for continuous supply of ethanol to be blended with petrol.
+	- **Approval of National Biofuels Coordination Committee (NBCC)** to utilize maize for ethanol production (2020).
+---
+### India Skills Accelerator initiative
+#GS3 #Economy #Skilling 
+- The Ministry of Skill Development and Entrepreneurship **(MSDE)**, in collaboration with the **World Economic Forum (WEF), deliberated on the “India Skills Accelerator”**
+- **About the Skills Accelerator initiative**
+	- **Key Objectives**
+	    - Enable **agile career transitions**
+	    - Promote **scalable training**
+	    - Align **education with industry needs**, particularly in sectors such as **AI, robotics, advanced manufacturing**, and **clean energy.** 
+	- **Platform Structure:** A public-private collaboration platform for cross-sector innovation
+- **Part of the WEF’s Reskilling Revolution:** It **incentivises governments** to provide upskilling and **reskilling to all workers,** regardless of education levels or employment status.
+---
+### Financial Conditions Index (FCI)
+#GS3 #Economy #FinancialSector
+- A study of **RBI** has proposed the **construction of a FCI** for India to track market trends with daily frequency.
+- **About Financial Conditions Index (FCI)**
+	- It assesses the **degree of relatively tight o**r easy financial market conditions with reference to its historical average **since 2012.** 
+	- The chosen indicators represent five market segments: **money market, G-sec market, corporate bond market, forex market,** and equity market.
+	-  **A higher positive value** of the FCI indicates **tighter financial conditions.**
+---
+### AI for India 2.0 Programme
+#GS3 #SciTech #AI 
+- Ministry of Skill Development and Entrepreneurship **(MSDE) informed that AI for India 2.0 Programme enabled tech learning in 9 vernacular languages** (e.g., Hindi, Telugu, Kannada) **empowering the youth.** 
+- **About the AI for India 2.0** 
+	- **Purpose:** To make tech skills accessible and inclusive for India’s youth.
+	- **Target group:** College students, fresh graduates, and early-career professionals, especially from **rural or non-English-speaking** backgrounds. 
+	- **Programme offers: Free online training** in Artificial Intelligence and Machine Learning.
+---
+### National Crisis Management Committee (NCMC)
+#GS3 #DisasterManagement 
+- The Ministry of Home Affairs Notified the **Disaster Management National Crisis Management Committee (Procedure) Rules**, 2025.
+- **About NCMC**
+	- **Background**: The Disaster Management Act (Amendment) Act, 2025, **granted statutory status to NCMC.**
+	- **Composition**: Headed by the **Cabinet Secretar**y, with members including the Home Secretary, Defence Secretary, etc.
+	- **Powers and Functions**
+	    - Act as the **nodal body** to deal with the major disasters which have serious or national ramifications.
+	    - Can evaluate **preparedness** for any disaster or emergency situation.
+	    - **Coordinates and monitors** national disaster response efforts.
+---
+### Henley Passport Index 2025
+#GS2 #IR #Index
+- India’s ranking in **Henley Passport Index** jumps from **85 (2024) to 77 (2025).**
+- Indian citizens can now travel to **59 destinations** without **needing to secure a visa beforehand.**
+- **About Henley Passport Index** 
+	- It is the **original, authoritative ranking** of all the world’s passports according to the number of destinations their holders can access without a **prior visa.** 
+	- **It is based** on exclusive data from the **International Air Transport Association (IATA).**
+	- **Singapore** holds the top spot in the Index.
+---
+### Power Market Coupling
+#GS3 #Economy #Infrastructure #PowerSector #Energy 
+- **Central Electricity Regulatory Commission** directed that **Power market coupling** will begin with the **Day-Ahead Market (DAM)** from January 2026.
+- **DAM is a physical electricit**y **trading market** which allows market participants to b**uy and sell electricity for the next day.** 
+- **About Power Market Coupling**
+	- **Market coupling** refers to the process where **orders** **from all power exchanges are aggregated** and then matched to determine a **uniform market-clearing** price.
+	- Market coupling **helps achieve price convergence** between different electricity markets.
+---

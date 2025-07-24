@@ -1289,3 +1289,28 @@ H(Increasing youth skills and training)-->I(Improving youth access to resources)
 - A **bill of landing** refers to a **document** issued by a **freight carrier to a shipper**
 	- It contains details including the *type, quantity, condition,* and *destination of goods* being carrier
 ---
+### National Sport Governance Bill
+#GS1 #Society #Sports #Act 
+- The **Sports Governance Bill** was introduced in Lok Sabha. The bill envisages bringing in a comprehensive legislation to improve the governance of the sports bodies and achieve a better results in sports and reduce the disputes and litigation, involving sports federations.
+- **KEY FEATURES OF THE BILL:**
+	- **Establishment of the National Sports Bodies (NSBs):** for their respective recognized sports organisations:
+		- **National Olympic Committee (NOC):** sole governing for Olympic sports in India
+		- **National Paralympic Committee (NPC):** sole governing body for paralympic sports
+		- **Other Bodies: National Sports Federation (NSF)** & **Regional Sports Federation (RSF)**
+	- **National Sports Board**: It will have power to grant recognition to any sports organisation as a National Sports Body (See box).
+	- **National Sports Election Panel**: It will oversee free and fair elections for Executive and Athletes Committees of NSBs.
+	- **National Sports Tribunal:** Consist of a Chairperson (Supreme Court Judge or Chief Justice of a High Court) and two members with expertise in sports, public administration, and law.
+	    - **It** will formulate its **own procedure**, ensuring speedy resolution of sports-related disputes and expenses will be covered by the **Consolidated Fund of India.**
+	    - Civil courts have **no jurisdiction over matters** under **the Tribunal’s purview.**
+	- **Code of Ethics**: Every National Sports Body is required to formulate a Code of Ethics in line with international best practices.
+	- **Safe Sports Policy and Grievance Redressal**: Ensuring the protection of vulnerable groups like women and minor athletes.
+- **NATIONAL SPORTS BOARD:**
+	- **Appointment of Chairperson and Members**:
+	    - The Chairperson and Members will be appointed by the Central Government.
+	    - They must have special knowledge or practical experience in **public administration**, **sports governance**, **sports law**, or related fields.
+	- **Key Functions:**
+	    - Maintain a register of National Sports Bodies.
+	    - **Constitute ad hoc administrative bodies**, or direct National Sports Bodies.
+	    - **Collaborate with International Sports Bodies** and **National Sports Bodies** to develop sports and promote the welfare of athletes.
+	    - **Issue guidelines for ensuring compliance** with international standards and best practices of the Olympic and sports movement.
+---

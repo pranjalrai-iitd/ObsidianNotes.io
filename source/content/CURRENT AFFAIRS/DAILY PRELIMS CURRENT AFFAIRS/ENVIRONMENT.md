@@ -528,3 +528,49 @@
 	- **Weakened surface winds** due to **urban structures**
 	- **Creates invisible barriers** that slow long-range dust and pollutant entry
 ---
+### ICJ Advisory Opinion on Tackling Climate Change
+#GS2 #GS3 #IR #UN #Environment #ClimateChange #Judgement 
+- The case on **global responsibilities toward climate action**, especially to **protect vulnerable Small Island States (SIDs) was led by the Pacific Island nation of Vanuatu** and supported by more than 130 countries.
+- In **2023**, the **UN General Assembly** adopted a resolution requesting the ICJ to issue an advisory opinion on:
+    - States’ **obligations under international law** to protect the environment
+    - **Legal consequences** for failing to meet these obligations
+-  **Key Highlights of ICJ Ruling** 
+	- **Clean, Healthy, and Sustainable Environment is Human Rights:**  States are bound by treaties like the Universal Declaration of Human Rights and must act on climate change to protect these rights.
+	- **States Obliged to Limit Emissions**:  States must prevent harm from greenhouse gas (GHG) emissions, and **ensure meeting the Paris Agreement targe**t of limiting global warming to 1.5°C above pre-industrial levels. 
+	    - Global temperatures have already increased by 1.3°C since pre-industrial times.
+	- **Consequences for Non-Compliance:** If states fail to meet obligations, they:
+	    - **Incur legal responsibility** and may be required to cease the wrongful conduct, and
+	    - **May be required to offer guarantees** of non-repetition, and m**ake full reparation** depending on the circumstances.
+- Some countries, like the US and Russia, have opposed any court-mandated emission cuts. But ICJ’s opinion adds growing legal pressure.
+- **INTERNATIONAL COURT OF JUSTICE (ICJ):**
+	- **Genesis:** **Established**: In 1945 as the **main judicial body of the UN.** 
+	- **Headquarter:** Peace Palace, Hague, Netherlands.
+	- **Key Function**
+	    - **Settling disputes** between countries.
+	    - **Provides advisory opinions** on legal questions that have been referred to it by other authorised UN organs.
+	- **Limitation:** Can only hear cases **when requested by states**
+	- **Composition**
+	    - **15 judges** elected for **9-year terms** by the UN General Assembly and Security Council
+	    - Judges act **independently**, not as government representatives
+	- **Relevance:**  Known as the **"World Court", ICJ is the only international court** for resolving disputes among **193 UN member states**
+---
+### Ethanol Blending
+#GS3 #Environment #EnergyTransition #Biofuels
+- India Achieves **20% Ethanol Blending** in **Petrol** *Five Years Ahead of Schedule*
+	- **Ethanol (C2H5OH)** or **ethyl alcohol** is a renewable fuel made from **various plant materials** collectively known as **"biomass”** (e.g., sugarcane, maize, wheat, and other crops with high starch content).
+	- **It is naturally** produced by the **fermentation of sugars by yeasts** or via **petrochemical processes** such as **ethylene hydration.**
+- **Ethanol Blended Petrol (EBP) Programme**
+	- **Genesis:** Launched in **2003** to promote **blending of ethanol in petrol.**
+	- **Target:** National Policy on Biofuels (2018), as amended in 2022, advanced the target of **20%** blending of ethanol in petrol to **2025-26** from **2030.**
+	    - **The Policy allowed use of**: Sugarcane Juice, Sugar Beet, Cassava, Damaged food grains, Rotten Potatoes, unfit for human consumption for ethanol production.
+	    - **The policy allowed**: Surplus food grains to be used for ethanol production and blending with petrol, ensuring fair prices for farmers during surplus phases.
+	- **Achievements:**
+	    - **Ethanol production**: Surged from 38 crore litres in 2014 to **over 660 crore litres in 2025.**
+	    - **Saved ₹1.36 lakh** crore in forex**; Paid approx. ₹1.2 lakh crore** to farmers; **Cut approx. 700 lakh tonnes** of CO₂ emissions.
+- **Measures taken to boost Ethanol Blending Programme**
+	- I**nterest Subvention Scheme t**o improve and increase ethanol production capacity in the Country (2018).
+	- **GST on Ethanol lowered from 18% to 5% (2018).**
+	- **New sources**, sugar and sugar syrup, introduced for ethanol production at f**ixed remunerative price (2019).**
+	- **Industries (Development and Regulation) or IDR Act** amended in 2016 to clarify on the roles of Central and State Government for continuous supply of ethanol to be blended with petrol.
+	- **Approval of National Biofuels Coordination Committee (NBCC)** to utilize maize for ethanol production (2020).
+---

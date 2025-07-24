@@ -190,3 +190,25 @@
 - Rumors spread that the tribals were planning to revolt against the rulers and the British government
 - Thus, **British forces** used **bombs** and **fired directly** into the crowds of assembled tribals killing approximately 1000-1500 tribal Bhils
 ---
+### Aadi Thiruvathirai Festival
+#GS1 #ArtCulture #Cholas
+- **Ministry of Culture** is celebrating the **Aadi Thiruvathirai Festival** to mark the **1,000th anniversary** of **Rajendra Chola I's maritime expedition to Southeast Asia**
+- The festival honors the **Tamil Shaiva Bhakti tradition** especially the **63 Nayanar** saint-pets supported by the **Chola dynasty**
+<p align="center"><img src="https://d2av8kbir6lh9m.cloudfront.net/uploads/6agCgdWDFhuV4QTf5gPq6Xclcbt0ycqHgOEk7H3s.jpg" alt="Chola's Maritime Expedition" width="600"/></p>
+
+- **Rajendra Chola I (1014 - 1044 CE)**
+	- He was the son of **Rajaraja I** - the most powerful Chola ruler who became a king in 985 CE
+	- He conquered the **Ganga valley** earning the title ***Gangaikonda Cholam***
+		- To commemorate this victory, he founded a new capital named **Gangaikondacholapuram** and also built a **temple** of the same name
+	- He led successful naval expeditions against **Sri Lanka** and the powerful **Srivijaya Empire** in Southeast Asia
+		- The name **Sri Vijaya Puram** for the **Andaman and Nicobar Islands's capital** is inspired by this victory
+		- **Srivijaya** was a dominant maritime power in Southeast Asia by the 7th century
+- **Chola Empire:**
+	- **Beginnings:**  Started as minor **chiefs in Uraiyur** under **Pallava**, the Cholas rose to power in the 9th century under **Vijayalaya Chola.** 
+	- **Local Governance:** Irrigation helped **ur (settlements of peasants) prosper.** Groups of such villages formed **nadu,** which handled **justice, and tax collection.** 
+	- **Tax System:** Common ones include **Vetti** (forced labour), and **Kadamai** (land revenue). 
+	- **Key inscription**: **Uttaramerur inscriptions** that detail the Chola administrative system and elections.
+	- **Cultural Marvels**
+	    - **Splendid Temples:** The **Great Living Chola Temples (**Gangaikonda Cholapuram, Airavatesvara, and Brihadeeswara) are **UNESCO World Heritage Sites.**
+	    - **Bronzes**: Known for exquisite bronze sculptures, especially the iconic **Nataraja.**
+---

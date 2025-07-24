@@ -495,3 +495,11 @@
 	- **International standards:** adoption of international classification under ***Locarno Agreement*** for Industrial Designs
 		- **Locarno agreement** is an international agreement under the **World Intellectual Property Organization (WIPO)** signed in 1968
 ---
+### AI for India 2.0 Programme
+#GS3 #SciTech #AI 
+- Ministry of Skill Development and Entrepreneurship **(MSDE) informed that AI for India 2.0 Programme enabled tech learning in 9 vernacular languages** (e.g., Hindi, Telugu, Kannada) **empowering the youth.** 
+- **About the AI for India 2.0** 
+	- **Purpose:** To make tech skills accessible and inclusive for India’s youth.
+	- **Target group:** College students, fresh graduates, and early-career professionals, especially from **rural or non-English-speaking** backgrounds. 
+	- **Programme offers: Free online training** in Artificial Intelligence and Machine Learning.
+---
