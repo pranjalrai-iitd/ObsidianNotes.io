@@ -27,3 +27,11 @@
 ### **POVERTY/ HUNGER**
 #Poverty #Hunger
 > ***"There are people in this world so hungry that god cannot appear to them except in the form of bread"*** - Mahatama Gandhi
+---
+### **ETHICS KEYWORD: SCYLLA-CHARYBDIS SIITUATION**
+#Ethics #Keyword
+- Just like Catch 22 situation
+- In Greek Mythology, Scylla was a 6 headed monster that devoured passing ships while, Charybdis was a whirpool that swallowed ships whole. They both were present at the opposite sides of the Sea of Messania.
+- A *****"Scylla and Charybdis moment"***** refers to a situation where one must choose between two equally undesirable or dangerous options.
+---
+
