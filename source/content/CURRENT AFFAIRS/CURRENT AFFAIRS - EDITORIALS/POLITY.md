@@ -350,3 +350,10 @@
 - #Judgement <b><u><i>State of MP Vs. Narmada Bachao Andolan (2011)</i></u></b>: the state **cannot be compelled** to provide **alternate accommodation**
 
 ---
+### **ELECTIONS AND ELECTION COMMISSION**
+#GS2 #Polity #Elections #ElectionCommission #Quote
+- Quote for conclusion:
+	> ***It’s not the voting that’s democracy; it’s the counting*** - Tom Stoppard
+
+---
+
