@@ -291,3 +291,71 @@
 > ***In today's world, protecting submarine cables is not just about keeping the internet running - it's about keeping the nation standing. Guarding them isn't just a good policy, it's guarding the backbone of sovereignty and strategy in a connected world.***
 
 ---
+### REMOTE WARFARE and QMNS
+#GS3 #InternalSecurity #Defence #SciTech #GPS 
+
+- #News *Ukraine* to *West Asia* and *South Asia* - *jamming, spoofing,* and *cyber attacks* have become a commonplace, exposing need for **robust, multi-modal navigation in GPS-denied environments**.
+- #Definition ***Remote Warfare*** - where jets, missiles and drones dominate by employing *target at a distance* strategy without the need for mass troop deployment.
+- ***Targeting from distance*** requires **precise navigation** enabled by *satellite systems* such as, **GPS (USA), Glosnass (Russia), Galileo (Europian Union)** and **Bei-Dou (China)**
+- **Disrupting satellite navigation** capabilities of the adversary - **e-war** tactics:
+	- **Jamming:** *flooding receivers with noise*
+	- **Spoofing:** *sending false location data*
+	- **Meaconing:** *rebroadcasting delayed or altered signals*
+	- Other methods:
+		- **Electromagnetic shielding**
+		- **Signal masking**
+		- **Radar-absorbent** materials
+	- **Alternatives to GPS** in GPS denied battlefield, but each has **limitations**:
+		- **Inertial Navigation System** ***(INS)***
+			- However, It *drifts over time* and *required periodic satellite updates*
+		- **Terrain contour matching** ***(Tercom)***
+			- However, it *struggles in poor visibility or flat terrain* and *depends on detailed, up to date maps*
+		- **Image based guidance**
+		- **Encrypted satellite signals**
+			- However, *encrypted signals can still be jammed* in high-threat zones
+		- **AI-based corrections**
+			- However, AI algorithms may *misjudge unfamiliar scenarios* or *fail due to limited training data*
+- Emerging ***Quantum Magnetic Navigation System (QMNS)*:**
+	- It uses **quantum sensors** to **detect** **Earth's magnetic filed variations**
+	- It does not rely on **GPS** or **satellite signals**
+	- **Components of QMNS:**
+		- **Ultra sensitive quantum magnetometers** - sensors that measure tiny variations in the magnetic field using the quantum properties of atoms
+		- **Magnetic anomaly maps** - detailed representations of the **Earth's natural fingerprints** created by variations in the planet's crust
+		- **Inertial navigation system** - to enhance precision
+	- **Working principle of QMNS:** it compares *local magnetic measurements* with the *magnetic anomaly maps* to pin-point location even when GPS is unavailable
+	- **Applications of QMNS:** in all scenarios where traditional satellite based navigation is unavailable:
+		- *Remote air and underwater operations*
+			- Military submarines
+			- Unmanned underwater vehicles (UUVs)
+			- Deep-sea reconnaissance platforms
+		- *Economic activities:*
+			- Undersea mining
+			- Oil exploration
+			- Sub-sea cable inspection
+		- *QMNS is emerging as a key enabler of autonomous undersea operations*
+	- **History of QMNS:**
+		- Development of **spin-exchange relaxation-free magnetometers** in the late **1990s** - which could detect extremely small magnetic fields with high precision
+		- By mid **2010s** defence agencies in USA and China began investing in adapting quantum magnetometers for military use - for submarines in GPS denied environments
+		- Since, early **2020s**, compact prototypes have undergone field testing and are being integrated into next-gen inertial and underwater navigation systems
+	- **Recent tests and Examples:*
+		- **USA:**
+			- ***AQNav*** - a combination of QMNS and AI enabled *real-time aircraft positioning without GPS,* even surpassing commercial navigational accuracy standards
+			- Other tests also have shown that **QMNS outperforms GPS in precision**
+			- US DARPA is expected to deploy field-ready systems for submarine and stealth drone navigation post 2027
+		- **China:**
+			- Demonstrated high-sensitivity atomic magnetometers and claimed field-trials of QMNS in 2017-18
+			- It is nearing limited operational use in submarines
+		- **UK** and **Germany:**
+			- Working together to integrate quantum sensors into next-gen submarines and UUVs
+	- **India and QMNS:**
+		- The *INR 6,000 Cr* **National Quantum Mission** identifies **quantum sensing** as a key pillar aiming to develop *magnetometers, gyroscopes,* and *clocks*
+		- **DRDO** has set up a **Quantum Technology Research Centre** to develop an ultra-small atomic clock
+		- **IIT Bombay** is in process of developing quantum sensors, including a portable magnetometer that can be used on drones
+		- ***QuBeats*** - a **deep-tech startup** was awarded **INR 25 Cr grant** under the ***ADITI2.0 Defence Challenge*** to develop a **Quantum Positioning System** for Indian Navy
+		- **Need for QMNS:**
+			- Rise of **remote war**, **adversarial electronic war**  and **anti-satellite based systems** in the neighbourhood
+			- Vital for **undersea domain awareness** especially in the strategically important Indian Ocean Region
+			- Indigenous QMNS technology can boost our **Blue Economy** through **deep-sea exploration, mining** and **resilient transport infrastructure**
+			- NavIC remains under-scaled, QMNS offers India a timely opportunity to leapfrog traditional navigation with a sovereign, denial-proof solution
+
+---

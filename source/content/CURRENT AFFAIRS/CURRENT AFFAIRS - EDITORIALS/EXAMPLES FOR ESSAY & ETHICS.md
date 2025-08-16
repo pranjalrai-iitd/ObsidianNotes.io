@@ -34,4 +34,3 @@
 - In Greek Mythology, Scylla was a 6 headed monster that devoured passing ships while, Charybdis was a whirpool that swallowed ships whole. They both were present at the opposite sides of the Sea of Messania.
 - A *****"Scylla and Charybdis moment"***** refers to a situation where one must choose between two equally undesirable or dangerous options.
 ---
-
